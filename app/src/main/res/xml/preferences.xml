@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="App settings">
+		<ListPreference
+			android:defaultValue="follow_system"
+			android:entries="@array/app_theme_entries"
+			android:entryValues="@array/app_theme_values"
+			android:key="appTheme"
+			android:summary="Switch between dark and light themes"
+			android:title="Theme" />
+	</PreferenceCategory>
+</PreferenceScreen>

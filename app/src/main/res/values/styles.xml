@@ -1,0 +1,25 @@
+<resources>
+
+	<style name="AppBaseTheme" parent="@style/Theme.Material3.DayNight.NoActionBar">
+		<item name="android:windowAnimationStyle">@android:style/Animation</item>
+		<item name="android:windowDisablePreview">true</item>
+
+		<item name="alertDialogTheme">@style/AppTheme.MaterialAlertDialog</item>
+	</style>
+
+	<style name="AppTheme.MaterialAlertDialog" parent="ThemeOverlay.Material3.MaterialAlertDialog">
+		<item name="android:windowBackground">@drawable/alert_dialog_bg</item>
+	</style>
+	
+	<style name="Widget.App.Button.OutlinedButton.IconOnly" parent="Widget.MaterialComponents.Button.OutlinedButton">
+		<item name="iconPadding">0dp</item>
+		<item name="android:insetTop">0dp</item>
+		<item name="android:insetBottom">0dp</item>
+		<item name="android:paddingLeft">12dp</item>
+		<item name="android:paddingRight">12dp</item>
+		<item name="android:minWidth">48dp</item>
+		<item name="android:minHeight">48dp</item>
+	</style>
+
+	<style name="AppTheme" parent="AppBaseTheme" />
+</resources>

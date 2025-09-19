@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:id="@+id/navigation_website_entries"
+		android:icon="@drawable/ic_browse"
+		android:title="Browse" />
+	<item
+		android:id="@+id/navigation_settings"
+		android:icon="@drawable/ic_settings"
+		android:title="Settings" />
+</menu>

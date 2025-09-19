@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:background="?attr/selectableItemBackground"
+	android:minHeight="48dp">
+
+	<com.google.android.material.card.MaterialCardView
+		android:id="@+id/difficulty_info_icon"
+		android:layout_width="70dp"
+		android:layout_height="70dp"
+		android:foreground="?attr/selectableItemBackground"
+		android:clickable="false"
+		android:layout_centerHorizontal="true"
+		android:gravity="center"
+		android:layout_marginStart="16dp"
+		android:layout_marginEnd="16dp"
+		android:layout_marginTop="16dp"
+		app:strokeColor="#FFFFFF"
+        app:strokeWidth="2dp"
+		app:cardCornerRadius="35dp" />
+	
+	<com.google.android.material.textview.MaterialTextView
+		android:id="@+id/difficulty_info_text"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_below="@id/difficulty_info_icon"
+		android:gravity="center"
+		android:layout_margin="16dp"
+		android:scrollbars="vertical"
+		android:breakStrategy="balanced"
+		android:ellipsize="end"
+		android:textAppearance="?attr/textAppearanceBody2"
+		android:textColor="@color/mtrl_list_item_tint"/>
+	
+</RelativeLayout>

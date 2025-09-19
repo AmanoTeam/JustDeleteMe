@@ -1,0 +1,1 @@
+-keep public class com.amanoteam.kurt.libkurt.* { public protected *; }

@@ -1,0 +1,3 @@
+[submodule "submodules/jdm"]
+	path = submodules/jdm
+	url = https://github.com/jdm-contrib/jdm
