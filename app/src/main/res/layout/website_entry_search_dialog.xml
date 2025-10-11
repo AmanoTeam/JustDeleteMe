@@ -11,7 +11,7 @@
 			android:id="@+id/website_entry_search_layout"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
-			android:hint="Search"
+			android:hint="@string/search"
 			style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
 			app:counterEnabled="false"
 			app:counterMaxLength="20"

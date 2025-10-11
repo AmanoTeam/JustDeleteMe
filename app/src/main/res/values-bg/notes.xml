@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="entry_notes_0x278">Въведете име, имейл и телефон. Изберете \'Заявка за изтриване на акаунт\' като тема, попълнете CAPTCHA и изпратете заявката.</string>
+    <string name="entry_notes_0x2f3">Когато изтриете акаунт, той може да бъде върнат като влезете пак дори след години. Имейлът им не работи.</string>
+    <string name="entry_notes_0x345">Не можете да изтриете акаунта без да изтриете и WordPress акаунта си.</string>
+</resources>

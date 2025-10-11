@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="entry_notes_0x278">Masukkan Nama, Email, dan Telepon. Pilih \'Permintaan Penghapusan Akun\' sebagai topik, lengkapi CAPTCHA, dan kirim permintaan.</string>
+    <string name="entry_notes_0x401">Login ke akunmu, masuk ke akun setting di bar paling atas. Pilih \'Delete my Account\' di bar kedua. Kamu harus menarik semua lamaran aktifmu sebelum melanjutkan.</string>
+    <string name="entry_notes_0x488">Isi form di situs tersebut untuk mangajukan penghapusan data. Tim bantuan akan mengonfirmasi ajuan melalui email.</string>
+    <string name="entry_notes_0x71d">Cara yang bisa kamu lakukan adalah mengirim permohonan untuk menghapus ke CS dengan surel.</string>
+    <string name="entry_notes_0x7cd">Di bawah profile page ada tombol \'Delete Account\', setelah klik tombol tersebut, kamu bisa menyembunyikan atau menghapus secara keseluruhan akunmu.</string>
+</resources>

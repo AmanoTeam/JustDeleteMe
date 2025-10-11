@@ -2,6 +2,7 @@
 #define WEBSITE_ENTRY_H
 
 struct WebsiteEntry {
+	int id;
 	const char* name;
 	const char* query;
 	const char* url;

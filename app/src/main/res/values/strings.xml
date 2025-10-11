@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Level of difficulty</string>
+    <string name="got_it">Got it</string>
+    <string name="send_email">Send email</string>
+    <string name="open_website">Open website</string>
+    <string name="notes">Notes</string>
+    <string name="no_notes_available">There are no notes available for this entry.</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="difficulty_easy">Easy</string>
+    <string name="difficulty_medium">Medium</string>
+    <string name="difficulty_hard">Hard</string>
+    <string name="difficulty_impossible">Impossible</string>
+    <string name="difficulty_limited">Limited</string>
+    <string name="difficulty_easy_summary">This represents the lowest level of difficulty. Services in this section require a relatively low — if not trivial — amount of effort to delete your account.</string>
+    <string name="difficulty_medium_summary">This represents the medium level of difficulty. Services in this section might require you to take extra steps before deleting your account.</string>
+    <string name="difficulty_hard_summary">This represents a high level of difficulty. Services in this section might require you to contact consumer support or the legal department for your account to be deleted.</string>
+    <string name="difficulty_impossible_summary">This represents the highest level of difficulty. Services in this section either provide no means for your account to be deleted or only allow a small fraction of data to be deleted.</string>
+    <string name="difficulty_limited_summary">This represents a level of difficulty dependent on external factors. For example, services in this section might only allow account deletion if you live in a region covered by local privacy protection laws.</string>
+    <string name="settings">Settings</string>
+    <string name="websites">Websites</string>
+    <string name="browse">Browse</string>
+    <string name="search">Search</string>
+    <string name="search_entry">Search entry</string>
+    <string name="pref_title_appearance">Appearance</string>
+    <string name="pref_title_app_theme">Theme</string>
+    <string name="pref_summary_app_theme">Switch between dark and light themes</string>
+    <string name="pref_entry_follow_system">Follow system</string>
+    <string name="pref_entry_dark">Dark</string>
+    <string name="pref_entry_ligth">Light</string>
+</resources>

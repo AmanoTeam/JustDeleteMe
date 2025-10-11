@@ -144,7 +144,7 @@ public class WebsiteEntriesFragment extends Fragment {
 			final FloatingActionButton searchButton = activity.findViewById(R.id.floating_action_button);
 			
 			searchButton.setOnClickListener(button -> {
-				websiteEntrySearchDialog.setTitle("Search entry");
+				websiteEntrySearchDialog.setTitle(R.string.search_entry);
 				websiteEntrySearchDialog.show();
 				
 				websiteEntrySearchInput.postDelayed(new Runnable() {

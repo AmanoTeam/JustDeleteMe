@@ -8,11 +8,11 @@
 	<fragment
 		android:id="@+id/navigation_website_entries"
 		android:name="com.amanoteam.kurt.fragments.WebsiteEntriesFragment"
-		android:label="Websites"
+		android:label="@string/websites"
 		tools:layout="@layout/website_entries_fragment" />
 
 	<fragment
 		android:id="@+id/navigation_settings"
 		android:name="com.amanoteam.kurt.fragments.SettingsFragment"
-		android:label="Settings" />
+		android:label="@string/settings" />
 </navigation>

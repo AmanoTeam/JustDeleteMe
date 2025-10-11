@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="entry_notes_0x274">Дотримуйтесь інструкцій за цим посиланням.</string>
+    <string name="entry_notes_0x278">Введіть ім’я, електронну пошту та телефон. Виберіть \'Запит на видалення акаунта\' як тему, заповніть CAPTCHA та надішліть запит.</string>
+    <string name="entry_notes_0x29d">Зробіть запит видалення акаунту через форму зворотнього зв\'язку.</string>
+    <string name="entry_notes_0x50c">Після подачі заявки вам треба зачекати, поки акаунт не видалить адміністратор.</string>
+    <string name="entry_notes_0x6d6">Дотримуйтесь інструкцій за цим посиланням.</string>
+    <string name="entry_notes_0x71b">Дотримуйтесь інструкцій за цим посиланням.</string>
+    <string name="entry_notes_0x8ff">Перейдіть за посиланням і підтвердіть видалення акаунту.</string>
+</resources>

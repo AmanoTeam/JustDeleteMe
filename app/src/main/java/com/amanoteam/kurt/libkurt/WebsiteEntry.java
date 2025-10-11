@@ -1,18 +1,29 @@
 package com.amanoteam.kurt.libkurt;
 
+import android.content.Context;
 import android.graphics.Color;
 
+import com.amanoteam.kurt.R;
 import com.amanoteam.kurt.libkurt.WebsiteEntryDifficulty;
+import com.amanoteam.kurt.libkurt.WebsiteEntryNotes;
 
 public class WebsiteEntry {
 	
+	private int id = 0;
 	private String name = null;
 	private int difficulty = 0;
 	private String url = null;
 	private String email = null;
-	private String notes = null;
 	
 	public WebsiteEntry() {}
+	
+	public void setId(final int id) {
+		this.id = id;
+	}
+	
+	public int getId() {
+		return this.id;
+	}
 	
 	public void setName(final String name) {
 		this.name = name;
@@ -30,19 +41,19 @@ public class WebsiteEntry {
 		return this.difficulty;
 	}
 	
-	public String getDifficultyString() {
+	public String getDifficultyString(final Context context) {
 		
 		switch (this.difficulty) {
 			case WebsiteEntryDifficulty.EASY:
-				return "Easy";
+				return context.getString(R.string.difficulty_easy);
 			case WebsiteEntryDifficulty.MEDIUM:
-				return "Medium";
+				return context.getString(R.string.difficulty_medium);
 			case WebsiteEntryDifficulty.HARD:
-				return "Hard";
+				return context.getString(R.string.difficulty_hard);
 			case WebsiteEntryDifficulty.IMPOSSIBLE:
-				return "Impossible";
+				return context.getString(R.string.difficulty_impossible);
 			case WebsiteEntryDifficulty.LIMITED:
-				return "Limited";
+				return context.getString(R.string.difficulty_limited);
 			default:
 				return null;
 		}
@@ -87,19 +98,19 @@ public class WebsiteEntry {
 		
 	}
 	
-	public String getDifficultyDescription() {
+	public String getDifficultyDescription(final Context context) {
 		
 		switch (this.difficulty) {
 			case WebsiteEntryDifficulty.EASY:
-				return "This represents the lowest level of difficulty. Services in this section require a relatively low — if not trivial — amount of effort to delete your account.";
+				return context.getString(R.string.difficulty_easy_summary);
 			case WebsiteEntryDifficulty.MEDIUM:
-				return "This represents the medium level of difficulty. Services in this section might require you to take extra steps before deleting your account.";
+				return context.getString(R.string.difficulty_medium_summary);
 			case WebsiteEntryDifficulty.HARD:
-				return "This represents a high level of difficulty. Services in this section might require you to contact consumer support or the legal department for your account to be deleted.";
+				return context.getString(R.string.difficulty_hard_summary);
 			case WebsiteEntryDifficulty.IMPOSSIBLE:
-				return "This represents the highest level of difficulty. Services in this section either provide no means for your account to be deleted or only allow a small fraction of data to be deleted.";
+				return context.getString(R.string.difficulty_impossible_summary);
 			case WebsiteEntryDifficulty.LIMITED:
-				return "This represents a level of difficulty dependent on external factors. For example, services in this section might only allow account deletion if you live in a region covered by local privacy protection laws.";
+				return context.getString(R.string.difficulty_limited_summary);
 			default:
 				return null;
 		}
@@ -122,12 +133,15 @@ public class WebsiteEntry {
 		return this.email;
 	}
 	
-	public void setNotes(final String notes) {
-		this.notes = notes;
-	}
-	
-	public String getNotes() {
-		return this.notes;
+	public String getNotes(final Context context) {
+		final int res = WebsiteEntryNotes.NOTES[this.id];
+		final String text = context.getString(res);
+		
+		if (text.equals("Unspecified")) {
+			return null;
+		}
+		
+		return text;
 	}
 	
 }

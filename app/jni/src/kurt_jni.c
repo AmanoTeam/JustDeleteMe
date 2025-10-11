@@ -151,6 +151,14 @@ jobject Java_com_amanoteam_kurt_libkurt_LibKurt_we_1search(
 			goto end;
 		}
 		
+		/* id */
+		(*env)->CallVoidMethod(
+			env,
+			kobject,
+			(*env)->GetMethodID(env, we_class, "setId", "(I)V"),
+			entry->id
+		);
+		
 		/* name */
 		kvalue = (*env)->NewStringUTF(env, entry->name);
 		
@@ -206,22 +214,6 @@ jobject Java_com_amanoteam_kurt_libkurt_LibKurt_we_1search(
 		);
 		
 		kvalue = NULL;
-		
-		/* notes */
-		if (entry->notes != NULL) {
-			kvalue = (*env)->NewStringUTF(env, entry->notes);
-			
-			if (kvalue == NULL) {
-				goto end;
-			}
-		}
-		
-		(*env)->CallVoidMethod(
-			env,
-			kobject,
-			(*env)->GetMethodID(env, we_class, "setNotes", "(Ljava/lang/String;)V"),
-			kvalue
-		);
 		
 		(*env)->CallVoidMethod(
 			env,

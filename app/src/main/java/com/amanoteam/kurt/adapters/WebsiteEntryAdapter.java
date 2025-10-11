@@ -44,9 +44,11 @@ final class WebsiteEntryViewHolder extends ViewHolder {
 		difficulty = view.findViewById(R.id.website_entry_difficulty);
 		icon = view.findViewById(R.id.website_entry_difficulty_icon);
 		
+		final Context context = view.getContext();
+		
 		name.setOnLongClickListener((final View itemView) -> {
-			PackageUtils.copyToClipboard(view.getContext(), name.getText().toString());
-			PackageUtils.showSnackbar(view, "Copied to clipboard");
+			PackageUtils.copyToClipboard(context, name.getText().toString());
+			PackageUtils.showSnackbar(view, context.getString(R.string.copied_to_clipboard));
 			
 			return true;
 		});
@@ -172,13 +174,15 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 	public void onBindViewHolder(final WebsiteEntryViewHolder viewHolder, final int position) {
 		final WebsiteEntry item = this.entries.getAtPosition(position);
 		
+		final Context context = viewHolder.name.getContext();
+		
 		final String name = item.getName();
-		final String difficulty = item.getDifficultyString();
+		final String difficulty = item.getDifficultyString(context);
 		final int color = item.getDifficultyColor();
 		final int strokeColor = item.getDifficultyColorStroke();
 		final String url = item.getUrl();
 		final String email = item.getEmail();
-		final String notes = item.getNotes();
+		final String notes = item.getNotes(context);
 		
 		if (position == (this.getItemCount() - 1)) {
 			performSearch();
@@ -193,7 +197,7 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 			difficultyInfoIcon.setCardBackgroundColor(color);
 			difficultyInfoIcon.setStrokeColor(strokeColor);
 			
-			difficultyInfoDialog.setTitle("Notes");
+			difficultyInfoDialog.setTitle(R.string.notes);
 			
 			final Markwon markwon = Markwon.create(view.getContext());
 			
@@ -205,7 +209,7 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 			
 			if (notes == null) {
 				difficultyInfoText.setTypeface(null, Typeface.ITALIC);
-				difficultyInfoText.setText("There are no notes available for this entry.");
+				difficultyInfoText.setText(R.string.no_notes_available);
 			}
 			
 			difficultyInfoDialog.show();
@@ -217,12 +221,12 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 			nagativeButton.setVisibility((email == null) ? View.GONE : View.VISIBLE);
 			
 			if (positiveButton.isShown()) {
-				positiveButton.setText("Open website");
+				positiveButton.setText(R.string.open_website);
 				positiveButton.setOnClickListener(button -> { PackageUtils.createChooser(activity, url); });
 			}
 			
 			if (nagativeButton.isShown()) {
-				nagativeButton.setText("Send email");
+				nagativeButton.setText(R.string.send_email);
 				nagativeButton.setOnClickListener(button -> { PackageUtils.createChooser(activity, email); });
 			}
 			
@@ -232,8 +236,8 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 			difficultyInfoIcon.setCardBackgroundColor(color);
 			difficultyInfoIcon.setStrokeColor(strokeColor);
 			
-			difficultyInfoDialog.setTitle("Level of difficulty");
-			difficultyInfoText.setText(item.getDifficultyDescription());
+			difficultyInfoDialog.setTitle(R.string.level_of_difficulty);
+			difficultyInfoText.setText(item.getDifficultyDescription(context));
 			difficultyInfoDialog.show();
 			
 			final AppCompatButton positiveButton = (AppCompatButton) difficultyInfoDialog.getButton(AlertDialog.BUTTON_POSITIVE);
@@ -242,7 +246,7 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 			positiveButton.setVisibility(View.VISIBLE);
 			nagativeButton.setVisibility(View.GONE);
 			
-			positiveButton.setText("Got it");
+			positiveButton.setText(R.string.got_it);
 			positiveButton.setOnClickListener(button -> { difficultyInfoDialog.dismiss(); });
 		});
 	}
