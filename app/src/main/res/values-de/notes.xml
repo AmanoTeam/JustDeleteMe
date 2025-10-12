@@ -17,7 +17,7 @@
     <string name="entry_notes_0x4b">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
     <string name="entry_notes_0x4e">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
     <string name="entry_notes_0x50">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
-    <string name="entry_notes_0x59">Öffnen Sie den Link scrollen Sie nach unten und drücken Sie auf die &quot;Antrag auf Löschung persönlicher Daten&quot; </string>
+    <string name="entry_notes_0x59">Öffnen Sie den Link scrollen Sie nach unten und drücken Sie auf die \"Antrag auf Löschung persönlicher Daten\" </string>
     <string name="entry_notes_0x60">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
     <string name="entry_notes_0x6a">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
     <string name="entry_notes_0x70">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
@@ -34,7 +34,7 @@
     <string name="entry_notes_0x151">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
     <string name="entry_notes_0x159">Du kannst deinen Account nicht löschen ohne den Support zu kontaktieren. Den Betreff musst du auf \'Delete Account\' setzen.</string>
     <string name="entry_notes_0x164">Rufen Sie den bereitgestellten Link auf und klicken Sie auf \'Kundenkonto entfernen\', bestätigen Sie den Prozess und klicken Sie anschließend auf \'Entfernen\'. Um alle Daten vollständig aus den CHECK24-Systemen zu entfernen, müssen Sie zusätzlich eine E-Mail-Anfrage an den Support schicken.</string>
-    <string name="entry_notes_0x1ba">Sende eine E-Mail an abuse@craigslist.org und beantrage die Löschung</string>
+    <string name="entry_notes_0x1ba">Sende eine E-Mail an abuse\@craigslist.org und beantrage die Löschung</string>
     <string name="entry_notes_0x1e5">Nach Angabe der E-Mail-Adresse und der Auswahl eines Grunds der Löschung, erhält man per Mail einen Sicherheitscode. Dieser wird im Löschformular eingetragen und abgeschickt. Danach wird der Account unwiederbringlich gelöscht.</string>
     <string name="entry_notes_0x1ee">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
     <string name="entry_notes_0x1f0">Wenn du dich mit Google/Facebook registriert hast, fordere unter [https://www.deezer.com/password/reset](https://www.deezer.com/password/reset) ein Deezer-Passwort an und bestätige einen Link, den du per Mail erhältst. Wenn du ein Deezer-Passwort hast, öffne deine Konto-Einstellungen und klicke unten auf \'Mein Konto löschen\'. Gib dort dein Deezer-Passwort ein und bestätige das Löschen in der Bestätigungsmail.</string>
@@ -46,7 +46,7 @@
     <string name="entry_notes_0x227">Wähle \'Doodle Konto löschen\' unten in den Konto-Einstellungen.</string>
     <string name="entry_notes_0x250">Ein paar Fragen werden dir vor dem Löschen gestellt.</string>
     <string name="entry_notes_0x261">Zitiert von Ello: Besuchen Sie Ihre Einstellungen und klicken Sie auf “Konto löschen“. Sobald Ihr Konto gelöscht ist, können weder Sie, noch wir ihn wiederherstellen. Beachten Sie auch, dass Ihr Nutzername möglicherweise für eine andere Person verfügbar sein wird.</string>
-    <string name="entry_notes_0x27c">Auf der Profilseite auf &quot;Löschung beauftragen&quot; klicken, die Haken setzen und dann auf &quot;Konto löschen&quot; klicken. Die Löschung ist 14 Tage lang per E-Mail wiederrufbar.</string>
+    <string name="entry_notes_0x27c">Auf der Profilseite auf \"Löschung beauftragen\" klicken, die Haken setzen und dann auf \"Konto löschen\" klicken. Die Löschung ist 14 Tage lang per E-Mail wiederrufbar.</string>
     <string name="entry_notes_0x284">Geben Sie Name, E-Mail und Telefonnummer ein. Wählen Sie als Thema \'Konto-Löschanfrage\', vervollständigen Sie das CAPTCHA und senden Sie die Anfrage.</string>
     <string name="entry_notes_0x28e">Auf Englisch kannst du entweder den Support Chat explizit um die Löschung deines Accounts bitten, oder eine Email von der zum Account gehörenden Adresse schicken. Wie du auch vorgehst wirst du vermutlich aufgefordert werden die Löschung per Mail zu bestätigen.</string>
     <string name="entry_notes_0x291">Während du deinen Account leicht löschen kannst, bleiben einige deiner Daten dauerhaft. z.B. Chat- und Gruppennachrichten. Dies ist so in den Datenschutzbestimmungen bestimmt.</string>
@@ -55,8 +55,8 @@
     <string name="entry_notes_0x2ab">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
     <string name="entry_notes_0x2d2">Wenn Sie eingeloggt sind, scrollen Sie zum Ende der Seite und klicken Sie auf die Schaltfläche \'Konto löschen\'.</string>
     <string name="entry_notes_0x2d7">Um deinen Account zu löschen, schreibe nichts für mindestens drei Tage.</string>
-    <string name="entry_notes_0x2ee">Klicke auf den &quot;Send Account Deletion Confirmation Email&quot; Knopf, dies löst eine Mail mit einem Löschlink aus</string>
-    <string name="entry_notes_0x2ef">Am Ende der Account-Management Seite die Checkbox &quot;Benutzerkonto kündigen&quot; anhaken und absenden</string>
+    <string name="entry_notes_0x2ee">Klicke auf den \"Send Account Deletion Confirmation Email\" Knopf, dies löst eine Mail mit einem Löschlink aus</string>
+    <string name="entry_notes_0x2ef">Am Ende der Account-Management Seite die Checkbox \"Benutzerkonto kündigen\" anhaken und absenden</string>
     <string name="entry_notes_0x2fd">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
     <string name="entry_notes_0x306">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
     <string name="entry_notes_0x308">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
@@ -64,7 +64,7 @@
     <string name="entry_notes_0x315">Lösche die Informationen, die du entfernt haben möchtest, von der Seite. Dann wähle \'Account Settings\' und \'Close Account\'</string>
     <string name="entry_notes_0x31f">Kontaktiere die folgende E-Mail von der registrierten E-Mail Adresse um dein Account zu löschen.</string>
     <string name="entry_notes_0x324">Sie können Ihren Account nicht löschen ohne den Support zu kontaktieren. Sie müssen den Betreff auf \'Delete Account\' setzen.</string>
-    <string name="entry_notes_0x332">Um Ihr Konto zu löschen, müssen Sie sich einloggen, zu &quot;Sicherheit und Datenschutz&quot; gehen und auf &quot;Mein Konto löschen&quot; drücken und einen Code eingeben, der Ihnen per E-Mail zugesandt wurde</string>
+    <string name="entry_notes_0x332">Um Ihr Konto zu löschen, müssen Sie sich einloggen, zu \"Sicherheit und Datenschutz\" gehen und auf \"Mein Konto löschen\" drücken und einen Code eingeben, der Ihnen per E-Mail zugesandt wurde</string>
     <string name="entry_notes_0x347">Geben Sie einen Grund für die Schließung und Ihr Passwort ein und klicken Sie auf löschen, was jedoch eher wie eine Deaktivierung ist, wie Sie sie es undelete kontaktieren</string>
     <string name="entry_notes_0x349">Wähle einen Grund für die Löschung. Es braucht nur 2 clicks.</string>
     <string name="entry_notes_0x35f">Über ein Support-Ticket kann eine Löschung des Accounts beantragt werden. Bevor der Account gelöscht wird, muss zuerst angegeben werden, warum der Account gelöscht werden soll.</string>
@@ -91,9 +91,9 @@
     <string name="entry_notes_0x4a4">In den Account-Einstellungen kann der Account links unten mit \'Delete all my personal data\' gelöscht werden. Die Daten werden erst nach einer 14 tägigen Frist gelöscht. Während der 14 Tage kann der Löschvorgang abgebrochen werden.</string>
     <string name="entry_notes_0x4ae">Anmelden -&gt; Auf \'Löschen Sie alle Daten, die Ihrer Mailspring-ID zugeordnet sind\' klicken -&gt; Bestätigen</string>
     <string name="entry_notes_0x4b4">Passwort eingeben -&gt; An das Ende der Seite scrollen -&gt; \'Delete Account\' klicken</string>
-    <string name="entry_notes_0x4c2">Nutze den Link um zu deinen Kontoeinstellungen zu gelangen. Logge dich mit deiner E-Mail und deinem Passwort ein und klicke dann auf &quot;Delete your account&quot;. Du wirst gebeten, dies mit deiner E-Mail und einem einfachen Captcha zu bestätigen. Deine E-Mail wird für die Erstellung neuer Konten gesperrt.</string>
+    <string name="entry_notes_0x4c2">Nutze den Link um zu deinen Kontoeinstellungen zu gelangen. Logge dich mit deiner E-Mail und deinem Passwort ein und klicke dann auf \"Delete your account\". Du wirst gebeten, dies mit deiner E-Mail und einem einfachen Captcha zu bestätigen. Deine E-Mail wird für die Erstellung neuer Konten gesperrt.</string>
     <string name="entry_notes_0x4c5">Kontaktiere den Support über den Live Chat und fordere die Löschung deines Kontos. Dies ist auch über das [Kontaktformular](https://faq.maxdome.de/kontakt) möglich, dauert aber ggf. länger.</string>
-    <string name="entry_notes_0x4cb">Klick auf \'Profil bearbeiten, hinunter zu \'Du willst dein Profil löschen?\' scrollen, Passwort eintippen, dann auf \'Löschen\' und \'Ja, Profil löschen\' klicken.</string>
+    <string name="entry_notes_0x4cb">Klick auf \'Profil bearbeiten, hinunter zu \'Du willst dein Profil löschen\?\' scrollen, Passwort eintippen, dann auf \'Löschen\' und \'Ja, Profil löschen\' klicken.</string>
     <string name="entry_notes_0x504">Sie müssen eine E-Mail an den Support senden. Es kann bis zu 48 Stunden brauchen Ihre Anfrage zu bearbeiten.</string>
     <string name="entry_notes_0x510">Sie müssen die Löschung Ihres Kontos über das auf ihrer Website bereitgestellte Kontaktformular anfordern.</string>
     <string name="entry_notes_0x511">Um Ihr Konto löschen zu lassen, müssen Sie den Support per E-Mail kontaktieren.</string>
@@ -107,10 +107,10 @@
     <string name="entry_notes_0x5b5">Du kannst deinen Account mit dem Link deaktivieren, aber deine Daten werden nicht gelöscht. Auch wenn du den Support kontaktierst, können sie deine Daten nicht löschen.</string>
     <string name="entry_notes_0x5cd">Auf Ihrer Profilseite scrollen Sie nach unten zu dem Punkt \'Konto verwalten\' und klicken Sie auf \'Meine persönlichen Daten und Kundenkonto löschen.\' Nachdem Sie die Löschung im Dialogfeld bestätigt haben, wird Ihre Anfrage einer manuellen Überprüfung unterzogen, die mehrere Tage in Anspruch nehmen kann. Nach Abschluss der Überprüfung wird Ihr Konto erfolgreich gelöscht.</string>
     <string name="entry_notes_0x5e1">Um den Account löschen zu können, müssen Sie zunächst alle aktiven Webseiten löschen, oder diese an jemand anderen übertragen.</string>
-    <string name="entry_notes_0x5e7">Sie müssen &quot;GDPR - Request for Account Deletion&quot; im Formular auswählen und dann Ihre Daten eingeben.</string>
+    <string name="entry_notes_0x5e7">Sie müssen \"GDPR - Request for Account Deletion\" im Formular auswählen und dann Ihre Daten eingeben.</string>
     <string name="entry_notes_0x5ea">Einstellungen öffnen -&gt; Auf \'Account löschen\' unter \'Sonstiges\' klicken -&gt; Mit \'Ja, Löschen!\' bestätigen. Geht auch über die App.</string>
     <string name="entry_notes_0x5ee">Klicke \'Account löschen\' unten auf der Account-Info-Seite.</string>
-    <string name="entry_notes_0x5f8">Um den Account komplett zu löschen muss von der für die Registrierung verwendeten E-Mail-Adresse eine E-Mail an support@paysera.com in Englisch geschrieben werden. Hier dann darum bitten, dass der Account komplett gelöscht werden soll. Laut Support kann dann in Zukunft kein neuer Account angelegt werden.</string>
+    <string name="entry_notes_0x5f8">Um den Account komplett zu löschen muss von der für die Registrierung verwendeten E-Mail-Adresse eine E-Mail an support\@paysera.com in Englisch geschrieben werden. Hier dann darum bitten, dass der Account komplett gelöscht werden soll. Laut Support kann dann in Zukunft kein neuer Account angelegt werden.</string>
     <string name="entry_notes_0x609">Klicke auf \'Konto löschen\' und dann auf \'Mein Konto jetzt unwiederruflich löschen</string>
     <string name="entry_notes_0x60c">Es ist nötig den Support zu kontaktieren oder über das Webinterface seine Meinung abzugeben unter \'Mein Konto\' -&gt; \'Meinung abgeben\'</string>
     <string name="entry_notes_0x60f">Klicke auf \'Konto löschen\' in den Kontoeinstellungen.</string>
@@ -124,8 +124,8 @@
     <string name="entry_notes_0x6c1">Sie müssen einen DSGVO-Fall bzgl. des Rechts auf Löschung eigener Daten eröffnen.</string>
     <string name="entry_notes_0x6c9">Account-Löschung erfordert es, den Kundensupport zu kontaktieren</string>
     <string name="entry_notes_0x743">Dein Benutzerkonto wird nach Ablauf von 7 Tagen gelöscht, solltest du den Vorgang nicht vorher abbrechen. Erstellte Inhalte, wie zum Beispiel Foren-Beiträge, werden nicht gelöscht, jedoch wird dein Benutzername anonymisiert und für 363 Tage vor einer erneuten Registrierung geschützt.</string>
-    <string name="entry_notes_0x758">Gehen sie auf: Profil -&gt; Teams verwalten. Unter &quot;Mitgliedschaft verwalten&quot;, klicken sie auf &quot;&quot;{NAME}&quot; aus &quot;{TEAM}&quot; unwiderruflich löschen&quot;. Wiederholen sie das für jedes Team.</string>
-    <string name="entry_notes_0x759">Passwort bestätigen und auf &quot;Mitgliedschaft beenden&quot; klicken.</string>
+    <string name="entry_notes_0x758">Gehen sie auf: Profil -&gt; Teams verwalten. Unter \"Mitgliedschaft verwalten\", klicken sie auf \"\"{NAME}\" aus \"{TEAM}\" unwiderruflich löschen\". Wiederholen sie das für jedes Team.</string>
+    <string name="entry_notes_0x759">Passwort bestätigen und auf \"Mitgliedschaft beenden\" klicken.</string>
     <string name="entry_notes_0x75a">Du kannst deinen Account nicht komplett löschen sondern nur deaktivieren. Gehe dazu auf dein Profil und klicke den Reportbutton auf deinem Profil und schreibe delete me</string>
     <string name="entry_notes_0x75c">Drücke \'Konto schließen\' und bestätige das Popup mit \'OK\'.</string>
     <string name="entry_notes_0x79c">Ihr Kundenkonto können Sie auf swisspass.ch unter «Mein Konto», «Logindaten» löschen.</string>
@@ -140,10 +140,10 @@
     <string name="entry_notes_0x843">Kontaktiere den Support und fordere eine Löschung des Accounts an.</string>
     <string name="entry_notes_0x850">Kontaktieren Sie den Kundenservice per E-Mail, um die Entfernung Ihres Nutzerkontos anzufragen.</string>
     <string name="entry_notes_0x888">Benutze [dieses Formular](https://developer.vuforia.com/support/contact/login) um die Löschung deines Vuforia Developer Accounts in Auftrag zu geben. Der Kundendienst wird dich per E-Mail kontaktieren und eine Bestätigung anfordern.\nWARNUNG: Das Formular wird ggf. nicht angezeigt, falls du nicht angemeldet bist, mit Privatsphäre Einstellungen surfst, einen Cookie- oder Werbeblocker installiert hast, Firefox oder Safari verwendest. Bitte verwende Chrome oder Edge ohne Browsererweiterungen für diesen Schritt.</string>
-    <string name="entry_notes_0x89a">Scrolle zur Fußzeile, klicke auf &quot;Meinen Account Löschen&quot; und bestätige es.</string>
+    <string name="entry_notes_0x89a">Scrolle zur Fußzeile, klicke auf \"Meinen Account Löschen\" und bestätige es.</string>
     <string name="entry_notes_0x89c">Um sich abzumelden, senden Sie eine E-Mail oder füllen Sie das Kontaktformular aus.</string>
     <string name="entry_notes_0x8bd">Folg dem Link, wähl einen Grund (optional) und klick dann auf Konto löschen.</string>
     <string name="entry_notes_0x8da">Rufen Sie die verlinkte Webseite auf und scrollen nach unten. Klicken Sie nun auf \'Konto löschen\' und bestätigen Sie den Vorgang. Ihr Konto wird unverzüglich gelöscht.</string>
     <string name="entry_notes_0x902">Auf das Profil gehen, dann klicken: Support kontaktieren -&gt; Supportanfrage erstellen -&gt; Ich möchte meinen Account löschen -&gt; Konto löschen</string>
-    <string name="entry_notes_0x91c">Ihr ÖBB Kund:innenkonto können Sie ganz einfach in Ihren Kontoeinstellungen löschen. Gehen Sie unter shop.oebbtickets.at oder in der ÖBB App in Ihren Konto-Bereich und dort in die Konto-Einstellungen. Dort finden Sie den Menüpunkt &quot;Konto schließen&quot;.</string>
+    <string name="entry_notes_0x91c">Ihr ÖBB Kund:innenkonto können Sie ganz einfach in Ihren Kontoeinstellungen löschen. Gehen Sie unter shop.oebbtickets.at oder in der ÖBB App in Ihren Konto-Bereich und dort in die Konto-Einstellungen. Dort finden Sie den Menüpunkt \"Konto schließen\".</string>
 </resources>

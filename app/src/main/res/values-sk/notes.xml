@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="entry_notes_0x59">Otvorte odkaz, prejdite nadol a stlačte tlačidlo &quot;Žiadosť o vymazanie osobných údajov&quot; </string>
+    <string name="entry_notes_0x59">Otvorte odkaz, prejdite nadol a stlačte tlačidlo \"Žiadosť o vymazanie osobných údajov\" </string>
     <string name="entry_notes_0x1dc">Musíte vyplniť formulár.</string>
     <string name="entry_notes_0x284">Zadajte meno, email a telefón. Ako tému vyberte \'Žiadosť o vymazanie účtu\', vyplňte CAPTCHA a odošlite žiadosť.</string>
     <string name="entry_notes_0x37f">Keďže tu nie je žiadne tlačidlo, musíte ich kontaktovať prostredníctvom e-mailu. Našťastie je doba čakania na ich odpoveď krátka, môže sa však líšiť od jednej osoby k druhej.</string>

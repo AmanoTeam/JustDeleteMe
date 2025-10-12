@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="entry_notes_0x59">Otevřete odkaz, posuňte se dolů a stiskněte tlačítko &quot;Žádost o výmaz osobních údajů&quot;</string>
+    <string name="entry_notes_0x59">Otevřete odkaz, posuňte se dolů a stiskněte tlačítko \"Žádost o výmaz osobních údajů\"</string>
     <string name="entry_notes_0xba">Otevřete nastavení, přejděte dolů a zadejte své uživatelské jméno a smažte svůj účet.</string>
     <string name="entry_notes_0x1dc">Musíte vyplnit formulář.</string>
     <string name="entry_notes_0x250">Zeptají se vás na několik anketových otázek před smazáním účtu.</string>

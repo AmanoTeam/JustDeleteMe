@@ -191,17 +191,15 @@ for (key, value) in knotes.items():
 				item["text"]
 					.replace("\n", "\\n")
 					.replace("'", "\\'")
+					.replace('"', '\\"')
+					.replace('@', '\\@')
+					.replace('?', '\\?')
 			)
 		)
 		
 		text += '    <string name="entry_notes_%s">%s</string>\n' % (
 			hex(index),
-			xml.sax.saxutils.escape(
-				data = string,
-				entities = {
-					"\"": "&quot;"
-				}
-			)
+			xml.sax.saxutils.escape(data = string)
 		)
 	
 	text += "</resources>"

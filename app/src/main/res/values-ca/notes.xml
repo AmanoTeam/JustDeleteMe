@@ -32,7 +32,7 @@
     <string name="entry_notes_0x151">Per esborrar el seu compte contacti amb l\'assistència al client</string>
     <string name="entry_notes_0x188">No podrà eliminar el compte. Només pots canviar-te el número de telèfon.</string>
     <string name="entry_notes_0x193">Identifica\'t al lloc web i entra [https://coderwall.com/delete_account](https://coderwall.com/delete_account)</string>
-    <string name="entry_notes_0x1ba">Enviï un e-mail a abuse@craigslist.org i demani la supressió del compte.</string>
+    <string name="entry_notes_0x1ba">Enviï un e-mail a abuse\@craigslist.org i demani la supressió del compte.</string>
     <string name="entry_notes_0x1ee">Per esborrar el seu compte contacti amb l\'assistència al client</string>
     <string name="entry_notes_0x1fc">Totes les seves dades son esborrades inmediatament. Els comptes poden ser reactivats abans de 30 dies, després d\'aquest termini no podrà ser reactivat.</string>
     <string name="entry_notes_0x202">Cliqui a \'close my account\' i confirmi-ho amb la seva contrasenya.</string>
@@ -82,7 +82,7 @@
     <string name="entry_notes_0x78c">Pot reactivar-la en un termini de 14 dies. Desprès d\'aquest temps el compte serà esborrat.</string>
     <string name="entry_notes_0x7bf">Edit profile (menú situat a la cantonada superior esquerra) -&gt;  Delete account</string>
     <string name="entry_notes_0x7e2">Haurà de sol·licitar que esborrin el seu compte via formulari.</string>
-    <string name="entry_notes_0x80e">Seleccioni l\'opció \'Delete your account?\' per esborrar el seu compte</string>
+    <string name="entry_notes_0x80e">Seleccioni l\'opció \'Delete your account\?\' per esborrar el seu compte</string>
     <string name="entry_notes_0x838">Si i no, depén del tipo(s) de compte(s), i l\'haurà d\'eliminar en l\'ordre correcte.  Tots els comptes estan relacionats amb l\'inici de sessió únic (login.ubuntu.com) Ubuntu One, aleshores aquesta és l\'ultim compte que has de tancar . A més,   l\'enmagatzematge d\'arxius en el núvo Launchpad.net, AskUbuntu i altres comptes s\'han de tancar abans si és possible. Això és molt important si té algun servei de pagament, per assegurar-se que no se li cobrarà res després de tancar els seus comptes. L\'últim pas és tancar el compte de Single Sign-On (SSO). Comptes d\'SSO han de ser eliminats manualment pel personal d\'Ubuntu One.</string>
     <string name="entry_notes_0x83a">Feu clic a “Tancar compte” i confirmeu amb el codi de 6 dígits enviat per correu electrònic.</string>
     <string name="entry_notes_0x862">Hi ha un botò a la dreta, just a sota del menu.</string>

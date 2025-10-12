@@ -2,7 +2,7 @@
 <resources>
     <string name="entry_notes_0x17">Zaloguj się na swoje konto, przejdź do ustawień, kliknij Delete my account. Potwierdź klikając I want to delete my account. Następnie wprowadź swoje hasło i kliknij Delete my 9GAG account.</string>
     <string name="entry_notes_0xc2">Twoje dane zostaną całkowicie usunięte po upływie 30 dni.</string>
-    <string name="entry_notes_0xdf">Zaloguj się, idź do Profilu, znajdź opcję &quot;Twoje Dane&quot; i kliknij &quot;Usuń profil&quot; w prawym dolnym rogu otwartej sekcji.</string>
+    <string name="entry_notes_0xdf">Zaloguj się, idź do Profilu, znajdź opcję \"Twoje Dane\" i kliknij \"Usuń profil\" w prawym dolnym rogu otwartej sekcji.</string>
     <string name="entry_notes_0xe9">Wybierz, dlaczego chcesz usunąć konto. Twoje konto zostanie usunięte, ale wszystkie twoje skrócone linki zostaną na serwerze.</string>
     <string name="entry_notes_0xf5">Nie ma możliwości usunięcia konta w usłudze Blogger bez usuwania całego konta Google. Możesz jedynie usunąć swój blog.</string>
     <string name="entry_notes_0xfe">Zaloguj się i użyj podanego odnośnika, aby usunąc swoje konto.</string>
@@ -22,8 +22,8 @@
     <string name="entry_notes_0x416">Zaloguj się, podaj swoje hasło i kliknij \'delete\'.</string>
     <string name="entry_notes_0x4ac">Account Settings -&gt; Account Settings Drop-down -&gt; Close my account -&gt; Wpisz DELETE i kliknij Delete Account.</string>
     <string name="entry_notes_0x5ff">Zaloguj się na swoje konto, potem przejdź do \'Settings\' i kliknij \'Delete Account\'.</string>
-    <string name="entry_notes_0x64f">Podaj hasło, zaznacz że rozumiesz konsekwencje usunięcia konta i kliknij przycisk &quot;Usuń&quot;. Usunięcie konta nastąpi po 14 dniach karencji.</string>
-    <string name="entry_notes_0x70b">Wejdź do &quot;Moje konto&quot;, &quot;Edytuj&quot;, &quot;Konto&quot; i &quot;Usuń konto&quot;.</string>
+    <string name="entry_notes_0x64f">Podaj hasło, zaznacz że rozumiesz konsekwencje usunięcia konta i kliknij przycisk \"Usuń\". Usunięcie konta nastąpi po 14 dniach karencji.</string>
+    <string name="entry_notes_0x70b">Wejdź do \"Moje konto\", \"Edytuj\", \"Konto\" i \"Usuń konto\".</string>
     <string name="entry_notes_0x738">Kliknij kartę \'Subskrypcje\' w lewym górnym rogu strony. Następnie przewiń w dół i kliknij przycisk\'Usuń Konto\' na samym dole strony i zaznacz pole wyboru. Twoje konto zostanie usunięte po 5 dniach.</string>
     <string name="entry_notes_0x743">Twoje konto użytkownika zostanie usunięte po 7 dniach, jeśli wcześniej nie anulujesz procesu. Utworzona treść, taka jak posty na forum, nie zostanie usunięta, ale nazwa użytkownika będzie anonimowa i chroniona przed ponowną rejestracją przez 363 dni.</string>
     <string name="entry_notes_0x8b6">Z aplikacji: Ustawienia -&gt; Konto -&gt; Usuń konto.</string>

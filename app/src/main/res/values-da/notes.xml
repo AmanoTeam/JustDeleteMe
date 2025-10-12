@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="entry_notes_0x284">Indtast Navn, Email og Telefon. Vælg \'Anmodning om sletning af konto\' som emne, fuldfør CAPTCHA og indsend forespørgslen.</string>
-    <string name="entry_notes_0x724">Under dine konto indstillinger, rul ned til bunden og vælg &quot;Delete account&quot;</string>
+    <string name="entry_notes_0x724">Under dine konto indstillinger, rul ned til bunden og vælg \"Delete account\"</string>
     <string name="entry_notes_0x8f1">Udfyld formen og anmod om sletning af din konto. Verifikation af din identitet er krævet via MitID. Processering af anmodningen tager op til 30 dage. Betalingshistorik beholdes i 5 år.</string>
 </resources>
