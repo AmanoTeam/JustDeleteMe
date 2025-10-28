@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Moeilijkheidsgraad</string>
+    <string name="got_it">Begrepen</string>
+    <string name="send_email">E-mail verzenden</string>
+    <string name="open_website">Website openen</string>
+    <string name="notes">Notities</string>
+    <string name="no_notes_available">Er zijn geen notities beschikbaar voor deze invoer.</string>
+    <string name="copied_to_clipboard">Gekopieerd naar klembord</string>
+    <string name="difficulty_easy">Makkelijk</string>
+    <string name="difficulty_medium">Gemiddeld</string>
+    <string name="difficulty_hard">Moeilijk</string>
+    <string name="difficulty_impossible">Onmogelijk</string>
+    <string name="difficulty_limited">Beperkt</string>
+    <string name="difficulty_easy_summary">Dit vertegenwoordigt het laagste moeilijkheidsniveau. Diensten in deze sectie vereisen relatief weinig — zo niet triviale — inspanning om uw account te verwijderen.</string>
+    <string name="difficulty_medium_summary">Dit vertegenwoordigt het gemiddelde moeilijkheidsniveau. Diensten in deze sectie kunnen extra stappen vereisen voordat u uw account kunt verwijderen.</string>
+    <string name="difficulty_hard_summary">Dit vertegenwoordigt een hoog moeilijkheidsniveau. Diensten in deze sectie kunnen vereisen dat u contact opneemt met de klantenservice of de juridische afdeling om uw account te verwijderen.</string>
+    <string name="difficulty_impossible_summary">Dit vertegenwoordigt het hoogste moeilijkheidsniveau. Diensten in deze sectie bieden geen mogelijkheid om uw account te verwijderen of staan slechts een klein deel van de gegevens toe om verwijderd te worden.</string>
+    <string name="difficulty_limited_summary">Dit vertegenwoordigt een moeilijkheidsniveau dat afhankelijk is van externe factoren. Bijvoorbeeld, diensten in deze sectie kunnen alleen accountverwijdering toestaan als u in een regio woont die onder lokale privacywetten valt.</string>
+    <string name="settings">Instellingen</string>
+    <string name="websites">Websites</string>
+    <string name="browse">Bladeren</string>
+    <string name="search">Zoeken</string>
+    <string name="search_entry">Invoer zoeken</string>
+    <string name="pref_title_appearance">Uiterlijk</string>
+    <string name="pref_title_app_theme">Thema</string>
+    <string name="pref_summary_app_theme">Schakel tussen donkere en lichte thema’s</string>
+    <string name="pref_entry_follow_system">Volg systeem</string>
+    <string name="pref_entry_dark">Donker</string>
+    <string name="pref_entry_ligth">Licht</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Ниво на трудност</string>
+    <string name="got_it">Разбрах</string>
+    <string name="send_email">Изпрати имейл</string>
+    <string name="open_website">Отвори уебсайта</string>
+    <string name="notes">Бележки</string>
+    <string name="no_notes_available">Няма налични бележки за този запис.</string>
+    <string name="copied_to_clipboard">Копирано в клипборда</string>
+    <string name="difficulty_easy">Лесно</string>
+    <string name="difficulty_medium">Средно</string>
+    <string name="difficulty_hard">Трудно</string>
+    <string name="difficulty_impossible">Невъзможно</string>
+    <string name="difficulty_limited">Ограничено</string>
+    <string name="difficulty_easy_summary">Това представлява най-ниското ниво на трудност. Услугите в тази секция изискват сравнително малко — ако не и никакво — усилие, за да изтриете акаунта си.</string>
+    <string name="difficulty_medium_summary">Това представлява средно ниво на трудност. Услугите в тази секция може да изискват допълнителни стъпки преди изтриване на акаунта ви.</string>
+    <string name="difficulty_hard_summary">Това представлява високо ниво на трудност. Услугите в тази секция може да изискват да се свържете с поддръжката на клиенти или с правния отдел, за да бъде изтрит акаунтът ви.</string>
+    <string name="difficulty_impossible_summary">Това представлява най-високото ниво на трудност. Услугите в тази секция или не предлагат начин за изтриване на акаунта ви, или позволяват изтриване само на малка част от данните ви.</string>
+    <string name="difficulty_limited_summary">Това представлява ниво на трудност, зависещо от външни фактори. Например, услугите в тази секция може да позволяват изтриване на акаунта само ако живеете в регион, обхванат от местни закони за защита на личните данни.</string>
+    <string name="settings">Настройки</string>
+    <string name="websites">Уебсайтове</string>
+    <string name="browse">Разгледай</string>
+    <string name="search">Търси</string>
+    <string name="search_entry">Търси запис</string>
+    <string name="pref_title_appearance">Външен вид</string>
+    <string name="pref_title_app_theme">Тема</string>
+    <string name="pref_summary_app_theme">Превключване между тъмна и светла тема</string>
+    <string name="pref_entry_follow_system">Следвай системата</string>
+    <string name="pref_entry_dark">Тъмна</string>
+    <string name="pref_entry_ligth">Светла</string>
+</resources>

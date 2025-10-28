@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">ระดับความยาก</string>
+    <string name="got_it">เข้าใจแล้ว</string>
+    <string name="send_email">ส่งอีเมล</string>
+    <string name="open_website">เปิดเว็บไซต์</string>
+    <string name="notes">บันทึก</string>
+    <string name="no_notes_available">ไม่มีบันทึกสำหรับรายการนี้</string>
+    <string name="copied_to_clipboard">คัดลอกไปยังคลิปบอร์ดแล้ว</string>
+    <string name="difficulty_easy">ง่าย</string>
+    <string name="difficulty_medium">ปานกลาง</string>
+    <string name="difficulty_hard">ยาก</string>
+    <string name="difficulty_impossible">เป็นไปไม่ได้</string>
+    <string name="difficulty_limited">จำกัด</string>
+    <string name="difficulty_easy_summary">นี่คือระดับความยากต่ำสุด บริการในส่วนนี้ต้องการความพยายามในการลบบัญชีของคุณค่อนข้างน้อย — หากไม่เรียบง่าย</string>
+    <string name="difficulty_medium_summary">นี่คือระดับความยากปานกลาง บริการในส่วนนี้อาจต้องการให้คุณดำเนินขั้นตอนเพิ่มเติมก่อนลบบัญชี</string>
+    <string name="difficulty_hard_summary">นี่คือระดับความยากสูง บริการในส่วนนี้อาจต้องการให้คุณติดต่อฝ่ายสนับสนุนลูกค้าหรือฝ่ายกฎหมายเพื่อลบบัญชีของคุณ</string>
+    <string name="difficulty_impossible_summary">นี่คือระดับความยากสูงสุด บริการในส่วนนี้อาจไม่อนุญาตให้ลบบัญชีของคุณ หรืออนุญาตให้ลบเพียงบางส่วนของข้อมูล</string>
+    <string name="difficulty_limited_summary">นี่คือระดับความยากที่ขึ้นอยู่กับปัจจัยภายนอก ตัวอย่างเช่น บริการในส่วนนี้อาจอนุญาตให้ลบบัญชีได้เฉพาะในพื้นที่ที่มีกฎหมายคุ้มครองความเป็นส่วนตัว</string>
+    <string name="settings">การตั้งค่า</string>
+    <string name="websites">เว็บไซต์</string>
+    <string name="browse">เรียกดู</string>
+    <string name="search">ค้นหา</string>
+    <string name="search_entry">ค้นหารายการ</string>
+    <string name="pref_title_appearance">ลักษณะ</string>
+    <string name="pref_title_app_theme">ธีม</string>
+    <string name="pref_summary_app_theme">สลับระหว่างธีมมืดและสว่าง</string>
+    <string name="pref_entry_follow_system">ตามระบบ</string>
+    <string name="pref_entry_dark">มืด</string>
+    <string name="pref_entry_ligth">สว่าง</string>
+</resources>

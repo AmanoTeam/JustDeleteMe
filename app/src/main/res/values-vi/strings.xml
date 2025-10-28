@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Mức độ khó</string>
+    <string name="got_it">Hiểu rồi</string>
+    <string name="send_email">Gửi email</string>
+    <string name="open_website">Mở trang web</string>
+    <string name="notes">Ghi chú</string>
+    <string name="no_notes_available">Không có ghi chú cho mục này.</string>
+    <string name="copied_to_clipboard">Đã sao chép vào clipboard</string>
+    <string name="difficulty_easy">Dễ</string>
+    <string name="difficulty_medium">Trung bình</string>
+    <string name="difficulty_hard">Khó</string>
+    <string name="difficulty_impossible">Không thể</string>
+    <string name="difficulty_limited">Hạn chế</string>
+    <string name="difficulty_easy_summary">Đây là mức độ khó thấp nhất. Các dịch vụ trong phần này yêu cầu nỗ lực tương đối thấp — nếu không muốn nói là rất ít — để xóa tài khoản của bạn.</string>
+    <string name="difficulty_medium_summary">Đây là mức độ khó trung bình. Các dịch vụ trong phần này có thể yêu cầu bạn thực hiện thêm các bước trước khi xóa tài khoản.</string>
+    <string name="difficulty_hard_summary">Đây là mức độ khó cao. Các dịch vụ trong phần này có thể yêu cầu bạn liên hệ với bộ phận hỗ trợ khách hàng hoặc bộ phận pháp lý để xóa tài khoản.</string>
+    <string name="difficulty_impossible_summary">Đây là mức độ khó cao nhất. Các dịch vụ trong phần này hoặc không cung cấp cách xóa tài khoản, hoặc chỉ cho phép xóa một phần nhỏ dữ liệu.</string>
+    <string name="difficulty_limited_summary">Đây là mức độ khó phụ thuộc vào các yếu tố bên ngoài. Ví dụ, các dịch vụ trong phần này có thể chỉ cho phép xóa tài khoản nếu bạn sống ở khu vực được bảo vệ bởi luật bảo mật dữ liệu địa phương.</string>
+    <string name="settings">Cài đặt</string>
+    <string name="websites">Trang web</string>
+    <string name="browse">Duyệt</string>
+    <string name="search">Tìm kiếm</string>
+    <string name="search_entry">Tìm kiếm mục</string>
+    <string name="pref_title_appearance">Giao diện</string>
+    <string name="pref_title_app_theme">Chủ đề</string>
+    <string name="pref_summary_app_theme">Chuyển đổi giữa giao diện tối và sáng</string>
+    <string name="pref_entry_follow_system">Theo hệ thống</string>
+    <string name="pref_entry_dark">Tối</string>
+    <string name="pref_entry_ligth">Sáng</string>
+</resources>

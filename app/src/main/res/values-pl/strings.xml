@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Poziom trudności</string>
+    <string name="got_it">Zrozumiano</string>
+    <string name="send_email">Wyślij e-mail</string>
+    <string name="open_website">Otwórz stronę</string>
+    <string name="notes">Notatki</string>
+    <string name="no_notes_available">Brak dostępnych notatek dla tego wpisu.</string>
+    <string name="copied_to_clipboard">Skopiowano do schowka</string>
+    <string name="difficulty_easy">Łatwy</string>
+    <string name="difficulty_medium">Średni</string>
+    <string name="difficulty_hard">Trudny</string>
+    <string name="difficulty_impossible">Niemożliwy</string>
+    <string name="difficulty_limited">Ograniczony</string>
+    <string name="difficulty_easy_summary">Oznacza najniższy poziom trudności. Usługi w tej sekcji wymagają stosunkowo niewielkiego — jeśli nie trywialnego — wysiłku, aby usunąć konto.</string>
+    <string name="difficulty_medium_summary">Oznacza średni poziom trudności. Usługi w tej sekcji mogą wymagać wykonania dodatkowych kroków przed usunięciem konta.</string>
+    <string name="difficulty_hard_summary">Oznacza wysoki poziom trudności. Usługi w tej sekcji mogą wymagać kontaktu z obsługą klienta lub działem prawnym w celu usunięcia konta.</string>
+    <string name="difficulty_impossible_summary">Oznacza najwyższy poziom trudności. Usługi w tej sekcji nie umożliwiają usunięcia konta lub pozwalają jedynie na usunięcie niewielkiej części danych.</string>
+    <string name="difficulty_limited_summary">Oznacza poziom trudności zależny od czynników zewnętrznych. Na przykład, usługi w tej sekcji mogą pozwalać na usunięcie konta tylko, jeśli mieszkasz w regionie objętym lokalnymi przepisami ochrony prywatności.</string>
+    <string name="settings">Ustawienia</string>
+    <string name="websites">Strony internetowe</string>
+    <string name="browse">Przeglądaj</string>
+    <string name="search">Szukaj</string>
+    <string name="search_entry">Wyszukaj wpis</string>
+    <string name="pref_title_appearance">Wygląd</string>
+    <string name="pref_title_app_theme">Motyw</string>
+    <string name="pref_summary_app_theme">Przełącz między ciemnym a jasnym motywem</string>
+    <string name="pref_entry_follow_system">Podążaj za systemem</string>
+    <string name="pref_entry_dark">Ciemny</string>
+    <string name="pref_entry_ligth">Jasny</string>
+</resources>

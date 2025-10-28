@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Leibhéal deacrachta</string>
+    <string name="got_it">Tuigim</string>
+    <string name="send_email">Seol ríomhphost</string>
+    <string name="open_website">Oscail an suíomh</string>
+    <string name="notes">Nótaí</string>
+    <string name="no_notes_available">Níl aon nótaí ar fáil don iontráil seo.</string>
+    <string name="copied_to_clipboard">Cóipeáilte chuig an gclár gearrtha</string>
+    <string name="difficulty_easy">Éasca</string>
+    <string name="difficulty_medium">Meánach</string>
+    <string name="difficulty_hard">Deacair</string>
+    <string name="difficulty_impossible">Impossible</string>
+    <string name="difficulty_limited">Teoranta</string>
+    <string name="difficulty_easy_summary">Is é seo an leibhéal deacrachta is ísle. Éilíonn na seirbhísí sa rannóg seo iarracht sách íseal — mura bhfuil sé tráthúil — chun do chuntas a scriosadh.</string>
+    <string name="difficulty_medium_summary">Is é seo leibhéal deacrachta meánach. D’fhéadfadh go mbeadh ort céimeanna breise a ghlacadh sular féidir leat do chuntas a scriosadh.</string>
+    <string name="difficulty_hard_summary">Is é seo leibhéal deacrachta ard. D’fhéadfadh go mbeadh ort teagmháil a dhéanamh le tacaíocht do thomhaltóra nó le rún dlíthiúil chun do chuntas a scriosadh.</string>
+    <string name="difficulty_impossible_summary">Is é seo an leibhéal deacrachta is airde. Ní chuirtear aon mhodh ar fáil chun do chuntas a scriosadh, nó ligeann siad ach do chuid sonraí a scriosadh i bpáirt bheag.</string>
+    <string name="difficulty_limited_summary">Is é seo leibhéal deacrachta a bhíonn ag brath ar fhachtóirí seachtracha. Mar shampla, d’fhéadfadh seirbhísí sa rannóg seo cuntas a scriosadh ach amháin má tá tú ina chónaí i gceantar atá clúdaithe ag dlíthe áitiúla um chosaint príobháideachta.</string>
+    <string name="settings">Socruithe</string>
+    <string name="websites">Suíomhanna Gréasáin</string>
+    <string name="browse">Brabhsáil</string>
+    <string name="search">Cuardaigh</string>
+    <string name="search_entry">Cuardaigh iontráil</string>
+    <string name="pref_title_appearance">Dealramh</string>
+    <string name="pref_title_app_theme">Téama</string>
+    <string name="pref_summary_app_theme">Athraigh idir téama dorcha agus éadrom</string>
+    <string name="pref_entry_follow_system">Lean an córas</string>
+    <string name="pref_entry_dark">Dorcha</string>
+    <string name="pref_entry_ligth">Éadrom</string>
+</resources>

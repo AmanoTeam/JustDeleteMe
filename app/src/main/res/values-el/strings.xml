@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Επίπεδο δυσκολίας</string>
+    <string name="got_it">Εντάξει</string>
+    <string name="send_email">Αποστολή email</string>
+    <string name="open_website">Άνοιγμα ιστοσελίδας</string>
+    <string name="notes">Σημειώσεις</string>
+    <string name="no_notes_available">Δεν υπάρχουν διαθέσιμες σημειώσεις για αυτήν την καταχώρηση.</string>
+    <string name="copied_to_clipboard">Αντιγράφηκε στο πρόχειρο</string>
+    <string name="difficulty_easy">Εύκολο</string>
+    <string name="difficulty_medium">Μέτριο</string>
+    <string name="difficulty_hard">Δύσκολο</string>
+    <string name="difficulty_impossible">Αδύνατο</string>
+    <string name="difficulty_limited">Περιορισμένο</string>
+    <string name="difficulty_easy_summary">Αυτό αντιπροσωπεύει το χαμηλότερο επίπεδο δυσκολίας. Οι υπηρεσίες σε αυτήν την ενότητα απαιτούν σχετικά μικρή — αν όχι ασήμαντη — προσπάθεια για τη διαγραφή του λογαριασμού σου.</string>
+    <string name="difficulty_medium_summary">Αυτό αντιπροσωπεύει ένα μεσαίο επίπεδο δυσκολίας. Οι υπηρεσίες σε αυτήν την ενότητα ενδέχεται να απαιτούν επιπλέον βήματα πριν από τη διαγραφή του λογαριασμού σου.</string>
+    <string name="difficulty_hard_summary">Αυτό αντιπροσωπεύει υψηλό επίπεδο δυσκολίας. Οι υπηρεσίες σε αυτήν την ενότητα ενδέχεται να απαιτούν να επικοινωνήσεις με την υποστήριξη πελατών ή με το νομικό τμήμα για να διαγραφεί ο λογαριασμός σου.</string>
+    <string name="difficulty_impossible_summary">Αυτό αντιπροσωπεύει το υψηλότερο επίπεδο δυσκολίας. Οι υπηρεσίες σε αυτήν την ενότητα είτε δεν παρέχουν τρόπο διαγραφής του λογαριασμού σου είτε επιτρέπουν τη διαγραφή μόνο μικρού μέρους των δεδομένων σου.</string>
+    <string name="difficulty_limited_summary">Αυτό αντιπροσωπεύει ένα επίπεδο δυσκολίας που εξαρτάται από εξωτερικούς παράγοντες. Για παράδειγμα, οι υπηρεσίες σε αυτήν την ενότητα μπορεί να επιτρέπουν τη διαγραφή λογαριασμού μόνο αν ζεις σε περιοχή που καλύπτεται από τοπικούς νόμους προστασίας προσωπικών δεδομένων.</string>
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="websites">Ιστοσελίδες</string>
+    <string name="browse">Περιήγηση</string>
+    <string name="search">Αναζήτηση</string>
+    <string name="search_entry">Αναζήτηση καταχώρησης</string>
+    <string name="pref_title_appearance">Εμφάνιση</string>
+    <string name="pref_title_app_theme">Θέμα</string>
+    <string name="pref_summary_app_theme">Εναλλαγή μεταξύ σκοτεινού και φωτεινού θέματος</string>
+    <string name="pref_entry_follow_system">Ακολούθησε το σύστημα</string>
+    <string name="pref_entry_dark">Σκοτεινό</string>
+    <string name="pref_entry_ligth">Φωτεινό</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">कठिनाई का स्तर</string>
+    <string name="got_it">समझ गया</string>
+    <string name="send_email">ईमेल भेजें</string>
+    <string name="open_website">वेबसाइट खोलें</string>
+    <string name="notes">नोट्स</string>
+    <string name="no_notes_available">इस प्रविष्टि के लिए कोई नोट्स उपलब्ध नहीं हैं।</string>
+    <string name="copied_to_clipboard">क्लिपबोर्ड में कॉपी किया गया</string>
+    <string name="difficulty_easy">आसान</string>
+    <string name="difficulty_medium">मध्यम</string>
+    <string name="difficulty_hard">कठिन</string>
+    <string name="difficulty_impossible">असंभव</string>
+    <string name="difficulty_limited">सीमित</string>
+    <string name="difficulty_easy_summary">यह सबसे कम कठिनाई स्तर को दर्शाता है। इस खंड की सेवाओं के लिए आपका खाता हटाने के लिए अपेक्षाकृत कम प्रयास की आवश्यकता होती है — अगर कोई प्रयास आवश्यक हो तो भी।</string>
+    <string name="difficulty_medium_summary">यह मध्यम कठिनाई स्तर को दर्शाता है। इस खंड की सेवाओं के लिए आपका खाता हटाने से पहले अतिरिक्त कदम उठाने की आवश्यकता हो सकती है।</string>
+    <string name="difficulty_hard_summary">यह उच्च कठिनाई स्तर को दर्शाता है। इस खंड की सेवाओं के लिए आपका खाता हटाने के लिए आपको कस्टमर सपोर्ट या कानूनी विभाग से संपर्क करना पड़ सकता है।</string>
+    <string name="difficulty_impossible_summary">यह सबसे उच्च कठिनाई स्तर को दर्शाता है। इस खंड की सेवाएं या तो आपके खाते को हटाने का कोई तरीका नहीं देती हैं या केवल डेटा का एक छोटा हिस्सा ही हटाने देती हैं।</string>
+    <string name="difficulty_limited_summary">यह कठिनाई स्तर बाहरी कारकों पर निर्भर करता है। उदाहरण के लिए, इस खंड की सेवाएं केवल तभी खाता हटाने की अनुमति देती हैं जब आप ऐसे क्षेत्र में रहते हों जो स्थानीय गोपनीयता संरक्षण कानूनों द्वारा कवर किया गया हो।</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="websites">वेबसाइट्स</string>
+    <string name="browse">ब्राउज़ करें</string>
+    <string name="search">खोजें</string>
+    <string name="search_entry">प्रविष्टि खोजें</string>
+    <string name="pref_title_appearance">दिखावट</string>
+    <string name="pref_title_app_theme">थीम</string>
+    <string name="pref_summary_app_theme">डार्क और लाइट थीम के बीच स्विच करें</string>
+    <string name="pref_entry_follow_system">सिस्टम का पालन करें</string>
+    <string name="pref_entry_dark">डार्क</string>
+    <string name="pref_entry_ligth">लाइट</string>
+</resources>

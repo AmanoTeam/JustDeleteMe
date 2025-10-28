@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Nivel de dificultate</string>
+    <string name="got_it">Am înțeles</string>
+    <string name="send_email">Trimite e-mail</string>
+    <string name="open_website">Deschide site-ul</string>
+    <string name="notes">Note</string>
+    <string name="no_notes_available">Nu există note disponibile pentru această intrare.</string>
+    <string name="copied_to_clipboard">Copiat în clipboard</string>
+    <string name="difficulty_easy">Ușor</string>
+    <string name="difficulty_medium">Mediu</string>
+    <string name="difficulty_hard">Dificil</string>
+    <string name="difficulty_impossible">Imposibil</string>
+    <string name="difficulty_limited">Limitat</string>
+    <string name="difficulty_easy_summary">Acesta reprezintă cel mai scăzut nivel de dificultate. Serviciile din această secțiune necesită un efort relativ scăzut — dacă nu neglijabil — pentru a-ți șterge contul.</string>
+    <string name="difficulty_medium_summary">Acesta reprezintă nivelul mediu de dificultate. Serviciile din această secțiune s-ar putea să necesite pași suplimentari înainte de a-ți șterge contul.</string>
+    <string name="difficulty_hard_summary">Acesta reprezintă un nivel ridicat de dificultate. Serviciile din această secțiune s-ar putea să necesite contactarea suportului pentru clienți sau a departamentului juridic pentru a-ți șterge contul.</string>
+    <string name="difficulty_impossible_summary">Acesta reprezintă cel mai ridicat nivel de dificultate. Serviciile din această secțiune fie nu oferă niciun mijloc de a-ți șterge contul, fie permit doar ștergerea unei mici părți din date.</string>
+    <string name="difficulty_limited_summary">Acesta reprezintă un nivel de dificultate dependent de factori externi. De exemplu, serviciile din această secțiune pot permite ștergerea contului doar dacă locuiești într-o regiune acoperită de legi locale de protecție a confidențialității.</string>
+    <string name="settings">Setări</string>
+    <string name="websites">Site-uri</string>
+    <string name="browse">Răsfoiește</string>
+    <string name="search">Caută</string>
+    <string name="search_entry">Caută intrare</string>
+    <string name="pref_title_appearance">Aspect</string>
+    <string name="pref_title_app_theme">Temă</string>
+    <string name="pref_summary_app_theme">Comută între teme închisă și deschisă</string>
+    <string name="pref_entry_follow_system">Urmează sistemul</string>
+    <string name="pref_entry_dark">Întunecat</string>
+    <string name="pref_entry_ligth">Deschis</string>
+</resources>

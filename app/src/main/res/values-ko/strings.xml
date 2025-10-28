@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">난이도</string>
+    <string name="got_it">확인</string>
+    <string name="send_email">이메일 보내기</string>
+    <string name="open_website">웹사이트 열기</string>
+    <string name="notes">메모</string>
+    <string name="no_notes_available">이 항목에 사용할 수 있는 메모가 없습니다.</string>
+    <string name="copied_to_clipboard">클립보드에 복사됨</string>
+    <string name="difficulty_easy">쉬움</string>
+    <string name="difficulty_medium">보통</string>
+    <string name="difficulty_hard">어려움</string>
+    <string name="difficulty_impossible">불가능</string>
+    <string name="difficulty_limited">제한적</string>
+    <string name="difficulty_easy_summary">가장 낮은 난이도를 나타냅니다. 이 섹션의 서비스는 계정을 삭제하는 데 상대적으로 적은 노력만 필요합니다.</string>
+    <string name="difficulty_medium_summary">중간 난이도를 나타냅니다. 이 섹션의 서비스는 계정을 삭제하기 전에 추가 단계를 요구할 수 있습니다.</string>
+    <string name="difficulty_hard_summary">높은 난이도를 나타냅니다. 이 섹션의 서비스는 계정 삭제를 위해 고객 지원 또는 법무 부서에 연락해야 할 수 있습니다.</string>
+    <string name="difficulty_impossible_summary">가장 높은 난이도를 나타냅니다. 이 섹션의 서비스는 계정을 삭제할 방법이 없거나 일부 데이터만 삭제할 수 있습니다.</string>
+    <string name="difficulty_limited_summary">외부 요인에 따라 난이도가 달라집니다. 예를 들어, 일부 서비스는 지역 개인정보 보호법이 적용되는 지역에 거주할 경우에만 계정 삭제를 허용할 수 있습니다.</string>
+    <string name="settings">설정</string>
+    <string name="websites">웹사이트</string>
+    <string name="browse">탐색</string>
+    <string name="search">검색</string>
+    <string name="search_entry">항목 검색</string>
+    <string name="pref_title_appearance">외관</string>
+    <string name="pref_title_app_theme">테마</string>
+    <string name="pref_summary_app_theme">다크/라이트 테마 전환</string>
+    <string name="pref_entry_follow_system">시스템 따라가기</string>
+    <string name="pref_entry_dark">다크</string>
+    <string name="pref_entry_ligth">라이트</string>
+</resources>

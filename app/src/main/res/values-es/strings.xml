@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Nivel de dificultad</string>
+    <string name="got_it">Entendido</string>
+    <string name="send_email">Enviar correo electrónico</string>
+    <string name="open_website">Abrir sitio web</string>
+    <string name="notes">Notas</string>
+    <string name="no_notes_available">No hay notas disponibles para esta entrada.</string>
+    <string name="copied_to_clipboard">Copiado al portapapeles</string>
+    <string name="difficulty_easy">Fácil</string>
+    <string name="difficulty_medium">Media</string>
+    <string name="difficulty_hard">Difícil</string>
+    <string name="difficulty_impossible">Imposible</string>
+    <string name="difficulty_limited">Limitado</string>
+    <string name="difficulty_easy_summary">Esto representa el nivel más bajo de dificultad. Los servicios en esta sección requieren un esfuerzo relativamente bajo —si no trivial— para eliminar tu cuenta.</string>
+    <string name="difficulty_medium_summary">Esto representa un nivel medio de dificultad. Los servicios en esta sección pueden requerir que realices pasos adicionales antes de eliminar tu cuenta.</string>
+    <string name="difficulty_hard_summary">Esto representa un alto nivel de dificultad. Los servicios en esta sección pueden requerir que contactes con el servicio de atención al cliente o con el departamento legal para eliminar tu cuenta.</string>
+    <string name="difficulty_impossible_summary">Esto representa el nivel más alto de dificultad. Los servicios en esta sección no ofrecen medios para eliminar tu cuenta o solo permiten eliminar una pequeña parte de tus datos.</string>
+    <string name="difficulty_limited_summary">Esto representa un nivel de dificultad dependiente de factores externos. Por ejemplo, los servicios en esta sección pueden permitir la eliminación de cuentas solo si resides en una región cubierta por leyes locales de protección de datos.</string>
+    <string name="settings">Configuración</string>
+    <string name="websites">Sitios web</string>
+    <string name="browse">Explorar</string>
+    <string name="search">Buscar</string>
+    <string name="search_entry">Buscar entrada</string>
+    <string name="pref_title_appearance">Apariencia</string>
+    <string name="pref_title_app_theme">Tema</string>
+    <string name="pref_summary_app_theme">Cambiar entre el tema oscuro y claro</string>
+    <string name="pref_entry_follow_system">Seguir el sistema</string>
+    <string name="pref_entry_dark">Oscuro</string>
+    <string name="pref_entry_ligth">Claro</string>
+</resources>

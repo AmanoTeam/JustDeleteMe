@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Уровень сложности</string>
+    <string name="got_it">Понял</string>
+    <string name="send_email">Отправить письмо</string>
+    <string name="open_website">Открыть сайт</string>
+    <string name="notes">Заметки</string>
+    <string name="no_notes_available">Для этой записи нет доступных заметок.</string>
+    <string name="copied_to_clipboard">Скопировано в буфер обмена</string>
+    <string name="difficulty_easy">Легко</string>
+    <string name="difficulty_medium">Средне</string>
+    <string name="difficulty_hard">Сложно</string>
+    <string name="difficulty_impossible">Невозможно</string>
+    <string name="difficulty_limited">Ограниченно</string>
+    <string name="difficulty_easy_summary">Это самый низкий уровень сложности. Сервисы в этом разделе требуют относительно небольших — если не незначительных — усилий для удаления вашего аккаунта.</string>
+    <string name="difficulty_medium_summary">Это средний уровень сложности. Сервисы в этом разделе могут потребовать дополнительных шагов перед удалением вашего аккаунта.</string>
+    <string name="difficulty_hard_summary">Это высокий уровень сложности. Сервисы в этом разделе могут потребовать обращения в службу поддержки или юридический отдел для удаления вашего аккаунта.</string>
+    <string name="difficulty_impossible_summary">Это самый высокий уровень сложности. Сервисы в этом разделе либо не предоставляют возможности удалить аккаунт, либо позволяют удалить только небольшую часть данных.</string>
+    <string name="difficulty_limited_summary">Это уровень сложности, зависящий от внешних факторов. Например, сервисы в этом разделе могут разрешать удаление аккаунта только если вы находитесь в регионе с действующими законами о защите конфиденциальности.</string>
+    <string name="settings">Настройки</string>
+    <string name="websites">Сайты</string>
+    <string name="browse">Просмотр</string>
+    <string name="search">Поиск</string>
+    <string name="search_entry">Поиск записи</string>
+    <string name="pref_title_appearance">Внешний вид</string>
+    <string name="pref_title_app_theme">Тема</string>
+    <string name="pref_summary_app_theme">Переключение между тёмной и светлой темами</string>
+    <string name="pref_entry_follow_system">Следовать системе</string>
+    <string name="pref_entry_dark">Тёмная</string>
+    <string name="pref_entry_ligth">Светлая</string>
+</resources>

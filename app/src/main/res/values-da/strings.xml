@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Sværhedsgrad</string>
+    <string name="got_it">Forstået</string>
+    <string name="send_email">Send e-mail</string>
+    <string name="open_website">Åbn hjemmeside</string>
+    <string name="notes">Noter</string>
+    <string name="no_notes_available">Der er ingen noter tilgængelige for denne post.</string>
+    <string name="copied_to_clipboard">Kopieret til udklipsholder</string>
+    <string name="difficulty_easy">Let</string>
+    <string name="difficulty_medium">Middel</string>
+    <string name="difficulty_hard">Svær</string>
+    <string name="difficulty_impossible">Umulig</string>
+    <string name="difficulty_limited">Begrænset</string>
+    <string name="difficulty_easy_summary">Dette repræsenterer det laveste niveau af sværhedsgrad. Tjenester i denne sektion kræver en forholdsvis lille — hvis ikke ubetydelig — indsats for at slette din konto.</string>
+    <string name="difficulty_medium_summary">Dette repræsenterer et mellemniveau af sværhedsgrad. Tjenester i denne sektion kan kræve, at du foretager ekstra trin, før du kan slette din konto.</string>
+    <string name="difficulty_hard_summary">Dette repræsenterer et højt niveau af sværhedsgrad. Tjenester i denne sektion kan kræve, at du kontakter kundeservice eller den juridiske afdeling for at få din konto slettet.</string>
+    <string name="difficulty_impossible_summary">Dette repræsenterer det højeste niveau af sværhedsgrad. Tjenester i denne sektion giver enten ingen mulighed for at slette din konto eller tillader kun, at en lille del af dine data slettes.</string>
+    <string name="difficulty_limited_summary">Dette repræsenterer en sværhedsgrad, der afhænger af eksterne faktorer. For eksempel kan tjenester i denne sektion kun tillade sletning af konto, hvis du bor i et område, der er dækket af lokale love om databeskyttelse.</string>
+    <string name="settings">Indstillinger</string>
+    <string name="websites">Hjemmesider</string>
+    <string name="browse">Gennemse</string>
+    <string name="search">Søg</string>
+    <string name="search_entry">Søg efter post</string>
+    <string name="pref_title_appearance">Udseende</string>
+    <string name="pref_title_app_theme">Tema</string>
+    <string name="pref_summary_app_theme">Skift mellem mørkt og lyst tema</string>
+    <string name="pref_entry_follow_system">Følg systemet</string>
+    <string name="pref_entry_dark">Mørkt</string>
+    <string name="pref_entry_ligth">Lyst</string>
+</resources>

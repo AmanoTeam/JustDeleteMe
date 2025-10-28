@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">难度等级</string>
+    <string name="got_it">明白了</string>
+    <string name="send_email">发送邮件</string>
+    <string name="open_website">打开网站</string>
+    <string name="notes">备注</string>
+    <string name="no_notes_available">此条目没有可用的备注。</string>
+    <string name="copied_to_clipboard">已复制到剪贴板</string>
+    <string name="difficulty_easy">简单</string>
+    <string name="difficulty_medium">中等</string>
+    <string name="difficulty_hard">困难</string>
+    <string name="difficulty_impossible">不可能</string>
+    <string name="difficulty_limited">有限</string>
+    <string name="difficulty_easy_summary">这表示最低难度等级。本部分的服务删除账户所需的努力相对较少——如果不是微不足道的话。</string>
+    <string name="difficulty_medium_summary">这表示中等难度等级。本部分的服务可能需要您在删除账户前采取额外步骤。</string>
+    <string name="difficulty_hard_summary">这表示高难度等级。本部分的服务可能需要您联系客户支持或法务部门以删除账户。</string>
+    <string name="difficulty_impossible_summary">这表示最高难度等级。本部分的服务要么不提供删除账户的方式，要么只允许删除一小部分数据。</string>
+    <string name="difficulty_limited_summary">这表示难度等级取决于外部因素。例如，本部分的服务可能只允许在您所在的地区受当地隐私保护法律覆盖时删除账户。</string>
+    <string name="settings">设置</string>
+    <string name="websites">网站</string>
+    <string name="browse">浏览</string>
+    <string name="search">搜索</string>
+    <string name="search_entry">搜索条目</string>
+    <string name="pref_title_appearance">外观</string>
+    <string name="pref_title_app_theme">主题</string>
+    <string name="pref_summary_app_theme">在深色和浅色主题之间切换</string>
+    <string name="pref_entry_follow_system">跟随系统</string>
+    <string name="pref_entry_dark">深色</string>
+    <string name="pref_entry_ligth">浅色</string>
+</resources>

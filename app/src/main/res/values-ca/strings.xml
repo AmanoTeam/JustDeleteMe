@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Nivell de dificultat</string>
+    <string name="got_it">Entesos</string>
+    <string name="send_email">Envia correu electrònic</string>
+    <string name="open_website">Obre el lloc web</string>
+    <string name="notes">Notes</string>
+    <string name="no_notes_available">No hi ha notes disponibles per a aquesta entrada.</string>
+    <string name="copied_to_clipboard">Copiat al porta-retalls</string>
+    <string name="difficulty_easy">Fàcil</string>
+    <string name="difficulty_medium">Mitjà</string>
+    <string name="difficulty_hard">Difícil</string>
+    <string name="difficulty_impossible">Impossible</string>
+    <string name="difficulty_limited">Limitat</string>
+    <string name="difficulty_easy_summary">Això representa el nivell més baix de dificultat. Els serveis en aquesta secció requereixen un esforç relativament baix —si no trivial— per suprimir el teu compte.</string>
+    <string name="difficulty_medium_summary">Això representa un nivell mitjà de dificultat. Els serveis en aquesta secció poden requerir que facis passos addicionals abans de suprimir el teu compte.</string>
+    <string name="difficulty_hard_summary">Això representa un nivell alt de dificultat. Els serveis en aquesta secció poden requerir que contactis amb l’atenció al client o amb el departament legal per poder suprimir el teu compte.</string>
+    <string name="difficulty_impossible_summary">Això representa el nivell més alt de dificultat. Els serveis en aquesta secció no ofereixen cap mitjà per suprimir el teu compte o només permeten suprimir una petita part de les teves dades.</string>
+    <string name="difficulty_limited_summary">Això representa un nivell de dificultat depenent de factors externs. Per exemple, els serveis en aquesta secció poden permetre suprimir el compte només si vius en una regió coberta per lleis locals de protecció de la privacitat.</string>
+    <string name="settings">Configuració</string>
+    <string name="websites">Llocs web</string>
+    <string name="browse">Explora</string>
+    <string name="search">Cerca</string>
+    <string name="search_entry">Cerca entrada</string>
+    <string name="pref_title_appearance">Aparença</string>
+    <string name="pref_title_app_theme">Tema</string>
+    <string name="pref_summary_app_theme">Canvia entre els temes fosc i clar</string>
+    <string name="pref_entry_follow_system">Segueix el sistema</string>
+    <string name="pref_entry_dark">Fosc</string>
+    <string name="pref_entry_ligth">Clar</string>
+</resources>

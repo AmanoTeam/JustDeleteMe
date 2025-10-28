@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">難度等級</string>
+    <string name="got_it">明白了</string>
+    <string name="send_email">發送電子郵件</string>
+    <string name="open_website">打開網站</string>
+    <string name="notes">備註</string>
+    <string name="no_notes_available">此條目沒有可用的備註。</string>
+    <string name="copied_to_clipboard">已複製到剪貼簿</string>
+    <string name="difficulty_easy">簡單</string>
+    <string name="difficulty_medium">中等</string>
+    <string name="difficulty_hard">困難</string>
+    <string name="difficulty_impossible">不可能</string>
+    <string name="difficulty_limited">有限</string>
+    <string name="difficulty_easy_summary">這表示最低難度等級。本部分的服務刪除帳號所需的努力相對較少——如果不是微不足道的話。</string>
+    <string name="difficulty_medium_summary">這表示中等難度等級。本部分的服務可能需要您在刪除帳號前採取額外步驟。</string>
+    <string name="difficulty_hard_summary">這表示高難度等級。本部分的服務可能需要您聯絡客服或法務部門以刪除帳號。</string>
+    <string name="difficulty_impossible_summary">這表示最高難度等級。本部分的服務要麼不提供刪除帳號的方式，要麼僅允許刪除一小部分資料。</string>
+    <string name="difficulty_limited_summary">這表示難度等級取決於外部因素。例如，本部分的服務可能只允許在您所在的地區受當地隱私保護法規範時刪除帳號。</string>
+    <string name="settings">設定</string>
+    <string name="websites">網站</string>
+    <string name="browse">瀏覽</string>
+    <string name="search">搜尋</string>
+    <string name="search_entry">搜尋條目</string>
+    <string name="pref_title_appearance">外觀</string>
+    <string name="pref_title_app_theme">主題</string>
+    <string name="pref_summary_app_theme">在深色與淺色主題之間切換</string>
+    <string name="pref_entry_follow_system">跟隨系統</string>
+    <string name="pref_entry_dark">深色</string>
+    <string name="pref_entry_ligth">淺色</string>
+</resources>

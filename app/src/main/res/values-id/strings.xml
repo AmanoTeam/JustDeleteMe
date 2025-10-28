@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Tingkat kesulitan</string>
+    <string name="got_it">Mengerti</string>
+    <string name="send_email">Kirim email</string>
+    <string name="open_website">Buka situs web</string>
+    <string name="notes">Catatan</string>
+    <string name="no_notes_available">Tidak ada catatan yang tersedia untuk entri ini.</string>
+    <string name="copied_to_clipboard">Disalin ke papan klip</string>
+    <string name="difficulty_easy">Mudah</string>
+    <string name="difficulty_medium">Sedang</string>
+    <string name="difficulty_hard">Sulit</string>
+    <string name="difficulty_impossible">Tidak mungkin</string>
+    <string name="difficulty_limited">Terbatas</string>
+    <string name="difficulty_easy_summary">Ini menunjukkan tingkat kesulitan terendah. Layanan dalam bagian ini membutuhkan upaya yang relatif rendah — jika tidak sepele — untuk menghapus akun Anda.</string>
+    <string name="difficulty_medium_summary">Ini menunjukkan tingkat kesulitan menengah. Layanan dalam bagian ini mungkin mengharuskan Anda mengambil langkah tambahan sebelum menghapus akun Anda.</string>
+    <string name="difficulty_hard_summary">Ini menunjukkan tingkat kesulitan tinggi. Layanan dalam bagian ini mungkin mengharuskan Anda menghubungi dukungan konsumen atau departemen hukum untuk menghapus akun Anda.</string>
+    <string name="difficulty_impossible_summary">Ini menunjukkan tingkat kesulitan tertinggi. Layanan dalam bagian ini tidak menyediakan cara untuk menghapus akun Anda atau hanya memungkinkan sebagian kecil data yang dihapus.</string>
+    <string name="difficulty_limited_summary">Ini menunjukkan tingkat kesulitan yang tergantung pada faktor eksternal. Misalnya, layanan dalam bagian ini mungkin hanya memungkinkan penghapusan akun jika Anda tinggal di wilayah yang tercakup oleh undang-undang perlindungan privasi lokal.</string>
+    <string name="settings">Pengaturan</string>
+    <string name="websites">Situs web</string>
+    <string name="browse">Jelajahi</string>
+    <string name="search">Cari</string>
+    <string name="search_entry">Cari entri</string>
+    <string name="pref_title_appearance">Tampilan</string>
+    <string name="pref_title_app_theme">Tema</string>
+    <string name="pref_summary_app_theme">Beralih antara tema gelap dan terang</string>
+    <string name="pref_entry_follow_system">Ikuti sistem</string>
+    <string name="pref_entry_dark">Gelap</string>
+    <string name="pref_entry_ligth">Terang</string>
+</resources>

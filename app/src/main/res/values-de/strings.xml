@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Schwierigkeitsgrad</string>
+    <string name="got_it">Verstanden</string>
+    <string name="send_email">E-Mail senden</string>
+    <string name="open_website">Webseite öffnen</string>
+    <string name="notes">Notizen</string>
+    <string name="no_notes_available">Für diesen Eintrag sind keine Notizen verfügbar.</string>
+    <string name="copied_to_clipboard">In die Zwischenablage kopiert</string>
+    <string name="difficulty_easy">Einfach</string>
+    <string name="difficulty_medium">Mittel</string>
+    <string name="difficulty_hard">Schwierig</string>
+    <string name="difficulty_impossible">Unmöglich</string>
+    <string name="difficulty_limited">Eingeschränkt</string>
+    <string name="difficulty_easy_summary">Dies stellt den niedrigsten Schwierigkeitsgrad dar. Dienste in diesem Abschnitt erfordern nur geringen — wenn überhaupt nennenswerten — Aufwand, um dein Konto zu löschen.</string>
+    <string name="difficulty_medium_summary">Dies stellt einen mittleren Schwierigkeitsgrad dar. Dienste in diesem Abschnitt können zusätzliche Schritte erfordern, bevor dein Konto gelöscht werden kann.</string>
+    <string name="difficulty_hard_summary">Dies stellt einen hohen Schwierigkeitsgrad dar. Dienste in diesem Abschnitt können erfordern, dass du den Kundendienst oder die Rechtsabteilung kontaktierst, um dein Konto löschen zu lassen.</string>
+    <string name="difficulty_impossible_summary">Dies stellt den höchsten Schwierigkeitsgrad dar. Dienste in diesem Abschnitt bieten entweder keine Möglichkeit, dein Konto zu löschen, oder erlauben nur das Entfernen eines kleinen Teils deiner Daten.</string>
+    <string name="difficulty_limited_summary">Dies stellt einen Schwierigkeitsgrad dar, der von externen Faktoren abhängt. Zum Beispiel können Dienste in diesem Abschnitt das Löschen eines Kontos nur erlauben, wenn du in einer Region mit lokalen Datenschutzgesetzen lebst.</string>
+    <string name="settings">Einstellungen</string>
+    <string name="websites">Webseiten</string>
+    <string name="browse">Durchsuchen</string>
+    <string name="search">Suche</string>
+    <string name="search_entry">Eintrag suchen</string>
+    <string name="pref_title_appearance">Darstellung</string>
+    <string name="pref_title_app_theme">Design</string>
+    <string name="pref_summary_app_theme">Zwischen dunklem und hellem Design wechseln</string>
+    <string name="pref_entry_follow_system">Systemeinstellung folgen</string>
+    <string name="pref_entry_dark">Dunkel</string>
+    <string name="pref_entry_ligth">Hell</string>
+</resources>

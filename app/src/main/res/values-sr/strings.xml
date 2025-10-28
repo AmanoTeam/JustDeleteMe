@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Nivo težine</string>
+    <string name="got_it">Razumem</string>
+    <string name="send_email">Pošalji e-mail</string>
+    <string name="open_website">Otvori sajt</string>
+    <string name="notes">Beleške</string>
+    <string name="no_notes_available">Za ovaj unos nema dostupnih beleški.</string>
+    <string name="copied_to_clipboard">Kopirano u clipboard</string>
+    <string name="difficulty_easy">Lako</string>
+    <string name="difficulty_medium">Srednje</string>
+    <string name="difficulty_hard">Teško</string>
+    <string name="difficulty_impossible">Nemoguće</string>
+    <string name="difficulty_limited">Ograničeno</string>
+    <string name="difficulty_easy_summary">Ovo predstavlja najniži nivo težine. Usluge u ovoj sekciji zahtevaju relativno malo — ako ne i trivijalno — truda za brisanje naloga.</string>
+    <string name="difficulty_medium_summary">Ovo predstavlja srednji nivo težine. Usluge u ovoj sekciji mogu zahtevati dodatne korake pre nego što obrišete nalog.</string>
+    <string name="difficulty_hard_summary">Ovo predstavlja visok nivo težine. Usluge u ovoj sekciji mogu zahtevati kontaktiranje korisničke podrške ili pravnog odeljenja da bi vaš nalog bio obrisan.</string>
+    <string name="difficulty_impossible_summary">Ovo predstavlja najviši nivo težine. Usluge u ovoj sekciji ili ne omogućavaju brisanje naloga, ili dozvoljavaju brisanje samo malog dela podataka.</string>
+    <string name="difficulty_limited_summary">Ovo predstavlja nivo težine koji zavisi od spoljašnjih faktora. Na primer, usluge u ovoj sekciji mogu omogućiti brisanje naloga samo ako živite u regionu pokrivenom lokalnim zakonima o zaštiti privatnosti.</string>
+    <string name="settings">Podešavanja</string>
+    <string name="websites">Sajtovi</string>
+    <string name="browse">Pregledaj</string>
+    <string name="search">Pretraži</string>
+    <string name="search_entry">Pretraži unos</string>
+    <string name="pref_title_appearance">Izgled</string>
+    <string name="pref_title_app_theme">Tema</string>
+    <string name="pref_summary_app_theme">Prebaci između tamne i svetle teme</string>
+    <string name="pref_entry_follow_system">Prati sistem</string>
+    <string name="pref_entry_dark">Tamna</string>
+    <string name="pref_entry_ligth">Svetla</string>
+</resources>

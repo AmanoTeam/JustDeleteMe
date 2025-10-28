@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">مستوى الصعوبة</string>
+    <string name="got_it">تم</string>
+    <string name="send_email">إرسال بريد إلكتروني</string>
+    <string name="open_website">فتح الموقع</string>
+    <string name="notes">ملاحظات</string>
+    <string name="no_notes_available">لا توجد ملاحظات متاحة لهذا الإدخال.</string>
+    <string name="copied_to_clipboard">تم النسخ إلى الحافظة</string>
+    <string name="difficulty_easy">سهل</string>
+    <string name="difficulty_medium">متوسط</string>
+    <string name="difficulty_hard">صعب</string>
+    <string name="difficulty_impossible">مستحيل</string>
+    <string name="difficulty_limited">محدود</string>
+    <string name="difficulty_easy_summary">يمثل هذا أدنى مستوى من الصعوبة. تتطلب الخدمات في هذا القسم جهدًا بسيطًا — إن لم يكن تافهًا — لحذف حسابك.</string>
+    <string name="difficulty_medium_summary">يمثل هذا مستوى متوسطًا من الصعوبة. قد تتطلب الخدمات في هذا القسم اتخاذ خطوات إضافية قبل حذف حسابك.</string>
+    <string name="difficulty_hard_summary">يمثل هذا مستوى عاليًا من الصعوبة. قد تتطلب الخدمات في هذا القسم التواصل مع دعم العملاء أو القسم القانوني لحذف حسابك.</string>
+    <string name="difficulty_impossible_summary">يمثل هذا أعلى مستوى من الصعوبة. إما أن الخدمات في هذا القسم لا توفر وسيلة لحذف حسابك، أو تسمح بحذف جزء صغير فقط من بياناتك.</string>
+    <string name="difficulty_limited_summary">يمثل هذا مستوى من الصعوبة يعتمد على عوامل خارجية. على سبيل المثال، قد تسمح الخدمات في هذا القسم بحذف الحساب فقط إذا كنت تعيش في منطقة تخضع لقوانين محلية لحماية الخصوصية.</string>
+    <string name="settings">الإعدادات</string>
+    <string name="websites">المواقع</string>
+    <string name="browse">تصفح</string>
+    <string name="search">بحث</string>
+    <string name="search_entry">بحث عن إدخال</string>
+    <string name="pref_title_appearance">المظهر</string>
+    <string name="pref_title_app_theme">السمة</string>
+    <string name="pref_summary_app_theme">التبديل بين السمة الداكنة والفاتحة</string>
+    <string name="pref_entry_follow_system">اتّباع النظام</string>
+    <string name="pref_entry_dark">داكن</string>
+    <string name="pref_entry_ligth">فاتح</string>
+</resources>

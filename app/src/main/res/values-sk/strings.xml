@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Úroveň obtiažnosti</string>
+    <string name="got_it">Rozumiem</string>
+    <string name="send_email">Odoslať e-mail</string>
+    <string name="open_website">Otvoriť webovú stránku</string>
+    <string name="notes">Poznámky</string>
+    <string name="no_notes_available">Pre tento záznam nie sú k dispozícii žiadne poznámky.</string>
+    <string name="copied_to_clipboard">Skopírované do schránky</string>
+    <string name="difficulty_easy">Jednoduché</string>
+    <string name="difficulty_medium">Stredné</string>
+    <string name="difficulty_hard">Ťažké</string>
+    <string name="difficulty_impossible">Nemožné</string>
+    <string name="difficulty_limited">Obmedzené</string>
+    <string name="difficulty_easy_summary">Toto predstavuje najnižšiu úroveň obtiažnosti. Služby v tejto sekcii vyžadujú relatívne malé — ak nie zanedbateľné — úsilie na vymazanie vášho účtu.</string>
+    <string name="difficulty_medium_summary">Toto predstavuje strednú úroveň obtiažnosti. Služby v tejto sekcii môžu vyžadovať ďalšie kroky pred vymazaním účtu.</string>
+    <string name="difficulty_hard_summary">Toto predstavuje vysokú úroveň obtiažnosti. Služby v tejto sekcii môžu vyžadovať kontaktovanie zákazníckej podpory alebo právneho oddelenia, aby bol váš účet vymazaný.</string>
+    <string name="difficulty_impossible_summary">Toto predstavuje najvyššiu úroveň obtiažnosti. Služby v tejto sekcii buď neposkytujú možnosť vymazania účtu, alebo umožňujú vymazať len malú časť údajov.</string>
+    <string name="difficulty_limited_summary">Toto predstavuje úroveň obtiažnosti závislú od externých faktorov. Napríklad služby v tejto sekcii môžu umožniť vymazanie účtu len v prípade, že žijete v oblasti podliehajúcej miestnym zákonom o ochrane súkromia.</string>
+    <string name="settings">Nastavenia</string>
+    <string name="websites">Webové stránky</string>
+    <string name="browse">Prehliadať</string>
+    <string name="search">Hľadať</string>
+    <string name="search_entry">Hľadať záznam</string>
+    <string name="pref_title_appearance">Vzhľad</string>
+    <string name="pref_title_app_theme">Téma</string>
+    <string name="pref_summary_app_theme">Prepínať medzi tmavou a svetlou témou</string>
+    <string name="pref_entry_follow_system">Sledovať systém</string>
+    <string name="pref_entry_dark">Tmavá</string>
+    <string name="pref_entry_ligth">Svetlá</string>
+</resources>

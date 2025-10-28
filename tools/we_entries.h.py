@@ -208,6 +208,8 @@ for (key, value) in knotes.items():
 		key
 			.replace("-PT", "-rPT")
 			.replace("-BR", "-rBR")
+			.replace("-CN", "-rCN")
+			.replace("-TW", "-rTW")
 	)
 	
 	name = "values" if (code == "en-US") else ("values-%s" % (code))

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Niveau de difficulté</string>
+    <string name="got_it">Compris</string>
+    <string name="send_email">Envoyer un e-mail</string>
+    <string name="open_website">Ouvrir le site</string>
+    <string name="notes">Notes</string>
+    <string name="no_notes_available">Aucune note n\'est disponible pour cette entrée.</string>
+    <string name="copied_to_clipboard">Copié dans le presse-papiers</string>
+    <string name="difficulty_easy">Facile</string>
+    <string name="difficulty_medium">Moyen</string>
+    <string name="difficulty_hard">Difficile</string>
+    <string name="difficulty_impossible">Impossible</string>
+    <string name="difficulty_limited">Limité</string>
+    <string name="difficulty_easy_summary">Cela représente le niveau de difficulté le plus bas. Les services de cette section nécessitent un effort relativement faible — voire trivial — pour supprimer votre compte.</string>
+    <string name="difficulty_medium_summary">Cela représente un niveau de difficulté moyen. Les services de cette section peuvent exiger que vous effectuiez des étapes supplémentaires avant de supprimer votre compte.</string>
+    <string name="difficulty_hard_summary">Cela représente un niveau de difficulté élevé. Les services de cette section peuvent exiger que vous contactiez le support client ou le service juridique pour supprimer votre compte.</string>
+    <string name="difficulty_impossible_summary">Cela représente le niveau de difficulté le plus élevé. Les services de cette section ne permettent soit aucune suppression de compte, soit seulement la suppression d\'une petite partie des données.</string>
+    <string name="difficulty_limited_summary">Cela représente un niveau de difficulté dépendant de facteurs externes. Par exemple, les services de cette section peuvent n’autoriser la suppression de compte que si vous résidez dans une région couverte par les lois locales de protection de la vie privée.</string>
+    <string name="settings">Paramètres</string>
+    <string name="websites">Sites Web</string>
+    <string name="browse">Parcourir</string>
+    <string name="search">Rechercher</string>
+    <string name="search_entry">Rechercher une entrée</string>
+    <string name="pref_title_appearance">Apparence</string>
+    <string name="pref_title_app_theme">Thème</string>
+    <string name="pref_summary_app_theme">Basculer entre les thèmes clair et sombre</string>
+    <string name="pref_entry_follow_system">Suivre le système</string>
+    <string name="pref_entry_dark">Sombre</string>
+    <string name="pref_entry_ligth">Clair</string>
+</resources>

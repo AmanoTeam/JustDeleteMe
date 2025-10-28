@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Livello di difficoltà</string>
+    <string name="got_it">Capito</string>
+    <string name="send_email">Invia email</string>
+    <string name="open_website">Apri sito web</string>
+    <string name="notes">Note</string>
+    <string name="no_notes_available">Non ci sono note disponibili per questa voce.</string>
+    <string name="copied_to_clipboard">Copiato negli appunti</string>
+    <string name="difficulty_easy">Facile</string>
+    <string name="difficulty_medium">Media</string>
+    <string name="difficulty_hard">Difficile</string>
+    <string name="difficulty_impossible">Impossibile</string>
+    <string name="difficulty_limited">Limitato</string>
+    <string name="difficulty_easy_summary">Rappresenta il livello di difficoltà più basso. I servizi in questa sezione richiedono uno sforzo relativamente basso — se non minimo — per eliminare il tuo account.</string>
+    <string name="difficulty_medium_summary">Rappresenta un livello di difficoltà medio. I servizi in questa sezione potrebbero richiedere ulteriori passaggi prima di eliminare il tuo account.</string>
+    <string name="difficulty_hard_summary">Rappresenta un livello di difficoltà elevato. I servizi in questa sezione potrebbero richiedere di contattare il supporto clienti o il reparto legale per eliminare il tuo account.</string>
+    <string name="difficulty_impossible_summary">Rappresenta il livello di difficoltà più alto. I servizi in questa sezione non offrono alcun modo per eliminare il tuo account o consentono solo la cancellazione di una piccola parte dei dati.</string>
+    <string name="difficulty_limited_summary">Rappresenta un livello di difficoltà dipendente da fattori esterni. Ad esempio, i servizi in questa sezione potrebbero consentire l\'eliminazione dell\'account solo se vivi in una regione coperta dalle leggi locali sulla protezione della privacy.</string>
+    <string name="settings">Impostazioni</string>
+    <string name="websites">Siti web</string>
+    <string name="browse">Esplora</string>
+    <string name="search">Cerca</string>
+    <string name="search_entry">Cerca voce</string>
+    <string name="pref_title_appearance">Aspetto</string>
+    <string name="pref_title_app_theme">Tema</string>
+    <string name="pref_summary_app_theme">Passa tra temi scuro e chiaro</string>
+    <string name="pref_entry_follow_system">Segui sistema</string>
+    <string name="pref_entry_dark">Scuro</string>
+    <string name="pref_entry_ligth">Chiaro</string>
+</resources>

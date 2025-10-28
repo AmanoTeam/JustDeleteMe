@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Úroveň obtížnosti</string>
+    <string name="got_it">Rozumím</string>
+    <string name="send_email">Odeslat e-mail</string>
+    <string name="open_website">Otevřít web</string>
+    <string name="notes">Poznámky</string>
+    <string name="no_notes_available">Pro tento záznam nejsou k dispozici žádné poznámky.</string>
+    <string name="copied_to_clipboard">Zkopírováno do schránky</string>
+    <string name="difficulty_easy">Snadné</string>
+    <string name="difficulty_medium">Střední</string>
+    <string name="difficulty_hard">Obtížné</string>
+    <string name="difficulty_impossible">Nemožné</string>
+    <string name="difficulty_limited">Omezené</string>
+    <string name="difficulty_easy_summary">Představuje nejnižší úroveň obtížnosti. Služby v této sekci vyžadují poměrně málo — nebo dokonce zanedbatelné — úsilí k odstranění vašeho účtu.</string>
+    <string name="difficulty_medium_summary">Představuje střední úroveň obtížnosti. Služby v této sekci mohou vyžadovat provedení dalších kroků před odstraněním vašeho účtu.</string>
+    <string name="difficulty_hard_summary">Představuje vysokou úroveň obtížnosti. Služby v této sekci mohou vyžadovat, abyste kontaktovali zákaznickou podporu nebo právní oddělení, aby byl váš účet odstraněn.</string>
+    <string name="difficulty_impossible_summary">Představuje nejvyšší úroveň obtížnosti. Služby v této sekci buď neposkytují žádný způsob odstranění účtu, nebo umožňují smazat pouze malou část vašich dat.</string>
+    <string name="difficulty_limited_summary">Představuje úroveň obtížnosti závislou na vnějších faktorech. Například služby v této sekci mohou umožnit odstranění účtu pouze tehdy, pokud žijete v oblasti pokryté místními zákony na ochranu soukromí.</string>
+    <string name="settings">Nastavení</string>
+    <string name="websites">Webové stránky</string>
+    <string name="browse">Procházet</string>
+    <string name="search">Hledat</string>
+    <string name="search_entry">Hledat záznam</string>
+    <string name="pref_title_appearance">Vzhled</string>
+    <string name="pref_title_app_theme">Motiv</string>
+    <string name="pref_summary_app_theme">Přepínejte mezi tmavým a světlým motivem</string>
+    <string name="pref_entry_follow_system">Podle systému</string>
+    <string name="pref_entry_dark">Tmavý</string>
+    <string name="pref_entry_ligth">Světlý</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">سطح سختی</string>
+    <string name="got_it">فهمیدم</string>
+    <string name="send_email">ارسال ایمیل</string>
+    <string name="open_website">باز کردن وب‌سایت</string>
+    <string name="notes">یادداشت‌ها</string>
+    <string name="no_notes_available">هیچ یادداشتی برای این مورد در دسترس نیست.</string>
+    <string name="copied_to_clipboard">در کلیپ‌بورد کپی شد</string>
+    <string name="difficulty_easy">آسان</string>
+    <string name="difficulty_medium">متوسط</string>
+    <string name="difficulty_hard">سخت</string>
+    <string name="difficulty_impossible">غیرممکن</string>
+    <string name="difficulty_limited">محدود</string>
+    <string name="difficulty_easy_summary">این نشان‌دهنده پایین‌ترین سطح سختی است. خدمات این بخش برای حذف حساب کاربری شما به تلاش نسبتاً کمی — یا حتی ناچیز — نیاز دارند.</string>
+    <string name="difficulty_medium_summary">این نشان‌دهنده سطح متوسط سختی است. خدمات این بخش ممکن است از شما بخواهند قبل از حذف حساب خود، چند مرحله اضافی را انجام دهید.</string>
+    <string name="difficulty_hard_summary">این نشان‌دهنده سطح بالای سختی است. خدمات این بخش ممکن است از شما بخواهند برای حذف حساب خود با پشتیبانی مشتری یا بخش حقوقی تماس بگیرید.</string>
+    <string name="difficulty_impossible_summary">این نشان‌دهنده بالاترین سطح سختی است. خدمات این بخش یا هیچ روشی برای حذف حساب ارائه نمی‌دهند یا فقط اجازه می‌دهند بخش کوچکی از داده‌ها حذف شود.</string>
+    <string name="difficulty_limited_summary">این نشان‌دهنده سطحی از سختی است که به عوامل خارجی بستگی دارد. برای مثال، خدمات این بخش ممکن است فقط در صورتی اجازه حذف حساب را بدهند که در منطقه‌ای با قوانین محلی حفاظت از حریم خصوصی زندگی کنید.</string>
+    <string name="settings">تنظیمات</string>
+    <string name="websites">وب‌سایت‌ها</string>
+    <string name="browse">مرور</string>
+    <string name="search">جستجو</string>
+    <string name="search_entry">جستجوی مورد</string>
+    <string name="pref_title_appearance">ظاهر</string>
+    <string name="pref_title_app_theme">تم</string>
+    <string name="pref_summary_app_theme">تغییر بین تم تیره و روشن</string>
+    <string name="pref_entry_follow_system">مطابق سیستم</string>
+    <string name="pref_entry_dark">تیره</string>
+    <string name="pref_entry_ligth">روشن</string>
+</resources>

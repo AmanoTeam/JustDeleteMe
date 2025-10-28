@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Zorluk seviyesi</string>
+    <string name="got_it">Tamam</string>
+    <string name="send_email">E-posta gönder</string>
+    <string name="open_website">Web sitesini aç</string>
+    <string name="notes">Notlar</string>
+    <string name="no_notes_available">Bu giriş için mevcut not bulunmamaktadır.</string>
+    <string name="copied_to_clipboard">Panoya kopyalandı</string>
+    <string name="difficulty_easy">Kolay</string>
+    <string name="difficulty_medium">Orta</string>
+    <string name="difficulty_hard">Zor</string>
+    <string name="difficulty_impossible">İmkansız</string>
+    <string name="difficulty_limited">Sınırlı</string>
+    <string name="difficulty_easy_summary">Bu en düşük zorluk seviyesini temsil eder. Bu bölümdeki hizmetler, hesabınızı silmek için görece az — hatta önemsiz — çaba gerektirir.</string>
+    <string name="difficulty_medium_summary">Bu orta zorluk seviyesini temsil eder. Bu bölümdeki hizmetler, hesabınızı silmeden önce ek adımlar atmanızı gerektirebilir.</string>
+    <string name="difficulty_hard_summary">Bu yüksek zorluk seviyesini temsil eder. Bu bölümdeki hizmetler, hesabınızın silinmesi için müşteri desteği veya hukuk departmanı ile iletişime geçmenizi gerektirebilir.</string>
+    <string name="difficulty_impossible_summary">Bu en yüksek zorluk seviyesini temsil eder. Bu bölümdeki hizmetler, ya hesabınızın silinmesine izin vermez ya da yalnızca verilerin küçük bir kısmının silinmesine izin verir.</string>
+    <string name="difficulty_limited_summary">Bu zorluk seviyesi, dış etkenlere bağlıdır. Örneğin, bu bölümdeki hizmetler yalnızca, yerel gizlilik yasaları tarafından kapsanan bir bölgede yaşıyorsanız hesabın silinmesine izin verebilir.</string>
+    <string name="settings">Ayarlar</string>
+    <string name="websites">Web siteleri</string>
+    <string name="browse">Gözat</string>
+    <string name="search">Ara</string>
+    <string name="search_entry">Giriş ara</string>
+    <string name="pref_title_appearance">Görünüm</string>
+    <string name="pref_title_app_theme">Tema</string>
+    <string name="pref_summary_app_theme">Koyu ve açık temalar arasında geçiş yap</string>
+    <string name="pref_entry_follow_system">Sistemi izle</string>
+    <string name="pref_entry_dark">Koyu</string>
+    <string name="pref_entry_ligth">Açık</string>
+</resources>

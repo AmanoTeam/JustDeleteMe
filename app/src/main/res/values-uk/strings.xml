@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="level_of_difficulty">Рівень складності</string>
+    <string name="got_it">Зрозуміло</string>
+    <string name="send_email">Надіслати електронного листа</string>
+    <string name="open_website">Відкрити сайт</string>
+    <string name="notes">Нотатки</string>
+    <string name="no_notes_available">Для цього запису нотаток немає.</string>
+    <string name="copied_to_clipboard">Скопійовано в буфер обміну</string>
+    <string name="difficulty_easy">Легко</string>
+    <string name="difficulty_medium">Середньо</string>
+    <string name="difficulty_hard">Важко</string>
+    <string name="difficulty_impossible">Неможливо</string>
+    <string name="difficulty_limited">Обмежено</string>
+    <string name="difficulty_easy_summary">Це представляє найнижчий рівень складності. Послуги в цьому розділі вимагають відносно невеликої — або навіть мінімальної — кількості зусиль для видалення облікового запису.</string>
+    <string name="difficulty_medium_summary">Це представляє середній рівень складності. Послуги в цьому розділі можуть вимагати додаткових кроків перед видаленням облікового запису.</string>
+    <string name="difficulty_hard_summary">Це представляє високий рівень складності. Послуги в цьому розділі можуть вимагати звернення до служби підтримки або юридичного відділу для видалення облікового запису.</string>
+    <string name="difficulty_impossible_summary">Це представляє найвищий рівень складності. Послуги в цьому розділі або не надають можливості видалити обліковий запис, або дозволяють видалити лише невелику частину даних.</string>
+    <string name="difficulty_limited_summary">Це рівень складності, що залежить від зовнішніх факторів. Наприклад, послуги в цьому розділі можуть дозволяти видалення облікового запису лише якщо ви проживаєте в регіоні, де діють місцеві закони про захист конфіденційності.</string>
+    <string name="settings">Налаштування</string>
+    <string name="websites">Сайти</string>
+    <string name="browse">Перегляд</string>
+    <string name="search">Пошук</string>
+    <string name="search_entry">Пошук запису</string>
+    <string name="pref_title_appearance">Зовнішній вигляд</string>
+    <string name="pref_title_app_theme">Тема</string>
+    <string name="pref_summary_app_theme">Перемикання між темною та світлою темами</string>
+    <string name="pref_entry_follow_system">За системою</string>
+    <string name="pref_entry_dark">Темна</string>
+    <string name="pref_entry_ligth">Світла</string>
+</resources>
