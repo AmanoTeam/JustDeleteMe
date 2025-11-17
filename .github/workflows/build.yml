@@ -36,6 +36,8 @@ jobs:
       run: |
         ndk-patch
     - name: Build Android project
+      env: 
+        PINO_LTO: full
       run: |
         ./gradlew --warning-mode 'all' --no-daemon 'assembleRelease'
     - name: Upload artifact
