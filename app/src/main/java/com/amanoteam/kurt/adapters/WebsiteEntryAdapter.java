@@ -2,6 +2,7 @@ package com.amanoteam.kurt.adapters;
 
 import android.content.Context;
 import android.graphics.Typeface;
+import android.os.Build;
 import android.os.Handler;
 import android.os.Looper;
 import android.text.method.LinkMovementMethod;
@@ -48,7 +49,10 @@ final class WebsiteEntryViewHolder extends ViewHolder {
 		
 		name.setOnLongClickListener((final View itemView) -> {
 			PackageUtils.copyToClipboard(context, name.getText().toString());
-			PackageUtils.showSnackbar(view, context.getString(R.string.copied_to_clipboard));
+			
+			if (Build.VERSION.SDK_INT < Build.VERSION_CODES.S) {
+				PackageUtils.showSnackbar(view, context.getString(R.string.copied_to_clipboard));
+			}
 			
 			return true;
 		});
