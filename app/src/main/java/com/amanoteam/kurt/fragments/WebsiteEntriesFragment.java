@@ -167,7 +167,4 @@ public class WebsiteEntriesFragment extends Fragment {
 		
 	}
 	
-	
-	
-	
 }

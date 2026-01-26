@@ -53,6 +53,8 @@ public class MainActivity extends AppCompatActivity {
 		final ActivityMainBinding binding = ActivityMainBinding.inflate(getLayoutInflater());
 		setContentView(binding.getRoot());
 		
+		final View fragmentContainer = findViewById(R.id.fragment_container_view);
+		
 		bottomNavigationView = binding.bottomNavigation;
 		
 		final FloatingActionButton button = findViewById(R.id.floating_action_button);
@@ -160,6 +162,20 @@ public class MainActivity extends AppCompatActivity {
 			);
 			
 			return insets;
+		});
+		
+		ViewCompat.setOnApplyWindowInsetsListener(fragmentContainer, (final View view, final WindowInsetsCompat insets) -> {
+			final Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
+			
+			view.setPadding(
+				view.getPaddingLeft(),
+				view.getPaddingTop(),
+				view.getPaddingRight(),
+				systemBars.bottom
+			);
+			
+			return insets;
+			
 		});
 	}
 	
