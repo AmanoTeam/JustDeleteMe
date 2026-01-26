@@ -75,8 +75,7 @@ ssize_t we_search(
 		}
 		
 		offset++;
-		printf("%s\n", entry->name);
-		printf("%s\n", entry->url);
+		
 		if (offset >= paging.maximum) {
 			break;
 		}

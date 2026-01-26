@@ -216,6 +216,8 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 				difficultyInfoText.setText(R.string.no_notes_available);
 			}
 			
+			difficultyInfoText.scrollTo(0, 0);
+			
 			difficultyInfoDialog.show();
 			
 			final AppCompatButton positiveButton = (AppCompatButton) difficultyInfoDialog.getButton(AlertDialog.BUTTON_POSITIVE);
