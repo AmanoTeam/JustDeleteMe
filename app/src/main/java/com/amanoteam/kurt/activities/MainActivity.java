@@ -115,10 +115,12 @@ public class MainActivity extends AppCompatActivity {
 			bottomNavigationBehavior.slideIn(bottomNavigationView, true);
 			
 			final int destinationId = destination.getId();
+			appBarLayout.setLiftOnScrollTargetViewId(View.NO_ID);
 			
 			if (destinationId == R.id.navigation_website_entries) {
 				button.setVisibility(View.VISIBLE);
 				floatingActionButtonBehavior.slideIn(button, true);
+				appBarLayout.setLiftOnScrollTargetViewId(R.id.website_entries);
 			} else {
 				button.setVisibility(View.GONE);
 			}
