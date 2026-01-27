@@ -1,16 +1,21 @@
 package com.amanoteam.kurt.fragments;
 
 import android.content.Context;
+import android.content.DialogInterface;
 import android.text.Editable;
 import android.text.TextWatcher;
 import android.view.ViewGroup;
 import android.view.inputmethod.InputMethodManager;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.view.Window;
 import android.os.Bundle;
 
 import androidx.coordinatorlayout.widget.CoordinatorLayout.LayoutParams;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
+import androidx.core.view.WindowInsetsControllerCompat;
+import androidx.core.view.WindowInsetsCompat;
+import androidx.core.view.WindowCompat;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentActivity;
 import androidx.lifecycle.ViewModelProvider;
@@ -93,6 +98,16 @@ public class WebsiteEntriesFragment extends Fragment {
 			.setPositiveButton(null, null)
 			.create();
 		
+		websiteEntrySearchDialog.setOnShowListener((final DialogInterface dialogInterface) -> {
+			websiteEntrySearchInput.requestFocus();
+			
+			websiteEntrySearchInput.post(() -> {
+				final Window window = websiteEntrySearchDialog.getWindow();
+				final WindowInsetsControllerCompat insetsController = WindowCompat.getInsetsController(window, websiteEntrySearchInput);
+				insetsController.show(WindowInsetsCompat.Type.ime());
+			});
+		});
+		
 		viewModel.websiteEntriesFragment = binding;
 		viewModel.libkurt = new LibKurt();
 		
@@ -146,14 +161,6 @@ public class WebsiteEntriesFragment extends Fragment {
 			searchButton.setOnClickListener(button -> {
 				websiteEntrySearchDialog.setTitle(R.string.search_entry);
 				websiteEntrySearchDialog.show();
-				
-				websiteEntrySearchInput.postDelayed(new Runnable() {
-					@Override
-					public void run() {
-						websiteEntrySearchInput.requestFocus();
-						inputMethodManager.showSoftInput(websiteEntrySearchInput, InputMethodManager.SHOW_IMPLICIT);
-					}
-				}, 100);
 			});
 		});
 		
