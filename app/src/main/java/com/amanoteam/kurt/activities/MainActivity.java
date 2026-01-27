@@ -2,6 +2,7 @@ package com.amanoteam.kurt.activities;
 
 import android.content.Context;
 import android.content.SharedPreferences;
+import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.IBinder;
@@ -46,6 +47,13 @@ public class MainActivity extends AppCompatActivity {
 	private AppBarLayout appBarLayout = null;
 	private BottomNavigationView bottomNavigationView = null;
 	
+	private OnSharedPreferenceChangeListener onSharedPreferenceChangeListener = (final SharedPreferences settings, final String key) -> {
+		if (key.equals("appTheme")) {
+			final String appTheme = settings.getString("appTheme", "follow_system");
+			PackageUtils.setAppTheme(appTheme);
+		}
+	};
+	
 	@Override
 	protected void onCreate(final Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -87,12 +95,7 @@ public class MainActivity extends AppCompatActivity {
 		setSupportActionBar(toolbar);
 		
 		final SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
-		preferences.registerOnSharedPreferenceChangeListener((final SharedPreferences settings, final String key) -> {
-			if (key.equals("appTheme")) {
-				final String appTheme = settings.getString("appTheme", "follow_system");
-				PackageUtils.setAppTheme(appTheme);
-			}
-		});
+		preferences.registerOnSharedPreferenceChangeListener(onSharedPreferenceChangeListener);
 		
 		viewModel = (
 			new ViewModelProvider(this)
@@ -179,6 +182,14 @@ public class MainActivity extends AppCompatActivity {
 			return insets;
 			
 		});
+	}
+	
+	@Override
+	public void onDestroy() {
+		final SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
+		preferences.unregisterOnSharedPreferenceChangeListener(onSharedPreferenceChangeListener);
+		
+		super.onDestroy();
 	}
 	
 	@Override
