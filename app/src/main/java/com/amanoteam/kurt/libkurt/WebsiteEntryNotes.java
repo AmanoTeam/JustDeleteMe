@@ -2439,6 +2439,19 @@ public class WebsiteEntryNotes {
 		R.string.entry_notes_0x97d,
 		R.string.entry_notes_0x97e,
 		R.string.entry_notes_0x97f,
+		R.string.entry_notes_0x980,
+		R.string.entry_notes_0x981,
+		R.string.entry_notes_0x982,
+		R.string.entry_notes_0x983,
+		R.string.entry_notes_0x984,
+		R.string.entry_notes_0x985,
+		R.string.entry_notes_0x986,
+		R.string.entry_notes_0x987,
+		R.string.entry_notes_0x988,
+		R.string.entry_notes_0x989,
+		R.string.entry_notes_0x98a,
+		R.string.entry_notes_0x98b,
+		R.string.entry_notes_0x98c,
 
 	};
 	

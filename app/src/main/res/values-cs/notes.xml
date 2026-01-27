@@ -2,18 +2,18 @@
 <resources>
     <string name="entry_notes_0x5e">Otevřete odkaz, posuňte se dolů a stiskněte tlačítko \"Žádost o výmaz osobních údajů\"</string>
     <string name="entry_notes_0xc3">Otevřete nastavení, přejděte dolů a zadejte své uživatelské jméno a smažte svůj účet.</string>
-    <string name="entry_notes_0x1f0">Musíte vyplnit formulář.</string>
-    <string name="entry_notes_0x266">Zeptají se vás na několik anketových otázek před smazáním účtu.</string>
-    <string name="entry_notes_0x29d">Zadejte jméno, e-mail a telefon. Vyberte \'Žádost o smazání účtu\' jako téma, vyplňte CAPTCHA a odešlete žádost.</string>
-    <string name="entry_notes_0x2aa">Přestože je jednoduché si smazat svůj účet, nějaké data včetně zpráv tam zůstanou navždy, jak je napsáno v Zásadách ochrany osobních údajů.</string>
-    <string name="entry_notes_0x3a1">Protože není k dispozici žádné tlačítko, musíte je kontaktovat prostřednictvím e-mailu. Čekací doba na jejich odpověď je naštěstí krátká, může se však u každého lišit.</string>
-    <string name="entry_notes_0x3b0">Napiěte e-mail na podporu s Vašim e-mailem a požádejte o smazání účtu</string>
-    <string name="entry_notes_0x4a8">Existují zprávy o tom, že LinkedIn pokračuje v posílání emailů i lidem se smazaným účtem. Možná budete potřebovat kontaktovat podpoře, aby vám účet smazali místo jeho uzavření.</string>
-    <string name="entry_notes_0x4d6">Protože není k dispozici žádné tlačítko, musíte je kontaktovat prostřednictvím e-mailu. Následně, po zařazení do jejich ticketového systému, záležitost brzy vyřeší, což se však může lišit od jedné osoby k druhé.</string>
-    <string name="entry_notes_0x505">Musíte zavolat na jejich číslo (v době psaní +420 222 703 143) а požádat o vymazání. Ignorovali můj e-mail.</string>
-    <string name="entry_notes_0x76f">Protože není k dispozici žádné tlačítko, musíte je kontaktovat prostřednictvím ticketu. Následně, po zařazení do jejich ticketového systému, záležitost brzy vyřeší, což se však může lišit od jedné osoby k druhé.</string>
-    <string name="entry_notes_0x819">Po přihlášení přejděte do nastavení účtu a přejděte do části „Delete Account“. Po stisknutí tlačítka „DELETE“ zadejte svůj e-mail a opětovným kliknutím na tlačítko potvrďte.</string>
-    <string name="entry_notes_0x894">Po přihlášení přejděte v nastavení Account do sekce „Manage“ a vyberte červené tlačítko „Delete“. Do kontextového pole zadejte „DELETE“ a ještě jednou potvrďte.</string>
-    <string name="entry_notes_0x93e">Váš účet je před smazáním deaktivován na 30 dní. Po uplynutí této doby bude smazán.</string>
-    <string name="entry_notes_0x954">Po přihlášení do aplikace navštivte na svém mobilním zařízení odkaz a postupujte podle uvedených pokynů.</string>
+    <string name="entry_notes_0x1f2">Musíte vyplnit formulář.</string>
+    <string name="entry_notes_0x268">Zeptají se vás na několik anketových otázek před smazáním účtu.</string>
+    <string name="entry_notes_0x29f">Zadejte jméno, e-mail a telefon. Vyberte \'Žádost o smazání účtu\' jako téma, vyplňte CAPTCHA a odešlete žádost.</string>
+    <string name="entry_notes_0x2ac">Přestože je jednoduché si smazat svůj účet, nějaké data včetně zpráv tam zůstanou navždy, jak je napsáno v Zásadách ochrany osobních údajů.</string>
+    <string name="entry_notes_0x3a3">Protože není k dispozici žádné tlačítko, musíte je kontaktovat prostřednictvím e-mailu. Čekací doba na jejich odpověď je naštěstí krátká, může se však u každého lišit.</string>
+    <string name="entry_notes_0x3b3">Napiěte e-mail na podporu s Vašim e-mailem a požádejte o smazání účtu</string>
+    <string name="entry_notes_0x4ad">Existují zprávy o tom, že LinkedIn pokračuje v posílání emailů i lidem se smazaným účtem. Možná budete potřebovat kontaktovat podpoře, aby vám účet smazali místo jeho uzavření.</string>
+    <string name="entry_notes_0x4dc">Protože není k dispozici žádné tlačítko, musíte je kontaktovat prostřednictvím e-mailu. Následně, po zařazení do jejich ticketového systému, záležitost brzy vyřeší, což se však může lišit od jedné osoby k druhé.</string>
+    <string name="entry_notes_0x50c">Musíte zavolat na jejich číslo (v době psaní +420 222 703 143) а požádat o vymazání. Ignorovali můj e-mail.</string>
+    <string name="entry_notes_0x778">Protože není k dispozici žádné tlačítko, musíte je kontaktovat prostřednictvím ticketu. Následně, po zařazení do jejich ticketového systému, záležitost brzy vyřeší, což se však může lišit od jedné osoby k druhé.</string>
+    <string name="entry_notes_0x823">Po přihlášení přejděte do nastavení účtu a přejděte do části „Delete Account“. Po stisknutí tlačítka „DELETE“ zadejte svůj e-mail a opětovným kliknutím na tlačítko potvrďte.</string>
+    <string name="entry_notes_0x89f">Po přihlášení přejděte v nastavení Account do sekce „Manage“ a vyberte červené tlačítko „Delete“. Do kontextového pole zadejte „DELETE“ a ještě jednou potvrďte.</string>
+    <string name="entry_notes_0x94b">Váš účet je před smazáním deaktivován na 30 dní. Po uplynutí této doby bude smazán.</string>
+    <string name="entry_notes_0x961">Po přihlášení do aplikace navštivte na svém mobilním zařízení odkaz a postupujte podle uvedených pokynů.</string>
 </resources>

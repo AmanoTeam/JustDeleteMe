@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="entry_notes_0xe4">De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando a remoção da conta.</string>
-    <string name="entry_notes_0x270">Acesse o perfil, clique em Account Settings e logo em seguida em Delete Account</string>
-    <string name="entry_notes_0x29d">Insira Nome, Email e Telefone. Selecione \'Pedido de eliminação de conta\' como tópico, complete o CAPTCHA e envie o pedido.</string>
-    <string name="entry_notes_0x55f">Ao se logar, clique no ícone da conta -&gt; Settings -&gt; Delete Account e digite a senha e uma observação (este último não é obrigatório).</string>
-    <string name="entry_notes_0x619">De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando a remoção da conta.</string>
-    <string name="entry_notes_0x847">Envie um e-mail para eles, solicitando a exclusão da conta.</string>
-    <string name="entry_notes_0x857">Envie um e-mail para eles, solicitando a exclusão da conta.</string>
-    <string name="entry_notes_0x8e6">Preencha o formulario, selecionando \"Customer/Former Customer\" e \"Delete My Information\". Será enviada uma hiperligação de confirmação para o seu e-mail.</string>
+    <string name="entry_notes_0x272">Acesse o perfil, clique em Account Settings e logo em seguida em Delete Account</string>
+    <string name="entry_notes_0x29f">Insira Nome, Email e Telefone. Selecione \'Pedido de eliminação de conta\' como tópico, complete o CAPTCHA e envie o pedido.</string>
+    <string name="entry_notes_0x566">Ao se logar, clique no ícone da conta -&gt; Settings -&gt; Delete Account e digite a senha e uma observação (este último não é obrigatório).</string>
+    <string name="entry_notes_0x621">De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando a remoção da conta.</string>
+    <string name="entry_notes_0x851">Envie um e-mail para eles, solicitando a exclusão da conta.</string>
+    <string name="entry_notes_0x861">Envie um e-mail para eles, solicitando a exclusão da conta.</string>
+    <string name="entry_notes_0x8f1">Preencha o formulario, selecionando \"Customer/Former Customer\" e \"Delete My Information\". Será enviada uma hiperligação de confirmação para o seu e-mail.</string>
 </resources>
