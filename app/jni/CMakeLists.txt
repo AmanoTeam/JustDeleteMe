@@ -28,8 +28,3 @@ add_library(
 	SHARED
 	${KURT_SOURCE_FILES}
 )
-
-target_link_libraries(
-	kurt
-	log
-)
