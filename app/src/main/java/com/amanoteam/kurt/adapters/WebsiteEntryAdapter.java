@@ -65,16 +65,21 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 	private LibKurt libkurt = null;
 	
 	private String query = null;
-	private WebsiteEntryResults entries = null;
-	private WebsiteEntryPaging paging = null;
+	
+	private static final WebsiteEntryResults entries = new WebsiteEntryResults();
+	private static final WebsiteEntryPaging paging = new WebsiteEntryPaging();
+	
+	private static final Looper looper = Looper.getMainLooper();
+	private static final Handler handler = new Handler(looper);
 	
 	private SwipeRefreshLayout swipeRefresh = null;
 	private FragmentActivity activity = null;
-	private final Looper looper = Looper.getMainLooper();
 	
 	private AlertDialog difficultyInfoDialog = null;
 	private MaterialCardView difficultyInfoIcon = null;
 	private MaterialTextView difficultyInfoText = null;
+	
+	private Markwon markwon = null;
 	
 	public void setLibKurt(final LibKurt libkurt) {
 		this.libkurt = libkurt;
@@ -83,77 +88,21 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 	public void setQuery(final String query) {
 		this.query = query;
 		
-		if (paging != null) {
-			paging.resetPosition();
-		}
+		paging.resetPosition();
+		entries.clear();
 		
-		if (entries != null) {
-			entries.clear();
-		}
-		
-		new Handler(looper).post(() -> { notifyDataSetChanged(); });
-	}
-	
-	public void setActivity(final FragmentActivity activity) {
-		this.activity = activity;
+		handler.post(() -> {
+			notifyDataSetChanged();
+		});
 	}
 	
 	public void setSwipeRefresher(final SwipeRefreshLayout swipeRefresh) {
 		this.swipeRefresh = swipeRefresh;
 	}
 	
-	public WebsiteEntryAdapter() {}
-	
-	public void performSearch() {
-		final Thread thread = new Thread(() -> {
-			WebsiteEntryResults res = null;
-			
-			if (this.paging == null) {
-				this.paging = new WebsiteEntryPaging();
-			}
-			
-			if (this.entries == null) {
-				this.entries = new WebsiteEntryResults();
-			}
-			
-			this.paging.incrementPosition();
-			
-			res = this.libkurt.websiteEntrySearch(this.query, this.paging);
-			
-			if (res == null || res.getItems() == null) {
-				if (this.paging.getPosition() != 0) {
-					return;
-				}
-				
-				this.paging.resetPosition();
-				this.entries.clear();
-				
-				new Handler(looper).post(() -> {
-					notifyDataSetChanged();
-					swipeRefresh.setRefreshing(false);
-				});
-				
-				return;
-			}
-			
-			for (final WebsiteEntry entry : res.getItems()) {
-				this.entries.append(entry);
-			}
-			
-			new Handler(looper).post(() -> {
-				notifyDataSetChanged();
-				swipeRefresh.setRefreshing(false);
-			});
-		});
-		thread.start();
-	}
-	
-	@Override
-	public WebsiteEntryViewHolder onCreateViewHolder(final ViewGroup parent, final int viewType) {
+	public WebsiteEntryAdapter(final FragmentActivity activity) {
 		
-		final Context context = parent.getContext();
-		final LayoutInflater inflater = LayoutInflater.from(context);
-		final View view = inflater.inflate(R.layout.website_entry, parent, false);
+		final LayoutInflater inflater = LayoutInflater.from(activity);
 		
 		final RelativeLayout difficultyInfoLayout = (RelativeLayout) inflater.inflate(R.layout.difficulty_info_dialog, null);
 		
@@ -168,6 +117,51 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 		difficultyInfoText.setMovementMethod(new ScrollingMovementMethod());
 		difficultyInfoText.setMovementMethod(new LinkMovementMethod());
 		
+		this.activity = activity;
+		
+		markwon = Markwon.create(activity);
+		
+	}
+	
+	public void performSearch() {
+		final Thread thread = new Thread(() -> {
+			paging.incrementPosition();
+			
+			final WebsiteEntryResults res = libkurt.websiteEntrySearch(query, paging);
+			
+			if (res == null || res.getItems() == null) {
+				if (paging.getPosition() != 0) {
+					return;
+				}
+				
+				paging.resetPosition();
+				entries.clear();
+				
+				handler.post(() -> {
+					notifyDataSetChanged();
+					swipeRefresh.setRefreshing(false);
+				});
+				
+				return;
+			}
+			
+			entries.addAll(res.getItems());
+			
+			handler.post(() -> {
+				notifyDataSetChanged();
+				swipeRefresh.setRefreshing(false);
+			});
+		});
+		thread.start();
+	}
+	
+	@Override
+	public WebsiteEntryViewHolder onCreateViewHolder(final ViewGroup parent, final int viewType) {
+		
+		final Context context = parent.getContext();
+		final LayoutInflater inflater = LayoutInflater.from(context);
+		final View view = inflater.inflate(R.layout.website_entry, parent, false);
+		
 		final ViewHolder holder = new WebsiteEntryViewHolder(view);
 		
 		return (WebsiteEntryViewHolder) holder;
@@ -176,7 +170,7 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 
 	@Override
 	public void onBindViewHolder(final WebsiteEntryViewHolder viewHolder, final int position) {
-		final WebsiteEntry item = this.entries.getAtPosition(position);
+		final WebsiteEntry item = entries.getAtPosition(position);
 		
 		final Context context = viewHolder.name.getContext();
 		
@@ -188,7 +182,7 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 		final String email = item.getEmail();
 		final String notes = item.getNotes(context);
 		
-		if (position == (this.getItemCount() - 1)) {
+		if (position == (getItemCount() - 1)) {
 			performSearch();
 		}
 		
@@ -202,8 +196,6 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 			difficultyInfoIcon.setStrokeColor(strokeColor);
 			
 			difficultyInfoDialog.setTitle(R.string.notes);
-			
-			final Markwon markwon = Markwon.create(view.getContext());
 			
 			if (notes != null) {
 				markwon.setMarkdown(difficultyInfoText, notes);
@@ -259,13 +251,7 @@ public class WebsiteEntryAdapter extends Adapter<WebsiteEntryViewHolder> {
 
 	@Override
 	public int getItemCount() {
-		
-		if (entries == null) {
-			return 0;
-		}
-		
 		return entries.getSize();
-		
 	}
 	
 }

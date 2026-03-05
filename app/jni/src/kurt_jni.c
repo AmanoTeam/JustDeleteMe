@@ -19,6 +19,7 @@ struct KurtJNIMethods {
 	jmethodID we_set_difficulty;
 	
 	/* WebsiteEntryResults */
+	jmethodID results_init;
 	jmethodID results_append;
 };
 
@@ -84,6 +85,13 @@ jint JNI_OnLoad(JavaVM* vm, void* reserved) {
 		class,
 		"append",
 		"(Lcom/amanoteam/kurt/libkurt/WebsiteEntry;)V"
+	);
+	
+	methods.results_init = (*env)->GetMethodID(
+		env,
+		class,
+		"<init>",
+		"()V"
 	);
 	
 	(*env)->DeleteLocalRef(env, class);
@@ -201,9 +209,10 @@ jobject Java_com_amanoteam_kurt_libkurt_LibKurt_we_1search(
 	offset = we_search(query, paging, &results);
 	
 	/* Create results object */
-	kresults = (*env)->AllocObject(
+	kresults = (*env)->NewObject(
 		env,
-		classes.website_entry_results
+		classes.website_entry_results,
+		methods.results_init
 	);
 	
 	if (kresults == NULL) {

@@ -7,32 +7,32 @@ import com.amanoteam.kurt.libkurt.WebsiteEntry;
 
 public class WebsiteEntryResults {
 	
-	private ArrayList<WebsiteEntry> items = null;
+	private final ArrayList<WebsiteEntry> items = new ArrayList<WebsiteEntry>();
 	
 	public WebsiteEntryResults() {}
 	
 	public void append(final WebsiteEntry entry) {
-		if (this.items == null) {
-			this.items = new ArrayList<WebsiteEntry>();
-		}
-		
-		this.items.add(entry);
+		items.add(entry);
+	}
+	
+	public void addAll(final List<WebsiteEntry> subitems) {
+		items.addAll(subitems);
 	}
 	
 	public WebsiteEntry getAtPosition(final int position) {
-		return this.items.get(position);
+		return items.get(position);
 	}
 	
 	public int getSize() {
-		return this.items.size();
+		return items.size();
 	}
 	
 	public void clear() {
-		this.items.clear();
+		items.clear();
 	}
 	
 	public List<WebsiteEntry> getItems() {
-		return this.items;
+		return items;
 	}
 	
 }

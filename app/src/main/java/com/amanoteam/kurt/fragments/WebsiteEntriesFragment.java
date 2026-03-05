@@ -111,11 +111,10 @@ public class WebsiteEntriesFragment extends Fragment {
 		viewModel.websiteEntriesFragment = binding;
 		viewModel.libkurt = new LibKurt();
 		
-		final WebsiteEntryAdapter websiteEntryAdapter = new WebsiteEntryAdapter();
+		final WebsiteEntryAdapter websiteEntryAdapter = new WebsiteEntryAdapter(activity);
 		
 		websiteEntryAdapter.setLibKurt(viewModel.libkurt);
 		websiteEntryAdapter.setQuery(null);
-		websiteEntryAdapter.setActivity(activity);
 		websiteEntryAdapter.setSwipeRefresher(swipeRefresh);
 		websiteEntryAdapter.performSearch();
 		
