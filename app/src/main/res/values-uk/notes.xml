@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="entry_notes_0x2a2">Дотримуйтесь інструкцій за цим посиланням.</string>
-    <string name="entry_notes_0x2a6">Введіть ім’я, електронну пошту та телефон. Виберіть \'Запит на видалення акаунта\' як тему, заповніть CAPTCHA та надішліть запит.</string>
-    <string name="entry_notes_0x2cc">Зробіть запит видалення акаунту через форму зворотнього зв\'язку.</string>
-    <string name="entry_notes_0x566">Після подачі заявки вам треба зачекати, поки акаунт не видалить адміністратор.</string>
-    <string name="entry_notes_0x750">Дотримуйтесь інструкцій за цим посиланням.</string>
-    <string name="entry_notes_0x79e">Дотримуйтесь інструкцій за цим посиланням.</string>
-    <string name="entry_notes_0x9a8">Перейдіть за посиланням і підтвердіть видалення акаунту.</string>
+    <string name="entry_notes_0x2a4">Дотримуйтесь інструкцій за цим посиланням.</string>
+    <string name="entry_notes_0x2a8">Введіть ім’я, електронну пошту та телефон. Виберіть \'Запит на видалення акаунта\' як тему, заповніть CAPTCHA та надішліть запит.</string>
+    <string name="entry_notes_0x2ce">Зробіть запит видалення акаунту через форму зворотнього зв\'язку.</string>
+    <string name="entry_notes_0x56d">Після подачі заявки вам треба зачекати, поки акаунт не видалить адміністратор.</string>
+    <string name="entry_notes_0x75d">Дотримуйтесь інструкцій за цим посиланням.</string>
+    <string name="entry_notes_0x7ac">Дотримуйтесь інструкцій за цим посиланням.</string>
+    <string name="entry_notes_0x9ba">Перейдіть за посиланням і підтвердіть видалення акаунту.</string>
 </resources>
