@@ -16,3 +16,11 @@ sed \
 	--expression "s/versionName = \"${OLD_APP_VERSION}\"/versionName = \"${NEW_APP_VERSION}\"/g" \
 	--expression "s/versionCode = ${OLD_APP_VERSION_CODE}/versionCode = ${NEW_APP_VERSION_CODE}/g" \
 	'./app/build.gradle'
+
+git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+git config --global user.name "github-actions[bot]"
+
+git commit -m 'Autoupdate' -a
+git push
+
+echo "APP_VERSION=${NEW_APP_VERSION}" >> "${GITHUB_ENV}"
