@@ -1,6 +1,8 @@
 name: Build
 
 on:
+  schedule:
+    - cron: '0 0 * * 0'
   workflow_dispatch:
     branches:
         - '**'
@@ -13,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@main
-    - name: Set up JDK 25
+    - name: Set up JDK
       uses: actions/setup-java@main
       with:
-        java-version: 25-ea
+        java-version: 25
         distribution: temurin
     - name: Set-up NDK
       run: |
@@ -35,6 +37,9 @@ jobs:
     - name: Patch the NDK
       run: |
         ndk-patch
+    - name: Run update.sh
+      run: |
+        bash tools/update.sh
     - name: Build Android project
       env: 
         PINO_LTO: full
@@ -44,3 +49,16 @@ jobs:
       uses: actions/upload-artifact@main
       with:
         path: ./app/build/outputs/apk/release/app-release-unsigned.apk
+    - name: Create release
+      uses: softprops/action-gh-release@master
+      with:
+        tag_name: '${{ env.APP_VERSION }}'
+        name: 'Just Delete Me v${{ env.APP_VERSION }}'
+        files: ./app/build/outputs/apk/release/app-release-unsigned.apk
+        draft: false
+        prerelease: false
+        fail_on_unmatched_files: true
+        body: "* Update entries"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
