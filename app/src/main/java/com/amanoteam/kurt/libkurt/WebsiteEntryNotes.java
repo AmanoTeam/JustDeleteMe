@@ -2549,6 +2549,14 @@ public class WebsiteEntryNotes {
 		R.string.entry_notes_0x9eb,
 		R.string.entry_notes_0x9ec,
 		R.string.entry_notes_0x9ed,
+		R.string.entry_notes_0x9ee,
+		R.string.entry_notes_0x9ef,
+		R.string.entry_notes_0x9f0,
+		R.string.entry_notes_0x9f1,
+		R.string.entry_notes_0x9f2,
+		R.string.entry_notes_0x9f3,
+		R.string.entry_notes_0x9f4,
+		R.string.entry_notes_0x9f5,
 
 	};
 	
