@@ -34,6 +34,7 @@ jobs:
         tar --directory="$(dirname "${PINO_TARBALL}")" --extract --file="${PINO_TARBALL}"
         
         echo '/tmp/android-gcc-cross/bin' >> "${GITHUB_PATH}"
+        echo 'PINO_OPT_LEVEL=fast' >> "${GITHUB_ENV}"
     - name: Patch the NDK
       run: |
         ndk-patch
