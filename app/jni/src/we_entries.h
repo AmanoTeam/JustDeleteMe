@@ -2094,6 +2094,14 @@ static const we_t WEBSITE_ENTRIES[] = {
 	},
 	{
 		.id = 0x105,
+		.name = "Blaise Transit",
+		.query = "blaise transit",
+		.url = "https://www.blaisetransit.com/contact-us",
+		.email = NULL,
+		.difficulty = 0x800
+	},
+	{
+		.id = 0x106,
 		.name = "Bleep",
 		.query = "bleep",
 		.url = "https://bleep.com/account/show",
@@ -2101,7 +2109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x106,
+		.id = 0x107,
 		.name = "BlendSwap",
 		.query = "blendswap",
 		.url = "https://blendswap.com/profile",
@@ -2109,7 +2117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x107,
+		.id = 0x108,
 		.name = "Blind",
 		.query = "blind",
 		.url = "https://www.teamblind.com/faqs",
@@ -2117,7 +2125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x108,
+		.id = 0x109,
 		.name = "Blinkee",
 		.query = "blinkee",
 		.url = "https://blinkee.city/en-pl/faq",
@@ -2125,7 +2133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x109,
+		.id = 0x10a,
 		.name = "Blinkist",
 		.query = "blinkist",
 		.url = "https://www.blinkist.com/nc/settings/account/",
@@ -2133,7 +2141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x10a,
+		.id = 0x10b,
 		.name = "Blogger",
 		.query = "blogger",
 		.url = "https://support.google.com/blogger/answer/41932",
@@ -2141,7 +2149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x10b,
+		.id = 0x10c,
 		.name = "Blooket",
 		.query = "blooket",
 		.url = "https://id.blooket.com/delete",
@@ -2149,7 +2157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x10c,
+		.id = 0x10d,
 		.name = "Bloomberg",
 		.query = "bloomberg",
 		.url = "https://www.bloomberg.com/notices/tos/",
@@ -2157,7 +2165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x10d,
+		.id = 0x10e,
 		.name = "Bloomingdales",
 		.query = "bloomingdales",
 		.url = "https://customerservice-bloomingdales.com/articles/contact-us",
@@ -2165,7 +2173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x10e,
+		.id = 0x10f,
 		.name = "BloxIDs.com",
 		.query = "bloxidscom",
 		.url = "https://bloxids.com",
@@ -2173,7 +2181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x10f,
+		.id = 0x110,
 		.name = "Blue Apron",
 		.query = "blue apron",
 		.url = "https://www.blueapron.com/cancel_subscription",
@@ -2181,7 +2189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x110,
+		.id = 0x111,
 		.name = "Bluebird by American Express",
 		.query = "bluebird by american express",
 		.url = "https://secure.bluebird.com/manage/settings/ProfileSettings",
@@ -2189,7 +2197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x111,
+		.id = 0x112,
 		.name = "Bluejeans",
 		.query = "bluejeans",
 		.url = "https://support.bluejeans.com/s/contactsupport",
@@ -2197,7 +2205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x112,
+		.id = 0x113,
 		.name = "Bluesky",
 		.query = "bluesky",
 		.url = "https://bsky.app/settings",
@@ -2205,7 +2213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x113,
+		.id = 0x114,
 		.name = "Board Game Arena",
 		.query = "board game arena",
 		.url = "https://boardgamearena.com/preferences?section=account",
@@ -2213,7 +2221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x114,
+		.id = 0x115,
 		.name = "Board Games Online",
 		.query = "board games online",
 		.url = "https://boardgamesonline.net/",
@@ -2221,7 +2229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x115,
+		.id = 0x116,
 		.name = "BoardGameGeek",
 		.query = "boardgamegeek",
 		.url = "https://boardgamegeek.com/geekaccount.php?action=requestdeletion",
@@ -2229,7 +2237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x116,
+		.id = 0x117,
 		.name = "bobatea",
 		.query = "bobatea",
 		.url = "https://git.boba.best/user/settings/account",
@@ -2237,7 +2245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x117,
+		.id = 0x118,
 		.name = "BodBot",
 		.query = "bodbot",
 		.url = "https://www.bodbot.com/Account_Settings.html",
@@ -2245,7 +2253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x118,
+		.id = 0x119,
 		.name = "Bodybuilding",
 		.query = "bodybuilding",
 		.url = "https://www.bodybuilding.com/help?account-inquiries&deactivate-account",
@@ -2253,7 +2261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x119,
+		.id = 0x11a,
 		.name = "Boeing",
 		.query = "boeing",
 		.url = "https://privacyportal.onetrust.com/webform/7a02e6ee-4433-4d2d-b133-66ab66311d80/7fda90ac-fe12-4a4b-a816-4cb09137423d.html",
@@ -2261,7 +2269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x11a,
+		.id = 0x11b,
 		.name = "Bohemia Interactive",
 		.query = "bohemia interactive",
 		.url = "https://support.bohemia.net/",
@@ -2269,7 +2277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x11b,
+		.id = 0x11c,
 		.name = "Boingo Wireless",
 		.query = "boingo wireless",
 		.url = "https://support.boingo.com/s/contactsupport",
@@ -2277,7 +2285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x11c,
+		.id = 0x11d,
 		.name = "Bol.com",
 		.query = "bolcom",
 		.url = "https://www.bol.com/nl/rnwy/account/privacy/delete",
@@ -2285,7 +2293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x11d,
+		.id = 0x11e,
 		.name = "Bolt",
 		.query = "bolt",
 		.url = "https://bolt.eu/en/support/articles/360000336273/",
@@ -2293,7 +2301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x11e,
+		.id = 0x11f,
 		.name = "Bolt Driver",
 		.query = "bolt driver",
 		.url = "https://bolt.eu/en/support/articles/360000329553/",
@@ -2301,7 +2309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x11f,
+		.id = 0x120,
 		.name = "Bolt Food",
 		.query = "bolt food",
 		.url = "https://bolt.eu/en/support/articles/360007153180/",
@@ -2309,7 +2317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x120,
+		.id = 0x121,
 		.name = "Bones Coffee Company",
 		.query = "bones coffee company",
 		.url = "https://www.bonescoffee.com/pages/contact-us",
@@ -2317,7 +2325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x121,
+		.id = 0x122,
 		.name = "Bonjour RATP",
 		.query = "bonjour ratp",
 		.url = "https://www.bonjour-ratp.fr/aide-contact/?question=maj-auth0-comment-supprimer-mon-compte-client-bonjour-ratp",
@@ -2325,7 +2333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x122,
+		.id = 0x123,
 		.name = "BookBub",
 		.query = "bookbub",
 		.url = "https://www.bookbub.com/contact/new",
@@ -2333,7 +2341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x123,
+		.id = 0x124,
 		.name = "Booking",
 		.query = "booking",
 		.url = "https://secure.booking.com/login.en-us.html?tmpl=profile/delete_account",
@@ -2341,7 +2349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x124,
+		.id = 0x125,
 		.name = "Booklooker",
 		.query = "booklooker",
 		.url = "https://secure.booklooker.de/pages/contact.php",
@@ -2349,7 +2357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x125,
+		.id = 0x126,
 		.name = "Bookmark OS",
 		.query = "bookmark os",
 		.url = "https://bookmarkos.com/privacy_policy",
@@ -2357,7 +2365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x126,
+		.id = 0x127,
 		.name = "Boostcamp",
 		.query = "boostcamp",
 		.url = "https://www.boostcamp.app/data-deletion-request",
@@ -2365,7 +2373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x127,
+		.id = 0x128,
 		.name = "BOOTH",
 		.query = "booth",
 		.url = "https://accounts.booth.pm/settings/delete",
@@ -2373,7 +2381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x128,
+		.id = 0x129,
 		.name = "Boots Viewpoint",
 		.query = "boots viewpoint",
 		.url = "https://www.bootsviewpoint.co.uk",
@@ -2381,7 +2389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x129,
+		.id = 0x12a,
 		.name = "BorgBase",
 		.query = "borgbase",
 		.url = "https://www.borgbase.com/account?tab=profile",
@@ -2389,7 +2397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x12a,
+		.id = 0x12b,
 		.name = "Borrow My Doggy",
 		.query = "borrow my doggy",
 		.url = "https://help.borrowmydoggy.com/hc/en-gb/articles/115003534709-How-do-I-close-delete-my-account",
@@ -2397,7 +2405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x12b,
+		.id = 0x12c,
 		.name = "Borussia Dortmund",
 		.query = "borussia dortmund",
 		.url = "https://account.bvb.de/s/",
@@ -2405,7 +2413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x12c,
+		.id = 0x12d,
 		.name = "Boulanger",
 		.query = "boulanger",
 		.url = "https://www.boulanger.com/evenement/infos-legales#ong-private",
@@ -2413,7 +2421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x12d,
+		.id = 0x12e,
 		.name = "Bountysource",
 		.query = "bountysource",
 		.url = "https://github.com/bountysource/core/issues/409",
@@ -2421,7 +2429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x12e,
+		.id = 0x12f,
 		.name = "Box",
 		.query = "box",
 		.url = "https://app.box.com/account",
@@ -2429,7 +2437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x12f,
+		.id = 0x130,
 		.name = "Boxcryptor",
 		.query = "boxcryptor",
 		.url = "https://www.boxcryptor.com/app/account/delete-account/",
@@ -2437,7 +2445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x130,
+		.id = 0x131,
 		.name = "Braiins",
 		.query = "braiins",
 		.url = "https://help.braiins.com/en/support/solutions/articles/77000434063-how-can-i-delete-my-account-",
@@ -2445,7 +2453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x131,
+		.id = 0x132,
 		.name = "Brain.fm",
 		.query = "brainfm",
 		.url = "https://www.brain.fm/privacy",
@@ -2453,7 +2461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x132,
+		.id = 0x133,
 		.name = "Brainly",
 		.query = "brainly",
 		.url = "https://faq-us.brainly.com/hc/en-us/articles/5193204588946-Account-deletion",
@@ -2461,7 +2469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x133,
+		.id = 0x134,
 		.name = "Braintrust",
 		.query = "braintrust",
 		.url = "https://app.usebraintrust.com/settings/privacy_security/",
@@ -2469,7 +2477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x134,
+		.id = 0x135,
 		.name = "Brandpad",
 		.query = "brandpad",
 		.url = "https://create.brandpad.io/account/delete-account",
@@ -2477,7 +2485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x135,
+		.id = 0x136,
 		.name = "Brevo",
 		.query = "brevo",
 		.url = "https://app.brevo.com/settings/advanced",
@@ -2485,7 +2493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x136,
+		.id = 0x137,
 		.name = "Brilliant",
 		.query = "brilliant",
 		.url = "https://brilliant.org/account/settings/deactivate/",
@@ -2493,7 +2501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x137,
+		.id = 0x138,
 		.name = "Bring!",
 		.query = "bring",
 		.url = "https://go.getbring.com/?link=https%3A%2F%2Fdeeplink.getbring.com%2Fview%2Fdeleteaccount&apn=ch.publisheria.bring&isi=580669177&ibi=ch.publisheria.bring",
@@ -2501,7 +2509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x138,
+		.id = 0x139,
 		.name = "British Airways",
 		.query = "british airways",
 		.url = "https://naprepin.custhelp.com/app/answers/detail/a_id/770/~/cancelling-your-executive-club-membership",
@@ -2509,7 +2517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x139,
+		.id = 0x13a,
 		.name = "Broadcom Support",
 		.query = "broadcom support",
 		.url = "https://knowledge.broadcom.com/external/article/368293/deleting-or-removing-broadcom-support-ac.html",
@@ -2517,7 +2525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x13a,
+		.id = 0x13b,
 		.name = "BrowserStack",
 		.query = "browserstack",
 		.url = "https://www.browserstack.com/accounts/profile",
@@ -2525,7 +2533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x13b,
+		.id = 0x13c,
 		.name = "Brut",
 		.query = "brut",
 		.url = "https://www.brut.media/us/terms",
@@ -2533,7 +2541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x13c,
+		.id = 0x13d,
 		.name = "BrutX",
 		.query = "brutx",
 		.url = "https://help.brutx.com/hc/fr/articles/360020090299",
@@ -2541,7 +2549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x13d,
+		.id = 0x13e,
 		.name = "Bruun-rasmussen.dk",
 		.query = "bruunrasmussendk",
 		.url = "https://bruun-rasmussen.dk/m/about/privacy",
@@ -2549,7 +2557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x13e,
+		.id = 0x13f,
 		.name = "Bubbl.us",
 		.query = "bubblus",
 		.url = "https://help.bubbl.us/article/110-remove-my-account",
@@ -2557,7 +2565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x13f,
+		.id = 0x140,
 		.name = "Buddy UniCredit",
 		.query = "buddy unicredit",
 		.url = "https://www.buddyunicredit.it",
@@ -2565,7 +2573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x140,
+		.id = 0x141,
 		.name = "Buffer",
 		.query = "buffer",
 		.url = "https://bufferapp.com/app/account/leave",
@@ -2573,7 +2581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x141,
+		.id = 0x142,
 		.name = "Builder.io",
 		.query = "builderio",
 		.url = "https://builder.io/spaces",
@@ -2581,7 +2589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x142,
+		.id = 0x143,
 		.name = "Buildspace",
 		.query = "buildspace",
 		.url = "https://buildspace.so",
@@ -2589,7 +2597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x143,
+		.id = 0x144,
 		.name = "BuiltByBit",
 		.query = "builtbybit",
 		.url = "https://builtbybit.com/account/removal",
@@ -2597,7 +2605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x144,
+		.id = 0x145,
 		.name = "Bukalapak",
 		.query = "bukalapak",
 		.url = "https://www.bukalapak.com",
@@ -2605,7 +2613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x145,
+		.id = 0x146,
 		.name = "Bukkit",
 		.query = "bukkit",
 		.url = "https://bukkit.org",
@@ -2613,7 +2621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x146,
+		.id = 0x147,
 		.name = "Bungie.net",
 		.query = "bungienet",
 		.url = "https://help.bungie.net/hc/requests/new",
@@ -2621,7 +2629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x147,
+		.id = 0x148,
 		.name = "BurstNET",
 		.query = "burstnet",
 		.url = "http://burst.net",
@@ -2629,7 +2637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x148,
+		.id = 0x149,
 		.name = "Buser",
 		.query = "buser",
 		.url = "https://www.buser.com.br/ajuda/conta-e-dados",
@@ -2637,7 +2645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x149,
+		.id = 0x14a,
 		.name = "Busuu",
 		.query = "busuu",
 		.url = "https://www.busuu.com/dashboard#/settings/account",
@@ -2645,7 +2653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x14a,
+		.id = 0x14b,
 		.name = "Buy Me a Coffee",
 		.query = "buy me a coffee",
 		.url = "https://www.buymeacoffee.com/terms",
@@ -2653,7 +2661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x14b,
+		.id = 0x14c,
 		.name = "Buycott",
 		.query = "buycott",
 		.url = "https://www.buycott.com",
@@ -2661,7 +2669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x14c,
+		.id = 0x14d,
 		.name = "Buycraft",
 		.query = "buycraft",
 		.url = "https://server.tebex.io",
@@ -2669,7 +2677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x14d,
+		.id = 0x14e,
 		.name = "ByDoor",
 		.query = "bydoor",
 		.url = "https://portal.bydoor.com/meusdados",
@@ -2677,7 +2685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x14e,
+		.id = 0x14f,
 		.name = "C&M News by Rеss.at",
 		.query = "cm news by rеssat",
 		.url = "https://ress.at/profil/profil_entfernen.php",
@@ -2685,7 +2693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x14f,
+		.id = 0x150,
 		.name = "CA Cert",
 		.query = "ca cert",
 		.url = "http://wiki.cacert.org/FAQ/AccountRemoval",
@@ -2693,7 +2701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x150,
+		.id = 0x151,
 		.name = "Cabify",
 		.query = "cabify",
 		.url = "https://cabify.com",
@@ -2701,7 +2709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x151,
+		.id = 0x152,
 		.name = "Cacoo",
 		.query = "cacoo",
 		.url = "https://cacoo.com/unsubscribe",
@@ -2709,7 +2717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x152,
+		.id = 0x153,
 		.name = "CafePress",
 		.query = "cafepress",
 		.url = "https://www.cafepress.com/account/close-account",
@@ -2717,7 +2725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x153,
+		.id = 0x154,
 		.name = "CakeReader",
 		.query = "cakereader",
 		.url = "https://cakereader.com/",
@@ -2725,7 +2733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x154,
+		.id = 0x155,
 		.name = "Call of Duty Mobile",
 		.query = "call of duty mobile",
 		.url = "https://support.activision.com/privacy",
@@ -2733,7 +2741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x155,
+		.id = 0x156,
 		.name = "Calligraphr",
 		.query = "calligraphr",
 		.url = "https://www.calligraphr.com/en/profile/",
@@ -2741,7 +2749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x156,
+		.id = 0x157,
 		.name = "CamelCamelCamel",
 		.query = "camelcamelcamel",
 		.url = "https://camelcamelcamel.com/close_account",
@@ -2749,7 +2757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x157,
+		.id = 0x158,
 		.name = "Cameo",
 		.query = "cameo",
 		.url = "https://legal.cameo.com/termsofservice#:~:text=You%20may%20cancel%20your%20Site,at%20hello%40cameo.com.",
@@ -2757,7 +2765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x158,
+		.id = 0x159,
 		.name = "CamScanner",
 		.query = "camscanner",
 		.url = "https://www.camscanner.com/",
@@ -2765,7 +2773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x159,
+		.id = 0x15a,
 		.name = "Canva",
 		.query = "canva",
 		.url = "https://www.canva.com/settings/login-and-security",
@@ -2773,7 +2781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x15a,
+		.id = 0x15b,
 		.name = "Capcut",
 		.query = "capcut",
 		.url = "https://www.capcut.com/settings?current_page=landing_page&enter_from=click_view_personal_page&from_page=personal_page&start_tab=video&settings_tab=info_page",
@@ -2781,7 +2789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x15b,
+		.id = 0x15c,
 		.name = "Capsule",
 		.query = "capsule",
 		.url = "https://www.capsule.com/privacy",
@@ -2789,7 +2797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x15c,
+		.id = 0x15d,
 		.name = "Captain.tv",
 		.query = "captaintv",
 		.url = "https://streamcaptain.zendesk.com/hc/en-us/requests/new",
@@ -2797,7 +2805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x15d,
+		.id = 0x15e,
 		.name = "Car2Go",
 		.query = "car2go",
 		.url = "https://www.car2go.com/US/en/contact",
@@ -2805,7 +2813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x15e,
+		.id = 0x15f,
 		.name = "Carbonmade",
 		.query = "carbonmade",
 		.url = "https://carbonmade.app/account",
@@ -2813,7 +2821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x15f,
+		.id = 0x160,
 		.name = "CardCastle",
 		.query = "cardcastle",
 		.url = "https://cardcastle.co/settings/account",
@@ -2821,7 +2829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x160,
+		.id = 0x161,
 		.name = "CareerBuilder.com",
 		.query = "careerbuildercom",
 		.url = "https://www.careerbuilder.com/User/UserConfirmation.aspx",
@@ -2829,7 +2837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x161,
+		.id = 0x162,
 		.name = "Caribou Contests",
 		.query = "caribou contests",
 		.url = "https://cariboutests.com/contact_us.php",
@@ -2837,7 +2845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x162,
+		.id = 0x163,
 		.name = "Carrd.co",
 		.query = "carrdco",
 		.url = "https://carrd.co/dashboard/account/delete",
@@ -2845,7 +2853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x163,
+		.id = 0x164,
 		.name = "Carrefour",
 		.query = "carrefour",
 		.url = "https://www.carrefour.fr/nous-contacter/rgpd/formulaire",
@@ -2853,7 +2861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x164,
+		.id = 0x165,
 		.name = "Cars Région Isère",
 		.query = "cars region isere",
 		.url = "https://carsisere.auvergnerhonealpes.fr/fr/mon-espace/159/Member/editprofile",
@@ -2861,7 +2869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x165,
+		.id = 0x166,
 		.name = "Cars Région Savoie / Altibus",
 		.query = "cars region savoie altibus",
 		.url = "https://www.cars-region-savoie.fr/suggestions-reclamations/",
@@ -2869,7 +2877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x166,
+		.id = 0x167,
 		.name = "Cash'em All",
 		.query = "cashem all",
 		.url = "https://cashemall.online/legal/v1/privacy/online.cashemall.app",
@@ -2877,7 +2885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x167,
+		.id = 0x168,
 		.name = "Cash'em All Web",
 		.query = "cashem all web",
 		.url = "https://cashem-all.com/profile",
@@ -2885,7 +2893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x168,
+		.id = 0x169,
 		.name = "Castbox",
 		.query = "castbox",
 		.url = "https://helpcenter.castbox.fm/portal/en/kb/articles/delete-account",
@@ -2893,7 +2901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x169,
+		.id = 0x16a,
 		.name = "Catappult ",
 		.query = "catappult",
 		.url = "https://developers.catappult.io/settings/account",
@@ -2901,7 +2909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x16a,
+		.id = 0x16b,
 		.name = "Catawiki",
 		.query = "catawiki",
 		.url = "https://www.catawiki.com/en/accounts/pre_delete_account",
@@ -2909,7 +2917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x16b,
+		.id = 0x16c,
 		.name = "CATME",
 		.query = "catme",
 		.url = "https://info.catme.org/student-faq/can-i-delete-my-student-account/",
@@ -2917,7 +2925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x16c,
+		.id = 0x16d,
 		.name = "CBC",
 		.query = "cbc",
 		.url = "https://cbchelp.cbc.ca/hc/en-ca/requests/new",
@@ -2925,7 +2933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x16d,
+		.id = 0x16e,
 		.name = "CCMA (TV3 i CatRàdio)",
 		.query = "ccma tv3 i catradio",
 		.url = "https://registreusuari.ccma.cat/usuaris/baixa",
@@ -2933,7 +2941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x16e,
+		.id = 0x16f,
 		.name = "cda",
 		.query = "cda",
 		.url = "https://www.cda.pl/kontakt",
@@ -2941,7 +2949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x16f,
+		.id = 0x170,
 		.name = "CDEK Forward",
 		.query = "cdek forward",
 		.url = "https://global.cdek.ru",
@@ -2949,7 +2957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x170,
+		.id = 0x171,
 		.name = "CDKeys",
 		.query = "cdkeys",
 		.url = "https://www.cdkeys.com/user/profile/",
@@ -2957,7 +2965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x171,
+		.id = 0x172,
 		.name = "CDON.COM",
 		.query = "cdoncom",
 		.url = "https://help.cdon.com/hc/sv/articles/360022459751-Hur-tar-jag-bort-mitt-konto-",
@@ -2965,7 +2973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x172,
+		.id = 0x173,
 		.name = "CEEOL",
 		.query = "ceeol",
 		.url = "https://www.cdkeys.com/user/profile/",
@@ -2973,7 +2981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x173,
+		.id = 0x174,
 		.name = "Celcoin",
 		.query = "celcoin",
 		.url = "https://celcoin.com.br",
@@ -2981,7 +2989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x174,
+		.id = 0x175,
 		.name = "celio",
 		.query = "celio",
 		.url = "https://www.celio.com/fr-fr/contactus",
@@ -2989,7 +2997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x175,
+		.id = 0x176,
 		.name = "Cengage",
 		.query = "cengage",
 		.url = "https://cengage.my.site.com/s/rtbf",
@@ -2997,7 +3005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x176,
+		.id = 0x177,
 		.name = "Certiport",
 		.query = "certiport",
 		.url = "https://www.certiport.com/portal/Pages/ModifyProfile.aspx",
@@ -3005,7 +3013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x177,
+		.id = 0x178,
 		.name = "CEX.IO",
 		.query = "cexio",
 		.url = "https://support.cex.io/",
@@ -3013,7 +3021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x178,
+		.id = 0x179,
 		.name = "Cfx.re",
 		.query = "cfxre",
 		.url = "https://support.cfx.re/hc/en-us/requests/new",
@@ -3021,7 +3029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x179,
+		.id = 0x17a,
 		.name = "cgtrader",
 		.query = "cgtrader",
 		.url = "https://help.cgtrader.com/hc/en-us/articles/4402420280081-How-can-I-delete-my-account-",
@@ -3029,7 +3037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x17a,
+		.id = 0x17b,
 		.name = "Challonge",
 		.query = "challonge",
 		.url = "https://challonge.com/settings/delete_account",
@@ -3037,7 +3045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x17b,
+		.id = 0x17c,
 		.name = "Chamonix Mobilité",
 		.query = "chamonix mobilite",
 		.url = "https://www.chamonix-mobilite.com/en/nous-contacter",
@@ -3045,7 +3053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x17c,
+		.id = 0x17d,
 		.name = "Change.org",
 		.query = "changeorg",
 		.url = "https://www.change.org/policies/privacy",
@@ -3053,7 +3061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x17d,
+		.id = 0x17e,
 		.name = "ChangeIP",
 		.query = "changeip",
 		.url = "https://www.changeip.com/tos.php#:~:text=Account%20Cancellation",
@@ -3061,7 +3069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x17e,
+		.id = 0x17f,
 		.name = "changelly",
 		.query = "changelly",
 		.url = "https://changelly.com/profile",
@@ -3069,7 +3077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x17f,
+		.id = 0x180,
 		.name = "character.ai",
 		.query = "characterai",
 		.url = "https://beta.character.ai/settings/",
@@ -3077,7 +3085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x180,
+		.id = 0x181,
 		.name = "ChatForma",
 		.query = "chatforma",
 		.url = "https://www.chatforma.com/",
@@ -3085,7 +3093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x181,
+		.id = 0x182,
 		.name = "Cheap Ass Gamer",
 		.query = "cheap ass gamer",
 		.url = "https://www.cheapassgamer.com/index.php?app=core&module=help&do=01&HID=15",
@@ -3093,7 +3101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x182,
+		.id = 0x183,
 		.name = "Check24 Deutschland",
 		.query = "check24 deutschland",
 		.url = "https://kundenbereich.check24.de/user/account/data.html",
@@ -3101,7 +3109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x183,
+		.id = 0x184,
 		.name = "Checklist",
 		.query = "checklist",
 		.url = "https://api.checklist.com/account/account",
@@ -3109,7 +3117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x184,
+		.id = 0x185,
 		.name = "Checksub",
 		.query = "checksub",
 		.url = "https://www.checksub.com",
@@ -3117,7 +3125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x185,
+		.id = 0x186,
 		.name = "Cheezburger",
 		.query = "cheezburger",
 		.url = "https://cheezburgernetwork.wordpress.com/faq/#q14",
@@ -3125,7 +3133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x186,
+		.id = 0x187,
 		.name = "Chegg",
 		.query = "chegg",
 		.url = "https://www.chegg.com/contactus",
@@ -3133,7 +3141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x187,
+		.id = 0x188,
 		.name = "Chemaxon",
 		.query = "chemaxon",
 		.url = "https://account.chemaxon.com/settings",
@@ -3141,7 +3149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x188,
+		.id = 0x189,
 		.name = "Chess Tempo",
 		.query = "chess tempo",
 		.url = "https://www.chesstempo.com/privacy#",
@@ -3149,7 +3157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x189,
+		.id = 0x18a,
 		.name = "Chess.com",
 		.query = "chesscom",
 		.url = "https://www.chess.com/my-data",
@@ -3157,7 +3165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x18a,
+		.id = 0x18b,
 		.name = "Chessable",
 		.query = "chessable",
 		.url = "https://www.chessable.com/settings/delete",
@@ -3165,7 +3173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x18b,
+		.id = 0x18c,
 		.name = "Chessbase",
 		.query = "chessbase",
 		.url = "https://account.chessbase.com/en/me/delete",
@@ -3173,7 +3181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x18c,
+		.id = 0x18d,
 		.name = "Chessfactor",
 		.query = "chessfactor",
 		.url = "https://www.chessfactor.com/accounts/delete/",
@@ -3181,7 +3189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x18d,
+		.id = 0x18e,
 		.name = "Chesspuzzle.net",
 		.query = "chesspuzzlenet",
 		.url = "https://chesspuzzle.net/Manage/RequestDeletion",
@@ -3189,7 +3197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x18e,
+		.id = 0x18f,
 		.name = "Chessvision.ai (eBook Reader)",
 		.query = "chessvisionai ebook reader",
 		.url = "https://ebook.chessvision.ai/settings",
@@ -3197,7 +3205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x18f,
+		.id = 0x190,
 		.name = "Chessvision.ai (Scanner/Library)",
 		.query = "chessvisionai scannerlibrary",
 		.url = "https://my.chessvision.ai/settings/account",
@@ -3205,7 +3213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x190,
+		.id = 0x191,
 		.name = "Chewy",
 		.query = "chewy",
 		.url = "https://www.chewy.com/app/account/privacy",
@@ -3213,7 +3221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x191,
+		.id = 0x192,
 		.name = "Chick-fil-A",
 		.query = "chickfila",
 		.url = "https://privacyportal.onetrust.com/webform/63dc78c7-5612-4181-beae-47dead0569ee/01252c81-82df-4db5-9cb8-bf23a62a9a55",
@@ -3221,7 +3229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x192,
+		.id = 0x193,
 		.name = "Chocolatey",
 		.query = "chocolatey",
 		.url = "https://chocolatey.org/contact/general",
@@ -3229,7 +3237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x193,
+		.id = 0x194,
 		.name = "Chromaport",
 		.query = "chromaport",
 		.url = "https://chromaport.com/account",
@@ -3237,7 +3245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x194,
+		.id = 0x195,
 		.name = "Cineplex",
 		.query = "cineplex",
 		.url = "https://www.cineplex.com/Global/PrivacyPolicy",
@@ -3245,7 +3253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x195,
+		.id = 0x196,
 		.name = "CircleCI",
 		.query = "circleci",
 		.url = "https://privacy.circleci.com",
@@ -3253,7 +3261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x196,
+		.id = 0x197,
 		.name = "Cisco",
 		.query = "cisco",
 		.url = "https://privacyrequest.cisco.com/",
@@ -3261,7 +3269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x197,
+		.id = 0x198,
 		.name = "Citadel Servers",
 		.query = "citadel servers",
 		.url = "https://citadelservers.com",
@@ -3269,7 +3277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x198,
+		.id = 0x199,
 		.name = "Clash Ninja",
 		.query = "clash ninja",
 		.url = "https://www.clash.ninja/my-account/delete-account",
@@ -3277,7 +3285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x199,
+		.id = 0x19a,
 		.name = "ClassCentral",
 		.query = "classcentral",
 		.url = "https://www.classcentral.com/",
@@ -3285,7 +3293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x19a,
+		.id = 0x19b,
 		.name = "Classmates",
 		.query = "classmates",
 		.url = "https://secure.classmates.com/auth/removemember",
@@ -3293,7 +3301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x19b,
+		.id = 0x19c,
 		.name = "ClassPass",
 		.query = "classpass",
 		.url = "https://classpass.com/settings/membership",
@@ -3301,7 +3309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x19c,
+		.id = 0x19d,
 		.name = "Classy",
 		.query = "classy",
 		.url = "https://preferences.gofundme.com/form/deletion",
@@ -3309,7 +3317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x19d,
+		.id = 0x19e,
 		.name = "Claude",
 		.query = "claude",
 		.url = "https://claude.ai/settings/account",
@@ -3317,7 +3325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x19e,
+		.id = 0x19f,
 		.name = "CleverReach",
 		.query = "cleverreach",
 		.url = "https://www.cleverreach.com",
@@ -3325,7 +3333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x19f,
+		.id = 0x1a0,
 		.name = "ClevGuard",
 		.query = "clevguard",
 		.url = "https://www.clevguard.com/account-faq/",
@@ -3333,7 +3341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x1a0,
+		.id = 0x1a1,
 		.name = "ClickUp",
 		.query = "clickup",
 		.url = "https://app.clickup.com/settings/profile",
@@ -3341,7 +3349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1a1,
+		.id = 0x1a2,
 		.name = "Clipchamp",
 		.query = "clipchamp",
 		.url = "https://app.clipchamp.com/account/general",
@@ -3349,7 +3357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1a2,
+		.id = 0x1a3,
 		.name = "Clippings.io",
 		.query = "clippingsio",
 		.url = "https://my.clippings.io/settings/account",
@@ -3357,7 +3365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1a3,
+		.id = 0x1a4,
 		.name = "Clockify",
 		.query = "clockify",
 		.url = "https://app.clockify.me/user/settings/delete",
@@ -3365,7 +3373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1a4,
+		.id = 0x1a5,
 		.name = "Cloud Convert",
 		.query = "cloud convert",
 		.url = "https://cloudconvert.com/delete#",
@@ -3373,7 +3381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1a5,
+		.id = 0x1a6,
 		.name = "CloudApp",
 		.query = "cloudapp",
 		.url = "https://share.getcloudapp.com/dashboard",
@@ -3381,7 +3389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1a6,
+		.id = 0x1a7,
 		.name = "CloudDeck",
 		.query = "clouddeck",
 		.url = "https://portal.clouddeck.app/account",
@@ -3389,7 +3397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1a7,
+		.id = 0x1a8,
 		.name = "Cloudflare",
 		.query = "cloudflare",
 		.url = "https://dash.cloudflare.com/profile/delete-user",
@@ -3397,7 +3405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x1a8,
+		.id = 0x1a9,
 		.name = "CloudMagic",
 		.query = "cloudmagic",
 		.url = "https://cloudmagic.com/a/v2/preferences",
@@ -3405,7 +3413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1a9,
+		.id = 0x1aa,
 		.name = "Clue (Period & Cycle Tracker)",
 		.query = "clue period cycle tracker",
 		.url = "https://support.helloclue.com/hc/articles/4415640538004",
@@ -3413,7 +3421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x1aa,
+		.id = 0x1ab,
 		.name = "CNET Download",
 		.query = "cnet download",
 		.url = "https://cbsi.secure.force.com/CBSi/submitcase?template=template_cnet&referer=cnet.com&cfs=SFS_1",
@@ -3421,7 +3429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1ab,
+		.id = 0x1ac,
 		.name = "CNIL",
 		.query = "cnil",
 		.url = "https://www.cnil.fr/en/contact-us",
@@ -3429,7 +3437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1ac,
+		.id = 0x1ad,
 		.name = "CNN",
 		.query = "cnn",
 		.url = "https://www.cnn.com/account/settings",
@@ -3437,7 +3445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1ad,
+		.id = 0x1ae,
 		.name = "Cocoleech",
 		.query = "cocoleech",
 		.url = "https://members.cocoleech.com/settings",
@@ -3445,7 +3453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1ae,
+		.id = 0x1af,
 		.name = "Coda",
 		.query = "coda",
 		.url = "https://coda.io/account",
@@ -3453,7 +3461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1af,
+		.id = 0x1b0,
 		.name = "Code Red",
 		.query = "code red",
 		.url = "https://cne.coderedweb.com",
@@ -3461,7 +3469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x1b0,
+		.id = 0x1b1,
 		.name = "Codeanywhere",
 		.query = "codeanywhere",
 		.url = "https://codeanywhere.com/dashboard",
@@ -3469,7 +3477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1b1,
+		.id = 0x1b2,
 		.name = "Codeberg",
 		.query = "codeberg",
 		.url = "https://codeberg.org/user/settings/account",
@@ -3477,7 +3485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1b2,
+		.id = 0x1b3,
 		.name = "Codecademy",
 		.query = "codecademy",
 		.url = "https://www.codecademy.com/account/delete_acct",
@@ -3485,7 +3493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1b3,
+		.id = 0x1b4,
 		.name = "CodeChef",
 		.query = "codechef",
 		.url = "https://discuss.codechef.com/t/how-do-i-delete-a-codechef-account/30476",
@@ -3493,7 +3501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1b4,
+		.id = 0x1b5,
 		.name = "Codecov",
 		.query = "codecov",
 		.url = "https://codecovpro.zendesk.com/hc/en-us/requests/new",
@@ -3501,7 +3509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1b5,
+		.id = 0x1b6,
 		.name = "Codeforces",
 		.query = "codeforces",
 		.url = "https://codeforces.com/blog/entry/69245",
@@ -3509,7 +3517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x1b6,
+		.id = 0x1b7,
 		.name = "CodeHut",
 		.query = "codehut",
 		.url = "https://codehut.co.uk/about",
@@ -3517,7 +3525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1b7,
+		.id = 0x1b8,
 		.name = "Codeium",
 		.query = "codeium",
 		.url = "https://codeium.com/settings",
@@ -3525,7 +3533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1b8,
+		.id = 0x1b9,
 		.name = "CodePen",
 		.query = "codepen",
 		.url = "https://blog.codepen.io/documentation/faq/how-do-i-delete-my-account/",
@@ -3533,7 +3541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1b9,
+		.id = 0x1ba,
 		.name = "CodeProject",
 		.query = "codeproject",
 		.url = "https://www.codeproject.com/script/Membership/Modify.aspx",
@@ -3541,7 +3549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1ba,
+		.id = 0x1bb,
 		.name = "CoderByte",
 		.query = "coderbyte",
 		.url = "https://coderbyte.com/privacy#:~:text=You%20may%20also%20delete%20your,detailed%20in%20this%20Privacy%20Policy.",
@@ -3549,7 +3557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1bb,
+		.id = 0x1bc,
 		.name = "CodersRank",
 		.query = "codersrank",
 		.url = "https://profile.codersrank.io/account",
@@ -3557,7 +3565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1bc,
+		.id = 0x1bd,
 		.name = "Coderwall",
 		.query = "coderwall",
 		.url = "https://coderwall.com/delete_account",
@@ -3565,7 +3573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1bd,
+		.id = 0x1be,
 		.name = "Codes Rousseau",
 		.query = "codes rousseau",
 		.url = "https://public.codesrousseau.fr/notre-politique-de-confidentialite/",
@@ -3573,7 +3581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1be,
+		.id = 0x1bf,
 		.name = "CodeSignal",
 		.query = "codesignal",
 		.url = "https://app.codesignal.com/account/username-password",
@@ -3581,7 +3589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1bf,
+		.id = 0x1c0,
 		.name = "Codetasty",
 		.query = "codetasty",
 		.url = "https://codetasty.com/settings/security",
@@ -3589,7 +3597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1c0,
+		.id = 0x1c1,
 		.name = "Codewars",
 		.query = "codewars",
 		.url = "https://www.codewars.com/users/edit",
@@ -3597,7 +3605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1c1,
+		.id = 0x1c2,
 		.name = "Codingame",
 		.query = "codingame",
 		.url = "https://www.codingame.com/settings",
@@ -3605,7 +3613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1c2,
+		.id = 0x1c3,
 		.name = "CoffeeCup",
 		.query = "coffeecup",
 		.url = "https://www.coffeecup.com/contact/",
@@ -3613,7 +3621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1c3,
+		.id = 0x1c4,
 		.name = "Cohost",
 		.query = "cohost",
 		.url = "https://cohost.org/rc/user/settings",
@@ -3621,7 +3629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1c4,
+		.id = 0x1c5,
 		.name = "Coin",
 		.query = "coin",
 		.url = "https://support.coinapp.co/hc/en-us/requests/new",
@@ -3629,7 +3637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1c5,
+		.id = 0x1c6,
 		.name = "Coinbase",
 		.query = "coinbase",
 		.url = "https://www.coinbase.com/settings/privacy-rights",
@@ -3637,7 +3645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x1c6,
+		.id = 0x1c7,
 		.name = "CoinBR/Stratum",
 		.query = "coinbrstratum",
 		.url = "https://stratum.hk/support",
@@ -3645,7 +3653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1c7,
+		.id = 0x1c8,
 		.name = "CoinEx",
 		.query = "coinex",
 		.url = "https://www.coinex.com/en/help/sections/articles/14011154149401-How-to-Delete-My-Account",
@@ -3653,7 +3661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1c8,
+		.id = 0x1c9,
 		.name = "CoinGecko",
 		.query = "coingecko",
 		.url = "https://support.coingecko.com/hc/en-us/articles/4537981325977-How-can-I-delete-my-account-",
@@ -3661,7 +3669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1c9,
+		.id = 0x1ca,
 		.name = "CoinMarketCap",
 		.query = "coinmarketcap",
 		.url = "https://coinmarketcap.com/community/edit-profile/",
@@ -3669,7 +3677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1ca,
+		.id = 0x1cb,
 		.name = "CoinPayments",
 		.query = "coinpayments",
 		.url = "https://www.coinpayments.net/help-support",
@@ -3677,7 +3685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x1cb,
+		.id = 0x1cc,
 		.name = "CoinSpot",
 		.query = "coinspot",
 		.url = "https://coinspot.zendesk.com/hc/en-us/articles/360001328796-Closing-your-Account",
@@ -3685,7 +3693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1cc,
+		.id = 0x1cd,
 		.name = "Cointree",
 		.query = "cointree",
 		.url = "https://cointree.formstack.com/forms/account_closure_request",
@@ -3693,7 +3701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x1cd,
+		.id = 0x1ce,
 		.name = "Collegeboard",
 		.query = "collegeboard",
 		.url = "https://pages.collegeboard.org/account-help/how-do-i-delete-my-account",
@@ -3701,7 +3709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x1ce,
+		.id = 0x1cf,
 		.name = "Comment ça marche",
 		.query = "comment ca marche",
 		.url = "https://auth.ccm.net/user/delete_account",
@@ -3709,7 +3717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1cf,
+		.id = 0x1d0,
 		.name = "commiss.io",
 		.query = "commissio",
 		.url = "https://commiss.io/",
@@ -3717,7 +3725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x1d0,
+		.id = 0x1d1,
 		.name = "Commun",
 		.query = "commun",
 		.url = "https://commun.it/content/cancel_account",
@@ -3725,7 +3733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1d1,
+		.id = 0x1d2,
 		.name = "Compiled",
 		.query = "compiled",
 		.url = "https://cosoc.com",
@@ -3733,7 +3741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1d2,
+		.id = 0x1d3,
 		.name = "Computeruniverse",
 		.query = "computeruniverse",
 		.url = "https://www.computeruniverse.net/en/page/computeruniverse-privacy-policy#hbmpp-toc-III-4",
@@ -3741,7 +3749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1d3,
+		.id = 0x1d4,
 		.name = "Contabo",
 		.query = "contabo",
 		.url = "https://help.contabo.com/en/support/solutions/articles/103000269314-how-can-i-close-my-contabo-account-or-cancel-a-contabo-service-",
@@ -3749,7 +3757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1d4,
+		.id = 0x1d5,
 		.name = "Conte.it",
 		.query = "conteit",
 		.url = "https://www.conte.it/privacy-unsubscribe/",
@@ -3757,7 +3765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1d5,
+		.id = 0x1d6,
 		.name = "Cook It",
 		.query = "cook it",
 		.url = "https://www.chefcookit.com/unsubscribe",
@@ -3765,7 +3773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x1d6,
+		.id = 0x1d7,
 		.name = "Cool Shirtz",
 		.query = "cool shirtz",
 		.url = "https://shirtz.cool/pages/store-policies",
@@ -3773,7 +3781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1d7,
+		.id = 0x1d8,
 		.name = "Coolors",
 		.query = "coolors",
 		.url = "https://coolors.co/account/delete",
@@ -3781,7 +3789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x1d8,
+		.id = 0x1d9,
 		.name = "Coolshop.dk",
 		.query = "coolshopdk",
 		.url = "https://www.coolshop.dk/my/gdpr/",
@@ -3789,7 +3797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1d9,
+		.id = 0x1da,
 		.name = "Copyleaks",
 		.query = "copyleaks",
 		.url = "https://id.copyleaks.com/security",
@@ -3797,7 +3805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x1da,
+		.id = 0x1db,
 		.name = "Copyrighted",
 		.query = "copyrighted",
 		.url = "https://app.copyrighted.com/users/settings/cancel",
@@ -3805,7 +3813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1db,
+		.id = 0x1dc,
 		.name = "Corellium",
 		.query = "corellium",
 		.url = "https://app.corellium.com/admin/subscription",
@@ -3813,7 +3821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1dc,
+		.id = 0x1dd,
 		.name = "Cornelsen.de",
 		.query = "cornelsende",
 		.url = "https://www.cornelsen.de/service/kundenservice/anmeldung",
@@ -3821,7 +3829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1dd,
+		.id = 0x1de,
 		.name = "Correl.app",
 		.query = "correlapp",
 		.url = "https://correl.app/account/delete",
@@ -3829,7 +3837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1de,
+		.id = 0x1df,
 		.name = "Cors Proxy",
 		.query = "cors proxy",
 		.url = "https://accounts.corsproxy.io/user",
@@ -3837,7 +3845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1df,
+		.id = 0x1e0,
 		.name = "CoSpaces",
 		.query = "cospaces",
 		.url = "https://edu.cospaces.io/Studio/Account",
@@ -3845,7 +3853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1e0,
+		.id = 0x1e1,
 		.name = "Coub",
 		.query = "coub",
 		.url = "https://coub.com/account/edit",
@@ -3853,7 +3861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1e1,
+		.id = 0x1e2,
 		.name = "Couchsurfing",
 		.query = "couchsurfing",
 		.url = "https://support.couchsurfing.org/hc/en-us/articles/200640880-How-can-I-Hide-or-Delete-my-profile",
@@ -3861,7 +3869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x1e2,
+		.id = 0x1e3,
 		.name = "Couponut",
 		.query = "couponut",
 		.url = "https://couponut.com/settings",
@@ -3869,7 +3877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1e3,
+		.id = 0x1e4,
 		.name = "Coursera",
 		.query = "coursera",
 		.url = "https://www.coursera.org/account-settings",
@@ -3877,7 +3885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1e4,
+		.id = 0x1e5,
 		.name = "Covoitéo par Karos",
 		.query = "covoiteo par karos",
 		.url = "https://moncompte.tisseo.fr/fr/questions-frequentes?question=comment-supprimer-mon-compte-covoiteo",
@@ -3885,7 +3893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1e5,
+		.id = 0x1e6,
 		.name = "Cracker Barrel",
 		.query = "cracker barrel",
 		.url = "http://www.crackerbarrel.com/privacy",
@@ -3893,7 +3901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1e6,
+		.id = 0x1e7,
 		.name = "Craft",
 		.query = "craft",
 		.url = "https://docs.craft.do/s/",
@@ -3901,7 +3909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1e7,
+		.id = 0x1e8,
 		.name = "Craigslist",
 		.query = "craigslist",
 		.url = "https://www.craigslist.org/about/help/user_accounts",
@@ -3909,7 +3917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1e8,
+		.id = 0x1e9,
 		.name = "CrashPlan",
 		.query = "crashplan",
 		.url = "https://helpdesk.code42.com",
@@ -3917,7 +3925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1e9,
+		.id = 0x1ea,
 		.name = "Creativebug",
 		.query = "creativebug",
 		.url = "https://www.creativebug.com/site/contact-form",
@@ -3925,7 +3933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x1ea,
+		.id = 0x1eb,
 		.name = "Credit Karma",
 		.query = "credit karma",
 		.url = "https://www.creditkarma.com/myprofile/security/deactivate",
@@ -3933,7 +3941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1eb,
+		.id = 0x1ec,
 		.name = "CreditExpert",
 		.query = "creditexpert",
 		.url = "https://www.creditexpert.co.uk",
@@ -3941,7 +3949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1ec,
+		.id = 0x1ed,
 		.name = "Credly",
 		.query = "credly",
 		.url = "https://www.credly.com/earner/settings/profile",
@@ -3949,7 +3957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1ed,
+		.id = 0x1ee,
 		.name = "Crevado Portfolios",
 		.query = "crevado portfolios",
 		.url = "https://crevado.com/admin/account/cancel",
@@ -3957,7 +3965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1ee,
+		.id = 0x1ef,
 		.name = "Cronometer",
 		.query = "cronometer",
 		.url = "https://support.cronometer.com/hc/en-us/articles/360018760151-Account-Settings#h_440005960211545174984655",
@@ -3965,7 +3973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1ef,
+		.id = 0x1f0,
 		.name = "Crowdcast.io",
 		.query = "crowdcastio",
 		.url = "https://crowdcast.notion.site/Deleting-Your-Crowdcast-Account-952b7f9ff09648f7960e7d9ecfb6a1b4",
@@ -3973,7 +3981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x1f0,
+		.id = 0x1f1,
 		.name = "Crowdfinder",
 		.query = "crowdfinder",
 		.url = "https://crowdfinder.be/privacy",
@@ -3981,7 +3989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1f1,
+		.id = 0x1f2,
 		.name = "Crowdfire",
 		.query = "crowdfire",
 		.url = "https://support.crowdfireapp.com/support/solutions/articles/5000712205-deleting-your-crowdfire-account",
@@ -3989,7 +3997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1f2,
+		.id = 0x1f3,
 		.name = "Crowdin",
 		.query = "crowdin",
 		.url = "https://crowdin.com/settings#account",
@@ -3997,7 +4005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1f3,
+		.id = 0x1f4,
 		.name = "Crowdsorsa",
 		.query = "crowdsorsa",
 		.url = "https://crowdsorsa.com/contact/",
@@ -4005,7 +4013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1f4,
+		.id = 0x1f5,
 		.name = "Crunchyroll",
 		.query = "crunchyroll",
 		.url = "https://privacyportal.onetrust.com/webform/d19e506f-1a64-463d-94e4-914dd635817d/35fb5149-8905-48f3-9cbf-8b651c427d0e",
@@ -4013,7 +4021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x1f5,
+		.id = 0x1f6,
 		.name = "CryEngine",
 		.query = "cryengine",
 		.url = "https://www.cryengine.com/user/dashboard/account/delete",
@@ -4021,7 +4029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1f6,
+		.id = 0x1f7,
 		.name = "Crypton.sh",
 		.query = "cryptonsh",
 		.url = "https://crypton.sh/app/account",
@@ -4029,7 +4037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1f7,
+		.id = 0x1f8,
 		.name = "CryptoPanic",
 		.query = "cryptopanic",
 		.url = "https://cryptopanic.com/accounts/delete/",
@@ -4037,7 +4045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x1f8,
+		.id = 0x1f9,
 		.name = "CryptoVoucher",
 		.query = "cryptovoucher",
 		.url = "https://cryptovoucher.io/account/settings",
@@ -4045,7 +4053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1f9,
+		.id = 0x1fa,
 		.name = "CryptPad",
 		.query = "cryptpad",
 		.url = "https://cryptpad.fr/settings/",
@@ -4053,7 +4061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1fa,
+		.id = 0x1fb,
 		.name = "Crytek",
 		.query = "crytek",
 		.url = "https://www.crytek.com/privacy-policy#:~:text=VII.%20Review%2C%20Correction%20of%20Your%20Information%2C%20Requesting%20Removal%20from%20Mailing%20Lists%20and%20Deactivating%20Your%20Account",
@@ -4061,7 +4069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1fb,
+		.id = 0x1fc,
 		.name = "CTFLearn",
 		.query = "ctflearn",
 		.url = "https://ctflearn.com/",
@@ -4069,7 +4077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x1fc,
+		.id = 0x1fd,
 		.name = "cTrader",
 		.query = "ctrader",
 		.url = "https://help.ctrader.com/ctrader-id/delete",
@@ -4077,7 +4085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1fd,
+		.id = 0x1fe,
 		.name = "Cubeast",
 		.query = "cubeast",
 		.url = "https://app.cubeast.com/settings/user_settings",
@@ -4085,7 +4093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x1fe,
+		.id = 0x1ff,
 		.name = "CubieCloud",
 		.query = "cubiecloud",
 		.url = "https://sso.cubie.com.br/delacc",
@@ -4093,7 +4101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x1ff,
+		.id = 0x200,
 		.name = "Cults3d",
 		.query = "cults3d",
 		.url = "https://cults3d.com/en/account/edit",
@@ -4101,7 +4109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x200,
+		.id = 0x201,
 		.name = "Cultura",
 		.query = "cultura",
 		.url = "https://mesdroits.my.onetrust.com/webform/657f7c55-2752-4af4-b8a2-0c1c352400a9/1a5e60f4-9b49-4948-b10a-247d726aa821",
@@ -4109,7 +4117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x201,
+		.id = 0x202,
 		.name = "Curio",
 		.query = "curio",
 		.url = "https://curio.io/account/delete",
@@ -4117,7 +4125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x202,
+		.id = 0x203,
 		.name = "Curiosity Stream",
 		.query = "curiosity stream",
 		.url = "https://curiositystream.com/account/delete",
@@ -4125,7 +4133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x203,
+		.id = 0x204,
 		.name = "Curriculum",
 		.query = "curriculum",
 		.url = "https://www.curriculum.com.br/01_02_habilitacao1.asp",
@@ -4133,7 +4141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x204,
+		.id = 0x205,
 		.name = "CurseForge",
 		.query = "curseforge",
 		.url = "https://support.curseforge.com/en/support/tickets/new",
@@ -4141,7 +4149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x205,
+		.id = 0x206,
 		.name = "Cursor",
 		.query = "cursor",
 		.url = "https://www.cursor.com/settings",
@@ -4149,7 +4157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x206,
+		.id = 0x207,
 		.name = "Curve",
 		.query = "curve",
 		.url = "https://support.imaginecurve.com/hc/en-gb/articles/214179685-How-do-I-cancel-my-account",
@@ -4157,7 +4165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x207,
+		.id = 0x208,
 		.name = "Cutout",
 		.query = "cutout",
 		.url = "https://www.cutout.pro/user/set",
@@ -4165,7 +4173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x208,
+		.id = 0x209,
 		.name = "CV online",
 		.query = "cv online",
 		.url = "https://cvonline.me/en/support/accounts/removing-account",
@@ -4173,7 +4181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x209,
+		.id = 0x20a,
 		.name = "CVS Pharmacy",
 		.query = "cvs pharmacy",
 		.url = "https://www.cvs.com/account/account-management.jsp",
@@ -4181,7 +4189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x20a,
+		.id = 0x20b,
 		.name = "Cybrary",
 		.query = "cybrary",
 		.url = "https://app.cybrary.it/settings/account",
@@ -4189,7 +4197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x20b,
+		.id = 0x20c,
 		.name = "CZC",
 		.query = "czc",
 		.url = "https://www.czc.cz/soukromi/sprava-udaju",
@@ -4197,7 +4205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x20c,
+		.id = 0x20d,
 		.name = "DaFONT",
 		.query = "dafont",
 		.url = "https://www.dafont.com/forum/read/12643/how-do-i-delete-my-account",
@@ -4205,7 +4213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x20d,
+		.id = 0x20e,
 		.name = "DagsHub",
 		.query = "dagshub",
 		.url = "https://dagshub.com/user/settings/delete",
@@ -4213,7 +4221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x20e,
+		.id = 0x20f,
 		.name = "The Daily Wire",
 		.query = "the daily wire",
 		.url = "https://privacy.dailywire.com/",
@@ -4221,7 +4229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x20f,
+		.id = 0x210,
 		.name = "Dailymotion",
 		.query = "dailymotion",
 		.url = "https://www.dailymotion.com/settings/delete-account",
@@ -4229,7 +4237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x210,
+		.id = 0x211,
 		.name = "Dan Murphy's",
 		.query = "dan murphys",
 		.url = "https://www.danmurphys.com.au/dm/home",
@@ -4237,7 +4245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x211,
+		.id = 0x212,
 		.name = "DansTonChat",
 		.query = "danstonchat",
 		.url = "https://danstonchat.com/user/delete.html",
@@ -4245,7 +4253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x212,
+		.id = 0x213,
 		.name = "danwin1210.me",
 		.query = "danwin1210me",
 		.url = "https://danwin1210.me/mail/manage_account.php",
@@ -4253,7 +4261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x213,
+		.id = 0x214,
 		.name = "Darty",
 		.query = "darty",
 		.url = "https://www.darty.com/services/solutions/foire_aux_questions?question=comment-supprimer-compte-client-ainsi-mes-donnees-personnelles",
@@ -4261,7 +4269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x214,
+		.id = 0x215,
 		.name = "Dashlane",
 		.query = "dashlane",
 		.url = "https://app.dashlane.com/#/delete-account",
@@ -4269,7 +4277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x215,
+		.id = 0x216,
 		.name = "data.gouv.fr",
 		.query = "datagouvfr",
 		.url = "https://doc.data.gouv.fr/gestion-du-compte/supprimer-un-compte/",
@@ -4277,7 +4285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x216,
+		.id = 0x217,
 		.name = "DataCamp",
 		.query = "datacamp",
 		.url = "https://www.datacamp.com/profile/account_settings/advanced",
@@ -4285,7 +4293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x217,
+		.id = 0x218,
 		.name = "DataQuest",
 		.query = "dataquest",
 		.url = "https://app.dataquest.io/settings/account",
@@ -4293,7 +4301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x218,
+		.id = 0x219,
 		.name = "Day One",
 		.query = "day one",
 		.url = "https://dayone.me/user/request-account-deletion",
@@ -4301,7 +4309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x219,
+		.id = 0x21a,
 		.name = "dbrand",
 		.query = "dbrand",
 		.url = "https://dbrand.com/contact",
@@ -4309,7 +4317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x21a,
+		.id = 0x21b,
 		.name = "Deadspin",
 		.query = "deadspin",
 		.url = "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
@@ -4317,7 +4325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x21b,
+		.id = 0x21c,
 		.name = "Decathlon",
 		.query = "decathlon",
 		.url = "https://account.decathlon.com/privacy/account-deletion",
@@ -4325,7 +4333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x21c,
+		.id = 0x21d,
 		.name = "Decathlon India",
 		.query = "decathlon india",
 		.url = "https://decathlononline.freshdesk.com/support/tickets/new",
@@ -4333,7 +4341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x21d,
+		.id = 0x21e,
 		.name = "DeepL",
 		.query = "deepl",
 		.url = "https://www.deepl.com/en/privacy#section_6_1",
@@ -4341,7 +4349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x21e,
+		.id = 0x21f,
 		.name = "DeepSeek",
 		.query = "deepseek",
 		.url = "https://chat.deepseek.com/",
@@ -4349,7 +4357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x21f,
+		.id = 0x220,
 		.name = "Deezer",
 		.query = "deezer",
 		.url = "https://www.deezer.com/account",
@@ -4357,7 +4365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x220,
+		.id = 0x221,
 		.name = "Deliveroo",
 		.query = "deliveroo",
 		.url = "https://deliveroo.co.uk/account",
@@ -4365,7 +4373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x221,
+		.id = 0x222,
 		.name = "Delivery Code",
 		.query = "delivery code",
 		.url = "https://www.deliverycode.com",
@@ -4373,7 +4381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x222,
+		.id = 0x223,
 		.name = "Dell",
 		.query = "dell",
 		.url = "https://www.dell.com/preferences/pcrp/",
@@ -4381,7 +4389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x223,
+		.id = 0x224,
 		.name = "Delta Airlines (SkyMiles)",
 		.query = "delta airlines skymiles",
 		.url = "https://www.delta.com/contactus/pages/comment_complaint/index.jsp",
@@ -4389,7 +4397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x224,
+		.id = 0x225,
 		.name = "DelugeRPG",
 		.query = "delugerpg",
 		.url = "https://www.delugerpg.com/faq#delete",
@@ -4397,7 +4405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x225,
+		.id = 0x226,
 		.name = "Demiplane",
 		.query = "demiplane",
 		.url = "https://support.demiplane.com/hc/en-us/requests/new",
@@ -4405,7 +4413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x226,
+		.id = 0x227,
 		.name = "Depop",
 		.query = "depop",
 		.url = "https://depophelp.zendesk.com/hc/en-gb/articles/360001772988-How-can-I-delete-my-Depop-account-",
@@ -4413,7 +4421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x227,
+		.id = 0x228,
 		.name = "Depositphotos",
 		.query = "depositphotos",
 		.url = "https://depositphotos.com",
@@ -4421,7 +4429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x228,
+		.id = 0x229,
 		.name = "Desmos",
 		.query = "desmos",
 		.url = "https://www.desmos.com/",
@@ -4429,7 +4437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x229,
+		.id = 0x22a,
 		.name = "Deutsche Bahn / DB",
 		.query = "deutsche bahn db",
 		.url = "https://int.bahn.de/en/faq/delete-data-customer-account",
@@ -4437,7 +4445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x22a,
+		.id = 0x22b,
 		.name = "Deutsche Post",
 		.query = "deutsche post",
 		.url = "https://www.dhl.de/content/dpks/de/themenauswahl/kundenservice-formulare/f1b-datenschutz.html",
@@ -4445,7 +4453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x22b,
+		.id = 0x22c,
 		.name = "DEV",
 		.query = "dev",
 		.url = "https://dev.to/settings/account",
@@ -4453,7 +4461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x22c,
+		.id = 0x22d,
 		.name = "DeviantArt",
 		.query = "deviantart",
 		.url = "https://www.deviantart.com/settings/deactivation",
@@ -4461,7 +4469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x22d,
+		.id = 0x22e,
 		.name = "DevITjobs",
 		.query = "devitjobs",
 		.url = "https://devitjobs.com/contact",
@@ -4469,7 +4477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x22e,
+		.id = 0x22f,
 		.name = "Devpost",
 		.query = "devpost",
 		.url = "https://devpost.com/settings/delete_account",
@@ -4477,7 +4485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x22f,
+		.id = 0x230,
 		.name = "DFCG",
 		.query = "dfcg",
 		.url = "https://www.dfcg.fr/politique-de-confidentialite/",
@@ -4485,7 +4493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x230,
+		.id = 0x231,
 		.name = "DHL",
 		.query = "dhl",
 		.url = "https://www.dhl.de/de/privatkunden/kundenkonto/meine-daten.html",
@@ -4493,7 +4501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x231,
+		.id = 0x232,
 		.name = "Dia",
 		.query = "dia",
 		.url = "https://diabrowser.com/help",
@@ -4501,7 +4509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x232,
+		.id = 0x233,
 		.name = "DialLink",
 		.query = "diallink",
 		.url = "https://app.diallink.com/v1/settings/company",
@@ -4509,7 +4517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x233,
+		.id = 0x234,
 		.name = "diasp.eu (Diaspora)",
 		.query = "diaspeu diaspora",
 		.url = "https://diasp.eu/user/edit#close_account_pane",
@@ -4517,7 +4525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x234,
+		.id = 0x235,
 		.name = "Dice",
 		.query = "dice",
 		.url = "https://www.dice.com/dashboard/settings",
@@ -4525,7 +4533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x235,
+		.id = 0x236,
 		.name = "DiceCloud",
 		.query = "dicecloud",
 		.url = "https://dicecloud.com/",
@@ -4533,7 +4541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x236,
+		.id = 0x237,
 		.name = "dict.cc",
 		.query = "dictcc",
 		.url = "https://users.dict.cc/my-account/close-account",
@@ -4541,7 +4549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x237,
+		.id = 0x238,
 		.name = "Dictionary.com",
 		.query = "dictionarycom",
 		.url = "https://www.dictionary.com/account",
@@ -4549,7 +4557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x238,
+		.id = 0x239,
 		.name = "Didsoft",
 		.query = "didsoft",
 		.url = "https://didsoft.com/contact.html",
@@ -4557,7 +4565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x239,
+		.id = 0x23a,
 		.name = "Dietollemode.com",
 		.query = "dietollemodecom",
 		.url = "https://dietollemode.com/",
@@ -4565,7 +4573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x23a,
+		.id = 0x23b,
 		.name = "Digg",
 		.query = "digg",
 		.url = "https://digg.com/privacy#:~:text=How%20Can%20I%20Delete%20My%20Account%3F",
@@ -4573,7 +4581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x23b,
+		.id = 0x23c,
 		.name = "Digio",
 		.query = "digio",
 		.url = "https://www.digio.com.br/",
@@ -4581,7 +4589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x23c,
+		.id = 0x23d,
 		.name = "DigitalOcean",
 		.query = "digitalocean",
 		.url = "https://cloud.digitalocean.com/deactivate",
@@ -4589,7 +4597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x23d,
+		.id = 0x23e,
 		.name = "Diigo",
 		.query = "diigo",
 		.url = "https://www.diigo.com/setting",
@@ -4597,7 +4605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x23e,
+		.id = 0x23f,
 		.name = "Directleaks",
 		.query = "directleaks",
 		.url = "https://directleaks.net/account/delete",
@@ -4605,7 +4613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x23f,
+		.id = 0x240,
 		.name = "Discogs",
 		.query = "discogs",
 		.url = "https://www.discogs.com/users/delete",
@@ -4613,7 +4621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x240,
+		.id = 0x241,
 		.name = "Discord",
 		.query = "discord",
 		.url = "https://support.discordapp.com/hc/en-us/articles/212500837-How-do-I-permanently-delete-my-account-",
@@ -4621,7 +4629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x241,
+		.id = 0x242,
 		.name = "Discourse",
 		.query = "discourse",
 		.url = "https://www.discourse.org/privacy#heading--change",
@@ -4629,7 +4637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x242,
+		.id = 0x243,
 		.name = "discovery+",
 		.query = "discovery",
 		.url = "https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/5b504afe-dd1e-47f6-9af6-56144531eced",
@@ -4637,7 +4645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x243,
+		.id = 0x244,
 		.name = "Disney",
 		.query = "disney",
 		.url = "https://support.disney.com/hc/en-gb/articles/115005418823-How-do-I-delete-my-Disney-account-",
@@ -4645,7 +4653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x244,
+		.id = 0x245,
 		.name = "Disney+",
 		.query = "disney",
 		.url = "https://help.disneyplus.com/csp?id=csp_article_content&sys_kb_id=bf6bf352db101558331d6fddd39619c7",
@@ -4653,7 +4661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x245,
+		.id = 0x246,
 		.name = "Displate",
 		.query = "displate",
 		.url = "https://displate.com/settings",
@@ -4661,7 +4669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x246,
+		.id = 0x247,
 		.name = "Disqus",
 		.query = "disqus",
 		.url = "https://disqus.com/home/settings/account/",
@@ -4669,7 +4677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x247,
+		.id = 0x248,
 		.name = "Disroot",
 		.query = "disroot",
 		.url = "https://user.disroot.org/pwm/private/",
@@ -4677,7 +4685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x248,
+		.id = 0x249,
 		.name = "distill.io",
 		.query = "distillio",
 		.url = "distill.io",
@@ -4685,7 +4693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x249,
+		.id = 0x24a,
 		.name = "Divize",
 		.query = "divize",
 		.url = "https://divize.io/account/delete",
@@ -4693,7 +4701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x24a,
+		.id = 0x24b,
 		.name = "DJI",
 		.query = "dji",
 		.url = "https://account.dji.com/account/userCancel",
@@ -4701,7 +4709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x24b,
+		.id = 0x24c,
 		.name = "DLH",
 		.query = "dlh",
 		.url = "https://dlh.net/en/profile.html",
@@ -4709,7 +4717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x24c,
+		.id = 0x24d,
 		.name = "DLive",
 		.query = "dlive",
 		.url = "https://dlive.tv/s/settings",
@@ -4717,7 +4725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x24d,
+		.id = 0x24e,
 		.name = "Dmwithme",
 		.query = "dmwithme",
 		.url = "https://dmwithme.com/privacy",
@@ -4725,7 +4733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x24e,
+		.id = 0x24f,
 		.name = "DNSimple",
 		.query = "dnsimple",
 		.url = "https://dnsimple.com/user/cancellation",
@@ -4733,7 +4741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x24f,
+		.id = 0x250,
 		.name = "Do IT",
 		.query = "do it",
 		.url = "https://doit.life/privacy-policy",
@@ -4741,7 +4749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x250,
+		.id = 0x251,
 		.name = "DocHub",
 		.query = "dochub",
 		.url = "https://dochub.com/settings/account",
@@ -4749,7 +4757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x251,
+		.id = 0x252,
 		.name = "Docker",
 		.query = "docker",
 		.url = "https://hub.docker.com/settings/deactivate",
@@ -4757,7 +4765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x252,
+		.id = 0x253,
 		.name = "DocMorris",
 		.query = "docmorris",
 		.url = "https://www.docmorris.de/kontaktformular",
@@ -4765,7 +4773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x253,
+		.id = 0x254,
 		.name = "Doctolib",
 		.query = "doctolib",
 		.url = "https://www.doctolib.de/account/edit",
@@ -4773,7 +4781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x254,
+		.id = 0x255,
 		.name = "DocuSign",
 		.query = "docusign",
 		.url = "https://support.docusign.com/en/articles/How-do-I-cancel-or-downgrade-my-account#steps",
@@ -4781,7 +4789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x255,
+		.id = 0x256,
 		.name = "Doksure",
 		.query = "doksure",
 		.url = "https://doksure.com/supprimer-son-compte",
@@ -4789,7 +4797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x256,
+		.id = 0x257,
 		.name = "Dollskill",
 		.query = "dollskill",
 		.url = "https://www.dollskill.com/pages/contact-us",
@@ -4797,7 +4805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x257,
+		.id = 0x258,
 		.name = "Domino's Pizza",
 		.query = "dominos pizza",
 		.url = "https://www.dominos.ca/en/pages/content/customer-service/faq",
@@ -4805,7 +4813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x258,
+		.id = 0x259,
 		.name = "DonationAlerts",
 		.query = "donationalerts",
 		.url = "https://www.donationalerts.com/dashboard/general-settings/account",
@@ -4813,7 +4821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x259,
+		.id = 0x25a,
 		.name = "Doneo",
 		.query = "doneo",
 		.url = "http://www.doneo.org/2_index_membre.php?action=desinscription_membre&block=block2",
@@ -4821,7 +4829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x25a,
+		.id = 0x25b,
 		.name = "Doodle",
 		.query = "doodle",
 		.url = "https://doodle.com/account",
@@ -4829,7 +4837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x25b,
+		.id = 0x25c,
 		.name = "DoorDash",
 		.query = "doordash",
 		.url = "https://www.doordash.com/consumer/privacy/delete_account/",
@@ -4837,7 +4845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x25c,
+		.id = 0x25d,
 		.name = "Douban",
 		.query = "douban",
 		.url = "https://www.douban.com/accounts/suicide/",
@@ -4845,7 +4853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x25d,
+		.id = 0x25e,
 		.name = "Douyin",
 		.query = "douyin",
 		.url = "https://aweme.snssdk.com/ucenter_web/app/aweme/delete-account-notice?_theme=light&hide_nav_bar=1&title=%E6%8A%96%E9%9F%B3%E6%B3%A8%E9%94%80%E9%A1%BB%E7%9F%A5&hide_status_bar=0&disable_auto_expose=1&font_scale=1.0",
@@ -4853,7 +4861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x25e,
+		.id = 0x25f,
 		.name = "DOWN",
 		.query = "down",
 		.url = "https://www.downapp.com",
@@ -4861,7 +4869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x25f,
+		.id = 0x260,
 		.name = "Dr. Martens",
 		.query = "dr martens",
 		.url = "https://drmartens-privacy.my.onetrust.com/webform/96329145-6b18-4c1e-ba38-1fd083dd4e59/77c77c42-7fd2-4c45-9cee-242767264101",
@@ -4869,7 +4877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x260,
+		.id = 0x261,
 		.name = "Draft",
 		.query = "draft",
 		.url = "https://draftin.com/draft/users/edit",
@@ -4877,7 +4885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x261,
+		.id = 0x262,
 		.name = "Drawabox",
 		.query = "drawabox",
 		.url = "https://drawabox.com",
@@ -4885,7 +4893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x262,
+		.id = 0x263,
 		.name = "Drawboard PDF",
 		.query = "drawboard pdf",
 		.url = "https://pdf.drawboard.com/documents",
@@ -4893,7 +4901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x263,
+		.id = 0x264,
 		.name = "Drawpile",
 		.query = "drawpile",
 		.url = "https://drawpile.net/accounts/delete/",
@@ -4901,7 +4909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x264,
+		.id = 0x265,
 		.name = "Draxlr",
 		.query = "draxlr",
 		.url = "https://www.draxlr.com/contact/",
@@ -4909,7 +4917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x265,
+		.id = 0x266,
 		.name = "DreamHost",
 		.query = "dreamhost",
 		.url = "https://panel.dreamhost.com/index.cgi?tree=support.msg",
@@ -4917,7 +4925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x266,
+		.id = 0x267,
 		.name = "Dreamstime",
 		.query = "dreamstime",
 		.url = "https://www.dreamstime.com/account/edit-profile",
@@ -4925,7 +4933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x267,
+		.id = 0x268,
 		.name = "Dreamwidth",
 		.query = "dreamwidth",
 		.url = "https://www.dreamwidth.org/accountstatus",
@@ -4933,7 +4941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x268,
+		.id = 0x269,
 		.name = "Dribbble",
 		.query = "dribbble",
 		.url = "https://dribbble.com/account",
@@ -4941,7 +4949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x269,
+		.id = 0x26a,
 		.name = "DriveThruRPG",
 		.query = "drivethrurpg",
 		.url = "https://support.drivethrurpg.com/hc/en-us/requests/new",
@@ -4949,7 +4957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x26a,
+		.id = 0x26b,
 		.name = "Drivvo",
 		.query = "drivvo",
 		.url = "https://www.drivvo.com/",
@@ -4957,7 +4965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x26b,
+		.id = 0x26c,
 		.name = "Drizly",
 		.query = "drizly",
 		.url = "https://privacyportal.onetrust.com/webform/d3790e60-9408-4ab8-9ac6-511ad32593a0/edb91c18-e5fd-42cb-a0ce-4b1832410687",
@@ -4965,7 +4973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x26c,
+		.id = 0x26d,
 		.name = "Drone.io",
 		.query = "droneio",
 		.url = "https://drone.io",
@@ -4973,7 +4981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x26d,
+		.id = 0x26e,
 		.name = "Dronebase",
 		.query = "dronebase",
 		.url = "https://dronebase.com/contact",
@@ -4981,7 +4989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x26e,
+		.id = 0x26f,
 		.name = "Drop (Massdrop)",
 		.query = "drop massdrop",
 		.url = "https://helpdesk.drop.com/hc/en-us/articles/360019265073-How-do-I-delete-my-account-",
@@ -4989,7 +4997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x26f,
+		.id = 0x270,
 		.name = "Dropbox",
 		.query = "dropbox",
 		.url = "https://www.dropbox.com/account/delete",
@@ -4997,7 +5005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x270,
+		.id = 0x271,
 		.name = "Droplr",
 		.query = "droplr",
 		.url = "https://d.pr/settings/profile",
@@ -5005,7 +5013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x271,
+		.id = 0x272,
 		.name = "Dropmark",
 		.query = "dropmark",
 		.url = "https://support.dropmark.com/article/92-how-do-i-delete-my-account",
@@ -5013,7 +5021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x272,
+		.id = 0x273,
 		.name = "DTF",
 		.query = "dtf",
 		.url = "https://dtf.ru",
@@ -5021,7 +5029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x273,
+		.id = 0x274,
 		.name = "Duet Night Abyss",
 		.query = "duet night abyss",
 		.url = "https://duetnightabyss.dna-panstudio.com/#/home",
@@ -5029,7 +5037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x274,
+		.id = 0x275,
 		.name = "Dune",
 		.query = "dune",
 		.url = "https://dune.com/settings/account",
@@ -5037,7 +5045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x275,
+		.id = 0x276,
 		.name = "Dunkindonuts",
 		.query = "dunkindonuts",
 		.url = "https://www.dunkindonuts.com/en/about/contact-us",
@@ -5045,7 +5053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x276,
+		.id = 0x277,
 		.name = "Duo",
 		.query = "duo",
 		.url = "https://help.duo.com/s/article/2162",
@@ -5053,7 +5061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x277,
+		.id = 0x278,
 		.name = "Duolicious",
 		.query = "duolicious",
 		.url = "https://web.duolicious.app/",
@@ -5061,7 +5069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x278,
+		.id = 0x279,
 		.name = "Duolingo",
 		.query = "duolingo",
 		.url = "https://drive-thru.duolingo.com/",
@@ -5069,7 +5077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x279,
+		.id = 0x27a,
 		.name = "Duotrope",
 		.query = "duotrope",
 		.url = "https://duotrope.com/contact/customerservice.aspx",
@@ -5077,7 +5085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x27a,
+		.id = 0x27b,
 		.name = "Dwell",
 		.query = "dwell",
 		.url = "https://dwell.co.uk/contactus.php",
@@ -5085,7 +5093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x27b,
+		.id = 0x27c,
 		.name = "Dwolla",
 		.query = "dwolla",
 		.url = "https://www.dwolla.com",
@@ -5093,7 +5101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x27c,
+		.id = 0x27d,
 		.name = "DWService",
 		.query = "dwservice",
 		.url = "https://www.dwservice.net/session.dw#s",
@@ -5101,7 +5109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x27d,
+		.id = 0x27e,
 		.name = "Dynadot",
 		.query = "dynadot",
 		.url = "https://www.dynadot.com/community/help/question/close-dynadot-account",
@@ -5109,7 +5117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x27e,
+		.id = 0x27f,
 		.name = "DynDNS",
 		.query = "dyndns",
 		.url = "https://account.dyn.com/profile/close.html",
@@ -5117,7 +5125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x27f,
+		.id = 0x280,
 		.name = "e621",
 		.query = "e621",
 		.url = "https://e621.net/maintenance/user/deletion",
@@ -5125,7 +5133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x280,
+		.id = 0x281,
 		.name = "EA Games / Origin / Electronic Arts",
 		.query = "ea games origin electronic arts",
 		.url = "https://www.ea.com/legal/privacy-portal",
@@ -5133,7 +5141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x281,
+		.id = 0x282,
 		.name = "EasyEDA",
 		.query = "easyeda",
 		.url = "https://easyeda.com/account/user/account/setting/advance",
@@ -5141,7 +5149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x282,
+		.id = 0x283,
 		.name = "easyfundraising",
 		.query = "easyfundraising",
 		.url = "https://www.easyfundraising.org.uk/account/delete-account/",
@@ -5149,7 +5157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x283,
+		.id = 0x284,
 		.name = "easyJet",
 		.query = "easyjet",
 		.url = "https://www.easyjet.com/en/policy/privacy-promise/request-data-form",
@@ -5157,7 +5165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x284,
+		.id = 0x285,
 		.name = "EatStreet",
 		.query = "eatstreet",
 		.url = "https://eatstreet.com/contact",
@@ -5165,7 +5173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x285,
+		.id = 0x286,
 		.name = "EBANX",
 		.query = "ebanx",
 		.url = "https://ebanx.com",
@@ -5173,7 +5181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x286,
+		.id = 0x287,
 		.name = "eBay",
 		.query = "ebay",
 		.url = "https://accountsettings.ebay.com/uas",
@@ -5181,7 +5189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x287,
+		.id = 0x288,
 		.name = "eBonus",
 		.query = "ebonus",
 		.url = "https://ebonus.gg/contact",
@@ -5189,7 +5197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x288,
+		.id = 0x289,
 		.name = "Economist",
 		.query = "economist",
 		.url = "https://myaccount.economist.com/s/contact-us",
@@ -5197,7 +5205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x289,
+		.id = 0x28a,
 		.name = "Ecwid",
 		.query = "ecwid",
 		.url = "https://my.ecwid.com/cp/#profile",
@@ -5205,7 +5213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x28a,
+		.id = 0x28b,
 		.name = "Ed2Go",
 		.query = "ed2go",
 		.url = "https://support.ed2go.com/partners/s/contactsupport",
@@ -5213,7 +5221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x28b,
+		.id = 0x28c,
 		.name = "Edabit",
 		.query = "edabit",
 		.url = "https://edabit.com/challenges",
@@ -5221,7 +5229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x28c,
+		.id = 0x28d,
 		.name = "Edizioni Simone",
 		.query = "edizioni simone",
 		.url = "https://edizioni.simone.it/informativa-sulla-privacy/",
@@ -5229,7 +5237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x28d,
+		.id = 0x28e,
 		.name = "Edpuzzle",
 		.query = "edpuzzle",
 		.url = "https://edpuzzle.com/profile",
@@ -5237,7 +5245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x28e,
+		.id = 0x28f,
 		.name = "Edraw Software",
 		.query = "edraw software",
 		.url = "https://www.edrawsoft.com/faq/#account",
@@ -5245,7 +5253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x28f,
+		.id = 0x290,
 		.name = "eDreams",
 		.query = "edreams",
 		.url = "https://www.edreams.co.uk/travel/secure/#accountpreferences/",
@@ -5253,7 +5261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x290,
+		.id = 0x291,
 		.name = "Educaplay",
 		.query = "educaplay",
 		.url = "https://www.educaplay.com",
@@ -5261,7 +5269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x291,
+		.id = 0x292,
 		.name = "Eduonix",
 		.query = "eduonix",
 		.url = "https://www.eduonix.com/settings/mang_pass",
@@ -5269,7 +5277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x292,
+		.id = 0x293,
 		.name = "Edureka",
 		.query = "edureka",
 		.url = "https://www.edureka.co/contact-us",
@@ -5277,7 +5285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x293,
+		.id = 0x294,
 		.name = "Edvisors/ScholarshipPoints",
 		.query = "edvisorsscholarshippoints",
 		.url = "https://www.edvisors.com/delete-request/",
@@ -5285,7 +5293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x294,
+		.id = 0x295,
 		.name = "EdX",
 		.query = "edx",
 		.url = "https://account.edx.org/#delete-account",
@@ -5293,7 +5301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x295,
+		.id = 0x296,
 		.name = "efinancialcareers",
 		.query = "efinancialcareers",
 		.url = "https://www.efinancialcareers.com/myefc/account",
@@ -5301,7 +5309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x296,
+		.id = 0x297,
 		.name = "Electroneum",
 		.query = "electroneum",
 		.url = "https://support.electroneum.com/hc/en-gb/requests/new",
@@ -5309,7 +5317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x297,
+		.id = 0x298,
 		.name = "Element",
 		.query = "element",
 		.url = "https://app.element.io/#/home",
@@ -5317,7 +5325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x298,
+		.id = 0x299,
 		.name = "Elevate",
 		.query = "elevate",
 		.url = "https://elevateapp.com",
@@ -5325,7 +5333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x299,
+		.id = 0x29a,
 		.name = "Elevenlabs.io",
 		.query = "elevenlabsio",
 		.url = "https://help.elevenlabs.io/hc/en-us/articles/13313906314641-How-can-I-delete-my-account",
@@ -5333,7 +5341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x29a,
+		.id = 0x29b,
 		.name = "Elfster",
 		.query = "elfster",
 		.url = "https://www.elfster.com/settings/account/",
@@ -5341,7 +5349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x29b,
+		.id = 0x29c,
 		.name = "Ello",
 		.query = "ello",
 		.url = "https://ello.co/wtf/help/settings/",
@@ -5349,7 +5357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x29c,
+		.id = 0x29d,
 		.name = "elmah.io",
 		.query = "elmahio",
 		.url = "https://app.elmah.io/profile/#actions",
@@ -5357,7 +5365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x29d,
+		.id = 0x29e,
 		.name = "Elpais",
 		.query = "elpais",
 		.url = "https://registro.elpais.com.uy/regasistencia.asp",
@@ -5365,7 +5373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x29e,
+		.id = 0x29f,
 		.name = "ELSA Speak",
 		.query = "elsa speak",
 		.url = "https://elsaspeak.com/app/account",
@@ -5373,7 +5381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x29f,
+		.id = 0x2a0,
 		.name = "Elsevier",
 		.query = "elsevier",
 		.url = "https://service.elsevier.com/app/answers/detail/a_id/30148/supporthub/ecommerce/~/how-do-i-request-deletion-of-my-elsevier.com-account",
@@ -5381,7 +5389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2a0,
+		.id = 0x2a1,
 		.name = "Ely.by",
 		.query = "elyby",
 		.url = "https://account.ely.by/profile/delete",
@@ -5389,7 +5397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2a1,
+		.id = 0x2a2,
 		.name = "Embark Studios",
 		.query = "embark studios",
 		.url = "https://id.embark.games/id/connected-platforms",
@@ -5397,7 +5405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2a2,
+		.id = 0x2a3,
 		.name = "Emby",
 		.query = "emby",
 		.url = "https://emby.media/community/index.php?/settings/deletemyaccount/",
@@ -5405,7 +5413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2a3,
+		.id = 0x2a4,
 		.name = "Empik",
 		.query = "empik",
 		.url = "https://www.empik.com/polityka-prywatnosci-empik",
@@ -5413,7 +5421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2a4,
+		.id = 0x2a5,
 		.name = "Engadget",
 		.query = "engadget",
 		.url = "https://engadget.mydashboard.oath.com/#section-manage",
@@ -5421,7 +5429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2a5,
+		.id = 0x2a6,
 		.name = "Enhancv",
 		.query = "enhancv",
 		.url = "https://app.enhancv.com/profile",
@@ -5429,7 +5437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2a6,
+		.id = 0x2a7,
 		.name = "enjin",
 		.query = "enjin",
 		.url = "https://www.enjin.com/dashboard/account/privacy",
@@ -5437,7 +5445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2a7,
+		.id = 0x2a8,
 		.name = "enjoei",
 		.query = "enjoei",
 		.url = "https://www.enjoei.com.br/perfil/alterar",
@@ -5445,7 +5453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2a8,
+		.id = 0x2a9,
 		.name = "Enphase",
 		.query = "enphase",
 		.url = "https://support.enphase.com/s/article/deleting-your-enphase-app-account",
@@ -5453,7 +5461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2a9,
+		.id = 0x2aa,
 		.name = "ENSHAN",
 		.query = "enshan",
 		.url = "https://www.right.com.cn/",
@@ -5461,7 +5469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x2aa,
+		.id = 0x2ab,
 		.name = "Envato",
 		.query = "envato",
 		.url = "https://help.market.envato.com/hc/en-us/articles/202500394-How-Do-I-Close-My-Account-",
@@ -5469,7 +5477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2ab,
+		.id = 0x2ac,
 		.name = "Epic Games",
 		.query = "epic games",
 		.url = "https://www.epicgames.com/help/en-US/epic-accounts-c74/general-support-c79/how-do-i-delete-my-epic-games-account-a3636",
@@ -5477,7 +5485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x2ac,
+		.id = 0x2ad,
 		.name = "Epidemic Sound",
 		.query = "epidemic sound",
 		.url = "https://support.epidemicsound.com/s/article/how-do-i-delete-my-account-2020-05-27-050641?language=en_US",
@@ -5485,7 +5493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2ad,
+		.id = 0x2ae,
 		.name = "Epik",
 		.query = "epik",
 		.url = "https://www.epik.com/",
@@ -5493,7 +5501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2ae,
+		.id = 0x2af,
 		.name = "Epoch Times",
 		.query = "epoch times",
 		.url = "https://help.theepochtimes.com/hc/en-us/requests/new",
@@ -5501,7 +5509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2af,
+		.id = 0x2b0,
 		.name = "eProject.me",
 		.query = "eprojectme",
 		.url = "https://eproject.me",
@@ -5509,7 +5517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2b0,
+		.id = 0x2b1,
 		.name = "eRepublik",
 		.query = "erepublik",
 		.url = "https://www.erepublik.com/en/contact/none/none",
@@ -5517,7 +5525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2b1,
+		.id = 0x2b2,
 		.name = "ESPN",
 		.query = "espn",
 		.url = "https://www.espn.com",
@@ -5525,7 +5533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2b2,
+		.id = 0x2b3,
 		.name = "EteSync",
 		.query = "etesync",
 		.url = "https://dashboard.etebase.com/user/partner/account/deactivate/request/",
@@ -5533,7 +5541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x2b3,
+		.id = 0x2b4,
 		.name = "Etherscan",
 		.query = "etherscan",
 		.url = "https://etherscan.io/mysettings",
@@ -5541,7 +5549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x2b4,
+		.id = 0x2b5,
 		.name = "eToro",
 		.query = "etoro",
 		.url = "https://www.etoro.com/settings/account",
@@ -5549,7 +5557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2b5,
+		.id = 0x2b6,
 		.name = "ETS Global",
 		.query = "ets global",
 		.url = "https://privacyportal-de.onetrust.com/webform/f194ee56-f900-441a-aca9-6a1807f9b2a5/4687a8cc-3095-439e-b369-39726e438235",
@@ -5557,7 +5565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2b6,
+		.id = 0x2b7,
 		.name = "Etsy",
 		.query = "etsy",
 		.url = "https://www.etsy.com/your/account/privacy",
@@ -5565,7 +5573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x2b7,
+		.id = 0x2b8,
 		.name = "Europa Lehrmittel",
 		.query = "europa lehrmittel",
 		.url = "https://www.europa-lehrmittel.de/Datenschutz/",
@@ -5573,7 +5581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2b8,
+		.id = 0x2b9,
 		.name = "Europathek",
 		.query = "europathek",
 		.url = "https://www.europathek.de/de/#/profile",
@@ -5581,7 +5589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2b9,
+		.id = 0x2ba,
 		.name = "Even",
 		.query = "even",
 		.url = "https://www.even.com/employees/support",
@@ -5589,7 +5597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2ba,
+		.id = 0x2bb,
 		.name = "Eventbrite",
 		.query = "eventbrite",
 		.url = "https://www.eventbrite.com/account-close",
@@ -5597,7 +5605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2bb,
+		.id = 0x2bc,
 		.name = "Eventim",
 		.query = "eventim",
 		.url = "https://www.eventim.de/help/contact/?help_id=6306",
@@ -5605,7 +5613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2bc,
+		.id = 0x2bd,
 		.name = "Everand",
 		.query = "everand",
 		.url = "https://support.scribd.com/hc/en-us/articles/360000894843-Deleting-your-account#h_01HBVYCPRH4GEMX24PD473BHP8",
@@ -5613,7 +5621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2bd,
+		.id = 0x2be,
 		.name = "Everhelper",
 		.query = "everhelper",
 		.url = "https://www.everhelper.me/remove-account/",
@@ -5621,7 +5629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2be,
+		.id = 0x2bf,
 		.name = "Evernote",
 		.query = "evernote",
 		.url = "https://help.evernote.com/hc/en-us/articles/360056549574-Permanently-close-your-Evernote-account",
@@ -5629,7 +5637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2bf,
+		.id = 0x2c0,
 		.name = "EVGA",
 		.query = "evga",
 		.url = "https://www.evga.com/legal/privacy/#form",
@@ -5637,7 +5645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x2c0,
+		.id = 0x2c1,
 		.name = "Evike",
 		.query = "evike",
 		.url = "https://www.evike.com/contact/",
@@ -5645,7 +5653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2c1,
+		.id = 0x2c2,
 		.name = "Evite",
 		.query = "evite",
 		.url = "https://privacyportal-cdn.onetrust.com/dsarwebform/516d7c8e-88ca-4311-b9d9-a6a1aa23be02/5eb62c40-d057-4621-93ca-9842142c3443.html",
@@ -5653,7 +5661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2c2,
+		.id = 0x2c3,
 		.name = "Examine",
 		.query = "examine",
 		.url = "https://examine.com/contact/",
@@ -5661,7 +5669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2c3,
+		.id = 0x2c4,
 		.name = "exaroton",
 		.query = "exaroton",
 		.url = "https://exaroton.com/account/settings/",
@@ -5669,7 +5677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2c4,
+		.id = 0x2c5,
 		.name = "Exclusive Car Registry",
 		.query = "exclusive car registry",
 		.url = "https://exclusivecarregistry.com/account/security",
@@ -5677,7 +5685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2c5,
+		.id = 0x2c6,
 		.name = "Exercism",
 		.query = "exercism",
 		.url = "https://exercism.io/my/settings",
@@ -5685,7 +5693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2c6,
+		.id = 0x2c7,
 		.name = "Exophase",
 		.query = "exophase",
 		.url = "https://www.exophase.com/account/removal/",
@@ -5693,7 +5701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2c7,
+		.id = 0x2c8,
 		.name = "Expedia",
 		.query = "expedia",
 		.url = "https://www.expedia.com/helpcenter/?articleId=22910&pwaDialog=article-dialog",
@@ -5701,7 +5709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2c8,
+		.id = 0x2c9,
 		.name = "Experian",
 		.query = "experian",
 		.url = "https://www.experian.com",
@@ -5709,7 +5717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2c9,
+		.id = 0x2ca,
 		.name = "Experian UK",
 		.query = "experian uk",
 		.url = "https://prodmove.experian.co.uk/",
@@ -5717,7 +5725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2ca,
+		.id = 0x2cb,
 		.name = "Expo",
 		.query = "expo",
 		.url = "https://expo.dev/settings",
@@ -5725,7 +5733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2cb,
+		.id = 0x2cc,
 		.name = "ExpressVPN",
 		.query = "expressvpn",
 		.url = "https://www.expressvpn.com/support/",
@@ -5733,7 +5741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2cc,
+		.id = 0x2cd,
 		.name = "EZsniper",
 		.query = "ezsniper",
 		.url = "https://www.ezsniper.com/contact.php",
@@ -5741,7 +5749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2cd,
+		.id = 0x2ce,
 		.name = "F95Zone",
 		.query = "f95zone",
 		.url = "https://f95zone.to/account/delete",
@@ -5749,7 +5757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2ce,
+		.id = 0x2cf,
 		.name = "Facebook",
 		.query = "facebook",
 		.url = "https://www.facebook.com/help/delete_account?rdrhc",
@@ -5757,7 +5765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x2cf,
+		.id = 0x2d0,
 		.name = "Facebook Messenger",
 		.query = "facebook messenger",
 		.url = "https://www.facebook.com/help/messenger-app/458908261952384?cms_platform=android-app&helpref=platform_switcher",
@@ -5765,7 +5773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2d0,
+		.id = 0x2d1,
 		.name = "Faceit",
 		.query = "faceit",
 		.url = "https://support.faceit.com/hc/en-us/requests/new",
@@ -5773,7 +5781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2d1,
+		.id = 0x2d2,
 		.name = "Facile.it",
 		.query = "facileit",
 		.url = "https://www.facile.it/cancellazione/",
@@ -5781,7 +5789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2d2,
+		.id = 0x2d3,
 		.name = "Fairphone",
 		.query = "fairphone",
 		.url = "https://www.fairphone.com/en/legal/fairphone-privacy-policy/#yourresponsibilitiesandrights",
@@ -5789,7 +5797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2d3,
+		.id = 0x2d4,
 		.name = "FamilySearch",
 		.query = "familysearch",
 		.url = "https://www.familysearch.org/identity/settings/account",
@@ -5797,7 +5805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2d4,
+		.id = 0x2d5,
 		.name = "Fanatical",
 		.query = "fanatical",
 		.url = "https://www.fanatical.com/en/account/login",
@@ -5805,7 +5813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2d5,
+		.id = 0x2d6,
 		.name = "Fancade",
 		.query = "fancade",
 		.url = "https://play.fancade.com/",
@@ -5813,7 +5821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2d6,
+		.id = 0x2d7,
 		.name = "Fandom Wikia",
 		.query = "fandom wikia",
 		.url = "https://community.wikia.com/wiki/Special:CloseMyAccount",
@@ -5821,7 +5829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x2d7,
+		.id = 0x2d8,
 		.name = "FanFiction",
 		.query = "fanfiction",
 		.url = "https://www.fanfiction.net/account/data_delete.php",
@@ -5829,7 +5837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2d8,
+		.id = 0x2d9,
 		.name = "Fastcompany",
 		.query = "fastcompany",
 		.url = "https://fastcompany.com",
@@ -5837,7 +5845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x2d9,
+		.id = 0x2da,
 		.name = "FastWeb",
 		.query = "fastweb",
 		.url = "https://www.fastweb.com/login",
@@ -5845,7 +5853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2da,
+		.id = 0x2db,
 		.name = "FaucetPay",
 		.query = "faucetpay",
 		.url = "https://faq.faucetpay.io/knowledge-base/i-want-to-delete-my-account-how-can-i-do-it/",
@@ -5853,7 +5861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x2db,
+		.id = 0x2dc,
 		.name = "Fauna",
 		.query = "fauna",
 		.url = "https://support.fauna.com/hc/en-us/articles/1260807007229-How-do-I-delete-my-account-entirely-",
@@ -5861,7 +5869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2dc,
+		.id = 0x2dd,
 		.name = "FC2ID",
 		.query = "fc2id",
 		.url = "https://secure.id.fc2.com/edit.php?mode=withdrawal",
@@ -5869,7 +5877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2dd,
+		.id = 0x2de,
 		.name = "FDM Group",
 		.query = "fdm group",
 		.url = "https://www.fdmgroup.com/privacy/",
@@ -5877,7 +5885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2de,
+		.id = 0x2df,
 		.name = "Featurebase",
 		.query = "featurebase",
 		.url = "https://help.featurebase.app/en/articles/8033192-how-to-delete-my-featurebase-account-organization-and-data",
@@ -5885,7 +5893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2df,
+		.id = 0x2e0,
 		.name = "FedEx",
 		.query = "fedex",
 		.url = "https://privacyportal.onetrust.com/webform/8a471a7b-6a52-49d0-bcb0-fa8bdb61598f/c121cce6-6cfb-4c3d-9b61-334f56a01b5f",
@@ -5893,7 +5901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2e0,
+		.id = 0x2e1,
 		.name = "Fedora",
 		.query = "fedora",
 		.url = "https://pagure.io/fedora-pdr/new_issue",
@@ -5901,7 +5909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2e1,
+		.id = 0x2e2,
 		.name = "FeedBin",
 		.query = "feedbin",
 		.url = "https://feedbin.com/settings/account",
@@ -5909,7 +5917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2e2,
+		.id = 0x2e3,
 		.name = "Feedly",
 		.query = "feedly",
 		.url = "https://feedly.com/i/erase",
@@ -5917,7 +5925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2e3,
+		.id = 0x2e4,
 		.name = "Ferox Hosting",
 		.query = "ferox hosting",
 		.url = "https://tickets.feroxhosting.nl/newissue",
@@ -5925,7 +5933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2e4,
+		.id = 0x2e5,
 		.name = "Fever",
 		.query = "fever",
 		.url = "https://feverup.com/",
@@ -5933,7 +5941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2e5,
+		.id = 0x2e6,
 		.name = "Fidélité TCL",
 		.query = "fidelite tcl",
 		.url = "https://fidelite.tcl.fr/dashboard/profile/documentation/deleteAccount",
@@ -5941,7 +5949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2e6,
+		.id = 0x2e7,
 		.name = "Figma",
 		.query = "figma",
 		.url = "https://www.figma.com/",
@@ -5949,7 +5957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2e7,
+		.id = 0x2e8,
 		.name = "Filbleu",
 		.query = "filbleu",
 		.url = "https://www.filbleu.fr/en/contact/faqs/account/how-do-i-delete-my-personal-area",
@@ -5957,7 +5965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2e8,
+		.id = 0x2e9,
 		.name = "Filen.io",
 		.query = "filenio",
 		.url = "https://drive.filen.io/#/account/settings",
@@ -5965,7 +5973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2e9,
+		.id = 0x2ea,
 		.name = "Fin.do",
 		.query = "findo",
 		.url = "https://www.fin.do/support",
@@ -5973,7 +5981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2ea,
+		.id = 0x2eb,
 		.name = "Finanzblick",
 		.query = "finanzblick",
 		.url = "https://finanzblick.de/webapp",
@@ -5981,7 +5989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x2eb,
+		.id = 0x2ec,
 		.name = "FinnishPod101.com",
 		.query = "finnishpod101com",
 		.url = "https://www.finnishpod101.com/#privacy_policy",
@@ -5989,7 +5997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2ec,
+		.id = 0x2ed,
 		.name = "Finviz",
 		.query = "finviz",
 		.url = "https://finviz.com/contact.ashx",
@@ -5997,7 +6005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2ed,
+		.id = 0x2ee,
 		.name = "Firefox",
 		.query = "firefox",
 		.url = "https://accounts.firefox.com/settings/delete_account",
@@ -6005,7 +6013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2ee,
+		.id = 0x2ef,
 		.name = "fishtank",
 		.query = "fishtank",
 		.url = "https://www.fishtank.live",
@@ -6013,7 +6021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2ef,
+		.id = 0x2f0,
 		.name = "Fitbit",
 		.query = "fitbit",
 		.url = "https://www.fitbit.com/settings/profile",
@@ -6021,7 +6029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x2f0,
+		.id = 0x2f1,
 		.name = "FitnessSyncer",
 		.query = "fitnesssyncer",
 		.url = "https://www.fitnesssyncer.com/account#Profile",
@@ -6029,7 +6037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2f1,
+		.id = 0x2f2,
 		.name = "Fitocracy",
 		.query = "fitocracy",
 		.url = "https://www.fitocracy.com/account/deletion/",
@@ -6037,7 +6045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2f2,
+		.id = 0x2f3,
 		.name = "Fiverr",
 		.query = "fiverr",
 		.url = "https://help.fiverr.com/hc/en-us/articles/37331887967761-How-to-deactivate-or-permanently-delete-your-account",
@@ -6045,7 +6053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2f3,
+		.id = 0x2f4,
 		.name = "Fixer.io",
 		.query = "fixerio",
 		.url = "https://fixer.io/account",
@@ -6053,7 +6061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2f4,
+		.id = 0x2f5,
 		.name = "FixMyCar",
 		.query = "fixmycar",
 		.url = "https://www.whocanfixmycar.com/terms#termination-of-services",
@@ -6061,7 +6069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2f5,
+		.id = 0x2f6,
 		.name = "FKwallet",
 		.query = "fkwallet",
 		.url = "https://fkwallet.io",
@@ -6069,7 +6077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x2f6,
+		.id = 0x2f7,
 		.name = "Flat",
 		.query = "flat",
 		.url = "https://flat.io/settings/account/profile",
@@ -6077,7 +6085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2f7,
+		.id = 0x2f8,
 		.name = "Flatfox",
 		.query = "flatfox",
 		.url = "https://flatfox.ch/en/accounts/remove/",
@@ -6085,7 +6093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2f8,
+		.id = 0x2f9,
 		.name = "Flathub",
 		.query = "flathub",
 		.url = "https://flathub.org/settings",
@@ -6093,7 +6101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2f9,
+		.id = 0x2fa,
 		.name = "Flaticon",
 		.query = "flaticon",
 		.url = "https://www.flaticon.com/profile/me",
@@ -6101,7 +6109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2fa,
+		.id = 0x2fb,
 		.name = "Flattr",
 		.query = "flattr",
 		.url = "https://flattr.com/settings/account/delete",
@@ -6109,7 +6117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2fb,
+		.id = 0x2fc,
 		.name = "Fleek",
 		.query = "fleek",
 		.url = "https://fleek.xyz/support/",
@@ -6117,7 +6125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x2fc,
+		.id = 0x2fd,
 		.name = "Flickr",
 		.query = "flickr",
 		.url = "https://www.flickr.com/profile_delete.gne",
@@ -6125,7 +6133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2fd,
+		.id = 0x2fe,
 		.name = "Flightradar24",
 		.query = "flightradar24",
 		.url = "https://www.flightradar24.com/terms-and-conditions",
@@ -6133,7 +6141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x2fe,
+		.id = 0x2ff,
 		.name = "Flip",
 		.query = "flip",
 		.url = "https://admin.flip.com/manage/settings",
@@ -6141,7 +6149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x2ff,
+		.id = 0x300,
 		.name = "Flipboard",
 		.query = "flipboard",
 		.url = "https://accounts.flipboard.com/accounts/remove",
@@ -6149,7 +6157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x300,
+		.id = 0x301,
 		.name = "Flixster",
 		.query = "flixster",
 		.url = "https://www.flixster.com",
@@ -6157,7 +6165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x301,
+		.id = 0x302,
 		.name = "Flo Health",
 		.query = "flo health",
 		.url = "https://help.flo.health/hc/en-us/requests/new",
@@ -6165,7 +6173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x302,
+		.id = 0x303,
 		.name = "Floatplane",
 		.query = "floatplane",
 		.url = "https://www.floatplane.com/settings/account",
@@ -6173,7 +6181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x303,
+		.id = 0x304,
 		.name = "FlokiNET",
 		.query = "flokinet",
 		.url = "https://flokinet.is/privacy",
@@ -6181,7 +6189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x304,
+		.id = 0x305,
 		.name = "Floor Plan Creator",
 		.query = "floor plan creator",
 		.url = "https://floorplancreator.net/account/",
@@ -6189,7 +6197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x305,
+		.id = 0x306,
 		.name = "Floorplanner.com",
 		.query = "floorplannercom",
 		.url = "https://floorplanner.com/home/profile",
@@ -6197,7 +6205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x306,
+		.id = 0x307,
 		.name = "Flowkey",
 		.query = "flowkey",
 		.url = "https://help.flowkey.com/en/articles/4466433-how-to-unsubscribe-or-delete-your-account",
@@ -6205,7 +6213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x307,
+		.id = 0x308,
 		.name = "Fluid UI",
 		.query = "fluid ui",
 		.url = "https://www.fluidui.com/contact",
@@ -6213,7 +6221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x308,
+		.id = 0x309,
 		.name = "Fluxer",
 		.query = "fluxer",
 		.url = "https://help.fluxer.app/en/articles/13984865-how-to-delete-or-disable-your-account",
@@ -6221,7 +6229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x309,
+		.id = 0x30a,
 		.name = "Fly.io",
 		.query = "flyio",
 		.url = "https://fly.io/user/deactivate",
@@ -6229,7 +6237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x30a,
+		.id = 0x30b,
 		.name = "FMOD",
 		.query = "fmod",
 		.url = "https://fmod.com/profile",
@@ -6237,7 +6245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x30b,
+		.id = 0x30c,
 		.name = "Fnac",
 		.query = "fnac",
 		.url = "https://www.fnac.com/aide?question=comment-reinitialiser-mon-mot-de-passe",
@@ -6245,7 +6253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x30c,
+		.id = 0x30d,
 		.name = "Foap",
 		.query = "foap",
 		.url = "https://www.foap.com/pages/contact",
@@ -6253,7 +6261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x30d,
+		.id = 0x30e,
 		.name = "FogBugz",
 		.query = "fogbugz",
 		.url = "https://support.fogbugz.com/hc/en-us/articles/360011242754-Cancelling-a-FogBugz-or-Kiln-On-Demand-Subscription",
@@ -6261,7 +6269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x30e,
+		.id = 0x30f,
 		.name = "Follett",
 		.query = "follett",
 		.url = "https://www.follett.com/policies/",
@@ -6269,7 +6277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x30f,
+		.id = 0x310,
 		.name = "Followlike",
 		.query = "followlike",
 		.url = "https://www.followlike.net/settings.php",
@@ -6277,7 +6285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x310,
+		.id = 0x311,
 		.name = "Font Awesome",
 		.query = "font awesome",
 		.url = "https://fontawesome.com/account",
@@ -6285,7 +6293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x311,
+		.id = 0x312,
 		.name = "FontStruct",
 		.query = "fontstruct",
 		.url = "https://fontstruct.com/private/user/delete-account",
@@ -6293,7 +6301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x312,
+		.id = 0x313,
 		.name = "Foodmaxx",
 		.query = "foodmaxx",
 		.url = "https://foodmaxx.com/contact-us",
@@ -6301,7 +6309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x313,
+		.id = 0x314,
 		.name = "Fooducate",
 		.query = "fooducate",
 		.url = "http://fooducate.com/deleteaccount",
@@ -6309,7 +6317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x314,
+		.id = 0x315,
 		.name = "ForeverMissed",
 		.query = "forevermissed",
 		.url = "https://www.forevermissed.com/contactus",
@@ -6317,7 +6325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x315,
+		.id = 0x316,
 		.name = "Form.taxi",
 		.query = "formtaxi",
 		.url = "https://form.taxi/panel/profile",
@@ -6325,7 +6333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x316,
+		.id = 0x317,
 		.name = "Formula 1",
 		.query = "formula 1",
 		.url = "https://account.formula1.com/#/en/privacy-policy",
@@ -6333,7 +6341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x317,
+		.id = 0x318,
 		.name = "Forsa Omninet",
 		.query = "forsa omninet",
 		.url = "https://omninet.forsa.de/data-protection",
@@ -6341,7 +6349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x318,
+		.id = 0x319,
 		.name = "Forvo",
 		.query = "forvo",
 		.url = "https://forvo.com/account-delete/",
@@ -6349,7 +6357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x319,
+		.id = 0x31a,
 		.name = "forward2me",
 		.query = "forward2me",
 		.url = "https://www.forward2me.com/terms-of-trade/",
@@ -6357,7 +6365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x31a,
+		.id = 0x31b,
 		.name = "Fotka",
 		.query = "fotka",
 		.url = "https://www.fotka.pl/ustawienia/konto_usun",
@@ -6365,7 +6373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x31b,
+		.id = 0x31c,
 		.name = "Foursquare",
 		.query = "foursquare",
 		.url = "https://foursquare.com/delete_me",
@@ -6373,7 +6381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x31c,
+		.id = 0x31d,
 		.name = "Foxford (Фоксфорд)",
 		.query = "foxford фоксфорд",
 		.url = "https://foxford.ru",
@@ -6381,7 +6389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x31d,
+		.id = 0x31e,
 		.name = "Framer",
 		.query = "framer",
 		.url = "https://www.framer.com/contact/",
@@ -6389,7 +6397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x31e,
+		.id = 0x31f,
 		.name = "Framework",
 		.query = "framework",
 		.url = "https://frame.work/support#contact_support",
@@ -6397,7 +6405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x31f,
+		.id = 0x320,
 		.name = "France Identité",
 		.query = "france identite",
 		.url = "https.//idp.france-identite.gouv.fr/usager",
@@ -6405,7 +6413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x320,
+		.id = 0x321,
 		.name = "France TV",
 		.query = "france tv",
 		.url = "https://www.france.tv/votre-compte/supprimer-mon-compte/",
@@ -6413,7 +6421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x321,
+		.id = 0x322,
 		.name = "Franz",
 		.query = "franz",
 		.url = "https://meetfranz.com/user/profile",
@@ -6421,7 +6429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x322,
+		.id = 0x323,
 		.name = "FREAKHOSTING",
 		.query = "freakhosting",
 		.url = "https://freakhosting.com/clientarea/clientarea.php",
@@ -6429,7 +6437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x323,
+		.id = 0x324,
 		.name = "FreeBitco.In",
 		.query = "freebitcoin",
 		.url = "https://freebitco.in",
@@ -6437,7 +6445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x324,
+		.id = 0x325,
 		.name = "FreeCodeCamp",
 		.query = "freecodecamp",
 		.url = "https://www.freecodecamp.org/settings",
@@ -6445,7 +6453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x325,
+		.id = 0x326,
 		.name = "Freecycle",
 		.query = "freecycle",
 		.url = "https://freecycle.org/home/delete-account",
@@ -6453,7 +6461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x326,
+		.id = 0x327,
 		.name = "FreeDNS",
 		.query = "freedns",
 		.url = "https://freedns.afraid.org",
@@ -6461,7 +6469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x327,
+		.id = 0x328,
 		.name = "FreeHostingEU",
 		.query = "freehostingeu",
 		.url = "https://cp1.freehostingeu.com/account/#account-closure",
@@ -6469,7 +6477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x328,
+		.id = 0x329,
 		.name = "Freejam",
 		.query = "freejam",
 		.url = "https://account.freejamgames.com/delete",
@@ -6477,7 +6485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x329,
+		.id = 0x32a,
 		.name = "Freelancer",
 		.query = "freelancer",
 		.url = "https://www.freelancer.in/users/settings.php#AccountSettings",
@@ -6485,7 +6493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x32a,
+		.id = 0x32b,
 		.name = "Freeletics",
 		.query = "freeletics",
 		.url = "https://www.freeletics.com/en/settings/account",
@@ -6493,7 +6501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x32b,
+		.id = 0x32c,
 		.name = "Freenom",
 		.query = "freenom",
 		.url = "https://my.freenom.com/clientarea.php?action=details",
@@ -6501,7 +6509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x32c,
+		.id = 0x32d,
 		.name = "Freesound",
 		.query = "freesound",
 		.url = "https://freesound.org/home/delete/",
@@ -6509,7 +6517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x32d,
+		.id = 0x32e,
 		.name = "Freshdesk",
 		.query = "freshdesk",
 		.url = "https://freshdesk.com",
@@ -6517,7 +6525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x32e,
+		.id = 0x32f,
 		.name = "Freshping",
 		.query = "freshping",
 		.url = "https://freshping.io",
@@ -6525,7 +6533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x32f,
+		.id = 0x330,
 		.name = "frndlytv",
 		.query = "frndlytv",
 		.url = "https://privacy.frndlytv.com/data-request",
@@ -6533,7 +6541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x330,
+		.id = 0x331,
 		.name = "Frontend Mentor",
 		.query = "frontend mentor",
 		.url = "https://www.frontendmentor.io/settings/account",
@@ -6541,7 +6549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x331,
+		.id = 0x332,
 		.name = "Fruux",
 		.query = "fruux",
 		.url = "https://fruux.com/account/login/",
@@ -6549,7 +6557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x332,
+		.id = 0x333,
 		.name = "Funbridge",
 		.query = "funbridge",
 		.url = "https://play.funbridge.com/account",
@@ -6557,7 +6565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x333,
+		.id = 0x334,
 		.name = "Function of Beauty",
 		.query = "function of beauty",
 		.url = "https://functionofbeauty.com/pages/contact-us",
@@ -6565,7 +6573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x334,
+		.id = 0x335,
 		.name = "Funimation",
 		.query = "funimation",
 		.url = "https://help.funimation.com/hc/en-us/articles/360046541711-How-do-I-delete-or-close-my-account-",
@@ -6573,7 +6581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x335,
+		.id = 0x336,
 		.name = "Fur Affinity",
 		.query = "fur affinity",
 		.url = "https://www.furaffinity.net/controls/delete-account",
@@ -6581,7 +6589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x336,
+		.id = 0x337,
 		.name = "Furbase",
 		.query = "furbase",
 		.url = "https://forum.furbase.de/account-management/",
@@ -6589,7 +6597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x337,
+		.id = 0x338,
 		.name = "FutureLearn",
 		.query = "futurelearn",
 		.url = "https://www.futurelearn.com/account/delete",
@@ -6597,7 +6605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x338,
+		.id = 0x339,
 		.name = "FXhome",
 		.query = "fxhome",
 		.url = "https://fxhome.com",
@@ -6605,7 +6613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x339,
+		.id = 0x33a,
 		.name = "G-Portal",
 		.query = "gportal",
 		.url = "https://www.g-portal.com/en/privacy",
@@ -6613,7 +6621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x33a,
+		.id = 0x33b,
 		.name = "G2A",
 		.query = "g2a",
 		.url = "https://id.g2a.com/panel/account-details/delete-account",
@@ -6621,7 +6629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x33b,
+		.id = 0x33c,
 		.name = "G7",
 		.query = "g7",
 		.url = "https://aide.g7.fr/hc/fr/articles/7438978440476-Supprimer-mon-compte-G7",
@@ -6629,7 +6637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x33c,
+		.id = 0x33d,
 		.name = "Gab Social",
 		.query = "gab social",
 		.url = "https://gab.com/settings/delete",
@@ -6637,7 +6645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x33d,
+		.id = 0x33e,
 		.name = "Gadu-Gadu",
 		.query = "gadugadu",
 		.url = "https://www.gg.pl/pomoc/ustawienia-moje-konto-profil/",
@@ -6645,7 +6653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x33e,
+		.id = 0x33f,
 		.name = "Gaijin Entertainment",
 		.query = "gaijin entertainment",
 		.url = "https://support.gaijin.net/hc/en-us/articles/200071071-Account-Deletion-Suspension-",
@@ -6653,7 +6661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x33f,
+		.id = 0x340,
 		.name = "GAINSFIRE",
 		.query = "gainsfire",
 		.url = "https://www.gainsfire.com/",
@@ -6661,7 +6669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x340,
+		.id = 0x341,
 		.name = "galaxy",
 		.query = "galaxy",
 		.url = "https://galaxy.click/settings#danger",
@@ -6669,7 +6677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x341,
+		.id = 0x342,
 		.name = "Galaxy Play",
 		.query = "galaxy play",
 		.url = "https://galaxyplay.vn/account/info/delete-account",
@@ -6677,7 +6685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x342,
+		.id = 0x343,
 		.name = "Game Tracker",
 		.query = "game tracker",
 		.url = "http://www.gametracker.com/account/manage/edit.php",
@@ -6685,7 +6693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x343,
+		.id = 0x344,
 		.name = "GameFAQs",
 		.query = "gamefaqs",
 		.url = "https://gamefaqs.gamespot.com/user/closedel",
@@ -6693,7 +6701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x344,
+		.id = 0x345,
 		.name = "Gameforge",
 		.query = "gameforge",
 		.url = "https://gameforge.com/support",
@@ -6701,7 +6709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x345,
+		.id = 0x346,
 		.name = "GameFront",
 		.query = "gamefront",
 		.url = "https://www.gamefront.com/account/delete",
@@ -6709,7 +6717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x346,
+		.id = 0x347,
 		.name = "Gamefroot",
 		.query = "gamefroot",
 		.url = "https://make.gamefroot.com/privacypolicy",
@@ -6717,7 +6725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x347,
+		.id = 0x348,
 		.name = "GameGleam",
 		.query = "gamegleam",
 		.url = "https://www.gamegleam.com",
@@ -6725,7 +6733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x348,
+		.id = 0x349,
 		.name = "Gamehag",
 		.query = "gamehag",
 		.url = "https://www.gamehag.com/profile/edit",
@@ -6733,7 +6741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x349,
+		.id = 0x34a,
 		.name = "GameJolt",
 		.query = "gamejolt",
 		.url = "https://gamejolt.com/account-deletion",
@@ -6741,7 +6749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x34a,
+		.id = 0x34b,
 		.name = "Gamemaker",
 		.query = "gamemaker",
 		.url = "https://auth.opera.com/account/delete-profile",
@@ -6749,7 +6757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x34b,
+		.id = 0x34c,
 		.name = "GamersGate",
 		.query = "gamersgate",
 		.url = "https://www.gamersgate.com/account/delete/",
@@ -6757,7 +6765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x34c,
+		.id = 0x34d,
 		.name = "Gamesplanet",
 		.query = "gamesplanet",
 		.url = "https://us.gamesplanet.com/support/17-account/141-delete-account",
@@ -6765,7 +6773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x34d,
+		.id = 0x34e,
 		.name = "Gamespot",
 		.query = "gamespot",
 		.url = "https://gamespot.com",
@@ -6773,7 +6781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x34e,
+		.id = 0x34f,
 		.name = "Gamesradar",
 		.query = "gamesradar",
 		.url = "https://gamesradar.com",
@@ -6781,7 +6789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x34f,
+		.id = 0x350,
 		.name = "GameStop",
 		.query = "gamestop",
 		.url = "https://www.gamestop.com/PrivacyPolicy.html#section9",
@@ -6789,7 +6797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x350,
+		.id = 0x351,
 		.name = "Gamma",
 		.query = "gamma",
 		.url = "https://gamma.app/",
@@ -6797,7 +6805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x351,
+		.id = 0x352,
 		.name = "Garena",
 		.query = "garena",
 		.url = "https://www.garena.sg/support/",
@@ -6805,7 +6813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x352,
+		.id = 0x353,
 		.name = "Garmin",
 		.query = "garmin",
 		.url = "https://www.garmin.com/account/datamanagement/",
@@ -6813,7 +6821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x353,
+		.id = 0x354,
 		.name = "GasBuddy",
 		.query = "gasbuddy",
 		.url = "https://help.gasbuddy.com/hc/en-us/requests/new?ticket_form_id=360001568313",
@@ -6821,7 +6829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x354,
+		.id = 0x355,
 		.name = "Gather",
 		.query = "gather",
 		.url = "https://www.gather.town/legal/gather-privacy-policy",
@@ -6829,7 +6837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x355,
+		.id = 0x356,
 		.name = "Gauges",
 		.query = "gauges",
 		.url = "https://gaug.es",
@@ -6837,7 +6845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x356,
+		.id = 0x357,
 		.name = "GBAtemp",
 		.query = "gbatemp",
 		.url = "https://gbatemp.net/account/delete",
@@ -6845,7 +6853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x357,
+		.id = 0x358,
 		.name = "Gdeposylka",
 		.query = "gdeposylka",
 		.url = "https://gdeposylka.ru/auth/remove",
@@ -6853,7 +6861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x358,
+		.id = 0x359,
 		.name = "Gearbest",
 		.query = "gearbest",
 		.url = "https://wap-support.gearbest.com/ticket/ticket/ticket-add",
@@ -6861,7 +6869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x359,
+		.id = 0x35a,
 		.name = "GeekHunter",
 		.query = "geekhunter",
 		.url = "https://suporte.geekhunter.com.br/support/solutions/articles/9000185709-como-faco-para-excluir-minha-conta-",
@@ -6869,7 +6877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x35a,
+		.id = 0x35b,
 		.name = "GeeksforGeeks",
 		.query = "geeksforgeeks",
 		.url = "https://auth.geeksforgeeks.org/delete-account/",
@@ -6877,7 +6885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x35b,
+		.id = 0x35c,
 		.name = "Gemini",
 		.query = "gemini",
 		.url = "https://support.gemini.com/hc/en-us/requests/new?ticket_form_id=1260809732969",
@@ -6885,7 +6893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x35c,
+		.id = 0x35d,
 		.name = "Genesis Cloud",
 		.query = "genesis cloud",
 		.url = "https://id.genesiscloud.com/delete-account",
@@ -6893,7 +6901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x35d,
+		.id = 0x35e,
 		.name = "Geni",
 		.query = "geni",
 		.url = "https://www.geni.com/account_settings",
@@ -6901,7 +6909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x35e,
+		.id = 0x35f,
 		.name = "Genius",
 		.query = "genius",
 		.url = "https://support.genius.com/hc/en-us/requests/new",
@@ -6909,7 +6917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x35f,
+		.id = 0x360,
 		.name = "Gentoo Forums",
 		.query = "gentoo forums",
 		.url = "https://wiki.gentoo.org/wiki/Project:Forums#Account_removal_requests",
@@ -6917,7 +6925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x360,
+		.id = 0x361,
 		.name = "Genymotion Cloud (SaaS)",
 		.query = "genymotion cloud saas",
 		.url = "https://support.genymotion.com/hc/en-us/requests/new?ticket_form_id=360000289657",
@@ -6925,7 +6933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x361,
+		.id = 0x362,
 		.name = "Genymotion Desktop",
 		.query = "genymotion desktop",
 		.url = "https://www-v1.genymotion.com/account/#account-info",
@@ -6933,7 +6941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x362,
+		.id = 0x363,
 		.name = "Geocaching",
 		.query = "geocaching",
 		.url = "https://www.geocaching.com/account/settings/account",
@@ -6941,7 +6949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x363,
+		.id = 0x364,
 		.name = "GeoGebra",
 		.query = "geogebra",
 		.url = "https://accounts.geogebra.org/",
@@ -6949,7 +6957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x364,
+		.id = 0x365,
 		.name = "GeoGuessr",
 		.query = "geoguessr",
 		.url = "https://www.geoguessr.com/me/settings",
@@ -6957,7 +6965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x365,
+		.id = 0x366,
 		.name = "Geotastic",
 		.query = "geotastic",
 		.url = "https://geotastic.net/account/account-settings",
@@ -6965,7 +6973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x366,
+		.id = 0x367,
 		.name = "GermanTechJobs",
 		.query = "germantechjobs",
 		.url = "https://germantechjobs.de/contact",
@@ -6973,7 +6981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x367,
+		.id = 0x368,
 		.name = "get.tech",
 		.query = "gettech",
 		.url = "https://get.tech/privacy-policy",
@@ -6981,7 +6989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x368,
+		.id = 0x369,
 		.name = "GetContact",
 		.query = "getcontact",
 		.url = "https://www.getcontact.com/manage",
@@ -6989,7 +6997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x369,
+		.id = 0x36a,
 		.name = "GetCreditScore",
 		.query = "getcreditscore",
 		.url = "https://www.getcreditscore.com.au",
@@ -6997,7 +7005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x36a,
+		.id = 0x36b,
 		.name = "Gettr",
 		.query = "gettr",
 		.url = "https://gettr.com/settings/delete-account",
@@ -7005,7 +7013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x36b,
+		.id = 0x36c,
 		.name = "GG2U",
 		.query = "gg2u",
 		.url = "https://www.gg2u.org/privacy.html",
@@ -7013,7 +7021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x36c,
+		.id = 0x36d,
 		.name = "GHash.IO",
 		.query = "ghashio",
 		.url = "https://support.cex.io/",
@@ -7021,7 +7029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x36d,
+		.id = 0x36e,
 		.name = "Giant Bomb",
 		.query = "giant bomb",
 		.url = "https://www.giantbomb.com",
@@ -7029,7 +7037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x36e,
+		.id = 0x36f,
 		.name = "Giphy",
 		.query = "giphy",
 		.url = "https://giphy.com/settings",
@@ -7037,7 +7045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x36f,
+		.id = 0x370,
 		.name = "GitBook",
 		.query = "gitbook",
 		.url = "https://app.gitbook.com/account",
@@ -7045,7 +7053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x370,
+		.id = 0x371,
 		.name = "GitHub",
 		.query = "github",
 		.url = "https://github.com/settings/admin#:~:text=Delete%20account",
@@ -7053,7 +7061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x371,
+		.id = 0x372,
 		.name = "GitKraken",
 		.query = "gitkraken",
 		.url = "https://app.gitkraken.com/account-info/delete-account",
@@ -7061,7 +7069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x372,
+		.id = 0x373,
 		.name = "GitLab",
 		.query = "gitlab",
 		.url = "https://gitlab.com/-/profile/account",
@@ -7069,7 +7077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x373,
+		.id = 0x374,
 		.name = "GitPod",
 		.query = "gitpod",
 		.url = "https://gitpod.io/account",
@@ -7077,7 +7085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x374,
+		.id = 0x375,
 		.name = "Gizmodo",
 		.query = "gizmodo",
 		.url = "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
@@ -7085,7 +7093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x375,
+		.id = 0x376,
 		.name = "Glassdoor",
 		.query = "glassdoor",
 		.url = "https://help.glassdoor.com/s/privacyrequest",
@@ -7093,7 +7101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x376,
+		.id = 0x377,
 		.name = "Gleam.io",
 		.query = "gleamio",
 		.url = "https://gleam.io",
@@ -7101,7 +7109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x377,
+		.id = 0x378,
 		.name = "Glide (UK)",
 		.query = "glide uk",
 		.url = "https://prearrival.glidestudent.co.uk/privacy-policy",
@@ -7109,7 +7117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x378,
+		.id = 0x379,
 		.name = "Globo",
 		.query = "globo",
 		.url = "https://minhaconta-v2.globo.com/#/excluir-conta",
@@ -7117,7 +7125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x379,
+		.id = 0x37a,
 		.name = "Glorious Forums",
 		.query = "glorious forums",
 		.url = "https://gloriousforum.com",
@@ -7125,7 +7133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x37a,
+		.id = 0x37b,
 		.name = "Glovo",
 		.query = "glovo",
 		.url = "https://privacyportal-de.onetrust.com/webform/823e95df-5300-421a-bd72-0c9e0180184f/ff436245-5e5d-44f9-8463-eb48c2052eb5",
@@ -7133,7 +7141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x37b,
+		.id = 0x37c,
 		.name = "Glyph / Trion Worlds / Gamigo",
 		.query = "glyph trion worlds gamigo",
 		.url = "https://support.gamigo.com/hc/en-us/articles/204884188-How-do-I-delete-my-Glyph-account-",
@@ -7141,7 +7149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x37c,
+		.id = 0x37d,
 		.name = "Gmail",
 		.query = "gmail",
 		.url = "https://myaccount.google.com/deleteservices",
@@ -7149,7 +7157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x37d,
+		.id = 0x37e,
 		.name = "GMX",
 		.query = "gmx",
 		.url = "https://www.gmx.net",
@@ -7157,7 +7165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x37e,
+		.id = 0x37f,
 		.name = "GNC",
 		.query = "gnc",
 		.url = "https://www.gnc.com/help/contact-us.html#chat",
@@ -7165,7 +7173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x37f,
+		.id = 0x380,
 		.name = "GNOME",
 		.query = "gnome",
 		.url = "https://extensions.gnome.org/accounts/settings",
@@ -7173,7 +7181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x380,
+		.id = 0x381,
 		.name = "Gocatch",
 		.query = "gocatch",
 		.url = "https://gocatch.zendesk.com/hc/en-us/articles/115005902046-How-to-deactivate-or-reactivate-your-GoCatch-account",
@@ -7181,7 +7189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x381,
+		.id = 0x382,
 		.name = "GoDaddy",
 		.query = "godaddy",
 		.url = "https://account.godaddy.com/preferences",
@@ -7189,7 +7197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x382,
+		.id = 0x383,
 		.name = "GoFundMe",
 		.query = "gofundme",
 		.url = "https://www.gofundme.com/settings",
@@ -7197,7 +7205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x383,
+		.id = 0x384,
 		.name = "GOG",
 		.query = "gog",
 		.url = "https://www.gog.com/en/account/settings/delete_account",
@@ -7205,7 +7213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x384,
+		.id = 0x385,
 		.name = "Goggles4u",
 		.query = "goggles4u",
 		.url = "https://www.goggles4u.co.uk/privacy-policy",
@@ -7213,7 +7221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x385,
+		.id = 0x386,
 		.name = "Gogo",
 		.query = "gogo",
 		.url = "https://www.gogoair.com/dsar/",
@@ -7221,7 +7229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x386,
+		.id = 0x387,
 		.name = "GoJek",
 		.query = "gojek",
 		.url = "https://www.go-jek.com/contact/",
@@ -7229,7 +7237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x387,
+		.id = 0x388,
 		.name = "GoldenLine",
 		.query = "goldenline",
 		.url = "https://www.goldenline.pl/ustawienia/kasuj-konto/",
@@ -7237,7 +7245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x388,
+		.id = 0x389,
 		.name = "Golf GameBook Scorecard & GPS",
 		.query = "golf gamebook scorecard gps",
 		.url = "https://golfgamebook.com/privacy-policy/",
@@ -7245,7 +7253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x389,
+		.id = 0x38a,
 		.name = "Good Food",
 		.query = "good food",
 		.url = "https://www.makegoodfood.ca/en/faq#heading-13",
@@ -7253,7 +7261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x38a,
+		.id = 0x38b,
 		.name = "Good Good Good",
 		.query = "good good good",
 		.url = "https://www.goodgoodgood.co/good-good-good-policies",
@@ -7261,7 +7269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x38b,
+		.id = 0x38c,
 		.name = "Good Noows",
 		.query = "good noows",
 		.url = "https://goodnoows.com",
@@ -7269,7 +7277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x38c,
+		.id = 0x38d,
 		.name = "Goodlord",
 		.query = "goodlord",
 		.url = "https://www.goodlord.co/privacy-policy",
@@ -7277,7 +7285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x38d,
+		.id = 0x38e,
 		.name = "Goodreads",
 		.query = "goodreads",
 		.url = "https://www.goodreads.com/user/destroy",
@@ -7285,7 +7293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x38e,
+		.id = 0x38f,
 		.name = "Google",
 		.query = "google",
 		.url = "https://security.google.com/settings/security/deleteaccount",
@@ -7293,7 +7301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x38f,
+		.id = 0x390,
 		.name = "Google One",
 		.query = "google one",
 		.url = "https://myaccount.google.com/deleteservices",
@@ -7301,7 +7309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x390,
+		.id = 0x391,
 		.name = "Google Pay",
 		.query = "google pay",
 		.url = "https://myaccount.google.com/deleteservices",
@@ -7309,7 +7317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x391,
+		.id = 0x392,
 		.name = "GoPetition",
 		.query = "gopetition",
 		.url = "https://www.gopetition.com",
@@ -7317,7 +7325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x392,
+		.id = 0x393,
 		.name = "Gorila",
 		.query = "gorila",
 		.url = "https://app.gorila.com.br/app/configuracoes-da-conta/pessoal/preferencias",
@@ -7325,7 +7333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x393,
+		.id = 0x394,
 		.name = "GoSquared",
 		.query = "gosquared",
 		.url = "https://www.gosquared.com/home/account/close",
@@ -7333,7 +7341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x394,
+		.id = 0x395,
 		.name = "Gov.br",
 		.query = "govbr",
 		.url = "https://www.gov.br/governodigital/pt-br/identidade/conta-gov-br/exclusao-da-conta-gov.br",
@@ -7341,7 +7349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x395,
+		.id = 0x396,
 		.name = "gPodder",
 		.query = "gpodder",
 		.url = "https://www.gpodder.net/account/",
@@ -7349,7 +7357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x396,
+		.id = 0x397,
 		.name = "Grab",
 		.query = "grab",
 		.url = "https://www.grab.com",
@@ -7357,7 +7365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x397,
+		.id = 0x398,
 		.name = "Gradcracker",
 		.query = "gradcracker",
 		.url = "https://www.gradcracker.com/my-gradcracker/my-account",
@@ -7365,7 +7373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x398,
+		.id = 0x399,
 		.name = "Gradescope",
 		.query = "gradescope",
 		.url = "https://guides.gradescope.com/hc/en-us/articles/21587242755341-Editing-Your-Account",
@@ -7373,7 +7381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x399,
+		.id = 0x39a,
 		.name = "Graduate-Jobs.com",
 		.query = "graduatejobscom",
 		.url = "https://www.graduate-jobs.com/sign-in/account/settings",
@@ -7381,7 +7389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x39a,
+		.id = 0x39b,
 		.name = "Grafana",
 		.query = "grafana",
 		.url = "https://community.grafana.com/t/how-to-delete-account/18415",
@@ -7389,7 +7397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x39b,
+		.id = 0x39c,
 		.name = "Grailed",
 		.query = "grailed",
 		.url = "https://www.grailed.com",
@@ -7397,7 +7405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x39c,
+		.id = 0x39d,
 		.name = "Grammarly",
 		.query = "grammarly",
 		.url = "https://app.grammarly.com/profile/account",
@@ -7405,7 +7413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x39d,
+		.id = 0x39e,
 		.name = "Gravatar",
 		.query = "gravatar",
 		.url = "https://gravatar.com",
@@ -7413,7 +7421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x39e,
+		.id = 0x39f,
 		.name = "GreasyFork",
 		.query = "greasyfork",
 		.url = "https://greasyfork.org/en/users/delete_info",
@@ -7421,7 +7429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x39f,
+		.id = 0x3a0,
 		.name = "Green Man Gaming",
 		.query = "green man gaming",
 		.url = "https://corporate.greenmangaming.com/privacy-policy",
@@ -7429,7 +7437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3a0,
+		.id = 0x3a1,
 		.name = "Greip",
 		.query = "greip",
 		.url = "https://docs.greip.io/knowledge-base/account-management/account-deletion",
@@ -7437,7 +7445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3a1,
+		.id = 0x3a2,
 		.name = "Grindr",
 		.query = "grindr",
 		.url = "https://help.grindr.com/hc/en-us/requests/new?ticket_form_id=24054",
@@ -7445,7 +7453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3a2,
+		.id = 0x3a3,
 		.name = "Grok / xAI",
 		.query = "grok xai",
 		.url = "https://accounts.x.ai/data",
@@ -7453,7 +7461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3a3,
+		.id = 0x3a4,
 		.name = "GroupMe",
 		.query = "groupme",
 		.url = "https://app.groupme.com/profile",
@@ -7461,7 +7469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3a4,
+		.id = 0x3a5,
 		.name = "Groupon (USA)",
 		.query = "groupon usa",
 		.url = "https://privacy.groupon.com/",
@@ -7469,7 +7477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3a5,
+		.id = 0x3a6,
 		.name = "Groupon (Worldwide)",
 		.query = "groupon worldwide",
 		.url = "https://privacy.groupon.co.uk/?modal=take-control",
@@ -7477,7 +7485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3a6,
+		.id = 0x3a7,
 		.name = "Groups.io",
 		.query = "groupsio",
 		.url = "https://groups.io/deleteaccount",
@@ -7485,7 +7493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3a7,
+		.id = 0x3a8,
 		.name = "Grover",
 		.query = "grover",
 		.url = "https://service.grover.com/hc/en-us/articles/20618482673554-Request-to-delete-my-account",
@@ -7493,7 +7501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3a8,
+		.id = 0x3a9,
 		.name = "GrubHub",
 		.query = "grubhub",
 		.url = "https://www.grubhub.com/help/privacy/manage-your-data",
@@ -7501,7 +7509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x3a9,
+		.id = 0x3aa,
 		.name = "Gryphline",
 		.query = "gryphline",
 		.url = "https://user.gryphline.com/cancellation",
@@ -7509,7 +7517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x3aa,
+		.id = 0x3ab,
 		.name = "GTmetrix",
 		.query = "gtmetrix",
 		.url = "https://gtmetrix.com/dashboard/delete_account",
@@ -7517,7 +7525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3ab,
+		.id = 0x3ac,
 		.name = "The Guardian",
 		.query = "the guardian",
 		.url = "https://profile.theguardian.com/delete",
@@ -7525,7 +7533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x3ac,
+		.id = 0x3ad,
 		.name = "Guild Wars",
 		.query = "guild wars",
 		.url = "https://help.guildwars2.com/hc/de/requests/new?ticket_form_id=38933",
@@ -7533,7 +7541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3ad,
+		.id = 0x3ae,
 		.name = "Guilded",
 		.query = "guilded",
 		.url = "https://www.guilded.gg",
@@ -7541,7 +7549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3ae,
+		.id = 0x3af,
 		.name = "Guildtag",
 		.query = "guildtag",
 		.url = "https://guildtag.com",
@@ -7549,7 +7557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x3af,
+		.id = 0x3b0,
 		.name = "Gule Sider (Norwegian Yellow Pages)",
 		.query = "gule sider norwegian yellow pages",
 		.url = "https://oppdater.gulesider.no/person",
@@ -7557,7 +7565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x3b0,
+		.id = 0x3b1,
 		.name = "Gumroad",
 		.query = "gumroad",
 		.url = "https://gumroad.com/settings",
@@ -7565,7 +7573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3b1,
+		.id = 0x3b2,
 		.name = "Gumtree",
 		.query = "gumtree",
 		.url = "https://www.gumtree.com/manage-account",
@@ -7573,7 +7581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3b2,
+		.id = 0x3b3,
 		.name = "guns.lol",
 		.query = "gunslol",
 		.url = "https://guns.lol",
@@ -7581,7 +7589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3b3,
+		.id = 0x3b4,
 		.name = "gutefrage",
 		.query = "gutefrage",
 		.url = "https://www.gutefrage.net/datenschutz",
@@ -7589,7 +7597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3b4,
+		.id = 0x3b5,
 		.name = "Gyazo",
 		.query = "gyazo",
 		.url = "https://gyazo.com/settings",
@@ -7597,7 +7605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3b5,
+		.id = 0x3b6,
 		.name = "Habbo",
 		.query = "habbo",
 		.url = "https://help.habbo.com/hc/en-us/requests/new",
@@ -7605,7 +7613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3b6,
+		.id = 0x3b7,
 		.name = "Habitica",
 		.query = "habitica",
 		.url = "https://habitica.com/user/settings/general",
@@ -7613,7 +7621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3b7,
+		.id = 0x3b8,
 		.name = "Hack The Box",
 		.query = "hack the box",
 		.url = "https://app.hackthebox.eu/profile/settings",
@@ -7621,7 +7629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3b8,
+		.id = 0x3b9,
 		.name = "Hack This Site",
 		.query = "hack this site",
 		.url = "https://www.hackthissite.org/user/delete",
@@ -7629,7 +7637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3b9,
+		.id = 0x3ba,
 		.name = "Hackaday.io",
 		.query = "hackadayio",
 		.url = "https://hackaday.io",
@@ -7637,7 +7645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3ba,
+		.id = 0x3bb,
 		.name = "Hacker News",
 		.query = "hacker news",
 		.url = "https://news.ycombinator.com/item?id=23623799",
@@ -7645,7 +7653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3bb,
+		.id = 0x3bc,
 		.name = "Hacker One",
 		.query = "hacker one",
 		.url = "https://hackerone.com/settings/deactivate/edit",
@@ -7653,7 +7661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3bc,
+		.id = 0x3bd,
 		.name = "Hackerearth",
 		.query = "hackerearth",
 		.url = "https://www.hackerearth.com/users/profile-settings/",
@@ -7661,7 +7669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3bd,
+		.id = 0x3be,
 		.name = "Hackerrank",
 		.query = "hackerrank",
 		.url = "https://www.hackerrank.com/settings/account",
@@ -7669,7 +7677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3be,
+		.id = 0x3bf,
 		.name = "Happy Scribe",
 		.query = "happy scribe",
 		.url = "https://www.happyscribe.co/users/edit",
@@ -7677,7 +7685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3bf,
+		.id = 0x3c0,
 		.name = "Happy Wheels",
 		.query = "happy wheels",
 		.url = "https://totaljerkface.com/delete_account.tjf",
@@ -7685,7 +7693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3c0,
+		.id = 0x3c1,
 		.name = "Hardware webwinkel",
 		.query = "hardware webwinkel",
 		.url = "https://hardwarewebwinkel.nl/",
@@ -7693,7 +7701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3c1,
+		.id = 0x3c2,
 		.name = "Hark Audio",
 		.query = "hark audio",
 		.url = "https://harkaudio.com/support",
@@ -7701,7 +7709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3c2,
+		.id = 0x3c3,
 		.name = "Harney & Sons Fine Teas",
 		.query = "harney sons fine teas",
 		.url = "https://www.harney.com/pages/contact-us",
@@ -7709,7 +7717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3c3,
+		.id = 0x3c4,
 		.name = "Harry Potter",
 		.query = "harry potter",
 		.url = "https://www.harrypotter.com/profile/settings",
@@ -7717,7 +7725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3c4,
+		.id = 0x3c5,
 		.name = "Harvard Business Publishing Education",
 		.query = "harvard business publishing education",
 		.url = "https://hbsp.harvard.edu/privacy-policy/#8",
@@ -7725,7 +7733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x3c5,
+		.id = 0x3c6,
 		.name = "Have I Been Pwned",
 		.query = "have i been pwned",
 		.url = "https://haveibeenpwned.com",
@@ -7733,7 +7741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x3c6,
+		.id = 0x3c7,
 		.name = "HBO Max",
 		.query = "hbo max",
 		.url = "https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/6555225c-a911-4af8-bdb5-20158994ece0",
@@ -7741,7 +7749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3c7,
+		.id = 0x3c8,
 		.name = "hCaptcha",
 		.query = "hcaptcha",
 		.url = "https://www.hcaptcha.com/privacy",
@@ -7749,7 +7757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3c8,
+		.id = 0x3c9,
 		.name = "HeadHunter",
 		.query = "headhunter",
 		.url = "https://hh.ru/account/delete_me",
@@ -7757,7 +7765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3c9,
+		.id = 0x3ca,
 		.name = "Headliner",
 		.query = "headliner",
 		.url = "https://learn.headliner.app/hc/en-us/articles/360003796513-How-do-I-delete-my-account-",
@@ -7765,7 +7773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3ca,
+		.id = 0x3cb,
 		.name = "HeadshotGenerator",
 		.query = "headshotgenerator",
 		.url = "https://www.headshotgenerator.io/dashboard",
@@ -7773,7 +7781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3cb,
+		.id = 0x3cc,
 		.name = "Headspace",
 		.query = "headspace",
 		.url = "https://my.headspace.com/profile/account",
@@ -7781,7 +7789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3cc,
+		.id = 0x3cd,
 		.name = "HelloFax",
 		.query = "hellofax",
 		.url = "https://www.hellofax.com/home/myAccount",
@@ -7789,7 +7797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3cd,
+		.id = 0x3ce,
 		.name = "HelloFresh",
 		.query = "hellofresh",
 		.url = "https://privacy.hellofresh.com/data-privacy",
@@ -7797,7 +7805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3ce,
+		.id = 0x3cf,
 		.name = "HelloWallet",
 		.query = "hellowallet",
 		.url = "https://my.hellowallet.com",
@@ -7805,7 +7813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3cf,
+		.id = 0x3d0,
 		.name = "Hellowork",
 		.query = "hellowork",
 		.url = "https://hellowork-candidat.zendesk.com/hc/fr/articles/31676433229457-RGPD-comment-exercer-mes-droits",
@@ -7813,7 +7821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3d0,
+		.id = 0x3d1,
 		.name = "HelpScout",
 		.query = "helpscout",
 		.url = "https://docs.helpscout.com/article/473-cancel-your-help-scout-account",
@@ -7821,7 +7829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3d1,
+		.id = 0x3d2,
 		.name = "Hemingway Editor",
 		.query = "hemingway editor",
 		.url = "https://hemingwayapp.com/help#more-help",
@@ -7829,7 +7837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3d2,
+		.id = 0x3d3,
 		.name = "Hepsiburada",
 		.query = "hepsiburada",
 		.url = "https://www.hepsiburada.com/cozummerkezi/sikca-sorulan-sorular-detay/220",
@@ -7837,7 +7845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3d3,
+		.id = 0x3d4,
 		.name = "Heroes and Generals",
 		.query = "heroes and generals",
 		.url = "https://account.heroesandgenerals.com/deleteaccount.aspx/",
@@ -7845,7 +7853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x3d4,
+		.id = 0x3d5,
 		.name = "Heroforge",
 		.query = "heroforge",
 		.url = "https://www.heroforge.com/account/profile",
@@ -7853,7 +7861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3d5,
+		.id = 0x3d6,
 		.name = "Heroku",
 		.query = "heroku",
 		.url = "https://dashboard.heroku.com/account",
@@ -7861,7 +7869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3d6,
+		.id = 0x3d7,
 		.name = "HeroX",
 		.query = "herox",
 		.url = "https://www.herox.com/profile/edit",
@@ -7869,7 +7877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3d7,
+		.id = 0x3d8,
 		.name = "Hetzner",
 		.query = "hetzner",
 		.url = "https://accounts.hetzner.com/account/delete",
@@ -7877,7 +7885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3d8,
+		.id = 0x3d9,
 		.name = "Hexado.pro",
 		.query = "hexadopro",
 		.url = "https://dash.hexado.pro/tickets",
@@ -7885,7 +7893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3d9,
+		.id = 0x3da,
 		.name = "hi ai",
 		.query = "hi ai",
 		.url = "https://hiaireply.com",
@@ -7893,7 +7901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3da,
+		.id = 0x3db,
 		.name = "Hi-Rez Studios",
 		.query = "hirez studios",
 		.url = "https://my.hirezstudios.com/security",
@@ -7901,7 +7909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3db,
+		.id = 0x3dc,
 		.name = "Hi5",
 		.query = "hi5",
 		.url = "https://www.hi5.com/account_cancel.html",
@@ -7909,7 +7917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3dc,
+		.id = 0x3dd,
 		.name = "hide.me",
 		.query = "hideme",
 		.url = "https://member.hide.me/en/settings/delete-account/form",
@@ -7917,7 +7925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3dd,
+		.id = 0x3de,
 		.name = "HigherMe",
 		.query = "higherme",
 		.url = "https://app.higherme.com/profile/settings",
@@ -7925,7 +7933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3de,
+		.id = 0x3df,
 		.name = "HiiCash",
 		.query = "hiicash",
 		.url = "https://www.hiicash.app/",
@@ -7933,7 +7941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x3df,
+		.id = 0x3e0,
 		.name = "HiNative",
 		.query = "hinative",
 		.url = "https://hinative.com/users/edit?type=delete_my_account",
@@ -7941,7 +7949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3e0,
+		.id = 0x3e1,
 		.name = "Histats",
 		.query = "histats",
 		.url = "https://www.histats.com/viewstats/?act=1",
@@ -7949,7 +7957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3e1,
+		.id = 0x3e2,
 		.name = "HitBTC",
 		.query = "hitbtc",
 		.url = "https://support.hitbtc.com/en/support/tickets/new",
@@ -7957,7 +7965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3e2,
+		.id = 0x3e3,
 		.name = "HitFilm",
 		.query = "hitfilm",
 		.url = "https://fxhome.com/privacy",
@@ -7965,7 +7973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3e3,
+		.id = 0x3e4,
 		.name = "HITHIT",
 		.query = "hithit",
 		.url = "https://www.hithit.com/en/article/privacyPolicy",
@@ -7973,7 +7981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3e4,
+		.id = 0x3e5,
 		.name = "Hive Social",
 		.query = "hive social",
 		.url = "https://www.hivesocial.app/help-center/deactivation",
@@ -7981,7 +7989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3e5,
+		.id = 0x3e6,
 		.name = "HOL Virtual Hogwarts",
 		.query = "hol virtual hogwarts",
 		.url = "https://hol.org.uk/profile.php?view=quithol",
@@ -7989,7 +7997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x3e6,
+		.id = 0x3e7,
 		.name = "Holiday Pirates",
 		.query = "holiday pirates",
 		.url = "http://www.holidaypirates.com/user/profile/edit",
@@ -7997,7 +8005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3e7,
+		.id = 0x3e8,
 		.name = "Holland and Barrett",
 		.query = "holland and barrett",
 		.url = "hollandandbarrett.com/my-account/security-settings",
@@ -8005,7 +8013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3e8,
+		.id = 0x3e9,
 		.name = "Holopin",
 		.query = "holopin",
 		.url = "https://www.holopin.io/privacy.html",
@@ -8013,7 +8021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3e9,
+		.id = 0x3ea,
 		.name = "The Home Depot",
 		.query = "the home depot",
 		.url = "https://www.homedepot.com/myaccount/profile/closeAccount",
@@ -8021,7 +8029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3ea,
+		.id = 0x3eb,
 		.name = "The Home Depot México",
 		.query = "the home depot mexico",
 		.url = "https://www.homedepot.com.mx/ayuda-configuracion-cuenta#:~:text=a%20tu%20correo.-,Pasos%20para%20eliminar%20tu%20cuenta%20de%20The%20Home%20Depot%20M%C3%A9xico,-Para%20eliminar%20tu",
@@ -8029,7 +8037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3eb,
+		.id = 0x3ec,
 		.name = "Honey",
 		.query = "honey",
 		.url = "https://www.joinhoney.com/settings/account",
@@ -8037,7 +8045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3ec,
+		.id = 0x3ed,
 		.name = "Honeygain",
 		.query = "honeygain",
 		.url = "https://dashboard.honeygain.com/profile",
@@ -8045,7 +8053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3ed,
+		.id = 0x3ee,
 		.name = "Honeypot.io",
 		.query = "honeypotio",
 		.url = "https://app.honeypot.io/profile",
@@ -8053,7 +8061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3ee,
+		.id = 0x3ef,
 		.name = "Hooked (Deals)",
 		.query = "hooked deals",
 		.url = "https://www.hookedapp.com/",
@@ -8061,7 +8069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x3ef,
+		.id = 0x3f0,
 		.name = "Hoop",
 		.query = "hoop",
 		.url = "https://hoop.photo/",
@@ -8069,7 +8077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x3f0,
+		.id = 0x3f1,
 		.name = "Hostelsclub",
 		.query = "hostelsclub",
 		.url = "https://www.hostelsclub.com",
@@ -8077,7 +8085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x3f1,
+		.id = 0x3f2,
 		.name = "Hostinger",
 		.query = "hostinger",
 		.url = "https://hpanel.hostinger.com/profile/personal-information",
@@ -8085,7 +8093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3f2,
+		.id = 0x3f3,
 		.name = "Hot or Not",
 		.query = "hot or not",
 		.url = "https://hotornot.com",
@@ -8093,7 +8101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3f3,
+		.id = 0x3f4,
 		.name = "Hotels.com",
 		.query = "hotelscom",
 		.url = "https://www.hotels.com/user/delete",
@@ -8101,7 +8109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3f4,
+		.id = 0x3f5,
 		.name = "Hotspot Shield",
 		.query = "hotspot shield",
 		.url = "https://www.hotspotshield.com",
@@ -8109,7 +8117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3f5,
+		.id = 0x3f6,
 		.name = "Hotstar",
 		.query = "hotstar",
 		.url = "https://help.hotstar.com/in/en/support/tickets/new",
@@ -8117,7 +8125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3f6,
+		.id = 0x3f7,
 		.name = "Houzz",
 		.query = "houzz",
 		.url = "https://help.houzz.com/s/article/How-do-I-delete-my-account",
@@ -8125,7 +8133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3f7,
+		.id = 0x3f8,
 		.name = "Hover",
 		.query = "hover",
 		.url = "https://help.hover.com/hc/en-us/articles/222421328-Canceling-services-with-Hover",
@@ -8133,7 +8141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3f8,
+		.id = 0x3f9,
 		.name = "HowLongToBeat",
 		.query = "howlongtobeat",
 		.url = "https://howlongtobeat.com/",
@@ -8141,7 +8149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3f9,
+		.id = 0x3fa,
 		.name = "HoYoverse",
 		.query = "hoyoverse",
 		.url = "https://account.hoyoverse.com/?lang=en#/account/safetySettings",
@@ -8149,7 +8157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x3fa,
+		.id = 0x3fb,
 		.name = "HP",
 		.query = "hp",
 		.url = "https://www8.hp.com/us/en/privacy/ww-privacy-form.html",
@@ -8157,7 +8165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3fb,
+		.id = 0x3fc,
 		.name = "HRK Game",
 		.query = "hrk game",
 		.url = "https://www.hrkgame.com/en/account/settings/privacy",
@@ -8165,7 +8173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3fc,
+		.id = 0x3fd,
 		.name = "HS Ping",
 		.query = "hs ping",
 		.url = "https://app.hsping.com/settings",
@@ -8173,7 +8181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3fd,
+		.id = 0x3fe,
 		.name = "HTC",
 		.query = "htc",
 		.url = "https://www.htc.com/us/terms/privacy",
@@ -8181,7 +8189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x3fe,
+		.id = 0x3ff,
 		.name = "HUAWEI ID",
 		.query = "huawei id",
 		.url = "https://consumer.huawei.com/ph/support/content/en-us00681307/",
@@ -8189,7 +8197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x3ff,
+		.id = 0x400,
 		.name = "Huddle",
 		.query = "huddle",
 		.url = "https://huddle.zendesk.com/hc/en-us/articles/200124703-How-do-I-cancel-my-Huddle-account-",
@@ -8197,7 +8205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x400,
+		.id = 0x401,
 		.name = "Huel",
 		.query = "huel",
 		.url = "https://discuss.huel.com/t/how-do-i-delete-my-account/17617/4",
@@ -8205,7 +8213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x401,
+		.id = 0x402,
 		.name = "Huggingface",
 		.query = "huggingface",
 		.url = "https://huggingface.co/settings/account",
@@ -8213,7 +8221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x402,
+		.id = 0x403,
 		.name = "Hulu",
 		.query = "hulu",
 		.url = "https://secure.hulu.com/users/delete",
@@ -8221,7 +8229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x403,
+		.id = 0x404,
 		.name = "Human Benchmark",
 		.query = "human benchmark",
 		.url = "https://humanbenchmark.com/delete-account",
@@ -8229,7 +8237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x404,
+		.id = 0x405,
 		.name = "Humata",
 		.query = "humata",
 		.url = "https://app.humata.ai/settings/personal",
@@ -8237,7 +8245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x405,
+		.id = 0x406,
 		.name = "Humble Bundle",
 		.query = "humble bundle",
 		.url = "https://dsar.humblebundle.com",
@@ -8245,7 +8253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x406,
+		.id = 0x407,
 		.name = "Humble North",
 		.query = "humble north",
 		.url = "https://lbr.humblenorth.de/lbr/wp2/wp-admin/profile.php",
@@ -8253,7 +8261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x407,
+		.id = 0x408,
 		.name = "Hunter",
 		.query = "hunter",
 		.url = "https://hunter.io/users/edit?tab=delete-account",
@@ -8261,7 +8269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x408,
+		.id = 0x409,
 		.name = "hxcy",
 		.query = "hxcy",
 		.url = "https://hxcy.top/",
@@ -8269,7 +8277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x409,
+		.id = 0x40a,
 		.name = "Hype",
 		.query = "hype",
 		.url = "https://support.hype.it/hc/it/articles/360003556214-Come-chiudere-il-conto",
@@ -8277,7 +8285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x40a,
+		.id = 0x40b,
 		.name = "Hype Machine",
 		.query = "hype machine",
 		.url = "http://hypem.com/remove_account",
@@ -8285,7 +8293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x40b,
+		.id = 0x40c,
 		.name = "Hypixel Forums",
 		.query = "hypixel forums",
 		.url = "https://hypixel.net/account/delete",
@@ -8293,7 +8301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x40c,
+		.id = 0x40d,
 		.name = "IBM Watson Media",
 		.query = "ibm watson media",
 		.url = "https://support.video.ibm.com/hc/en-us/articles/207851817-How-Do-I-Delete-My-IBM-Video-Streaming-Account-",
@@ -8301,7 +8309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x40d,
+		.id = 0x40e,
 		.name = "IBMid",
 		.query = "ibmid",
 		.url = "https://www.ibm.com/ibmid/myibm/help/us/helpdesk.html",
@@ -8309,7 +8317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x40e,
+		.id = 0x40f,
 		.name = "Ibotta",
 		.query = "ibotta",
 		.url = "https://help.ibotta.com/hc/en-us/articles/225528727-How-Do-I-Cancel-My-Ibotta-Account-",
@@ -8317,7 +8325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x40f,
+		.id = 0x410,
 		.name = "ICANN",
 		.query = "icann",
 		.url = "https://account.icann.org/",
@@ -8325,7 +8333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x410,
+		.id = 0x411,
 		.name = "iCasei",
 		.query = "icasei",
 		.url = "https://suporte.icasei.com.br/hc/pt-br/requests/new",
@@ -8333,7 +8341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x411,
+		.id = 0x412,
 		.name = "Icedrive",
 		.query = "icedrive",
 		.url = "https://icedrive.net/dashboard/#/page/settings",
@@ -8341,7 +8349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x412,
+		.id = 0x413,
 		.name = "Iceland",
 		.query = "iceland",
 		.url = "https://www.iceland.co.uk/privacy-policy",
@@ -8349,7 +8357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x413,
+		.id = 0x414,
 		.name = "iClicker",
 		.query = "iclicker",
 		.url = "https://mhe.my.site.com/iclicker/s/contactsupport",
@@ -8357,7 +8365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x414,
+		.id = 0x415,
 		.name = "Icontem",
 		.query = "icontem",
 		.url = "https://accounts.icontem.com/remove",
@@ -8365,7 +8373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x415,
+		.id = 0x416,
 		.name = "ICQ",
 		.query = "icq",
 		.url = "https://www.icq.com/delete-account/",
@@ -8373,7 +8381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x416,
+		.id = 0x417,
 		.name = "ID.me",
 		.query = "idme",
 		.url = "https://account.id.me/signin/close",
@@ -8381,7 +8389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x417,
+		.id = 0x418,
 		.name = "Ideone",
 		.query = "ideone",
 		.url = "https://ideone.com/legal-tos#:~:text=In%20order%20to%20remove%20the,and%20file%20a%20proper%20motion.",
@@ -8389,7 +8397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x418,
+		.id = 0x419,
 		.name = "iFixit",
 		.query = "ifixit",
 		.url = "https://forms.obsecom.eu/requests/654931-678694-057240-634891",
@@ -8397,7 +8405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x419,
+		.id = 0x41a,
 		.name = "IFTTT",
 		.query = "ifttt",
 		.url = "https://ifttt.com/settings/confirm_deletion",
@@ -8405,7 +8413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x41a,
+		.id = 0x41b,
 		.name = "IGDB",
 		.query = "igdb",
 		.url = "https://www.igdb.com",
@@ -8413,7 +8421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x41b,
+		.id = 0x41c,
 		.name = "iGraal",
 		.query = "igraal",
 		.url = "https://fr.igraal.com/?showSupportChat",
@@ -8421,7 +8429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x41c,
+		.id = 0x41d,
 		.name = "iHeart",
 		.query = "iheart",
 		.url = "https://help.iheart.com/hc/en-us/articles/4424516427021-How-to-Delete-your-iHeart-Account",
@@ -8429,7 +8437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x41d,
+		.id = 0x41e,
 		.name = "IKEA",
 		.query = "ikea",
 		.url = "https://www.ikea.com/gb/en/profile/dashboard/#login",
@@ -8437,7 +8445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x41e,
+		.id = 0x41f,
 		.name = "illa / ILLA Cloud",
 		.query = "illa illa cloud",
 		.url = "https://www.illacloud.com/docs/privacy-policy#your-rights",
@@ -8445,7 +8453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x41f,
+		.id = 0x420,
 		.name = "iLoveIMG",
 		.query = "iloveimg",
 		.url = "https://www.iloveimg.com/contact",
@@ -8453,7 +8461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x420,
+		.id = 0x421,
 		.name = "iLovePDF",
 		.query = "ilovepdf",
 		.url = "https://www.ilovepdf.com/contact",
@@ -8461,7 +8469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x421,
+		.id = 0x422,
 		.name = "ImageKit",
 		.query = "imagekit",
 		.url = "https://imagekit.io/dashboard/settings/profile",
@@ -8469,7 +8477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x422,
+		.id = 0x423,
 		.name = "ImageShack",
 		.query = "imageshack",
 		.url = "https://imageshack.com/my/settings",
@@ -8477,7 +8485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x423,
+		.id = 0x424,
 		.name = "IMDb",
 		.query = "imdb",
 		.url = "https://www.imdb.com/registration/delete",
@@ -8485,7 +8493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x424,
+		.id = 0x425,
 		.name = "imgBB",
 		.query = "imgbb",
 		.url = "https://imgbb.com/settings/delete",
@@ -8493,7 +8501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x425,
+		.id = 0x426,
 		.name = "Imgur",
 		.query = "imgur",
 		.url = "https://imgur.com/account/settings",
@@ -8501,7 +8509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x426,
+		.id = 0x427,
 		.name = "Immersive Translate",
 		.query = "immersive translate",
 		.url = "https://immersivetranslate.com/profile/",
@@ -8509,7 +8517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x427,
+		.id = 0x428,
 		.name = "ImmiAccount (Australian Home Affairs)",
 		.query = "immiaccount australian home affairs",
 		.url = "https://online.immi.gov.au/usm/summary",
@@ -8517,7 +8525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x428,
+		.id = 0x429,
 		.name = "Immomio",
 		.query = "immomio",
 		.url = "https://tenant.immomio.com/de/settings/account",
@@ -8525,7 +8533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x429,
+		.id = 0x42a,
 		.name = "Immowelt",
 		.query = "immowelt",
 		.url = "https://www.immowelt.de/benutzerkonto/loeschen/",
@@ -8533,7 +8541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x42a,
+		.id = 0x42b,
 		.name = "imo.im",
 		.query = "imoim",
 		.url = "https://imo.im",
@@ -8541,7 +8549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x42b,
+		.id = 0x42c,
 		.name = "iMockup",
 		.query = "imockup",
 		.url = "https://www.imockup.app/",
@@ -8549,7 +8557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x42c,
+		.id = 0x42d,
 		.name = "impots.gouv.fr",
 		.query = "impotsgouvfr",
 		.url = "https://www.impots.gouv.fr/",
@@ -8557,7 +8565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x42d,
+		.id = 0x42e,
 		.name = "Incogni",
 		.query = "incogni",
 		.url = "https://incogni.com/",
@@ -8565,7 +8573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x42e,
+		.id = 0x42f,
 		.name = "Indeed",
 		.query = "indeed",
 		.url = "https://secure.indeed.com/settings/account",
@@ -8573,7 +8581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x42f,
+		.id = 0x430,
 		.name = "IndieGala",
 		.query = "indiegala",
 		.url = "https://docs.indiegala.com/support/contacts.html#customer-support",
@@ -8581,7 +8589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x430,
+		.id = 0x431,
 		.name = "Indiegogo",
 		.query = "indiegogo",
 		.url = "https://www.indiegogo.com",
@@ -8589,7 +8597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x431,
+		.id = 0x432,
 		.name = "Infinibrowser",
 		.query = "infinibrowser",
 		.url = "https://infinibrowser.wiki/profile/settings",
@@ -8597,7 +8605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x432,
+		.id = 0x433,
 		.name = "Infinite Story",
 		.query = "infinite story",
 		.url = "https://infinite-story.com/my/settings.php",
@@ -8605,7 +8613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x433,
+		.id = 0x434,
 		.name = "Infinity Free",
 		.query = "infinity free",
 		.url = "https://dash.infinityfree.com/users",
@@ -8613,7 +8621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x434,
+		.id = 0x435,
 		.name = "InfoCasas",
 		.query = "infocasas",
 		.url = "https://www.infocasas.com.uy/dashboard",
@@ -8621,7 +8629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x435,
+		.id = 0x436,
 		.name = "InfoJobs",
 		.query = "infojobs",
 		.url = "https://www.infojobs.net/candidate/settings/settings-cancel-account/cancel-account.xhtml",
@@ -8629,7 +8637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x436,
+		.id = 0x437,
 		.name = "Ingress",
 		.query = "ingress",
 		.url = "https://support.ingress.com/hc/en-us/articles/206618198-I-want-to-delete-my-account",
@@ -8637,7 +8645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x437,
+		.id = 0x438,
 		.name = "Inhotim",
 		.query = "inhotim",
 		.url = "https://www.inhotim.org.br/",
@@ -8645,7 +8653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x438,
+		.id = 0x439,
 		.name = "Inkbunny",
 		.query = "inkbunny",
 		.url = "https://inkbunny.net/account.php#remove",
@@ -8653,7 +8661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x439,
+		.id = 0x43a,
 		.name = "InnoGames",
 		.query = "innogames",
 		.url = "https://goodbye.innogames.com",
@@ -8661,7 +8669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x43a,
+		.id = 0x43b,
 		.name = "Inoreader",
 		.query = "inoreader",
 		.url = "https://www.inoreader.com/preferences/profile/cancel_account",
@@ -8669,7 +8677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x43b,
+		.id = 0x43c,
 		.name = "insights",
 		.query = "insights",
 		.url = "https://insights.gg/dashboard/settings/profile",
@@ -8677,7 +8685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x43c,
+		.id = 0x43d,
 		.name = "Instacart",
 		.query = "instacart",
 		.url = "https://www.instacart.com/user_privacy/form/",
@@ -8685,7 +8693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x43d,
+		.id = 0x43e,
 		.name = "Instagram",
 		.query = "instagram",
 		.url = "https://accountscenter.instagram.com/personal_info/account_ownership_and_control/deletion_and_deactivation",
@@ -8693,7 +8701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x43e,
+		.id = 0x43f,
 		.name = "Instant Gaming",
 		.query = "instant gaming",
 		.url = "https://www.instant-gaming.com/de/",
@@ -8701,7 +8709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x43f,
+		.id = 0x440,
 		.name = "Instapaper",
 		.query = "instapaper",
 		.url = "https://www.instapaper.com/user/delete",
@@ -8709,7 +8717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x440,
+		.id = 0x441,
 		.name = "Instructables",
 		.query = "instructables",
 		.url = "https://www.instructables.com",
@@ -8717,7 +8725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x441,
+		.id = 0x442,
 		.name = "Intel",
 		.query = "intel",
 		.url = "https://www.intel.com/content/www/us/en/secure/my-intel/frequently-asked-questions.html",
@@ -8725,7 +8733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x442,
+		.id = 0x443,
 		.name = "Intelius People Finder",
 		.query = "intelius people finder",
 		.url = "https://www.intelius.com/dashboard/support/contact",
@@ -8733,7 +8741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x443,
+		.id = 0x444,
 		.name = "Intelligence X",
 		.query = "intelligence x",
 		.url = "https://intelx.io/account?tab=settings",
@@ -8741,7 +8749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x444,
+		.id = 0x445,
 		.name = "Interactive Brokers",
 		.query = "interactive brokers",
 		.url = "https://www.interactivebrokers.com/RegTemplates/PDF/closeAccount.pdf",
@@ -8749,7 +8757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x445,
+		.id = 0x446,
 		.name = "Intercity",
 		.query = "intercity",
 		.url = "https://bilet.intercity.pl/login",
@@ -8757,7 +8765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x446,
+		.id = 0x447,
 		.name = "Internet Archive / Open Library",
 		.query = "internet archive open library",
 		.url = "https://help.archive.org/help/how-do-i-delete-my-account/",
@@ -8765,7 +8773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x447,
+		.id = 0x448,
 		.name = "Internetometer",
 		.query = "internetometer",
 		.url = "https://internetometer.com",
@@ -8773,7 +8781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x448,
+		.id = 0x449,
 		.name = "Interrail",
 		.query = "interrail",
 		.url = "https://www.interrail.eu/",
@@ -8781,7 +8789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x449,
+		.id = 0x44a,
 		.name = "Intigriti",
 		.query = "intigriti",
 		.url = "https://kb.intigriti.com/en/articles/6839008-privacy-statement-intigriti-researcher",
@@ -8789,7 +8797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x44a,
+		.id = 0x44b,
 		.name = "Into Real Pages",
 		.query = "into real pages",
 		.url = "https://intorealpages.com/",
@@ -8797,7 +8805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x44b,
+		.id = 0x44c,
 		.name = "Invajo",
 		.query = "invajo",
 		.url = "https://home.invajo.com/contact",
@@ -8805,7 +8813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x44c,
+		.id = 0x44d,
 		.name = "The Inventory",
 		.query = "the inventory",
 		.url = "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
@@ -8813,7 +8821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x44d,
+		.id = 0x44e,
 		.name = "Inventory Shield",
 		.query = "inventory shield",
 		.url = "https://inventoryshield.com/support_docs/user-account-details/",
@@ -8821,7 +8829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x44e,
+		.id = 0x44f,
 		.name = "Investopedia",
 		.query = "investopedia",
 		.url = "https://invcontent.zendesk.com/hc/en-us/articles/360017064553-Account-Deletion",
@@ -8829,7 +8837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x44f,
+		.id = 0x450,
 		.name = "InVideo",
 		.query = "invideo",
 		.url = "https://help.invideo.io/articles/56692-how-do-i-delete-my-account",
@@ -8837,7 +8845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x450,
+		.id = 0x451,
 		.name = "Invidious",
 		.query = "invidious",
 		.url = "https://redirect.invidious.io/preferences",
@@ -8845,7 +8853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x451,
+		.id = 0x452,
 		.name = "Invision",
 		.query = "invision",
 		.url = "https://support.invisionapp.com/hc/en-us/requests/new",
@@ -8853,7 +8861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x452,
+		.id = 0x453,
 		.name = "IO Interactive",
 		.query = "io interactive",
 		.url = "https://account.ioi.dk/",
@@ -8861,7 +8869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x453,
+		.id = 0x454,
 		.name = "iOSGods",
 		.query = "iosgods",
 		.url = "https://iosgods.com/settings/account-security/#requestAccountDeletion",
@@ -8869,7 +8877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x454,
+		.id = 0x455,
 		.name = "IPGeolocation.io",
 		.query = "ipgeolocationio",
 		.url = "https://ipgeolocation.io",
@@ -8877,7 +8885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x455,
+		.id = 0x456,
 		.name = "ipinfo.io",
 		.query = "ipinfoio",
 		.url = "https://ipinfo.io/faq/article/126-deleting-ipinfo-account",
@@ -8885,7 +8893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x456,
+		.id = 0x457,
 		.name = "IranTalent",
 		.query = "irantalent",
 		.url = "https://www.irantalent.com/en/privacy-and-policy",
@@ -8893,7 +8901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x457,
+		.id = 0x458,
 		.name = "IRCCloud",
 		.query = "irccloud",
 		.url = "https://www.irccloud.com/?/settings=account",
@@ -8901,7 +8909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x458,
+		.id = 0x459,
 		.name = "Issuu",
 		.query = "issuu",
 		.url = "https://issuu.com/home/settings",
@@ -8909,7 +8917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x459,
+		.id = 0x45a,
 		.name = "iStudiez",
 		.query = "istudiez",
 		.url = "https://support.istudentpro.com/support/solutions/articles/3000068641-delete-cloud-sync-account",
@@ -8917,7 +8925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x45a,
+		.id = 0x45b,
 		.name = "ITalki",
 		.query = "italki",
 		.url = "https://www.italki.com/",
@@ -8925,7 +8933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x45b,
+		.id = 0x45c,
 		.name = "itch.io",
 		.query = "itchio",
 		.url = "https://itch.io/user/settings/delete-account",
@@ -8933,7 +8941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x45c,
+		.id = 0x45d,
 		.name = "ITV",
 		.query = "itv",
 		.url = "https://www.itv.com/watch/user/profile",
@@ -8941,7 +8949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x45d,
+		.id = 0x45e,
 		.name = "iubenda",
 		.query = "iubenda",
 		.url = "https://www.iubenda.com/en/account",
@@ -8949,7 +8957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x45e,
+		.id = 0x45f,
 		.name = "iversity",
 		.query = "iversity",
 		.url = "https://iversity.org/de/user/deactivate",
@@ -8957,7 +8965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x45f,
+		.id = 0x460,
 		.name = "IVPN",
 		.query = "ivpn",
 		.url = "https://www.ivpn.net/account/",
@@ -8965,7 +8973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x460,
+		.id = 0x461,
 		.name = "Izy Smart",
 		.query = "izy smart",
 		.url = "https://play.google.com/store/apps/details?id=br.com.intelbras.smart",
@@ -8973,7 +8981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x461,
+		.id = 0x462,
 		.name = "Jalopnik",
 		.query = "jalopnik",
 		.url = "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
@@ -8981,7 +8989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x462,
+		.id = 0x463,
 		.name = "JavaRush",
 		.query = "javarush",
 		.url = "https://javarush.com/en/settings/security",
@@ -8989,7 +8997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x463,
+		.id = 0x464,
 		.name = "JB Hi-Fi",
 		.query = "jb hifi",
 		.url = "https://support.jbhifi.com.au/hc/en-au/requests/new",
@@ -8997,7 +9005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x464,
+		.id = 0x465,
 		.name = "JDate.com",
 		.query = "jdatecom",
 		.url = "https://www.jdate.com",
@@ -9005,7 +9013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x465,
+		.id = 0x466,
 		.name = "JEDEC",
 		.query = "jedec",
 		.url = "https://www.jedec.org/user",
@@ -9013,7 +9021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x466,
+		.id = 0x467,
 		.name = "jeevansathi",
 		.query = "jeevansathi",
 		.url = "https://www.jeevansathi.com/",
@@ -9021,7 +9029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x467,
+		.id = 0x468,
 		.name = "JetBrains",
 		.query = "jetbrains",
 		.url = "https://account.jetbrains.com/delete-account",
@@ -9029,7 +9037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x468,
+		.id = 0x469,
 		.name = "JetBrains Academy (Hyperskill)",
 		.query = "jetbrains academy hyperskill",
 		.url = "https://hyperskill.org/delete-account",
@@ -9037,7 +9045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x469,
+		.id = 0x46a,
 		.name = "JetBrains Space",
 		.query = "jetbrains space",
 		.url = "https://space-support.jetbrains.com/hc/en-us/requests/new",
@@ -9045,7 +9053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x46a,
+		.id = 0x46b,
 		.name = "Jezebel",
 		.query = "jezebel",
 		.url = "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
@@ -9053,7 +9061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x46b,
+		.id = 0x46c,
 		.name = "Jimdo",
 		.query = "jimdo",
 		.url = "https://help.jimdo.com/hc/en-us/articles/115005540586-How-do-I-delete-my-Jimdo-account-",
@@ -9061,7 +9069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x46c,
+		.id = 0x46d,
 		.name = "Jobindex.dk",
 		.query = "jobindexdk",
 		.url = "https://www.jobindex.dk/bruger/slet",
@@ -9069,7 +9077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x46d,
+		.id = 0x46e,
 		.name = "Jobscan",
 		.query = "jobscan",
 		.url = "https://www.jobscan.co/privacy",
@@ -9077,7 +9085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x46e,
+		.id = 0x46f,
 		.name = "Jobstreet",
 		.query = "jobstreet",
 		.url = "https://myjobstreet-id.jobstreet.co.id/registration/delete-account.php",
@@ -9085,7 +9093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x46f,
+		.id = 0x470,
 		.name = "JobToday",
 		.query = "jobtoday",
 		.url = "https://jobtoday.com/",
@@ -9093,7 +9101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x470,
+		.id = 0x471,
 		.name = "Joinrs",
 		.query = "joinrs",
 		.url = "https://www.joinrs.com/en/profile/settings/",
@@ -9101,7 +9109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x471,
+		.id = 0x472,
 		.name = "Jolla Account",
 		.query = "jolla account",
 		.url = "https://account.jolla.com/profile/settings/confirm_delete_profile",
@@ -9109,7 +9117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x472,
+		.id = 0x473,
 		.name = "Joom",
 		.query = "joom",
 		.url = "https://www.joom.com/en/privacy",
@@ -9117,7 +9125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x473,
+		.id = 0x474,
 		.name = "Jottacloud",
 		.query = "jottacloud",
 		.url = "https://www.jottacloud.com/account/delete",
@@ -9125,7 +9133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x474,
+		.id = 0x475,
 		.name = "Journal du geek",
 		.query = "journal du geek",
 		.url = "http://www.journaldugeek.com/editer-profil/",
@@ -9133,7 +9141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x475,
+		.id = 0x476,
 		.name = "Journey",
 		.query = "journey",
 		.url = "https://journey.cloud",
@@ -9141,7 +9149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x476,
+		.id = 0x477,
 		.name = "JS Bin",
 		.query = "js bin",
 		.url = "https://jsbin.com/account/delete",
@@ -9149,7 +9157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x477,
+		.id = 0x478,
 		.name = "JSFiddle",
 		.query = "jsfiddle",
 		.url = "https://jsfiddle.net/user/settings/remove_account/",
@@ -9157,7 +9165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x478,
+		.id = 0x479,
 		.name = "Jstris",
 		.query = "jstris",
 		.url = "https://jstris.jezevec10.com/settings/delete-account",
@@ -9165,7 +9173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x479,
+		.id = 0x47a,
 		.name = "juejin",
 		.query = "juejin",
 		.url = "https://juejin.cn/user/settings/account",
@@ -9173,7 +9181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x47a,
+		.id = 0x47b,
 		.name = "Jusbrasil",
 		.query = "jusbrasil",
 		.url = "https://www.jusbrasil.com.br/configuracoes",
@@ -9181,7 +9189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x47b,
+		.id = 0x47c,
 		.name = "Just Giving",
 		.query = "just giving",
 		.url = "https://help.justgiving.com/hc/en-us/articles/200670321-How-do-I-delete-my-account",
@@ -9189,7 +9197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x47c,
+		.id = 0x47d,
 		.name = "JustinGuitar",
 		.query = "justinguitar",
 		.url = "https://www.justinguitar.com",
@@ -9197,7 +9205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x47d,
+		.id = 0x47e,
 		.name = "Kadenze",
 		.query = "kadenze",
 		.url = "https://help.kadenze.com/hc/en-us/requests/new?src=www.kadenze.com",
@@ -9205,7 +9213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x47e,
+		.id = 0x47f,
 		.name = "Kaggle",
 		.query = "kaggle",
 		.url = "https://www.kaggle.com/account/delete",
@@ -9213,7 +9221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x47f,
+		.id = 0x480,
 		.name = "Kagi",
 		.query = "kagi",
 		.url = "https://kagi.com/settings/user_details",
@@ -9221,7 +9229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x480,
+		.id = 0x481,
 		.name = "Kahoot",
 		.query = "kahoot",
 		.url = "https://create.kahoot.it/delete-account",
@@ -9229,7 +9237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x481,
+		.id = 0x482,
 		.name = "Kaize",
 		.query = "kaize",
 		.url = "https://kaize.io/",
@@ -9237,7 +9245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x482,
+		.id = 0x483,
 		.name = "Kakao",
 		.query = "kakao",
 		.url = "https://accounts.kakao.com/weblogin/deactivate",
@@ -9245,7 +9253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x483,
+		.id = 0x484,
 		.name = "Kaleido (remove.bg, unscreen, designify)",
 		.query = "kaleido removebg unscreen designify",
 		.url = "https://accounts.kaleido.ai/profile",
@@ -9253,7 +9261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x484,
+		.id = 0x485,
 		.name = "KanbanFlow",
 		.query = "kanbanflow",
 		.url = "https://kanbanflow.com/settings/delete-account",
@@ -9261,7 +9269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x485,
+		.id = 0x486,
 		.name = "Kanji Koohii",
 		.query = "kanji koohii",
 		.url = "https://kanji.koohii.com/account/delete",
@@ -9269,7 +9277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x486,
+		.id = 0x487,
 		.name = "Kaspersky",
 		.query = "kaspersky",
 		.url = "https://my.kaspersky.com",
@@ -9277,7 +9285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x487,
+		.id = 0x488,
 		.name = "Kattis",
 		.query = "kattis",
 		.url = "https://support.kattis.com/support/solutions/articles/79000109991-how-do-i-delete-my-kattis-account-",
@@ -9285,7 +9293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x488,
+		.id = 0x489,
 		.name = "KBDfans",
 		.query = "kbdfans",
 		.url = "https://kbdfans.com/pages/contact-1",
@@ -9293,7 +9301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x489,
+		.id = 0x48a,
 		.name = "KBin",
 		.query = "kbin",
 		.url = "https://kbin.social/settings/general",
@@ -9301,7 +9309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x48a,
+		.id = 0x48b,
 		.name = "KDE Bugtracking System",
 		.query = "kde bugtracking system",
 		.url = "https://bugs.kde.org",
@@ -9309,7 +9317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x48b,
+		.id = 0x48c,
 		.name = "Keepa",
 		.query = "keepa",
 		.url = "https://keepa.com",
@@ -9317,7 +9325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x48c,
+		.id = 0x48d,
 		.name = "Keeper",
 		.query = "keeper",
 		.url = "https://www.keepersecurity.com/privacypolicy.html?t=v#:~:text=You%20may%20deactivate%20your%20Keeper%20Security%20account%20and%20delete%20your%20personally%20identifiable%20information%20at%20any%20time%20by%20contacting%20us%20at%20support%40keepersecurity.com%20clearly%20indicating%20that%20you%20wish%20to%20deactivate%20and%20delete%20such%20information.",
@@ -9325,7 +9333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x48d,
+		.id = 0x48e,
 		.name = "Kendall County History",
 		.query = "kendall county history",
 		.url = "https://www.kendallcountyhistory.org/contact",
@@ -9333,7 +9341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x48e,
+		.id = 0x48f,
 		.name = "Keybase.io",
 		.query = "keybaseio",
 		.url = "https://keybase.io/account/delete_me",
@@ -9341,7 +9349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x48f,
+		.id = 0x490,
 		.name = "KGames",
 		.query = "kgames",
 		.url = "https://kgames.fr/profil",
@@ -9349,7 +9357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x490,
+		.id = 0x491,
 		.name = "Khan Academy",
 		.query = "khan academy",
 		.url = "https://www.khanacademy.org/settings",
@@ -9357,7 +9365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x491,
+		.id = 0x492,
 		.name = "Kick Streaming",
 		.query = "kick streaming",
 		.url = "https://kick.com/",
@@ -9365,7 +9373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x492,
+		.id = 0x493,
 		.name = "Kickstarter",
 		.query = "kickstarter",
 		.url = "https://www.kickstarter.com/profile/destroy",
@@ -9373,7 +9381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x493,
+		.id = 0x494,
 		.name = "Kijiji",
 		.query = "kijiji",
 		.url = "https://help.kijiji.ca/helpdesk/contact-us-step/other",
@@ -9381,7 +9389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x494,
+		.id = 0x495,
 		.name = "Kik",
 		.query = "kik",
 		.url = "https://ws.kik.com/delete",
@@ -9389,7 +9397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x495,
+		.id = 0x496,
 		.name = "Killstar",
 		.query = "killstar",
 		.url = "https://us.killstar.com/pages/contact-us",
@@ -9397,7 +9405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x496,
+		.id = 0x497,
 		.name = "Kinguin",
 		.query = "kinguin",
 		.url = "https://www.kinguin.net/about-us",
@@ -9405,7 +9413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x497,
+		.id = 0x498,
 		.name = "Kinja",
 		.query = "kinja",
 		.url = "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
@@ -9413,7 +9421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x498,
+		.id = 0x499,
 		.name = "Kino.dk",
 		.query = "kinodk",
 		.url = "https://kino.dk/user",
@@ -9421,7 +9429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x499,
+		.id = 0x49a,
 		.name = "Kistania",
 		.query = "kistania",
 		.url = "https://www.kistania.com/pages/contact-us",
@@ -9429,7 +9437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x49a,
+		.id = 0x49b,
 		.name = "Kit.co",
 		.query = "kitco",
 		.url = "https://kit.co/terms#contact",
@@ -9437,7 +9445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x49b,
+		.id = 0x49c,
 		.name = "Kitsu",
 		.query = "kitsu",
 		.url = "https://kitsu.io/settings/account",
@@ -9445,7 +9453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x49c,
+		.id = 0x49d,
 		.name = "Kixeye",
 		.query = "kixeye",
 		.url = "https://corp.kixeye.com/pp.html",
@@ -9453,7 +9461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x49d,
+		.id = 0x49e,
 		.name = "Klarna",
 		.query = "klarna",
 		.url = "https://www.klarna.com/us/customer-service/",
@@ -9461,7 +9469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x49e,
+		.id = 0x49f,
 		.name = "Klaxoon",
 		.query = "klaxoon",
 		.url = "https://app.klaxoon.com/userspace/home",
@@ -9469,7 +9477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x49f,
+		.id = 0x4a0,
 		.name = "Kleinanzeigen",
 		.query = "kleinanzeigen",
 		.url = "https://themen.kleinanzeigen.de/hilfe/nutzerkonto/datenloeschung/",
@@ -9477,7 +9485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4a0,
+		.id = 0x4a1,
 		.name = "Knetbooks",
 		.query = "knetbooks",
 		.url = "https://www.knetbooks.com/account/settings",
@@ -9485,7 +9493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4a1,
+		.id = 0x4a2,
 		.name = "Ko-fi",
 		.query = "kofi",
 		.url = "https://ko-fi.com/Manage/DeleteAccount/",
@@ -9493,7 +9501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4a2,
+		.id = 0x4a3,
 		.name = "Kogan",
 		.query = "kogan",
 		.url = "https://www.kogan.com/au/contact-us/",
@@ -9501,7 +9509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4a3,
+		.id = 0x4a4,
 		.name = "Koingo Software",
 		.query = "koingo software",
 		.url = "https://www.koingosw.com/account/delete.php",
@@ -9509,7 +9517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4a4,
+		.id = 0x4a5,
 		.name = "Komoot",
 		.query = "komoot",
 		.url = "https://account.komoot.com/delete",
@@ -9517,7 +9525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4a5,
+		.id = 0x4a6,
 		.name = "Kongregate",
 		.query = "kongregate",
 		.url = "https://www.kongregate.com/en/accounts",
@@ -9525,7 +9533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4a6,
+		.id = 0x4a7,
 		.name = "Koofr",
 		.query = "koofr",
 		.url = "https://app.koofr.net/app/remove-account",
@@ -9533,7 +9541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4a7,
+		.id = 0x4a8,
 		.name = "Kotaku",
 		.query = "kotaku",
 		.url = "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
@@ -9541,7 +9549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4a8,
+		.id = 0x4a9,
 		.name = "Koyeb",
 		.query = "koyeb",
 		.url = "https://app.koyeb.com/settings?settings",
@@ -9549,7 +9557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4a9,
+		.id = 0x4aa,
 		.name = "Krafton",
 		.query = "krafton",
 		.url = "https://accounts.krafton.com/personal-info",
@@ -9557,7 +9565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4aa,
+		.id = 0x4ab,
 		.name = "Kraken",
 		.query = "kraken",
 		.url = "https://support.kraken.com/hc/en-us/articles/203727206-How-can-I-delete-my-Kraken-account-",
@@ -9565,7 +9573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4ab,
+		.id = 0x4ac,
 		.name = "Kucoin",
 		.query = "kucoin",
 		.url = "https://www.kucoin.com/support/17881088289305",
@@ -9573,7 +9581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4ac,
+		.id = 0x4ad,
 		.name = "Kununu",
 		.query = "kununu",
 		.url = "https://www.kununu.com/user/delete",
@@ -9581,7 +9589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4ad,
+		.id = 0x4ae,
 		.name = "Kvraudio",
 		.query = "kvraudio",
 		.url = "https://www.kvraudio.com/about-kvr",
@@ -9589,7 +9597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x4ae,
+		.id = 0x4af,
 		.name = "Kwai",
 		.query = "kwai",
 		.url = "https://www.kwai.com/legal",
@@ -9597,7 +9605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4af,
+		.id = 0x4b0,
 		.name = "Kyun!",
 		.query = "kyun",
 		.url = "https://kyun.host/dashboard",
@@ -9605,7 +9613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4b0,
+		.id = 0x4b1,
 		.name = "L'identité Numérique La Poste",
 		.query = "lidentite numerique la poste",
 		.url = "https://aide.lidentitenumerique.laposte.fr/kb/guide/fr/comment-supprimer-mon-identite-numerique-DmTz0vr4Hc/Steps/101590",
@@ -9613,7 +9621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4b1,
+		.id = 0x4b2,
 		.name = "L'VA",
 		.query = "lva",
 		.url = "https://www.lva-mobilite.fr/account/profile",
@@ -9621,7 +9629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4b2,
+		.id = 0x4b3,
 		.name = "La Caméra Embarquée",
 		.query = "la camera embarquee",
 		.url = "https://www.lacameraembarquee.fr/en/contact-us",
@@ -9629,7 +9637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4b3,
+		.id = 0x4b4,
 		.name = "La Poste",
 		.query = "la poste",
 		.url = "https://aide.laposte.fr/mesdonneespersonnelles/moncompte/suppression",
@@ -9637,7 +9645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4b4,
+		.id = 0x4b5,
 		.name = "La Redoute",
 		.query = "la redoute",
 		.url = "https://www.laredoute.com/privacy_center.aspx",
@@ -9645,7 +9653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4b5,
+		.id = 0x4b6,
 		.name = "Lampyre",
 		.query = "lampyre",
 		.url = "https://lampyre.io/",
@@ -9653,7 +9661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4b6,
+		.id = 0x4b7,
 		.name = "Langfuse",
 		.query = "langfuse",
 		.url = "https://langfuse.com/support",
@@ -9661,7 +9669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4b7,
+		.id = 0x4b8,
 		.name = "LanguageTool",
 		.query = "languagetool",
 		.url = "https://languagetool.org/editor/settings/account",
@@ -9669,7 +9677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4b8,
+		.id = 0x4b9,
 		.name = "LaptopKeyReplacements",
 		.query = "laptopkeyreplacements",
 		.url = "https://www.laptopkeyreplacements.com/contact-us/",
@@ -9677,7 +9685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x4b9,
+		.id = 0x4ba,
 		.name = "Last.fm",
 		.query = "lastfm",
 		.url = "https://www.last.fm/settings/account",
@@ -9685,7 +9693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4ba,
+		.id = 0x4bb,
 		.name = "LastPass",
 		.query = "lastpass",
 		.url = "https://lastpass.com/delete_account.php",
@@ -9693,7 +9701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4bb,
+		.id = 0x4bc,
 		.name = "Lattice Semiconductor",
 		.query = "lattice semiconductor",
 		.url = "https://www.latticesemi.com/About/ContactUs",
@@ -9701,7 +9709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4bc,
+		.id = 0x4bd,
 		.name = "Launchpad",
 		.query = "launchpad",
 		.url = "https://help.launchpad.net/YourAccount/Closing",
@@ -9709,7 +9717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4bd,
+		.id = 0x4be,
 		.name = "Lazada",
 		.query = "lazada",
 		.url = "https://helpcenter.lazada.co.id/s/faq/knowledge?categoryId=1000027486&m_station=faq&questionId=1000142195",
@@ -9717,7 +9725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4be,
+		.id = 0x4bf,
 		.name = "LBRY / Odysee",
 		.query = "lbry odysee",
 		.url = "https://odysee.com/$/settings",
@@ -9725,7 +9733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4bf,
+		.id = 0x4c0,
 		.name = "League of Legends",
 		.query = "league of legends",
 		.url = "https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454",
@@ -9733,7 +9741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4c0,
+		.id = 0x4c1,
 		.name = "League of Legends: Wild Rift",
 		.query = "league of legends wild rift",
 		.url = "https://support-leagueoflegends.riotgames.com/hc/en-us/articles/360050328454",
@@ -9741,7 +9749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4c1,
+		.id = 0x4c2,
 		.name = "Leave Me Alone",
 		.query = "leave me alone",
 		.url = "https://app.leavemealone.com/profile",
@@ -9749,7 +9757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4c2,
+		.id = 0x4c3,
 		.name = "Leboncoin",
 		.query = "leboncoin",
 		.url = "https://www.leboncoin.fr/account/settings",
@@ -9757,7 +9765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4c3,
+		.id = 0x4c4,
 		.name = "LeetCode",
 		.query = "leetcode",
 		.url = "https://leetcode.com/delete-account/",
@@ -9765,7 +9773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4c4,
+		.id = 0x4c5,
 		.name = "Leetify",
 		.query = "leetify",
 		.url = "https://leetify.com/app/support",
@@ -9773,7 +9781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4c5,
+		.id = 0x4c6,
 		.name = "Legends of Runeterra",
 		.query = "legends of runeterra",
 		.url = "https://support-legendsofruneterra.riotgames.com/hc/en-us/articles/360051089233-Deleting-Your-Riot-Account-and-All-Your-Data",
@@ -9781,7 +9789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4c6,
+		.id = 0x4c7,
 		.name = "LEGO",
 		.query = "lego",
 		.url = "https://my.lego.com/security/delete-account",
@@ -9789,7 +9797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4c7,
+		.id = 0x4c8,
 		.name = "Lemehost",
 		.query = "lemehost",
 		.url = "https://lemehost.com/user/settings/delete",
@@ -9797,7 +9805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4c8,
+		.id = 0x4c9,
 		.name = "LemonCraft",
 		.query = "lemoncraft",
 		.url = "https://lemoncraft.ru/privacy.html",
@@ -9805,7 +9813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x4c9,
+		.id = 0x4ca,
 		.name = "LendingTree",
 		.query = "lendingtree",
 		.url = "https://www.lendingtree.com/about/contact-us/",
@@ -9813,7 +9821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x4ca,
+		.id = 0x4cb,
 		.name = "Lenovo Forums",
 		.query = "lenovo forums",
 		.url = "https://forums.lenovo.com/user/myprofilepage/personal/closeaccount",
@@ -9821,7 +9829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4cb,
+		.id = 0x4cc,
 		.name = "Lenovo ID",
 		.query = "lenovo id",
 		.url = "https://privacyportal.onetrust.com/webform/3c884b5f-db83-4077-91c8-fbfdaaba21fe/f15f8a67-782c-48c4-bf1e-0d7e6cd9b464",
@@ -9829,7 +9837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4cc,
+		.id = 0x4cd,
 		.name = "Lensbest",
 		.query = "lensbest",
 		.url = "https://www.lensbest.de/INTERSHOP/web/WFS/Lensbest-LensbestShop-Site/de_DE/-/EUR/ViewProfileSettings-ViewRemoveAccount",
@@ -9837,7 +9845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4cd,
+		.id = 0x4ce,
 		.name = "Lenstore",
 		.query = "lenstore",
 		.url = "https://www.lenstore.co.uk/contact-us",
@@ -9845,7 +9853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4ce,
+		.id = 0x4cf,
 		.name = "Leonardo.ai",
 		.query = "leonardoai",
 		.url = "https://leonardo.ai/contact-us/",
@@ -9853,7 +9861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4cf,
+		.id = 0x4d0,
 		.name = "Letgo",
 		.query = "letgo",
 		.url = "https://help.letgo.com/hc/en-001/requests/new?ticket_form_id=5285423513618",
@@ -9861,7 +9869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4d0,
+		.id = 0x4d1,
 		.name = "Letterboxd",
 		.query = "letterboxd",
 		.url = "https://letterboxd.com/user/disableaccount/",
@@ -9869,7 +9877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4d1,
+		.id = 0x4d2,
 		.name = "Letudiant",
 		.query = "letudiant",
 		.url = "https://my.letudiant.fr/tableau-de-bord/parametres/supprimer-mon-compte",
@@ -9877,7 +9885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4d2,
+		.id = 0x4d3,
 		.name = "LetyShops",
 		.query = "letyshops",
 		.url = "https://letyshops.com/user/delete",
@@ -9885,7 +9893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4d3,
+		.id = 0x4d4,
 		.name = "LG Account",
 		.query = "lg account",
 		.url = "https://us.lgaccount.com",
@@ -9893,7 +9901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4d4,
+		.id = 0x4d5,
 		.name = "Liberland",
 		.query = "liberland",
 		.url = "https://liberland.org",
@@ -9901,7 +9909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x4d5,
+		.id = 0x4d6,
 		.name = "Liberty Lines",
 		.query = "liberty lines",
 		.url = "https://booking.libertylines.it/delete/",
@@ -9909,7 +9917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4d6,
+		.id = 0x4d7,
 		.name = "LibraryThing",
 		.query = "librarything",
 		.url = "https://www.librarything.de/editprofile/change",
@@ -9917,7 +9925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4d7,
+		.id = 0x4d8,
 		.name = "Libre.fm",
 		.query = "librefm",
 		.url = "https://libre.fm/user-edit.php#",
@@ -9925,7 +9933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4d8,
+		.id = 0x4d9,
 		.name = "Lichess",
 		.query = "lichess",
 		.url = "https://lichess.org/account/close",
@@ -9933,7 +9941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4d9,
+		.id = 0x4da,
 		.name = "lidraughts",
 		.query = "lidraughts",
 		.url = "https://lidraughts.org/account/close",
@@ -9941,7 +9949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4da,
+		.id = 0x4db,
 		.name = "Lieferando",
 		.query = "lieferando",
 		.url = "https://www.lieferando.de/en/customerservice/article/how-do-i-delete-my-account",
@@ -9949,7 +9957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4db,
+		.id = 0x4dc,
 		.name = "Life360",
 		.query = "life360",
 		.url = "https://support.life360.com/hc/en-us/articles/360051153713-Delete-My-Account",
@@ -9957,7 +9965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4dc,
+		.id = 0x4dd,
 		.name = "Lifehacker",
 		.query = "lifehacker",
 		.url = "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
@@ -9965,7 +9973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4dd,
+		.id = 0x4de,
 		.name = "Lifesum",
 		.query = "lifesum",
 		.url = "https://lifesum.com/account/delete-account",
@@ -9973,7 +9981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4de,
+		.id = 0x4df,
 		.name = "Lil'bots",
 		.query = "lilbots",
 		.url = "https://www.lilbots.io/pages/contact-us",
@@ -9981,7 +9989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4df,
+		.id = 0x4e0,
 		.name = "Lime",
 		.query = "lime",
 		.url = "https://www.li.me/",
@@ -9989,7 +9997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4e0,
+		.id = 0x4e1,
 		.name = "Line",
 		.query = "line",
 		.url = "https://help.line.me/line/?contentId=20000121",
@@ -9997,7 +10005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4e1,
+		.id = 0x4e2,
 		.name = "Lingopie",
 		.query = "lingopie",
 		.url = "https://lingopie.com/privacy-policy",
@@ -10005,7 +10013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4e2,
+		.id = 0x4e3,
 		.name = "Lingualeo",
 		.query = "lingualeo",
 		.url = "https://lingualeo.com/profile/edit",
@@ -10013,7 +10021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4e3,
+		.id = 0x4e4,
 		.name = "Lingvano",
 		.query = "lingvano",
 		.url = "https://linking.lingvano.com/TEoq",
@@ -10021,7 +10029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4e4,
+		.id = 0x4e5,
 		.name = "Lingvist",
 		.query = "lingvist",
 		.url = "https://lingvist.com/help/how-to-delete-my-account-and-download-my-data/",
@@ -10029,7 +10037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4e5,
+		.id = 0x4e6,
 		.name = "LinkedIn",
 		.query = "linkedin",
 		.url = "https://www.linkedin.com/help/linkedin/answer/63",
@@ -10037,7 +10045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4e6,
+		.id = 0x4e7,
 		.name = "Linktree",
 		.query = "linktree",
 		.url = "https://linktr.ee/admin/account",
@@ -10045,7 +10053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4e7,
+		.id = 0x4e8,
 		.name = "Linkvertise",
 		.query = "linkvertise",
 		.url = "https://linkvertise.com/imprint",
@@ -10053,7 +10061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4e8,
+		.id = 0x4e9,
 		.name = "Linode",
 		.query = "linode",
 		.url = "https://cloud.linode.com/account/settings",
@@ -10061,7 +10069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4e9,
+		.id = 0x4ea,
 		.name = "Linsensuppe",
 		.query = "linsensuppe",
 		.url = "https://www.linsensuppe.de",
@@ -10069,7 +10077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x4ea,
+		.id = 0x4eb,
 		.name = "Linus Tech Tips Store",
 		.query = "linus tech tips store",
 		.url = "https://www.lttstore.com/pages/privacy-policy",
@@ -10077,7 +10085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4eb,
+		.id = 0x4ec,
 		.name = "Listia",
 		.query = "listia",
 		.url = "https://help.listia.com/hc/en-us/articles/203895428-How-do-I-delete-close-my-account-",
@@ -10085,7 +10093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4ec,
+		.id = 0x4ed,
 		.name = "Litmus",
 		.query = "litmus",
 		.url = "https://help.litmus.com/article/420-delete-your-account",
@@ -10093,7 +10101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x4ed,
+		.id = 0x4ee,
 		.name = "Live Nation",
 		.query = "live nation",
 		.url = "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/ba7654b2-26ce-47df-8954-0884b9a0cea5",
@@ -10101,7 +10109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4ee,
+		.id = 0x4ef,
 		.name = "LiveJournal",
 		.query = "livejournal",
 		.url = "https://www.livejournal.com/accountstatus.bml",
@@ -10109,7 +10117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4ef,
+		.id = 0x4f0,
 		.name = "Livelo",
 		.query = "livelo",
 		.url = "https://www.livelo.com.br/profile?occsite=points&tab=tab_label_1",
@@ -10117,7 +10125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4f0,
+		.id = 0x4f1,
 		.name = "Lnk.Bio",
 		.query = "lnkbio",
 		.url = "https://help.lnk.bio/en/articles/4300436-how-do-i-delete-my-account",
@@ -10125,7 +10133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4f1,
+		.id = 0x4f2,
 		.name = "Lobsters",
 		.query = "lobsters",
 		.url = "https://lobste.rs/settings",
@@ -10133,7 +10141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4f2,
+		.id = 0x4f3,
 		.name = "LOBSTR",
 		.query = "lobstr",
 		.url = "https://lobstr.co/settings/#profile-tab",
@@ -10141,7 +10149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4f3,
+		.id = 0x4f4,
 		.name = "Loggi",
 		.query = "loggi",
 		.url = "https://ajuda.loggi.com/hc/pt-br/requests/new?ticket_form_id=448027",
@@ -10149,7 +10157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x4f4,
+		.id = 0x4f5,
 		.name = "Login.gov",
 		.query = "logingov",
 		.url = "https://secure.login.gov/account/delete",
@@ -10157,7 +10165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4f5,
+		.id = 0x4f6,
 		.name = "Logitech",
 		.query = "logitech",
 		.url = "https://support.logi.com/hc/en-us/requests/new",
@@ -10165,7 +10173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4f6,
+		.id = 0x4f7,
 		.name = "LogMeIn / Hamachi",
 		.query = "logmein hamachi",
 		.url = "https://submit-irm.trustarc.com/services/validation/818563f9-8d9c-4029-880a-bc743fb49de5",
@@ -10173,7 +10181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4f7,
+		.id = 0x4f8,
 		.name = "Logo Maker",
 		.query = "logo maker",
 		.url = "https://www.logomaker.com/contact-us/",
@@ -10181,7 +10189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4f8,
+		.id = 0x4f9,
 		.name = "LogRocket",
 		.query = "logrocket",
 		.url = "https://docs.logrocket.com/docs/security",
@@ -10189,7 +10197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4f9,
+		.id = 0x4fa,
 		.name = "Lolja",
 		.query = "lolja",
 		.url = "https://lolja.com.br",
@@ -10197,7 +10205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4fa,
+		.id = 0x4fb,
 		.name = "Lookout",
 		.query = "lookout",
 		.url = "https://www.lookout.com/#/settings",
@@ -10205,7 +10213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4fb,
+		.id = 0x4fc,
 		.name = "LoseIt",
 		.query = "loseit",
 		.url = "https://loseit.com",
@@ -10213,7 +10221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4fc,
+		.id = 0x4fd,
 		.name = "Love My Credit Union Rewards",
 		.query = "love my credit union rewards",
 		.url = "https://rewards.lovemycreditunion.org/contact-us/",
@@ -10221,7 +10229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x4fd,
+		.id = 0x4fe,
 		.name = "LowEndTalk",
 		.query = "lowendtalk",
 		.url = "https://lowendtalk.com/",
@@ -10229,7 +10237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x4fe,
+		.id = 0x4ff,
 		.name = "Lucidchart",
 		.query = "lucidchart",
 		.url = "https://www.lucidchart.com/users/login",
@@ -10237,7 +10245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x4ff,
+		.id = 0x500,
 		.name = "Lucky Patcher Forum",
 		.query = "lucky patcher forum",
 		.url = "https://www.luckypatchers.com/forum/",
@@ -10245,7 +10253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x500,
+		.id = 0x501,
 		.name = "Ludum Dare",
 		.query = "ludum dare",
 		.url = "https://ldjam.com/",
@@ -10253,7 +10261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x501,
+		.id = 0x502,
 		.name = "Lufthansa",
 		.query = "lufthansa",
 		.url = "https://www.lufthansa.com/online/myportal/lh/uk/my_account/profile/update?action=deleteProfileAction",
@@ -10261,7 +10269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x502,
+		.id = 0x503,
 		.name = "Luma",
 		.query = "luma",
 		.url = "https://lu.ma/settings",
@@ -10269,7 +10277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x503,
+		.id = 0x504,
 		.name = "LuminPDF",
 		.query = "luminpdf",
 		.url = "https://account.luminpdf.com/profile-settings",
@@ -10277,7 +10285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x504,
+		.id = 0x505,
 		.name = "Lumosity",
 		.query = "lumosity",
 		.url = "https://app.lumosity.com/settings",
@@ -10285,7 +10293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x505,
+		.id = 0x506,
 		.name = "Luno",
 		.query = "luno",
 		.url = "https://www.luno.com/help/en/tickets/new?category_id=19",
@@ -10293,7 +10301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x506,
+		.id = 0x507,
 		.name = "Lush",
 		.query = "lush",
 		.url = "https://www.lush.com/us/en_us/faq/usa-contact-us",
@@ -10301,7 +10309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x507,
+		.id = 0x508,
 		.name = "Lutris",
 		.query = "lutris",
 		.url = "https://lutris.net/user/edit",
@@ -10309,7 +10317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x508,
+		.id = 0x509,
 		.name = "LWN.net",
 		.query = "lwnnet",
 		.url = "https://lwn.net/op/Privacy.lwn",
@@ -10317,7 +10325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x509,
+		.id = 0x50a,
 		.name = "Lyconet",
 		.query = "lyconet",
 		.url = "https://www.lyconet.com/",
@@ -10325,7 +10333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x50a,
+		.id = 0x50b,
 		.name = "Lyft",
 		.query = "lyft",
 		.url = "https://account.lyft.com/privacy/data",
@@ -10333,7 +10341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x50b,
+		.id = 0x50c,
 		.name = "M Covoit Lignes+",
 		.query = "m covoit lignes",
 		.url = "https://mcovoitlignesplus.zendesk.com/hc/fr/articles/360015255860-Comment-supprimer-mon-compte",
@@ -10341,7 +10349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x50c,
+		.id = 0x50d,
 		.name = "M Mobilités / Appli M",
 		.query = "m mobilites appli m",
 		.url = "https://pass.mobilites-m.fr/mypass/account/profile",
@@ -10349,7 +10357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x50d,
+		.id = 0x50e,
 		.name = "M Réso",
 		.query = "m reso",
 		.url = "https://www.reso-m.fr/TPL_CODE/TPL_ECNLDASHBOARD/6-tableau-de-bord.htm",
@@ -10357,7 +10365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x50e,
+		.id = 0x50f,
 		.name = "m9snoi",
 		.query = "m9snoi",
 		.url = "https://m9snoi.net/",
@@ -10365,7 +10373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x50f,
+		.id = 0x510,
 		.name = "Macrumors",
 		.query = "macrumors",
 		.url = "https://macrumors.zendesk.com/hc/en-us/articles/201260797-How-do-I-cancel-my-account-",
@@ -10373,7 +10381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x510,
+		.id = 0x511,
 		.name = "MacTrade",
 		.query = "mactrade",
 		.url = "https://www.mactrade.de/account/profile#confirmDeleteAccountModal",
@@ -10381,7 +10389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x511,
+		.id = 0x512,
 		.name = "MacUpdate",
 		.query = "macupdate",
 		.url = "https://www.macupdate.com/member/account-preferences",
@@ -10389,7 +10397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x512,
+		.id = 0x513,
 		.name = "Magasin",
 		.query = "magasin",
 		.url = "https://www.magasin.dk/profilaendring/",
@@ -10397,7 +10405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x513,
+		.id = 0x514,
 		.name = "Magicflow",
 		.query = "magicflow",
 		.url = "https://magicflow.com/profile/account",
@@ -10405,7 +10413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x514,
+		.id = 0x515,
 		.name = "MAGIX",
 		.query = "magix",
 		.url = "https://www.magix.com/us/support/my-service-center/",
@@ -10413,7 +10421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x515,
+		.id = 0x516,
 		.name = "Magoosh",
 		.query = "magoosh",
 		.url = "https://magoosh.zendesk.com/hc/en-us/articles/204307485-How-do-I-delete-my-account-",
@@ -10421,7 +10429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x516,
+		.id = 0x517,
 		.name = "Mail.com",
 		.query = "mailcom",
 		.url = "https://support.mail.com/account/managing/delete.html",
@@ -10429,7 +10437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x517,
+		.id = 0x518,
 		.name = "Mail.ru",
 		.query = "mailru",
 		.url = "https://account.mail.ru/user/delete",
@@ -10437,7 +10445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x518,
+		.id = 0x519,
 		.name = "mailbox.org",
 		.query = "mailboxorg",
 		.url = "https://mailbox.org/en/",
@@ -10445,7 +10453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x519,
+		.id = 0x51a,
 		.name = "MailChimp",
 		.query = "mailchimp",
 		.url = "https://kb.mailchimp.com/article/how-do-i-close-my-account",
@@ -10453,7 +10461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x51a,
+		.id = 0x51b,
 		.name = "Mailfence",
 		.query = "mailfence",
 		.url = "https://kb.mailfence.com/kb/how-can-i-delete-my-account/",
@@ -10461,7 +10469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x51b,
+		.id = 0x51c,
 		.name = "Mailspring",
 		.query = "mailspring",
 		.url = "https://id.getmailspring.com",
@@ -10469,7 +10477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x51c,
+		.id = 0x51d,
 		.name = "Major League Hacking (MLH)",
 		.query = "major league hacking mlh",
 		.url = "https://my.mlh.io",
@@ -10477,7 +10485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x51d,
+		.id = 0x51e,
 		.name = "MakeMyTrip",
 		.query = "makemytrip",
 		.url = "https://www.makemytrip.com/",
@@ -10485,7 +10493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x51e,
+		.id = 0x51f,
 		.name = "MakerBot",
 		.query = "makerbot",
 		.url = "https://cloudprint.makerbot.com/settings/account/info",
@@ -10493,7 +10501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x51f,
+		.id = 0x520,
 		.name = "MakerWorld",
 		.query = "makerworld",
 		.url = "https://makerworld.com/en/my/settings/security",
@@ -10501,7 +10509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x520,
+		.id = 0x521,
 		.name = "MangaDex",
 		.query = "mangadex",
 		.url = "https://forums.mangadex.org/threads/please-delete-my-account.1593021/#post-20156082",
@@ -10509,7 +10517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x521,
+		.id = 0x522,
 		.name = "Mangaupdates",
 		.query = "mangaupdates",
 		.url = "https://www.mangaupdates.com/site/faq/2#item34",
@@ -10517,7 +10525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x522,
+		.id = 0x523,
 		.name = "Mangools",
 		.query = "mangools",
 		.url = "https://mangools.com/account",
@@ -10525,7 +10533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x523,
+		.id = 0x524,
 		.name = "Mapbox",
 		.query = "mapbox",
 		.url = "https://account.mapbox.com/settings",
@@ -10533,7 +10541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x524,
+		.id = 0x525,
 		.name = "MapMyFitness",
 		.query = "mapmyfitness",
 		.url = "https://www.mapmyfitness.com/account/delete",
@@ -10541,7 +10549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x525,
+		.id = 0x526,
 		.name = "MapMyRun",
 		.query = "mapmyrun",
 		.url = "https://www.mapmyrun.com/account/delete",
@@ -10549,7 +10557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x526,
+		.id = 0x527,
 		.name = "MapMyWalk",
 		.query = "mapmywalk",
 		.url = "https://www.mapmywalk.com/account/delete",
@@ -10557,7 +10565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x527,
+		.id = 0x528,
 		.name = "Mapstr",
 		.query = "mapstr",
 		.url = "https://en.mapstr.com/faq",
@@ -10565,7 +10573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x528,
+		.id = 0x529,
 		.name = "MarineTraffic",
 		.query = "marinetraffic",
 		.url = "https://www.marinetraffic.com/en/users/my_account/users/delete",
@@ -10573,7 +10581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x529,
+		.id = 0x52a,
 		.name = "Markdown Converter",
 		.query = "markdown converter",
 		.url = "https://mdconverter.com/account/settings/deletion",
@@ -10581,7 +10589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x52a,
+		.id = 0x52b,
 		.name = "Marktplaats",
 		.query = "marktplaats",
 		.url = "https://www.marktplaats.nl/my-account/profile/edit.html",
@@ -10589,7 +10597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x52b,
+		.id = 0x52c,
 		.name = "Marq",
 		.query = "marq",
 		.url = "https://help.marq.com/delete-your-account",
@@ -10597,7 +10605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x52c,
+		.id = 0x52d,
 		.name = "Marvel",
 		.query = "marvel",
 		.url = "https://marvelapp.com/account/",
@@ -10605,7 +10613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x52d,
+		.id = 0x52e,
 		.name = "Mashable",
 		.query = "mashable",
 		.url = "https://support.stackcommerce.com/hc/en-us/requests/",
@@ -10613,7 +10621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x52e,
+		.id = 0x52f,
 		.name = "Masiro",
 		.query = "masiro",
 		.url = "https://masiro.me/",
@@ -10621,7 +10629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x52f,
+		.id = 0x530,
 		.name = "MasterClass",
 		.query = "masterclass",
 		.url = "https://privacy.masterclass.com/policies",
@@ -10629,7 +10637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x530,
+		.id = 0x531,
 		.name = "Mastodon.social",
 		.query = "mastodonsocial",
 		.url = "https://mastodon.social/settings/delete",
@@ -10637,7 +10645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x531,
+		.id = 0x532,
 		.name = "Match",
 		.query = "match",
 		.url = "https://help.match.com/hc/en-us/articles/5610035266075-Delete-My-Account",
@@ -10645,7 +10653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x532,
+		.id = 0x533,
 		.name = "MatGoat",
 		.query = "matgoat",
 		.url = "https://matgoat.com",
@@ -10653,7 +10661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x533,
+		.id = 0x534,
 		.name = "Mathpix",
 		.query = "mathpix",
 		.url = "https://accounts.mathpix.com/account",
@@ -10661,7 +10669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x534,
+		.id = 0x535,
 		.name = "Mathway",
 		.query = "mathway",
 		.url = "https://www.mathway.com/settings",
@@ -10669,7 +10677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x535,
+		.id = 0x536,
 		.name = "Mathworks",
 		.query = "mathworks",
 		.url = "https://se.mathworks.com/company/aboutus/data-subject-access-request-form.html",
@@ -10677,7 +10685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x536,
+		.id = 0x537,
 		.name = "Matrix",
 		.query = "matrix",
 		.url = "https://docs.element.io/latest/element-support/matrix-account-management/deactivating-a-matrix-account",
@@ -10685,7 +10693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x537,
+		.id = 0x538,
 		.name = "Maxdome",
 		.query = "maxdome",
 		.url = "https://faq.maxdome.de/frage/mxdallgemein/mxdalleszu/was-ist-maxdome/wo-finde-ich-den-live-chat-von-maxdome",
@@ -10693,7 +10701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x538,
+		.id = 0x539,
 		.name = "Maxforlive",
 		.query = "maxforlive",
 		.url = "https://support.cycling74.com/hc/en-us/articles/360049932234-Account-Access-Management",
@@ -10701,7 +10709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x539,
+		.id = 0x53a,
 		.name = "MaxMind",
 		.query = "maxmind",
 		.url = "https://support.maxmind.com/hc/requests/new",
@@ -10709,7 +10717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x53a,
+		.id = 0x53b,
 		.name = "Mbed",
 		.query = "mbed",
 		.url = "https://os.mbed.com/account/edit/account-options/",
@@ -10717,7 +10725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x53b,
+		.id = 0x53c,
 		.name = "McAfee",
 		.query = "mcafee",
 		.url = "https://home.mcafee.com/",
@@ -10725,7 +10733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x53c,
+		.id = 0x53d,
 		.name = "McDonald's",
 		.query = "mcdonalds",
 		.url = "https://www.mcdonalds.com/us/en-us/faq/how-do-i-delete-my-account.html",
@@ -10733,7 +10741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x53d,
+		.id = 0x53e,
 		.name = "McVIP",
 		.query = "mcvip",
 		.url = "https://mcvip.mcdonalds.de/#/profil",
@@ -10741,7 +10749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x53e,
+		.id = 0x53f,
 		.name = "Mealpal",
 		.query = "mealpal",
 		.url = "https://www.mealpal.com/privacy-policy/",
@@ -10749,7 +10757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x53f,
+		.id = 0x540,
 		.name = "Medal",
 		.query = "medal",
 		.url = "https://medal.tv/settings",
@@ -10757,7 +10765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x540,
+		.id = 0x541,
 		.name = "MediaFire",
 		.query = "mediafire",
 		.url = "https://www.mediafire.com/myaccount/accountbilling.php",
@@ -10765,7 +10773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x541,
+		.id = 0x542,
 		.name = "Mediapart",
 		.query = "mediapart",
 		.url = "https://www.mediapart.fr/contenu/conditions-generales-d-utilisation",
@@ -10773,7 +10781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x542,
+		.id = 0x543,
 		.name = "Medium",
 		.query = "medium",
 		.url = "https://medium.com/me/settings",
@@ -10781,7 +10789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x543,
+		.id = 0x544,
 		.name = "MeetFrank",
 		.query = "meetfrank",
 		.url = "https://meetfrank.com",
@@ -10789,7 +10797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x544,
+		.id = 0x545,
 		.name = "Meetup",
 		.query = "meetup",
 		.url = "https://help.meetup.com/hc/en-us/articles/360050018571-Request-permanent-deletion-of-your-data",
@@ -10797,7 +10805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x545,
+		.id = 0x546,
 		.name = "MEGA",
 		.query = "mega",
 		.url = "https://mega.nz/fm/account",
@@ -10805,7 +10813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x546,
+		.id = 0x547,
 		.name = "Megaknihy",
 		.query = "megaknihy",
 		.url = "https://www.megaknihy.cz/",
@@ -10813,7 +10821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x547,
+		.id = 0x548,
 		.name = "Megaxus",
 		.query = "megaxus",
 		.url = "https://megaxus.com",
@@ -10821,7 +10829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x548,
+		.id = 0x549,
 		.name = "Melodics",
 		.query = "melodics",
 		.url = "https://melodics.com/support#form-header",
@@ -10829,7 +10837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x549,
+		.id = 0x54a,
 		.name = "MelonCube",
 		.query = "meloncube",
 		.url = "https://www.meloncube.net/clients/submitticket.php",
@@ -10837,7 +10845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x54a,
+		.id = 0x54b,
 		.name = "MemeFast.app",
 		.query = "memefastapp",
 		.url = "https://memefast.app",
@@ -10845,7 +10853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x54b,
+		.id = 0x54c,
 		.name = "Memrise",
 		.query = "memrise",
 		.url = "https://www.memrise.com/settings/deactivate/",
@@ -10853,7 +10861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x54c,
+		.id = 0x54d,
 		.name = "Mendeley",
 		.query = "mendeley",
 		.url = "https://www.mendeley.com/settings/account",
@@ -10861,7 +10869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x54d,
+		.id = 0x54e,
 		.name = "Mercado Libre Argentina",
 		.query = "mercado libre argentina",
 		.url = "https://myaccount.mercadolibre.com.ar/cancelar-cuenta",
@@ -10869,7 +10877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x54e,
+		.id = 0x54f,
 		.name = "Mercado Libre Bolivia",
 		.query = "mercado libre bolivia",
 		.url = "https://myaccount.mercadolibre.com.bo/cancelar-cuenta",
@@ -10877,7 +10885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x54f,
+		.id = 0x550,
 		.name = "Mercado Libre Chile",
 		.query = "mercado libre chile",
 		.url = "https://myaccount.mercadolibre.cl/cancelar-cuenta",
@@ -10885,7 +10893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x550,
+		.id = 0x551,
 		.name = "Mercado Libre Colombia",
 		.query = "mercado libre colombia",
 		.url = "https://myaccount.mercadolibre.com.co/cancelar-cuenta",
@@ -10893,7 +10901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x551,
+		.id = 0x552,
 		.name = "Mercado Libre Costa Rica",
 		.query = "mercado libre costa rica",
 		.url = "https://myaccount.mercadolibre.co.cr/cancelar-cuenta",
@@ -10901,7 +10909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x552,
+		.id = 0x553,
 		.name = "Mercado Libre Ecuador",
 		.query = "mercado libre ecuador",
 		.url = "https://myaccount.mercadolibre.com.ec/cancelar-cuenta",
@@ -10909,7 +10917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x553,
+		.id = 0x554,
 		.name = "Mercado Libre El Salvador",
 		.query = "mercado libre el salvador",
 		.url = "https://myaccount.mercadolibre.com.sv/cancelar-cuenta",
@@ -10917,7 +10925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x554,
+		.id = 0x555,
 		.name = "Mercado Libre Guatemala",
 		.query = "mercado libre guatemala",
 		.url = "https://myaccount.mercadolibre.com.gt/cancelar-cuenta",
@@ -10925,7 +10933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x555,
+		.id = 0x556,
 		.name = "Mercado Libre Honduras",
 		.query = "mercado libre honduras",
 		.url = "https://myaccount.mercadolibre.com.hn/cancelar-cuenta",
@@ -10933,7 +10941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x556,
+		.id = 0x557,
 		.name = "Mercado Libre México",
 		.query = "mercado libre mexico",
 		.url = "https://myaccount.mercadolibre.com.mx/cancelar-cuenta",
@@ -10941,7 +10949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x557,
+		.id = 0x558,
 		.name = "Mercado Libre Nicaragua",
 		.query = "mercado libre nicaragua",
 		.url = "https://myaccount.mercadolibre.com.ni/cancelar-cuenta",
@@ -10949,7 +10957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x558,
+		.id = 0x559,
 		.name = "Mercado Libre Panamá",
 		.query = "mercado libre panama",
 		.url = "https://myaccount.mercadolibre.com.pa/cancelar-cuenta",
@@ -10957,7 +10965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x559,
+		.id = 0x55a,
 		.name = "Mercado Libre Paraguay",
 		.query = "mercado libre paraguay",
 		.url = "https://myaccount.mercadolibre.com.py/cancelar-cuenta",
@@ -10965,7 +10973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x55a,
+		.id = 0x55b,
 		.name = "Mercado Libre Perú",
 		.query = "mercado libre peru",
 		.url = "https://myaccount.mercadolibre.com.pe/cancelar-cuenta",
@@ -10973,7 +10981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x55b,
+		.id = 0x55c,
 		.name = "Mercado Libre República Dominicana",
 		.query = "mercado libre republica dominicana",
 		.url = "https://myaccount.mercadolibre.com.do/cancelar-cuenta",
@@ -10981,7 +10989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x55c,
+		.id = 0x55d,
 		.name = "Mercado Libre Uruguay",
 		.query = "mercado libre uruguay",
 		.url = "https://myaccount.mercadolibre.com.uy/cancelar-cuenta",
@@ -10989,7 +10997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x55d,
+		.id = 0x55e,
 		.name = "Mercado Libre Venezuela",
 		.query = "mercado libre venezuela",
 		.url = "https://myaccount.mercadolibre.com.ve/cancelar-cuenta",
@@ -10997,7 +11005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x55e,
+		.id = 0x55f,
 		.name = "Mercado Livre Brasil",
 		.query = "mercado livre brasil",
 		.url = "https://myaccount.mercadolivre.com.br/cancelar-conta",
@@ -11005,7 +11013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x55f,
+		.id = 0x560,
 		.name = "Mes Services Étudiant",
 		.query = "mes services etudiant",
 		.url = "https://www.messervices.etudiant.gouv.fr/envole/message/new",
@@ -11013,7 +11021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x560,
+		.id = 0x561,
 		.name = "Metacritic",
 		.query = "metacritic",
 		.url = "https://metacritichelp.zendesk.com/hc/en-us/requests/new?ticket_form_id=12053246153495",
@@ -11021,7 +11029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x561,
+		.id = 0x562,
 		.name = "MetalPay",
 		.query = "metalpay",
 		.url = "https://help.metalpay.com/hc/en-us/articles/4409445335063-How-do-I-close-my-Metal-Pay-account-",
@@ -11029,7 +11037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x562,
+		.id = 0x563,
 		.name = "MetaMask Card",
 		.query = "metamask card",
 		.url = "https://support.metamask.io/manage-crypto/metamask-card/card-faq/",
@@ -11037,7 +11045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x563,
+		.id = 0x564,
 		.name = "MetLife",
 		.query = "metlife",
 		.url = "https://metlife.com.br/",
@@ -11045,7 +11053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x564,
+		.id = 0x565,
 		.name = "Metropolis",
 		.query = "metropolis",
 		.url = "https://app.metropolis.io/profile/terms-and-privacy",
@@ -11053,7 +11061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x565,
+		.id = 0x566,
 		.name = "MEXC",
 		.query = "mexc",
 		.url = "https://www.mexc.com/privacypolicy#:~:text=other%20applicable%20laws.-,ACCOUNT%20DELETION,-You%20may%20delete",
@@ -11061,7 +11069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x566,
+		.id = 0x567,
 		.name = "Mi Account",
 		.query = "mi account",
 		.url = "https://account.xiaomi.com/pass/del",
@@ -11069,7 +11077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x567,
+		.id = 0x568,
 		.name = "Mibbit",
 		.query = "mibbit",
 		.url = "https://chat.mibbit.com/",
@@ -11077,7 +11085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x568,
+		.id = 0x569,
 		.name = "Microsoft Account",
 		.query = "microsoft account",
 		.url = "https://account.live.com/closeaccount.aspx",
@@ -11085,7 +11093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x569,
+		.id = 0x56a,
 		.name = "Midjourney",
 		.query = "midjourney",
 		.url = "https://www.midjourney.com/account/",
@@ -11093,7 +11101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x56a,
+		.id = 0x56b,
 		.name = "Mikan Project",
 		.query = "mikan project",
 		.url = "https://mikanani.me/",
@@ -11101,7 +11109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x56b,
+		.id = 0x56c,
 		.name = "Milanote",
 		.query = "milanote",
 		.url = "https://app.milanote.com/account/settings/delete",
@@ -11109,7 +11117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x56c,
+		.id = 0x56d,
 		.name = "Mimo",
 		.query = "mimo",
 		.url = "https://getmimo.com/settings",
@@ -11117,7 +11125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x56d,
+		.id = 0x56e,
 		.name = "MindMeister",
 		.query = "mindmeister",
 		.url = "https://accounts.meister.co/close_account",
@@ -11125,7 +11133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x56e,
+		.id = 0x56f,
 		.name = "Minds",
 		.query = "minds",
 		.url = "https://www.minds.com/settings/other/delete-account",
@@ -11133,7 +11141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x56f,
+		.id = 0x570,
 		.name = "Mine",
 		.query = "mine",
 		.url = "https://saymineapp.com/profile",
@@ -11141,7 +11149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x570,
+		.id = 0x571,
 		.name = "Minecraft",
 		.query = "minecraft",
 		.url = "https://help.minecraft.net/hc/en-us/requests/new",
@@ -11149,7 +11157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x571,
+		.id = 0x572,
 		.name = "Minecraft Tools",
 		.query = "minecraft tools",
 		.url = "https://minecraft.tools/en/contact.php",
@@ -11157,7 +11165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x572,
+		.id = 0x573,
 		.name = "MinecraftRating",
 		.query = "minecraftrating",
 		.url = "https://minecraftrating.ru/contacts.html",
@@ -11165,7 +11173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x573,
+		.id = 0x574,
 		.name = "Minehut",
 		.query = "minehut",
 		.url = "https://app.minehut.com/profile",
@@ -11173,7 +11181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x574,
+		.id = 0x575,
 		.name = "Minha Band",
 		.query = "minha band",
 		.url = "https://login.band.com.br/",
@@ -11181,7 +11189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x575,
+		.id = 0x576,
 		.name = "Miniclip",
 		.query = "miniclip",
 		.url = "https://me.miniclip.com/account/delete",
@@ -11189,7 +11197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x576,
+		.id = 0x577,
 		.name = "MinID",
 		.query = "minid",
 		.url = "https://eid.difi.no/en/minid/blocking-minid",
@@ -11197,7 +11205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x577,
+		.id = 0x578,
 		.name = "Mint",
 		.query = "mint",
 		.url = "https://mint.com",
@@ -11205,7 +11213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x578,
+		.id = 0x579,
 		.name = "mintos.com",
 		.query = "mintoscom",
 		.url = "https://help.mintos.com/hc/en-us/requests/new?ticket_form_id=1900000292453",
@@ -11213,7 +11221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x579,
+		.id = 0x57a,
 		.name = "Minute Cryptic",
 		.query = "minute cryptic",
 		.url = "https://www.minutecryptic.com/account",
@@ -11221,7 +11229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x57a,
+		.id = 0x57b,
 		.name = "Miro",
 		.query = "miro",
 		.url = "https://miro.com/app/settings/user-profile/",
@@ -11229,7 +11237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x57b,
+		.id = 0x57c,
 		.name = "MisterWong",
 		.query = "misterwong",
 		.url = "https://www.mister-wong.de",
@@ -11237,7 +11245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x57c,
+		.id = 0x57d,
 		.name = "Mistral AI",
 		.query = "mistral ai",
 		.url = "https://admin.mistral.ai/account",
@@ -11245,7 +11253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x57d,
+		.id = 0x57e,
 		.name = "MixCloud",
 		.query = "mixcloud",
 		.url = "https://www.mixcloud.com/settings/delete-account/",
@@ -11253,7 +11261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x57e,
+		.id = 0x57f,
 		.name = "Mixlr",
 		.query = "mixlr",
 		.url = "https://mixlr.com/settings/account/delete/",
@@ -11261,7 +11269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x57f,
+		.id = 0x580,
 		.name = "MMORPG.com",
 		.query = "mmorpgcom",
 		.url = "https://www.mmorpg.com/notice/delete-account",
@@ -11269,7 +11277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x580,
+		.id = 0x581,
 		.name = "Mobalytics",
 		.query = "mobalytics",
 		.url = "https://mobalytics.gg/lol/account-settings/account-information",
@@ -11277,7 +11285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x581,
+		.id = 0x582,
 		.name = "Mobify",
 		.query = "mobify",
 		.url = "https://www.mobify.com/contact/",
@@ -11285,7 +11293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x582,
+		.id = 0x583,
 		.name = "Mobills",
 		.query = "mobills",
 		.url = "https://web.mobillsapp.com/Configuracoes/DeletaConta",
@@ -11293,7 +11301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x583,
+		.id = 0x584,
 		.name = "Mockflow",
 		.query = "mockflow",
 		.url = "https://support.mockflow.com/article/10-can-i-delete-my-mockflow-account",
@@ -11301,7 +11309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x584,
+		.id = 0x585,
 		.name = "Modrinth",
 		.query = "modrinth",
 		.url = "https://modrinth.com/settings/account",
@@ -11309,7 +11317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x585,
+		.id = 0x586,
 		.name = "Moises.ai",
 		.query = "moisesai",
 		.url = "https://help.moises.ai/hc/en-us/articles/5440087821330-How-to-delete-my-Moises-account",
@@ -11317,7 +11325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x586,
+		.id = 0x587,
 		.name = "Mojang",
 		.query = "mojang",
 		.url = "https://account.mojang.com/me/settings",
@@ -11325,7 +11333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x587,
+		.id = 0x588,
 		.name = "Molotov",
 		.query = "molotov",
 		.url = "https://www.molotov.tv/account/profile",
@@ -11333,7 +11341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x588,
+		.id = 0x589,
 		.name = "Momox",
 		.query = "momox",
 		.url = "https://www.momox.de/kleidung-verkaufen/kontaktformular/",
@@ -11341,7 +11349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x589,
+		.id = 0x58a,
 		.name = "Momox Fashion",
 		.query = "momox fashion",
 		.url = "https://momoxfashion.zendesk.com/hc/de/articles/360011251419-Ich-m%C3%B6chte-mein-Konto-abmelden-Wie-geht-das",
@@ -11349,7 +11357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x58a,
+		.id = 0x58b,
 		.name = "Mon Compte Formation",
 		.query = "mon compte formation",
 		.url = "https://www.moncompteformation.gouv.fr/espace-public/comment-me-desinscrire-de-mon-compte-formation",
@@ -11357,7 +11365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x58b,
+		.id = 0x58c,
 		.name = "Mon Espace Santé",
 		.query = "mon espace sante",
 		.url = "https://www.monespacesante.fr/questions-frequentes/acceder-a-mon-espace-sante/14",
@@ -11365,7 +11373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x58c,
+		.id = 0x58d,
 		.name = "Mon Espace STAS",
 		.query = "mon espace stas",
 		.url = "https://www.reseau-stas.fr/fr/mon-espace-stas/159/Member/editprofile",
@@ -11373,7 +11381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x58d,
+		.id = 0x58e,
 		.name = "Monarch Money",
 		.query = "monarch money",
 		.url = "https://help.monarchmoney.com/hc/en-us/articles/4412388754708-Delete-a-Monarch-Account",
@@ -11381,7 +11389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x58e,
+		.id = 0x58f,
 		.name = "monday.com",
 		.query = "mondaycom",
 		.url = "https://support.monday.com/hc/en-us/articles/360018133779-How-to-cancel-and-close-your-account",
@@ -11389,7 +11397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x58f,
+		.id = 0x590,
 		.name = "Money Dashboard",
 		.query = "money dashboard",
 		.url = "https://help.moneydashboard.com/hc/requests/new",
@@ -11397,7 +11405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x590,
+		.id = 0x591,
 		.name = "Money Lover",
 		.query = "money lover",
 		.url = "https://web.moneylover.me",
@@ -11405,7 +11413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x591,
+		.id = 0x592,
 		.name = "Money Saving Expert",
 		.query = "money saving expert",
 		.url = "https://clubs.moneysavingexpert.com/cheapenergyclub/my-account",
@@ -11413,7 +11421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x592,
+		.id = 0x593,
 		.name = "MongoDB Atlas",
 		.query = "mongodb atlas",
 		.url = "https://docs.atlas.mongodb.com/tutorial/delete-atlas-account/",
@@ -11421,7 +11429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x593,
+		.id = 0x594,
 		.name = "Monkeytype",
 		.query = "monkeytype",
 		.url = "https://monkeytype.com/account-settings?tab=dangerZone",
@@ -11429,7 +11437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x594,
+		.id = 0x595,
 		.name = "Monnaie de Paris",
 		.query = "monnaie de paris",
 		.url = "https://www.monnaiedeparis.fr/en/gdpr/customer/settings/",
@@ -11437,7 +11445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x595,
+		.id = 0x596,
 		.name = "Monoprice",
 		.query = "monoprice",
 		.url = "https://www.monoprice.com/Help/Index?pn=contact",
@@ -11445,7 +11453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x596,
+		.id = 0x597,
 		.name = "Monster",
 		.query = "monster",
 		.url = "https://www.monster.com/privacy/emailform",
@@ -11453,7 +11461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x597,
+		.id = 0x598,
 		.name = "MonTCL",
 		.query = "montcl",
 		.url = "https://boutique.tcl.fr/en/account/personal-data",
@@ -11461,7 +11469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x598,
+		.id = 0x599,
 		.name = "Moodle",
 		.query = "moodle",
 		.url = "https://moodle.org/admin/tool/dataprivacy/createdatarequest.php?type=2",
@@ -11469,7 +11477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x599,
+		.id = 0x59a,
 		.name = "Moonpig",
 		.query = "moonpig",
 		.url = "https://support-uk.moonpig.com/hc/en-gb/articles/360007011998-How-do-I-delete-my-Account-Data-",
@@ -11477,7 +11485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x59a,
+		.id = 0x59b,
 		.name = "Moovit",
 		.query = "moovit",
 		.url = "https://support.moovitapp.com/hc/requests/new",
@@ -11485,7 +11493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x59b,
+		.id = 0x59c,
 		.name = "Morningstar",
 		.query = "morningstar",
 		.url = "https://socialize.morningstar.com/feedback/feedbackform.asp",
@@ -11493,7 +11501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x59c,
+		.id = 0x59d,
 		.name = "Mote",
 		.query = "mote",
 		.url = "https://support.mote.com/hc/en-us/articles/4407299329940-How-do-I-delete-my-account-",
@@ -11501,7 +11509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x59d,
+		.id = 0x59e,
 		.name = "MouseCTRL",
 		.query = "mousectrl",
 		.url = "https://mousectrl.com/",
@@ -11509,7 +11517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x59e,
+		.id = 0x59f,
 		.name = "Mouser",
 		.query = "mouser",
 		.url = "https://www.mouser.co.uk/privacypolicy",
@@ -11517,7 +11525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x59f,
+		.id = 0x5a0,
 		.name = "Moviepilot.de",
 		.query = "moviepilotde",
 		.url = "https://www.moviepilot.de/users/null/edit_membership",
@@ -11525,7 +11533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5a0,
+		.id = 0x5a1,
 		.name = "Mozilla Developer Network (MDN)",
 		.query = "mozilla developer network mdn",
 		.url = "https://bugzilla.mozilla.org/enter_bug.cgi?product=developer.mozilla.org",
@@ -11533,7 +11541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5a1,
+		.id = 0x5a2,
 		.name = "Mozilla Support",
 		.query = "mozilla support",
 		.url = "https://support.mozilla.org/en-US/users/edit",
@@ -11541,7 +11549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5a2,
+		.id = 0x5a3,
 		.name = "MSI",
 		.query = "msi",
 		.url = "https://account.msi.com/",
@@ -11549,7 +11557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5a3,
+		.id = 0x5a4,
 		.name = "MTCGAME",
 		.query = "mtcgame",
 		.url = "https://www.mtcgame.com/",
@@ -11557,7 +11565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x5a4,
+		.id = 0x5a5,
 		.name = "Muambator",
 		.query = "muambator",
 		.url = "https://www.muambator.com.br/perfil/minha-conta/",
@@ -11565,7 +11573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5a5,
+		.id = 0x5a6,
 		.name = "Mullvad",
 		.query = "mullvad",
 		.url = "https://mullvad.net/en/help/faq#119",
@@ -11573,7 +11581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5a6,
+		.id = 0x5a7,
 		.name = "MultCloud",
 		.query = "multcloud",
 		.url = "https://www.multcloud.com/",
@@ -11581,7 +11589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5a7,
+		.id = 0x5a8,
 		.name = "Multiplayer Game Hacking MPGH",
 		.query = "multiplayer game hacking mpgh",
 		.url = "https://www.mpgh.net/",
@@ -11589,7 +11597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x5a8,
+		.id = 0x5a9,
 		.name = "MuniMobile (San Francisco Municipal Transportation Agency)",
 		.query = "munimobile san francisco municipal transportation agency",
 		.url = "https://sfmta.transitsherpa.com/rider-web/",
@@ -11597,7 +11605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x5a9,
+		.id = 0x5aa,
 		.name = "Munzee",
 		.query = "munzee",
 		.url = "https://www.munzee.com/privacy/",
@@ -11605,7 +11613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5aa,
+		.id = 0x5ab,
 		.name = "Musei Italiani",
 		.query = "musei italiani",
 		.url = "https://portale.museiitaliani.it/b2c/myProfile",
@@ -11613,7 +11621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5ab,
+		.id = 0x5ac,
 		.name = "Musescore",
 		.query = "musescore",
 		.url = "https://musescore.com/user/settings/profile",
@@ -11621,7 +11629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5ac,
+		.id = 0x5ad,
 		.name = "Musicboard",
 		.query = "musicboard",
 		.url = "https://musicboard.app/settings/preferences",
@@ -11629,7 +11637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5ad,
+		.id = 0x5ae,
 		.name = "MusicBrainz",
 		.query = "musicbrainz",
 		.url = "https://musicbrainz.org/account/edit",
@@ -11637,7 +11645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5ae,
+		.id = 0x5af,
 		.name = "Musixmatch",
 		.query = "musixmatch",
 		.url = "https://account.musixmatch.com/delete-account",
@@ -11645,7 +11653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5af,
+		.id = 0x5b0,
 		.name = "Mutant Mail",
 		.query = "mutant mail",
 		.url = "https://my.mutantmail.com/settings",
@@ -11653,7 +11661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5b0,
+		.id = 0x5b1,
 		.name = "MXstore",
 		.query = "mxstore",
 		.url = "https://www.mxstore.com.au/submit-a-request",
@@ -11661,7 +11669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5b1,
+		.id = 0x5b2,
 		.name = "My Calendar",
 		.query = "my calendar",
 		.url = "https://www.simpleinnovation.us/contact",
@@ -11669,7 +11677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5b2,
+		.id = 0x5b3,
 		.name = "My Fitness Pal",
 		.query = "my fitness pal",
 		.url = "https://www.myfitnesspal.com/en/account/confirm_delete",
@@ -11677,7 +11685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5b3,
+		.id = 0x5b4,
 		.name = "My Invisalign",
 		.query = "my invisalign",
 		.url = "https://my.invisalign.com/myprofile",
@@ -11685,7 +11693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5b4,
+		.id = 0x5b5,
 		.name = "My Lands",
 		.query = "my lands",
 		.url = "https://uk.mlgame.org/",
@@ -11693,7 +11701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5b5,
+		.id = 0x5b6,
 		.name = "MyAbandonware",
 		.query = "myabandonware",
 		.url = "https://www.myabandonware.com/account/delete/",
@@ -11701,7 +11709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5b6,
+		.id = 0x5b7,
 		.name = "MyAnimeList",
 		.query = "myanimelist",
 		.url = "https://myanimelist.net/account_deletion",
@@ -11709,7 +11717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x5b7,
+		.id = 0x5b8,
 		.name = "MyCreds",
 		.query = "mycreds",
 		.url = "https://membertrustregistry.mycreds.ca",
@@ -11717,7 +11725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5b8,
+		.id = 0x5b9,
 		.name = "myESET",
 		.query = "myeset",
 		.url = "https://my.eset.com/account",
@@ -11725,7 +11733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5b9,
+		.id = 0x5ba,
 		.name = "MyFigureCollection",
 		.query = "myfigurecollection",
 		.url = "https://myfigurecollection.net/settings/profile/",
@@ -11733,7 +11741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5ba,
+		.id = 0x5bb,
 		.name = "MyFonts",
 		.query = "myfonts",
 		.url = "https://www.myfonts.com/my/settings/",
@@ -11741,7 +11749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5bb,
+		.id = 0x5bc,
 		.name = "MyFRITZ!",
 		.query = "myfritz",
 		.url = "https://sso.myfritz.net/account/#/delete",
@@ -11749,7 +11757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5bc,
+		.id = 0x5bd,
 		.name = "Myfxbook",
 		.query = "myfxbook",
 		.url = "https://www.myfxbook.com/settings#profile",
@@ -11757,7 +11765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5bd,
+		.id = 0x5be,
 		.name = "MyHeritage",
 		.query = "myheritage",
 		.url = "https://www.myheritage.com/delete-account",
@@ -11765,7 +11773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5be,
+		.id = 0x5bf,
 		.name = "MyJDownloader",
 		.query = "myjdownloader",
 		.url = "https://my.jdownloader.org",
@@ -11773,7 +11781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5bf,
+		.id = 0x5c0,
 		.name = "MyMaxon",
 		.query = "mymaxon",
 		.url = "https://id.maxon.net/settings/deleteAccount.html",
@@ -11781,7 +11789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5c0,
+		.id = 0x5c1,
 		.name = "Myntra",
 		.query = "myntra",
 		.url = "https://www.myntra.com/my/profile/edit",
@@ -11789,7 +11797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5c1,
+		.id = 0x5c2,
 		.name = "MyParcel",
 		.query = "myparcel",
 		.url = "https://www.myparcel.nl/en/blog/sending/prepare-your-shipping-process-optimally-for-the-end-of-year-period/?article=kA167000000Xl74CAC",
@@ -11797,7 +11805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5c2,
+		.id = 0x5c3,
 		.name = "MyPlate",
 		.query = "myplate",
 		.url = "https://livestrong.zendesk.com/hc/en-us/articles/205147450-How-do-I-delete-my-account-",
@@ -11805,7 +11813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5c3,
+		.id = 0x5c4,
 		.name = "MyScript",
 		.query = "myscript",
 		.url = "https://sso.myscript.com/v1/api/account/delete/request",
@@ -11813,7 +11821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5c4,
+		.id = 0x5c5,
 		.name = "MySpace",
 		.query = "myspace",
 		.url = "https://myspace.com/settings/profile",
@@ -11821,7 +11829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5c5,
+		.id = 0x5c6,
 		.name = "Myworkdayjobs.com",
 		.query = "myworkdayjobscom",
 		.url = "https://www.workday.com/en-us/privacy.html",
@@ -11829,7 +11837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x5c6,
+		.id = 0x5c7,
 		.name = "myWorld",
 		.query = "myworld",
 		.url = "https://www.myworld.com/",
@@ -11837,7 +11845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5c7,
+		.id = 0x5c8,
 		.name = "Más Renfe",
 		.query = "mas renfe",
 		.url = "https://www.renfe.com/es/en/legal-information/renfe-operadora/privacidad-cookies/politica-privacidad",
@@ -11845,7 +11853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5c8,
+		.id = 0x5c9,
 		.name = "Méliuz",
 		.query = "meliuz",
 		.url = "https://ajuda.meliuz.com.br/hc/pt-br/articles/4417549110292",
@@ -11853,7 +11861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5c9,
+		.id = 0x5ca,
 		.name = "N11",
 		.query = "n11",
 		.url = "https://www.n11.com/hesabim/uyelik-iptali",
@@ -11861,7 +11869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5ca,
+		.id = 0x5cb,
 		.name = "Namecheap",
 		.query = "namecheap",
 		.url = "https://www.namecheap.com/support/knowledgebase/article.aspx/303/44/how-do-i-cancel-or-close-my-account-with-you",
@@ -11869,7 +11877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x5cb,
+		.id = 0x5cc,
 		.name = "NameMC",
 		.query = "namemc",
 		.url = "https://namemc.com/my-account",
@@ -11877,7 +11885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5cc,
+		.id = 0x5cd,
 		.name = "Nandos",
 		.query = "nandos",
 		.url = "https://help.nandos.co.uk/hc/en-gb/requests/new",
@@ -11885,7 +11893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5cd,
+		.id = 0x5ce,
 		.name = "NaNoWriMo",
 		.query = "nanowrimo",
 		.url = "https://nanowrimo.org/account_settings",
@@ -11893,7 +11901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5ce,
+		.id = 0x5cf,
 		.name = "Napster",
 		.query = "napster",
 		.url = "https://help.napster.com/hc/en-us/articles/218661367",
@@ -11901,7 +11909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x5cf,
+		.id = 0x5d0,
 		.name = "National Express",
 		.query = "national express",
 		.url = "https://nationalexpress.com",
@@ -11909,7 +11917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x5d0,
+		.id = 0x5d1,
 		.name = "NationStates",
 		.query = "nationstates",
 		.url = "https://www.nationstates.net/page=faq",
@@ -11917,7 +11925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5d1,
+		.id = 0x5d2,
 		.name = "Native",
 		.query = "native",
 		.url = "https://www.nativecos.com/pages/contact-us",
@@ -11925,7 +11933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5d2,
+		.id = 0x5d3,
 		.name = "Native Instruments",
 		.query = "native instruments",
 		.url = "https://support.native-instruments.com/hc/requests/new",
@@ -11933,7 +11941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5d3,
+		.id = 0x5d4,
 		.name = "Natively",
 		.query = "natively",
 		.url = "https://learnnatively.com/contact/",
@@ -11941,7 +11949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5d4,
+		.id = 0x5d5,
 		.name = "Natural Readers",
 		.query = "natural readers",
 		.url = "https://www.naturalreaders.com/",
@@ -11949,7 +11957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5d5,
+		.id = 0x5d6,
 		.name = "Naukri",
 		.query = "naukri",
 		.url = "https://www.naukri.com/mnjuser/settings/communication",
@@ -11957,7 +11965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5d6,
+		.id = 0x5d7,
 		.name = "NAVER",
 		.query = "naver",
 		.url = "https://nid.naver.com/user2/help/leaveId?menu=nid",
@@ -11965,7 +11973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x5d7,
+		.id = 0x5d8,
 		.name = "NCBI",
 		.query = "ncbi",
 		.url = "https://www.ncbi.nlm.nih.gov/books/NBK3842/",
@@ -11973,7 +11981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5d8,
+		.id = 0x5d9,
 		.name = "Nearpod",
 		.query = "nearpod",
 		.url = "https://nearpod.com/contact/",
@@ -11981,7 +11989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5d9,
+		.id = 0x5da,
 		.name = "Nebula",
 		.query = "nebula",
 		.url = "https://nebula.tv/settings/account/delete",
@@ -11989,7 +11997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5da,
+		.id = 0x5db,
 		.name = "Neocities.org",
 		.query = "neocitiesorg",
 		.url = "https://neocities.org/settings#delete",
@@ -11997,7 +12005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5db,
+		.id = 0x5dc,
 		.name = "NeoDB",
 		.query = "neodb",
 		.url = "https://neodb.social/account/info",
@@ -12005,7 +12013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5dc,
+		.id = 0x5dd,
 		.name = "Neon Pagamentos",
 		.query = "neon pagamentos",
 		.url = "https://suporte.neon.com.br/hc/pt-br/articles/360050729234-Como-fa%C3%A7o-para-cancelar-a-conta-",
@@ -12013,7 +12021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x5dd,
+		.id = 0x5de,
 		.name = "Neopets",
 		.query = "neopets",
 		.url = "https://www.neopets.com/help_search.phtml?help_id=4",
@@ -12021,7 +12029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5de,
+		.id = 0x5df,
 		.name = "Nerdwallet",
 		.query = "nerdwallet",
 		.url = "https://support.nerdwallet.com/hc/en-us/articles/115001636783-How-can-I-close-my-NerdWallet-account-",
@@ -12029,7 +12037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5df,
+		.id = 0x5e0,
 		.name = "Netbela Hosting",
 		.query = "netbela hosting",
 		.url = "https://netbela.com/contact",
@@ -12037,7 +12045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5e0,
+		.id = 0x5e1,
 		.name = "NetBird",
 		.query = "netbird",
 		.url = "https://docs.netbird.io/how-to/delete-account",
@@ -12045,7 +12053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5e1,
+		.id = 0x5e2,
 		.name = "Netdata",
 		.query = "netdata",
 		.url = "https://learn.netdata.cloud/docs/cloud/data-privacy#delete-all-personal-data",
@@ -12053,7 +12061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5e2,
+		.id = 0x5e3,
 		.name = "Netflix",
 		.query = "netflix",
 		.url = "https://www.netflix.com/account/security",
@@ -12061,7 +12069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5e3,
+		.id = 0x5e4,
 		.name = "Netgate",
 		.query = "netgate",
 		.url = "https://www.netgate.com/company/privacy-policy#right-to-erasure-right-to-be-forgotten",
@@ -12069,7 +12077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5e4,
+		.id = 0x5e5,
 		.name = "Netlify",
 		.query = "netlify",
 		.url = "https://app.netlify.com/account/settings/general#danger-zone",
@@ -12077,7 +12085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5e5,
+		.id = 0x5e6,
 		.name = "Netology",
 		.query = "netology",
 		.url = "https://netology.ru",
@@ -12085,7 +12093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x5e6,
+		.id = 0x5e7,
 		.name = "NetSfere",
 		.query = "netsfere",
 		.url = "https://help.netsfere.com/",
@@ -12093,7 +12101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5e7,
+		.id = 0x5e8,
 		.name = "Netus AI",
 		.query = "netus ai",
 		.url = "https://app.netus.ai/profile",
@@ -12101,7 +12109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5e8,
+		.id = 0x5e9,
 		.name = "Netvibes",
 		.query = "netvibes",
 		.url = "https://www.netvibes.com/account/unsubscribe",
@@ -12109,7 +12117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5e9,
+		.id = 0x5ea,
 		.name = "New Relic",
 		.query = "new relic",
 		.url = "https://docs.newrelic.com/docs/accounts/accounts-billing/account-setup/downgradecancel-account/#cancel-simple-org",
@@ -12117,7 +12125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5ea,
+		.id = 0x5eb,
 		.name = "New York Times",
 		.query = "new york times",
 		.url = "https://www.nytimes.com/data-subject-request",
@@ -12125,7 +12133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5eb,
+		.id = 0x5ec,
 		.name = "Newegg",
 		.query = "newegg",
 		.url = "https://kb.newegg.com/knowledge-base/data-rights-request/",
@@ -12133,7 +12141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5ec,
+		.id = 0x5ed,
 		.name = "Newgrounds",
 		.query = "newgrounds",
 		.url = "https://www.newgrounds.com/account/delete",
@@ -12141,7 +12149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5ed,
+		.id = 0x5ee,
 		.name = "NewsBlur",
 		.query = "newsblur",
 		.url = "https://www.newsblur.com/profile/delete_account",
@@ -12149,7 +12157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5ee,
+		.id = 0x5ef,
 		.name = "Newspapers.com",
 		.query = "newspaperscom",
 		.url = "https://www.newspapers.com/contact/",
@@ -12157,7 +12165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5ef,
+		.id = 0x5f0,
 		.name = "Newspipe",
 		.query = "newspipe",
 		.url = "https://www.newspipe.org/",
@@ -12165,7 +12173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5f0,
+		.id = 0x5f1,
 		.name = "Nexo",
 		.query = "nexo",
 		.url = "https://platform.nexo.io/security/close-account",
@@ -12173,7 +12181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5f1,
+		.id = 0x5f2,
 		.name = "Nexon",
 		.query = "nexon",
 		.url = "https://support-maplestory.nexon.net/hc/fr/articles/360000698823-Comment-puis-je-supprimer-ou-d%C3%A9sactiver-mon-compte-",
@@ -12181,7 +12189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5f2,
+		.id = 0x5f3,
 		.name = "NextDNS",
 		.query = "nextdns",
 		.url = "https://my.nextdns.io/account",
@@ -12189,7 +12197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5f3,
+		.id = 0x5f4,
 		.name = "Nextdoor",
 		.query = "nextdoor",
 		.url = "https://help.nextdoor.com/s/article/How-to-deactivate-or-delete-your-account",
@@ -12197,7 +12205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5f4,
+		.id = 0x5f5,
 		.name = "Nexus Mods",
 		.query = "nexus mods",
 		.url = "https://users.nexusmods.com/account/security",
@@ -12205,7 +12213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5f5,
+		.id = 0x5f6,
 		.name = "Ngan Luong",
 		.query = "ngan luong",
 		.url = "https://account.nganluong.vn/nganluong/user-info/lock-wallet",
@@ -12213,7 +12221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x5f6,
+		.id = 0x5f7,
 		.name = "ngrok",
 		.query = "ngrok",
 		.url = "https://dashboard.ngrok.com/user/settings/delete",
@@ -12221,7 +12229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5f7,
+		.id = 0x5f8,
 		.name = "NiceHash",
 		.query = "nicehash",
 		.url = "https://nicehash.com/my/settings/security",
@@ -12229,7 +12237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5f8,
+		.id = 0x5f9,
 		.name = "NicePage",
 		.query = "nicepage",
 		.url = "https://nicepage.com/",
@@ -12237,7 +12245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5f9,
+		.id = 0x5fa,
 		.name = "Nicequest",
 		.query = "nicequest",
 		.url = "https://www.nicequest.com/br/profile",
@@ -12245,7 +12253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5fa,
+		.id = 0x5fb,
 		.name = "Niche",
 		.query = "niche",
 		.url = "https://preferences.niche.com",
@@ -12253,7 +12261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5fb,
+		.id = 0x5fc,
 		.name = "Nike",
 		.query = "nike",
 		.url = "https://www.nike.com/pt/member/settings",
@@ -12261,7 +12269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5fc,
+		.id = 0x5fd,
 		.name = "Nike+",
 		.query = "nike",
 		.url = "https://secure-nikeplus.nike.com/plus/settings/",
@@ -12269,7 +12277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5fd,
+		.id = 0x5fe,
 		.name = "Ninox",
 		.query = "ninox",
 		.url = "https://ninoxdb.de/de/support/contactus",
@@ -12277,7 +12285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x5fe,
+		.id = 0x5ff,
 		.name = "Nintendo",
 		.query = "nintendo",
 		.url = "https://accounts.nintendo.com/withdraw/confirm",
@@ -12285,7 +12293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x5ff,
+		.id = 0x600,
 		.name = "Nintendo Network ID",
 		.query = "nintendo network id",
 		.url = "https://en-americas-support.nintendo.com/app/answers/detail/a_id/1088/~/how-to-delete-a-nintendo-network-id",
@@ -12293,7 +12301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x600,
+		.id = 0x601,
 		.name = "Nitrous Networks",
 		.query = "nitrous networks",
 		.url = "https://nitrous-networks.com/support/article/44/how-to-cancel-your-server",
@@ -12301,7 +12309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x601,
+		.id = 0x602,
 		.name = "Njalla",
 		.query = "njalla",
 		.url = "https://njal.la/settings/delete",
@@ -12309,7 +12317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x602,
+		.id = 0x603,
 		.name = "NodeChef",
 		.query = "nodechef",
 		.url = "https://www.nodechef.com/",
@@ -12317,7 +12325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x603,
+		.id = 0x604,
 		.name = "NoIP",
 		.query = "noip",
 		.url = "https://my.noip.com/account",
@@ -12325,7 +12333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x604,
+		.id = 0x605,
 		.name = "Nomad",
 		.query = "nomad",
 		.url = "https://benomad.zendesk.com/hc/en-us/articles/360042473234-How-do-I-request-the-closing-of-my-Nomad-global-account-",
@@ -12333,7 +12341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x605,
+		.id = 0x606,
 		.name = "NordPass",
 		.query = "nordpass",
 		.url = "https://nordpass.com/privacy-policy/#choices-related-to-your-data",
@@ -12341,7 +12349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x606,
+		.id = 0x607,
 		.name = "NordVPN",
 		.query = "nordvpn",
 		.url = "https://support.nordvpn.com/FAQ/1521982312/How-can-I-delete-my-account.htm",
@@ -12349,7 +12357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x607,
+		.id = 0x608,
 		.name = "Norton",
 		.query = "norton",
 		.url = "https://my.norton.com/extspa/account/privacyoptions",
@@ -12357,7 +12365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x608,
+		.id = 0x609,
 		.name = "NoteJoy",
 		.query = "notejoy",
 		.url = "https://notejoy.com/settings/account",
@@ -12365,7 +12373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x609,
+		.id = 0x60a,
 		.name = "Notesnook",
 		.query = "notesnook",
 		.url = "https://app.notesnook.com/tags#/settings",
@@ -12373,7 +12381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x60a,
+		.id = 0x60b,
 		.name = "Notion",
 		.query = "notion",
 		.url = "https://www.notion.so",
@@ -12381,7 +12389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x60b,
+		.id = 0x60c,
 		.name = "The Noun Project",
 		.query = "the noun project",
 		.url = "https://thenounproject.zendesk.com/hc/en-us/articles/200509678-How-can-I-deactivate-my-user-account-",
@@ -12389,7 +12397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x60c,
+		.id = 0x60d,
 		.name = "Novation Music",
 		.query = "novation music",
 		.url = "https://www.iubenda.com/privacy-policy/29650626/legal",
@@ -12397,7 +12405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x60d,
+		.id = 0x60e,
 		.name = "NovelAI",
 		.query = "novelai",
 		.url = "https://novelai.net/stories",
@@ -12405,7 +12413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x60e,
+		.id = 0x60f,
 		.name = "NovoEd",
 		.query = "novoed",
 		.url = "http://help.novoed.com/hc/en-us/requests/new",
@@ -12413,7 +12421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x60f,
+		.id = 0x610,
 		.name = "NOW TV",
 		.query = "now tv",
 		.url = "https://privacyportal-de.onetrust.com/webform/1bca6949-81da-4e67-ac5e-a4174c2fb12d/f1b0c03e-ec61-4702-b2c1-6158fb608d1a",
@@ -12421,7 +12429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x610,
+		.id = 0x611,
 		.name = "npm",
 		.query = "npm",
 		.url = "https://www.npmjs.com/settings/~/profile/",
@@ -12429,7 +12437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x611,
+		.id = 0x612,
 		.name = "NS (Nederlandse Spoorwegen)",
 		.query = "ns nederlandse spoorwegen",
 		.url = "https://www.ns.nl/en/mijnns#/account-verwijderen",
@@ -12437,7 +12445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x612,
+		.id = 0x613,
 		.name = "NS1",
 		.query = "ns1",
 		.url = "https://ns1.com",
@@ -12445,7 +12453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x613,
+		.id = 0x614,
 		.name = "nTask",
 		.query = "ntask",
 		.url = "https://support.ntaskmanager.com/support/solutions/articles/43000545051-delete-your-ntask-account",
@@ -12453,7 +12461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x614,
+		.id = 0x615,
 		.name = "Nubank",
 		.query = "nubank",
 		.url = "https://blog.nubank.com.br/fechar-nuconta-e-facil/",
@@ -12461,7 +12469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x615,
+		.id = 0x616,
 		.name = "Nube",
 		.query = "nube",
 		.url = "https://www.nube.com.br/politica-uso-privacidade",
@@ -12469,7 +12477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x616,
+		.id = 0x617,
 		.name = "Nulled",
 		.query = "nulled",
 		.url = "https://www.nulled.to/topic/1418075-delete-account/",
@@ -12477,7 +12485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x617,
+		.id = 0x618,
 		.name = "Numista",
 		.query = "numista",
 		.url = "https://en.numista.com/vous/desinscription.php",
@@ -12485,7 +12493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x618,
+		.id = 0x619,
 		.name = "Numworks",
 		.query = "numworks",
 		.url = "https://www.numworks.com/legal/privacy-policy/",
@@ -12493,7 +12501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x619,
+		.id = 0x61a,
 		.name = "Nutaku",
 		.query = "nutaku",
 		.url = "https://www.nutaku.net/profile/delete/",
@@ -12501,7 +12509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x61a,
+		.id = 0x61b,
 		.name = "NutraCheck",
 		.query = "nutracheck",
 		.url = "https://www.nutracheck.co.uk/",
@@ -12509,7 +12517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x61b,
+		.id = 0x61c,
 		.name = "NVIDIA",
 		.query = "nvidia",
 		.url = "https://www.nvidia.com/en-us/account/privacy/delete-data/",
@@ -12517,7 +12525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x61c,
+		.id = 0x61d,
 		.name = "O'Reilly",
 		.query = "oreilly",
 		.url = "https://www.oreilly.com/",
@@ -12525,7 +12533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x61d,
+		.id = 0x61e,
 		.name = "Obi",
 		.query = "obi",
 		.url = "https://www.obi.de/customer-account/delete/",
@@ -12533,7 +12541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x61e,
+		.id = 0x61f,
 		.name = "Obsidian",
 		.query = "obsidian",
 		.url = "https://obsidian.md/account/",
@@ -12541,7 +12549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x61f,
+		.id = 0x620,
 		.name = "OceanHero",
 		.query = "oceanhero",
 		.url = "https://oceanhero.zendesk.com/hc/en-us/requests/new",
@@ -12549,7 +12557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x620,
+		.id = 0x621,
 		.name = "Octopus",
 		.query = "octopus",
 		.url = "https://octopus.do/sitemap/support/help",
@@ -12557,7 +12565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x621,
+		.id = 0x622,
 		.name = "Oculus / Meta VR",
 		.query = "oculus meta vr",
 		.url = "https://secure.oculus.com/my/privacy/#delete-your-meta-horizon-data",
@@ -12565,7 +12573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x622,
+		.id = 0x623,
 		.name = "Odeon",
 		.query = "odeon",
 		.url = "https://help.odeon.co.uk/hc/requests/new",
@@ -12573,7 +12581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x623,
+		.id = 0x624,
 		.name = "The Odin Project",
 		.query = "the odin project",
 		.url = "https://www.theodinproject.com/privacy-policy",
@@ -12581,7 +12589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x624,
+		.id = 0x625,
 		.name = "Odnoklassniki",
 		.query = "odnoklassniki",
 		.url = "https://odnoklassniki.ru/regulations",
@@ -12589,7 +12597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x625,
+		.id = 0x626,
 		.name = "OfferUp",
 		.query = "offerup",
 		.url = "https://offerup.com/accounts/deactivate/",
@@ -12597,7 +12605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x626,
+		.id = 0x627,
 		.name = "Office Depot México",
 		.query = "office depot mexico",
 		.url = "https://www.officedepot.com.mx/",
@@ -12605,7 +12613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x627,
+		.id = 0x628,
 		.name = "OfficeDepot",
 		.query = "officedepot",
 		.url = "https://www.officedepot.com/ccpa/landing.do",
@@ -12613,7 +12621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x628,
+		.id = 0x629,
 		.name = "OGLoot",
 		.query = "ogloot",
 		.url = "https://ogloot.com/",
@@ -12621,7 +12629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x629,
+		.id = 0x62a,
 		.name = "OK",
 		.query = "ok",
 		.url = "https://ok.ru/regulations",
@@ -12629,7 +12637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x62a,
+		.id = 0x62b,
 		.name = "OkCupid",
 		.query = "okcupid",
 		.url = "https://www.okcupid.com/settings",
@@ -12637,7 +12645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x62b,
+		.id = 0x62c,
 		.name = "Olo",
 		.query = "olo",
 		.url = "https://app.oloauth.com/Manage/delete",
@@ -12645,7 +12653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x62c,
+		.id = 0x62d,
 		.name = "OLX",
 		.query = "olx",
 		.url = "https://www.olx.com",
@@ -12653,7 +12661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x62d,
+		.id = 0x62e,
 		.name = "Olympics",
 		.query = "olympics",
 		.url = "https://privacyportal-eu.onetrust.com/webform/22395098-025a-4a86-b716-763ae9c9a4cf/787ca7a8-5c45-45f9-9c4d-29ef9d88bb1d",
@@ -12661,7 +12669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x62e,
+		.id = 0x62f,
 		.name = "OM Personal English",
 		.query = "om personal english",
 		.url = "https://ompersonal.com.ar/profile",
@@ -12669,7 +12677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x62f,
+		.id = 0x630,
 		.name = "OmaPosti",
 		.query = "omaposti",
 		.url = "https://asiakastiedot.posti.fi/myaccount/details",
@@ -12677,7 +12685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x630,
+		.id = 0x631,
 		.name = "omegaUp",
 		.query = "omegaup",
 		.url = "https://omegaup.com/profile/#delete-account",
@@ -12685,7 +12693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x631,
+		.id = 0x632,
 		.name = "Omnipilot",
 		.query = "omnipilot",
 		.url = "https://omnipilot.ai/account",
@@ -12693,7 +12701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x632,
+		.id = 0x633,
 		.name = "Ondéa Grand Lac",
 		.query = "ondea grand lac",
 		.url = "https://www.ondeagrandlac.fr/account/profile",
@@ -12701,7 +12709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x633,
+		.id = 0x634,
 		.name = "One Month",
 		.query = "one month",
 		.url = "https://www.iubenda.com/privacy-policy/735465",
@@ -12709,7 +12717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x634,
+		.id = 0x635,
 		.name = "OneCompiler",
 		.query = "onecompiler",
 		.url = "https://onecompiler.com/",
@@ -12717,7 +12725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x635,
+		.id = 0x636,
 		.name = "OneFootball",
 		.query = "onefootball",
 		.url = "https://onefootball.com/payments/delete-account",
@@ -12725,7 +12733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x636,
+		.id = 0x637,
 		.name = "OnePlus",
 		.query = "oneplus",
 		.url = "https://www.oneplus.com/global/customer/info#",
@@ -12733,7 +12741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x637,
+		.id = 0x638,
 		.name = "OnePrep",
 		.query = "oneprep",
 		.url = "https://www.oneprep.xyz/profile",
@@ -12741,7 +12749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x638,
+		.id = 0x639,
 		.name = "OneSky",
 		.query = "onesky",
 		.url = "https://support.oneskyapp.com/hc/en-us/articles/115005242827-How-to-Delete-your-OneSky-Account",
@@ -12749,7 +12757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x639,
+		.id = 0x63a,
 		.name = "Onet",
 		.query = "onet",
 		.url = "https://konto.onet.pl/data.html",
@@ -12757,7 +12765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x63a,
+		.id = 0x63b,
 		.name = "The Onion",
 		.query = "the onion",
 		.url = "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
@@ -12765,7 +12773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x63b,
+		.id = 0x63c,
 		.name = "Online Judge (formerly UVa Online Judge)",
 		.query = "online judge formerly uva online judge",
 		.url = "https://onlinejudge.org/index.php?option=com_contact&Itemid=4",
@@ -12773,7 +12781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x63c,
+		.id = 0x63d,
 		.name = "Online.net",
 		.query = "onlinenet",
 		.url = "https://console.online.net/fr/assistance/ticket",
@@ -12781,7 +12789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x63d,
+		.id = 0x63e,
 		.name = "OnlineTVRecorder.com",
 		.query = "onlinetvrecordercom",
 		.url = "https://www.onlinetvrecorder.com/v2/index.php?go=account&do=cancel",
@@ -12789,7 +12797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x63e,
+		.id = 0x63f,
 		.name = "OnlyFans",
 		.query = "onlyfans",
 		.url = "https://onlyfans.com/my/settings/advanced",
@@ -12797,7 +12805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x63f,
+		.id = 0x640,
 		.name = "Onshape",
 		.query = "onshape",
 		.url = "https://cad.onshape.com/user/profile",
@@ -12805,7 +12813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x640,
+		.id = 0x641,
 		.name = "Open Collective",
 		.query = "open collective",
 		.url = "https://opencollective.com/dashboard",
@@ -12813,7 +12821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x641,
+		.id = 0x642,
 		.name = "OpenAI / ChatGPT",
 		.query = "openai chatgpt",
 		.url = "https://chatgpt.com/#settings/Account",
@@ -12821,7 +12829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x642,
+		.id = 0x643,
 		.name = "OpenCores",
 		.query = "opencores",
 		.url = "https://opencores.org",
@@ -12829,7 +12837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x643,
+		.id = 0x644,
 		.name = "Opendesktop",
 		.query = "opendesktop",
 		.url = "https://www.opendesktop.org",
@@ -12837,7 +12845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x644,
+		.id = 0x645,
 		.name = "OpenDNS",
 		.query = "opendns",
 		.url = "https://dashboard.opendns.com/myaccount/deleteaccount",
@@ -12845,7 +12853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x645,
+		.id = 0x646,
 		.name = "OpenFoodFacts",
 		.query = "openfoodfacts",
 		.url = "https://blog.openfoodfacts.org/en/account-deletion",
@@ -12853,7 +12861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x646,
+		.id = 0x647,
 		.name = "OpenGuessr",
 		.query = "openguessr",
 		.url = "https://openguessr.com/",
@@ -12861,7 +12869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x647,
+		.id = 0x648,
 		.name = "OpenInvest",
 		.query = "openinvest",
 		.url = "https://www.openinvest.com/terms-of-service",
@@ -12869,7 +12877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x648,
+		.id = 0x649,
 		.name = "OpenPhone",
 		.query = "openphone",
 		.url = "https://support.openphone.com/hc/en-us/requests/new",
@@ -12877,7 +12885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x649,
+		.id = 0x64a,
 		.name = "OpenRouter",
 		.query = "openrouter",
 		.url = "https://openrouter.ai/settings/preferences",
@@ -12885,7 +12893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x64a,
+		.id = 0x64b,
 		.name = "OpenSea",
 		.query = "opensea",
 		.url = "https://support.opensea.io/hc/requests/new",
@@ -12893,7 +12901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x64b,
+		.id = 0x64c,
 		.name = "OpenStreetMap",
 		.query = "openstreetmap",
 		.url = "https://www.openstreetmap.org/account/deletion",
@@ -12901,7 +12909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x64c,
+		.id = 0x64d,
 		.name = "OpenSubtitles.com",
 		.query = "opensubtitlescom",
 		.url = "https://www.opensubtitles.com/en/users/edit",
@@ -12909,7 +12917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x64d,
+		.id = 0x64e,
 		.name = "OpenTable",
 		.query = "opentable",
 		.url = "https://help.opentable.com",
@@ -12917,7 +12925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x64e,
+		.id = 0x64f,
 		.name = "OpenWeather",
 		.query = "openweather",
 		.url = "https://home.openweathermap.org/privacy/notifications#del_poll_modal",
@@ -12925,7 +12933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x64f,
+		.id = 0x650,
 		.name = "Opera",
 		.query = "opera",
 		.url = "https://auth.opera.com/account/delete-profile",
@@ -12933,7 +12941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x650,
+		.id = 0x651,
 		.name = "Opodo",
 		.query = "opodo",
 		.url = "https://www.opodo.fr/travel/profile/#login_and_security/",
@@ -12941,7 +12949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x651,
+		.id = 0x652,
 		.name = "Optum",
 		.query = "optum",
 		.url = "https://docasap.com/user/profile",
@@ -12949,7 +12957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x652,
+		.id = 0x653,
 		.name = "Oracle",
 		.query = "oracle",
 		.url = "https://www.oracle.com/legal/data-privacy-inquiry-form.html",
@@ -12957,7 +12965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x653,
+		.id = 0x654,
 		.name = "ORCID",
 		.query = "orcid",
 		.url = "https://orcid.org/account",
@@ -12965,7 +12973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x654,
+		.id = 0x655,
 		.name = "OSBuddy",
 		.query = "osbuddy",
 		.url = "https://rsbuddy.com/osbuddy/docs/privacy",
@@ -12973,7 +12981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x655,
+		.id = 0x656,
 		.name = "Osu!",
 		.query = "osu",
 		.url = "https://osu.ppy.sh/wiki/en/Help_centre/Account#account-deletion",
@@ -12981,7 +12989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x656,
+		.id = 0x657,
 		.name = "otter.ai",
 		.query = "otterai",
 		.url = "https://otter.ai/setting",
@@ -12989,7 +12997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x657,
+		.id = 0x658,
 		.name = "Otto.de",
 		.query = "ottode",
 		.url = "https://www.otto.de/myaccount/mydata",
@@ -12997,7 +13005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x658,
+		.id = 0x659,
 		.name = "OuiHeberg",
 		.query = "ouiheberg",
 		.url = "https://www.ouiheberg.com/en/policy",
@@ -13005,7 +13013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x659,
+		.id = 0x65a,
 		.name = "Out of Milk",
 		.query = "out of milk",
 		.url = "https://outofmilk.com/RemoveAccount.aspx",
@@ -13013,7 +13021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x65a,
+		.id = 0x65b,
 		.name = "Outdooractive",
 		.query = "outdooractive",
 		.url = "https://www.outdooractive.com/en/k/how-do-i-delete-my-community-account-/50323147/#:~:text=Go%20to%20your%20page%20by,then%20select%20%22Delete%20Profile%22.",
@@ -13021,7 +13029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x65b,
+		.id = 0x65c,
 		.name = "Outlier",
 		.query = "outlier",
 		.url = "https://outlier.ai/legal/privacy-policy",
@@ -13029,7 +13037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x65c,
+		.id = 0x65d,
 		.name = "Outsideinc",
 		.query = "outsideinc",
 		.url = "https://help.outsideinc.com/hc/en-us/articles/7896006063255-How-do-I-delete-my-account",
@@ -13037,7 +13045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x65d,
+		.id = 0x65e,
 		.name = "OV-chipkaart",
 		.query = "ovchipkaart",
 		.url = "https://www.ov-chipkaart.nl/en/privacy",
@@ -13045,7 +13053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x65e,
+		.id = 0x65f,
 		.name = "Overcast.fm",
 		.query = "overcastfm",
 		.url = "https://overcast.fm/account",
@@ -13053,7 +13061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x65f,
+		.id = 0x660,
 		.name = "Overleaf",
 		.query = "overleaf",
 		.url = "https://www.overleaf.com/user/settings",
@@ -13061,7 +13069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x660,
+		.id = 0x661,
 		.name = "Overstock",
 		.query = "overstock",
 		.url = "https://help.overstock.com/help/s/article/Customer-Care-Contact-Information",
@@ -13069,7 +13077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x661,
+		.id = 0x662,
 		.name = "overtake",
 		.query = "overtake",
 		.url = "https://www.overtake.gg/form/delete-my-account.6/select",
@@ -13077,7 +13085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x662,
+		.id = 0x663,
 		.name = "Overwolf",
 		.query = "overwolf",
 		.url = "https://support.overwolf.com/en/support/solutions/articles/9000178281-deleting-your-overwolf-account-and-related-data",
@@ -13085,7 +13093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x663,
+		.id = 0x664,
 		.name = "OVHcloud",
 		.query = "ovhcloud",
 		.url = "https://help.ovhcloud.com/",
@@ -13093,7 +13101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x664,
+		.id = 0x665,
 		.name = "Oxford Dictionaries API",
 		.query = "oxford dictionaries api",
 		.url = "https://developer.oxforddictionaries.com/contact-us",
@@ -13101,7 +13109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x665,
+		.id = 0x666,
 		.name = "Oùra - Auvergne-Rhône-Alpes",
 		.query = "oura auvergnerhonealpes",
 		.url = "https://oura.com/contact-et-reclamation",
@@ -13109,7 +13117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x666,
+		.id = 0x667,
 		.name = "Packagist",
 		.query = "packagist",
 		.url = "https://packagist.org/profile/",
@@ -13117,7 +13125,15 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x667,
+		.id = 0x668,
+		.name = "Packetra",
+		.query = "packetra",
+		.url = "https://packetra.com/contact",
+		.email = NULL,
+		.difficulty = 0x1000
+	},
+	{
+		.id = 0x669,
 		.name = "Packetshare",
 		.query = "packetshare",
 		.url = "https://www.packetshare.io/dashboard/",
@@ -13125,7 +13141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x668,
+		.id = 0x66a,
 		.name = "Packt",
 		.query = "packt",
 		.url = "https://www.packtpub.com/",
@@ -13133,7 +13149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x669,
+		.id = 0x66b,
 		.name = "Padlet",
 		.query = "padlet",
 		.url = "https://padlet.com/dashboard/settings/delete",
@@ -13141,7 +13157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x66a,
+		.id = 0x66c,
 		.name = "PAGBET",
 		.query = "pagbet",
 		.url = "https://assets.bet6.com.br/sistemans/skins/pagbet/doc/ba98aa02a1.pdf",
@@ -13149,7 +13165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x66b,
+		.id = 0x66d,
 		.name = "Palia",
 		.query = "palia",
 		.url = "https://support.palia.com/hc/en-us/articles/37965096889620--Understanding-the-Difference-Between-Account-Deletion-Character-Deletion-and-Device-Unlinking#h_01JWF9WW8ZB24FJS5PZFZ9KS9R",
@@ -13157,7 +13173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x66c,
+		.id = 0x66e,
 		.name = "Panda-Plush",
 		.query = "pandaplush",
 		.url = "https://panda-plush.com/account/register",
@@ -13165,7 +13181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x66d,
+		.id = 0x66f,
 		.name = "Pandora",
 		.query = "pandora",
 		.url = "https://www.pandora.com/settings/info",
@@ -13173,7 +13189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x66e,
+		.id = 0x670,
 		.name = "Pantheon",
 		.query = "pantheon",
 		.url = "https://dashboard.pantheon.io/#account/delete/Delete",
@@ -13181,7 +13197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x66f,
+		.id = 0x671,
 		.name = "Papara",
 		.query = "papara",
 		.url = "https://www.papara.com/",
@@ -13189,7 +13205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x670,
+		.id = 0x672,
 		.name = "PaperKarma",
 		.query = "paperkarma",
 		.url = "https://www.paperkarma.com/faq",
@@ -13197,7 +13213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x671,
+		.id = 0x673,
 		.name = "Paperless Post",
 		.query = "paperless post",
 		.url = "https://paperlesspost.zendesk.com/hc/en-us/articles/207330096-Closing-and-Deletion-of-Your-Paperless-Post-Account",
@@ -13205,7 +13221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x672,
+		.id = 0x674,
 		.name = "PaperNodes",
 		.query = "papernodes",
 		.url = "https://papernodes.com",
@@ -13213,7 +13229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x673,
+		.id = 0x675,
 		.name = "Paperspace",
 		.query = "paperspace",
 		.url = "https://console.paperspace.com/account/settings/profile",
@@ -13221,7 +13237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x674,
+		.id = 0x676,
 		.name = "Paradox Plaza",
 		.query = "paradox plaza",
 		.url = "https://support.paradoxplaza.com/hc/en-us/requests/new?ticket_form_id=360000086974",
@@ -13229,7 +13245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x675,
+		.id = 0x677,
 		.name = "Parallels",
 		.query = "parallels",
 		.url = "https://my.parallels.com/profile/personal/general",
@@ -13237,7 +13253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x676,
+		.id = 0x678,
 		.name = "Paramount Plus",
 		.query = "paramount plus",
 		.url = "https://privacyportal.onetrust.com/webform/869be997-c257-4071-b658-a5427317b5c6/bda9b2b4-9be6-4f30-9d55-94b308f9af4d",
@@ -13245,7 +13261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x677,
+		.id = 0x679,
 		.name = "Parcello",
 		.query = "parcello",
 		.url = "https://www.parcello.org/settings",
@@ -13253,7 +13269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x678,
+		.id = 0x67a,
 		.name = "Parkmobile",
 		.query = "parkmobile",
 		.url = "https://parkmobile.zendesk.com/hc/en-us/articles/203299300-How-do-I-cancel-my-account-",
@@ -13261,7 +13277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x679,
+		.id = 0x67b,
 		.name = "Parsec",
 		.query = "parsec",
 		.url = "https://parsec.app/settings/account/",
@@ -13269,7 +13285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x67a,
+		.id = 0x67c,
 		.name = "pass Culture",
 		.query = "pass culture",
 		.url = "https://passculture.app/profil/suppression",
@@ -13277,7 +13293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x67b,
+		.id = 0x67d,
 		.name = "PassDock",
 		.query = "passdock",
 		.url = "https://api.passdock.net/users/edit",
@@ -13285,7 +13301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x67c,
+		.id = 0x67e,
 		.name = "Passpack",
 		.query = "passpack",
 		.url = "https://support.passpack.com/hc/en-us/articles/200749084-How-to-Delete-Your-Passpack-Account",
@@ -13293,7 +13309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x67d,
+		.id = 0x67f,
 		.name = "Pastebin",
 		.query = "pastebin",
 		.url = "https://pastebin.com/user/delete-account",
@@ -13301,7 +13317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x67e,
+		.id = 0x680,
 		.name = "Patreon",
 		.query = "patreon",
 		.url = "https://privacy.patreon.com/policies?modal=take-control",
@@ -13309,7 +13325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x67f,
+		.id = 0x681,
 		.name = "Patrick Krempf Reminder",
 		.query = "patrick krempf reminder",
 		.url = "https://reminder.patrickkempf.de/manage.php?do=delaccount",
@@ -13317,7 +13333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x680,
+		.id = 0x682,
 		.name = "Payback",
 		.query = "payback",
 		.url = "https://www.payback.de/info/mein-payback/kontakt",
@@ -13325,7 +13341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x681,
+		.id = 0x683,
 		.name = "PayByPhone",
 		.query = "paybyphone",
 		.url = "https://support.paybyphone.com/hc/en-001/articles/13258687569553-How-do-I-delete-my-Account",
@@ -13333,7 +13349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x682,
+		.id = 0x684,
 		.name = "Payoneer",
 		.query = "payoneer",
 		.url = "https://payoneer.custhelp.com/app/ask/l_id/1/c/3753",
@@ -13341,7 +13357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x683,
+		.id = 0x685,
 		.name = "PayPal",
 		.query = "paypal",
 		.url = "https://www.paypal.com/myaccount/privacy/data/deletion",
@@ -13349,7 +13365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x684,
+		.id = 0x686,
 		.name = "PaySafeCard",
 		.query = "paysafecard",
 		.url = "https://login.paysafecard.com/customer-auth/?client_id=mypinsPR&theme=mypins&locale=en_US&redirect_uri=https%3A%2F%2Fmy.paysafecard.com%2Fmypins-psc%2FtokenExchange.xhtml",
@@ -13357,7 +13373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x685,
+		.id = 0x687,
 		.name = "PaySera",
 		.query = "paysera",
 		.url = "https://bank.paysera.com/l.php?tmpl_into=middle&tmpl_name=m_helpdesk_ask_your_question",
@@ -13365,7 +13381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x686,
+		.id = 0x688,
 		.name = "PCBWay",
 		.query = "pcbway",
 		.url = "https://www.pcbway.com/helpcenter/accountsettings/Account_Settings.html",
@@ -13373,7 +13389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x687,
+		.id = 0x689,
 		.name = "PCem Forum",
 		.query = "pcem forum",
 		.url = "https://pcem-emulator.co.uk/phpBB3/",
@@ -13381,7 +13397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x688,
+		.id = 0x68a,
 		.name = "pCloud",
 		.query = "pcloud",
 		.url = "https://my.pcloud.com/#page=settings&settings=tab-account",
@@ -13389,7 +13405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x689,
+		.id = 0x68b,
 		.name = "PCPartPicker",
 		.query = "pcpartpicker",
 		.url = "https://pcpartpicker.com",
@@ -13397,7 +13413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x68a,
+		.id = 0x68c,
 		.name = "PCS Mastercard",
 		.query = "pcs mastercard",
 		.url = "https://www.mypcs.com/besoin-daide/supprimer-mon-compte/#faq-comment-supprimer-mon-compte-?",
@@ -13405,7 +13421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x68b,
+		.id = 0x68d,
 		.name = "PDF Editify",
 		.query = "pdf editify",
 		.url = "https://pdfeditify.com/contact",
@@ -13413,7 +13429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x68c,
+		.id = 0x68e,
 		.name = "pdfFiller",
 		.query = "pdffiller",
 		.url = "https://www.pdffiller.com/en/login/signin?ref=%2Fen%2Faccount%2Fsettings",
@@ -13421,7 +13437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x68d,
+		.id = 0x68f,
 		.name = "Peacock",
 		.query = "peacock",
 		.url = "https://privacyportal.onetrust.com/webform/17e5cb00-ad90-47f5-a58d-77597d9d2c16/2aa79e13-e7d2-4d45-b928-7df9a72bec32",
@@ -13429,7 +13445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x68e,
+		.id = 0x690,
 		.name = "Peak",
 		.query = "peak",
 		.url = "https://peak.net",
@@ -13437,7 +13453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x68f,
+		.id = 0x691,
 		.name = "Pearson",
 		.query = "pearson",
 		.url = "https://www.pearson.com/privacy-center/privacy-notices/full-privacy-notice.html#12",
@@ -13445,7 +13461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x690,
+		.id = 0x692,
 		.name = "Peloton",
 		.query = "peloton",
 		.url = "https://privacyportal.onetrust.com/webform/18f92a28-d2ae-4a6a-8f99-85b4455e22c0/cfbaf35a-5e06-4010-a6b6-1ad61ba414f1",
@@ -13453,7 +13469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x691,
+		.id = 0x693,
 		.name = "Pennsylvania Turnpike (Toll By Plate)",
 		.query = "pennsylvania turnpike toll by plate",
 		.url = "https://www.paturnpike.com/help-center#contact-form",
@@ -13461,7 +13477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x692,
+		.id = 0x694,
 		.name = "PenPal World",
 		.query = "penpal world",
 		.url = "https://penpalworld.com/deleteAccount.asp",
@@ -13469,7 +13485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x693,
+		.id = 0x695,
 		.name = "Penpot",
 		.query = "penpot",
 		.url = "https://design.penpot.app/#/settings/profile",
@@ -13477,7 +13493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x694,
+		.id = 0x696,
 		.name = "Penzu",
 		.query = "penzu",
 		.url = "https://penzu.com/app/account/delete",
@@ -13485,7 +13501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x695,
+		.id = 0x697,
 		.name = "peopleperhour",
 		.query = "peopleperhour",
 		.url = "https://www.peopleperhour.com/settings/general",
@@ -13493,7 +13509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x696,
+		.id = 0x698,
 		.name = "The Perfect Shave",
 		.query = "the perfect shave",
 		.url = "https://www.perfect-shave.de/einstellungen",
@@ -13501,7 +13517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x697,
+		.id = 0x699,
 		.name = "Perplexity",
 		.query = "perplexity",
 		.url = "https://www.perplexity.ai/settings/account",
@@ -13509,7 +13525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x698,
+		.id = 0x69a,
 		.name = "Personal Capital",
 		.query = "personal capital",
 		.url = "https://home.personalcapital.com/page/login/app#/settings",
@@ -13517,7 +13533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x699,
+		.id = 0x69b,
 		.name = "Personello Germany",
 		.query = "personello germany",
 		.url = "https://de.personello.com/service",
@@ -13525,7 +13541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x69a,
+		.id = 0x69c,
 		.name = "Pexels",
 		.query = "pexels",
 		.url = "https://help.pexels.com/hc/en-us/articles/360042822033-How-can-I-delete-my-account-",
@@ -13533,7 +13549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x69b,
+		.id = 0x69d,
 		.name = "Phare",
 		.query = "phare",
 		.url = "https://app.phare.io/organization/settings",
@@ -13541,7 +13557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x69c,
+		.id = 0x69e,
 		.name = "Philips Hue",
 		.query = "philips hue",
 		.url = "https://account.meethue.com/account",
@@ -13549,7 +13565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x69d,
+		.id = 0x69f,
 		.name = "Phind",
 		.query = "phind",
 		.url = "https://www.phind.com/",
@@ -13557,7 +13573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x69e,
+		.id = 0x6a0,
 		.name = "PhishTank",
 		.query = "phishtank",
 		.url = "https://privacyrequest.cisco.com",
@@ -13565,7 +13581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x69f,
+		.id = 0x6a1,
 		.name = "Pholder",
 		.query = "pholder",
 		.url = "https://pholder.com/policies/#Terms",
@@ -13573,7 +13589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x6a0,
+		.id = 0x6a2,
 		.name = "Photobucket",
 		.query = "photobucket",
 		.url = "https://support.photobucket.com/hc/en-us/articles/360039780614",
@@ -13581,7 +13597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x6a1,
+		.id = 0x6a3,
 		.name = "Photomath",
 		.query = "photomath",
 		.url = "https://photomath.com/en/help/delete-account",
@@ -13589,7 +13605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6a2,
+		.id = 0x6a4,
 		.name = "phpBB Forum",
 		.query = "phpbb forum",
 		.url = "https://www.phpbb.com/community/viewtopic.php?t=2425241#:~:text=we%20generally%20do%20not%20delete%20accounts",
@@ -13597,7 +13613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x6a3,
+		.id = 0x6a5,
 		.name = "phplist",
 		.query = "phplist",
 		.url = "https://www.phplist.com/privacy",
@@ -13605,7 +13621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6a4,
+		.id = 0x6a6,
 		.name = "Piazza",
 		.query = "piazza",
 		.url = "https://support.piazza.com/support/solutions/articles/48000616709-student-delete-your-account",
@@ -13613,7 +13629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6a5,
+		.id = 0x6a7,
 		.name = "Pick Me Pick Me",
 		.query = "pick me pick me",
 		.url = "https://www.pickmepickme.ai/delete-game-account.html",
@@ -13621,7 +13637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6a6,
+		.id = 0x6a8,
 		.name = "picoCTF",
 		.query = "picoctf",
 		.url = "https://play.picoctf.org/account",
@@ -13629,7 +13645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6a7,
+		.id = 0x6a9,
 		.name = "PicPay",
 		.query = "picpay",
 		.url = "https://meajuda.picpay.com/hc/pt-br/articles/4407302956819-Como-encerro-minha-conta-do-PicPay-",
@@ -13637,7 +13653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x6a8,
+		.id = 0x6aa,
 		.name = "Pikkado",
 		.query = "pikkado",
 		.url = "https://www.pikkado.com/contact/en",
@@ -13645,7 +13661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6a9,
+		.id = 0x6ab,
 		.name = "Pillpack",
 		.query = "pillpack",
 		.url = "https://help.pillpack.com/hc/en-us/requests/new",
@@ -13653,7 +13669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6aa,
+		.id = 0x6ac,
 		.name = "Pinboard",
 		.query = "pinboard",
 		.url = "https://pinboard.in/faq/#close_account",
@@ -13661,7 +13677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6ab,
+		.id = 0x6ad,
 		.name = "Pingdom",
 		.query = "pingdom",
 		.url = "https://my.pingdom.com/account/cancel/confirm",
@@ -13669,7 +13685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6ac,
+		.id = 0x6ae,
 		.name = "Pinterest",
 		.query = "pinterest",
 		.url = "https://pinterest.com/settings/account-settings/",
@@ -13677,7 +13693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x6ad,
+		.id = 0x6af,
 		.name = "Pionex",
 		.query = "pionex",
 		.url = "https://www.pionex.com/en/my-account/security",
@@ -13685,7 +13701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6ae,
+		.id = 0x6b0,
 		.name = "Pivot Interactives",
 		.query = "pivot interactives",
 		.url = "https://www.pivotinteractives.com",
@@ -13693,7 +13709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6af,
+		.id = 0x6b1,
 		.name = "PivotalTracker",
 		.query = "pivotaltracker",
 		.url = "https://www.pivotaltracker.com",
@@ -13701,7 +13717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x6b0,
+		.id = 0x6b2,
 		.name = "Pix",
 		.query = "pix",
 		.url = "https://support.pix.org/en/support/tickets/new",
@@ -13709,7 +13725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6b1,
+		.id = 0x6b3,
 		.name = "Pix fr",
 		.query = "pix fr",
 		.url = "https://pix.fr/politique-protection-donnees-personnelles-app#:~:text=Exercice%20des%20droits",
@@ -13717,7 +13733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6b2,
+		.id = 0x6b4,
 		.name = "Pixabay",
 		.query = "pixabay",
 		.url = "https://pixabay.com/de/accounts/settings/?tab=account",
@@ -13725,7 +13741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6b3,
+		.id = 0x6b5,
 		.name = "Pixel Starships",
 		.query = "pixel starships",
 		.url = "https://www.pixelstarships.com/privacypolicy",
@@ -13733,7 +13749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6b4,
+		.id = 0x6b6,
 		.name = "Pixeldrain",
 		.query = "pixeldrain",
 		.url = "https://pixeldrain.com/user/settings",
@@ -13741,7 +13757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6b5,
+		.id = 0x6b7,
 		.name = "Pixilart",
 		.query = "pixilart",
 		.url = "https://www.pixilart.com/settings/delete",
@@ -13749,7 +13765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6b6,
+		.id = 0x6b8,
 		.name = "pixiv",
 		.query = "pixiv",
 		.url = "https://www.pixiv.net/leave_pixiv.php",
@@ -13757,7 +13773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x6b7,
+		.id = 0x6b9,
 		.name = "Pixlr",
 		.query = "pixlr",
 		.url = "https://pixlr.com/myaccount/",
@@ -13765,7 +13781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6b8,
+		.id = 0x6ba,
 		.name = "Pixum",
 		.query = "pixum",
 		.url = "https://int.pixum.com/service/delete-account",
@@ -13773,7 +13789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6b9,
+		.id = 0x6bb,
 		.name = "PixVerse",
 		.query = "pixverse",
 		.url = "https://app.pixverse.ai/home",
@@ -13781,7 +13797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6ba,
+		.id = 0x6bc,
 		.name = "Pizza Hut",
 		.query = "pizza hut",
 		.url = "https://pizzahut.com",
@@ -13789,7 +13805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6bb,
+		.id = 0x6bd,
 		.name = "Placeit",
 		.query = "placeit",
 		.url = "https://placeit.net/account",
@@ -13797,7 +13813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6bc,
+		.id = 0x6be,
 		.name = "PlanetMinecraft",
 		.query = "planetminecraft",
 		.url = "https://www.planetminecraft.com/account/settings/delete/",
@@ -13805,7 +13821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6bd,
+		.id = 0x6bf,
 		.name = "PlantSnap",
 		.query = "plantsnap",
 		.url = "https://www.plantsnap.com/support-center/get-in-touch/",
@@ -13813,7 +13829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x6be,
+		.id = 0x6c0,
 		.name = "Player FM",
 		.query = "player fm",
 		.url = "https://player.fm/will-miss-you",
@@ -13821,7 +13837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6bf,
+		.id = 0x6c1,
 		.name = "Playit.gg",
 		.query = "playitgg",
 		.url = "https://playit.gg/account/settings/account/delete-account",
@@ -13829,7 +13845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6c0,
+		.id = 0x6c2,
 		.name = "PlayPosit",
 		.query = "playposit",
 		.url = "https://go.playposit.com",
@@ -13837,7 +13853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6c1,
+		.id = 0x6c3,
 		.name = "PlayStation Network",
 		.query = "playstation network",
 		.url = "https://www.playstation.com/en-us/support/account/close-account-for-psn/",
@@ -13845,7 +13861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6c2,
+		.id = 0x6c4,
 		.name = "Plenty of Fish",
 		.query = "plenty of fish",
 		.url = "https://www.pof.com/deleteaccount.aspx",
@@ -13853,7 +13869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6c3,
+		.id = 0x6c5,
 		.name = "Plex.tv",
 		.query = "plextv",
 		.url = "https://plex.tv/users/edit",
@@ -13861,7 +13877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6c4,
+		.id = 0x6c6,
 		.name = "Plexus",
 		.query = "plexus",
 		.url = "https://plexus.techlore.tech/",
@@ -13869,7 +13885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6c5,
+		.id = 0x6c7,
 		.name = "Ploonk (coquedetelephone.fr)",
 		.query = "ploonk coquedetelephonefr",
 		.url = "https://www.ploonk.fr/service/declaration-de-confidentialite/",
@@ -13877,7 +13893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6c6,
+		.id = 0x6c8,
 		.name = "Plugin Boutique",
 		.query = "plugin boutique",
 		.url = "https://help.pluginboutique.com/hc/en-us/requests/new?ticket_form_id=8801812364052",
@@ -13885,7 +13901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6c7,
+		.id = 0x6c9,
 		.name = "Pluralsight",
 		.query = "pluralsight",
 		.url = "https://help.pluralsight.com/help/how-do-i-delete-my-account",
@@ -13893,7 +13909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6c8,
+		.id = 0x6ca,
 		.name = "Plus500",
 		.query = "plus500",
 		.url = "https://www.plus500.com/en-CY/MyInfo/PersonalDataRequests/",
@@ -13901,7 +13917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x6c9,
+		.id = 0x6cb,
 		.name = "Plushiies",
 		.query = "plushiies",
 		.url = "https://plushiies.com/account/register",
@@ -13909,7 +13925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6ca,
+		.id = 0x6cc,
 		.name = "Pocket",
 		.query = "pocket",
 		.url = "https://getpocket.com/account_deletion/",
@@ -13917,7 +13933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6cb,
+		.id = 0x6cd,
 		.name = "Pocket Casts",
 		.query = "pocket casts",
 		.url = "https://support.pocketcasts.com",
@@ -13925,7 +13941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6cc,
+		.id = 0x6ce,
 		.name = "Pocketbook",
 		.query = "pocketbook",
 		.url = "https://getpocketbook.com/settings",
@@ -13933,7 +13949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x6cd,
+		.id = 0x6cf,
 		.name = "Pockyt Shop",
 		.query = "pockyt shop",
 		.url = "https://shop.pockyt.io/",
@@ -13941,7 +13957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x6ce,
+		.id = 0x6d0,
 		.name = "Pocoyo Club",
 		.query = "pocoyo club",
 		.url = "https://www.pocoyo.com/en/club/account-cancellation",
@@ -13949,7 +13965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6cf,
+		.id = 0x6d1,
 		.name = "Podchaser",
 		.query = "podchaser",
 		.url = "https://podchaser.com",
@@ -13957,7 +13973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6d0,
+		.id = 0x6d2,
 		.name = "Podio",
 		.query = "podio",
 		.url = "https://podio.com/settings/account",
@@ -13965,7 +13981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6d1,
+		.id = 0x6d3,
 		.name = "Points.com",
 		.query = "pointscom",
 		.url = "https://www.points.com/pdccontent/salesforce/",
@@ -13973,7 +13989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6d2,
+		.id = 0x6d4,
 		.name = "PokeMMO",
 		.query = "pokemmo",
 		.url = "https://support.pokemmo.com/knowledgebase/article/account-deletion",
@@ -13981,7 +13997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6d3,
+		.id = 0x6d5,
 		.name = "Pokémon GO",
 		.query = "pokemon go",
 		.url = "https://niantic.helpshift.com/hc/en/6-pokemon-go/faq/3518-how-do-i-delete-my-pokemon-go-account-1656453288/",
@@ -13989,7 +14005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6d4,
+		.id = 0x6d6,
 		.name = "Pokémon Trainer Club",
 		.query = "pokemon trainer club",
 		.url = "https://support.pokemon.com/hc/en-us/articles/360000965826-How-do-I-delete-my-Pok%C3%A9mon-Trainer-Club-account-",
@@ -13997,7 +14013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6d5,
+		.id = 0x6d7,
 		.name = "Polar",
 		.query = "polar",
 		.url = "https://account.polar.com/",
@@ -14005,7 +14021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6d6,
+		.id = 0x6d8,
 		.name = "PolyBuzz",
 		.query = "polybuzz",
 		.url = "https://www.polybuzz.ai",
@@ -14013,7 +14029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x6d7,
+		.id = 0x6d9,
 		.name = "pon",
 		.query = "pon",
 		.url = "https://my.ponlist.de/de/legal",
@@ -14021,7 +14037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6d8,
+		.id = 0x6da,
 		.name = "Porkbun",
 		.query = "porkbun",
 		.url = "https://porkbun.com/account",
@@ -14029,7 +14045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6d9,
+		.id = 0x6db,
 		.name = "PornHub",
 		.query = "pornhub",
 		.url = "https://help.pornhub.com/hc/en-us/articles/4419877487635-How-do-I-delete-my-account-",
@@ -14037,7 +14053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6da,
+		.id = 0x6dc,
 		.name = "Portillos",
 		.query = "portillos",
 		.url = "https://www.portillos.com/contactus/",
@@ -14045,7 +14061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6db,
+		.id = 0x6dd,
 		.name = "postale.io",
 		.query = "postaleio",
 		.url = "https://postale.io/admin/my/show",
@@ -14053,7 +14069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6dc,
+		.id = 0x6de,
 		.name = "Postcrossing",
 		.query = "postcrossing",
 		.url = "https://www.postcrossing.com/removal",
@@ -14061,7 +14077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6dd,
+		.id = 0x6df,
 		.name = "postimage",
 		.query = "postimage",
 		.url = "https://postimg.cc/profile/delete",
@@ -14069,7 +14085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6de,
+		.id = 0x6e0,
 		.name = "Postman",
 		.query = "postman",
 		.url = "https://web.postman.co/settings/me/delete",
@@ -14077,7 +14093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6df,
+		.id = 0x6e1,
 		.name = "Postmates",
 		.query = "postmates",
 		.url = "https://support.postmates.com/buyer/contact-us/delete-account",
@@ -14085,7 +14101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x6e0,
+		.id = 0x6e2,
 		.name = "Potion",
 		.query = "potion",
 		.url = "https://potion.so/",
@@ -14093,7 +14109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6e1,
+		.id = 0x6e3,
 		.name = "Pottermore",
 		.query = "pottermore",
 		.url = "https://privacyportal.onetrust.com/webform/1b21e05d-c206-4e0b-970e-2d73a23e42e8/780a7716-f409-47f4-afdf-fbe274737e6f",
@@ -14101,7 +14117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6e2,
+		.id = 0x6e4,
 		.name = "The Powder Toy",
 		.query = "the powder toy",
 		.url = "https://powdertoy.co.uk/Profile/Delete.html",
@@ -14109,7 +14125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6e3,
+		.id = 0x6e5,
 		.name = "PowToon",
 		.query = "powtoon",
 		.url = "https://support.powtoon.com/en/article/deleting-your-powtoon-account",
@@ -14117,7 +14133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6e4,
+		.id = 0x6e6,
 		.name = "Poznaj.to",
 		.query = "poznajto",
 		.url = "https://poznaj.to/konto-panelisty/usun-konto",
@@ -14125,7 +14141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6e5,
+		.id = 0x6e7,
 		.name = "Premera",
 		.query = "premera",
 		.url = "https://www.premera.com/wa/visitor/",
@@ -14133,7 +14149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6e6,
+		.id = 0x6e8,
 		.name = "Premier League",
 		.query = "premier league",
 		.url = "https://www.premierleague.com/news/844577",
@@ -14141,7 +14157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6e7,
+		.id = 0x6e9,
 		.name = "Premiumize.me",
 		.query = "premiumizeme",
 		.url = "https://www.premiumize.me/deleteaccount",
@@ -14149,7 +14165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6e8,
+		.id = 0x6ea,
 		.name = "PrepMyFuture",
 		.query = "prepmyfuture",
 		.url = "https://www.prepmyfuture.com/en/policies/privacy-policy",
@@ -14157,7 +14173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6e9,
+		.id = 0x6eb,
 		.name = "Presearch",
 		.query = "presearch",
 		.url = "https://account.presearch.com/privacy-policy",
@@ -14165,7 +14181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6ea,
+		.id = 0x6ec,
 		.name = "PrestaShop",
 		.query = "prestashop",
 		.url = "https://accounts.distribution.prestashop.net/settings/delete-account",
@@ -14173,7 +14189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6eb,
+		.id = 0x6ed,
 		.name = "Previewed",
 		.query = "previewed",
 		.url = "https://previewed.app/account",
@@ -14181,7 +14197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6ec,
+		.id = 0x6ee,
 		.name = "Prey",
 		.query = "prey",
 		.url = "https://panel.preyproject.com/settings/account",
@@ -14189,7 +14205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6ed,
+		.id = 0x6ef,
 		.name = "Prezi",
 		.query = "prezi",
 		.url = "https://prezi.com/settings/delete-account/",
@@ -14197,7 +14213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6ee,
+		.id = 0x6f0,
 		.name = "Printful",
 		.query = "printful",
 		.url = "https://printful.com",
@@ -14205,7 +14221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6ef,
+		.id = 0x6f1,
 		.name = "Privacy",
 		.query = "privacy",
 		.url = "https://support.privacy.com/hc/en-us",
@@ -14213,7 +14229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6f0,
+		.id = 0x6f2,
 		.name = "ProductHunt",
 		.query = "producthunt",
 		.url = "https://www.producthunt.com/my/settings/edit",
@@ -14221,7 +14237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6f1,
+		.id = 0x6f3,
 		.name = "Progate",
 		.query = "progate",
 		.url = "https://progate.com/deactivate",
@@ -14229,7 +14245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6f2,
+		.id = 0x6f4,
 		.name = "Programiz PRO",
 		.query = "programiz pro",
 		.url = "https://programiz.pro",
@@ -14237,7 +14253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6f3,
+		.id = 0x6f5,
 		.name = "ProMods",
 		.query = "promods",
 		.url = "https://promods.net/",
@@ -14245,7 +14261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6f4,
+		.id = 0x6f6,
 		.name = "Pronouns.page",
 		.query = "pronounspage",
 		.url = "https://en.pronouns.page/account",
@@ -14253,7 +14269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6f5,
+		.id = 0x6f7,
 		.name = "Proofwiki",
 		.query = "proofwiki",
 		.url = "https://proofwiki.org/wiki/ProofWiki:Privacy_policy#Removal_of_user_accounts",
@@ -14261,7 +14277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x6f6,
+		.id = 0x6f8,
 		.name = "PropertyListingsAI",
 		.query = "propertylistingsai",
 		.url = "https://propertylistingsai.com/terms-of-use",
@@ -14269,7 +14285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x6f7,
+		.id = 0x6f9,
 		.name = "PROS",
 		.query = "pros",
 		.url = "https://prismray.io/account?section=profile",
@@ -14277,7 +14293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x6f8,
+		.id = 0x6fa,
 		.name = "Prosper",
 		.query = "prosper",
 		.url = "https://www.prosper.com/secure/account/borrower/close_account.aspx",
@@ -14285,7 +14301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6f9,
+		.id = 0x6fb,
 		.name = "Proto.io",
 		.query = "protoio",
 		.url = "https://support.proto.io/hc/en-us/articles/222733628-Dashboard-basics-Billing-Settings",
@@ -14293,7 +14309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6fa,
+		.id = 0x6fc,
 		.name = "Proton",
 		.query = "proton",
 		.url = "https://account.proton.me/u/0/mail/account-password",
@@ -14301,7 +14317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6fb,
+		.id = 0x6fd,
 		.name = "Prott",
 		.query = "prott",
 		.url = "https://prottapp.com/app/#/users/edit/general",
@@ -14309,7 +14325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6fc,
+		.id = 0x6fe,
 		.name = "ProWritingAid",
 		.query = "prowritingaid",
 		.url = "https://prowritingaid.com/en/Account/Manage",
@@ -14317,7 +14333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6fd,
+		.id = 0x6ff,
 		.name = "Proxer",
 		.query = "proxer",
 		.url = "https://proxer.me/ucp?s=deleteaccount",
@@ -14325,7 +14341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6fe,
+		.id = 0x700,
 		.name = "Prusa",
 		.query = "prusa",
 		.url = "https://account.prusa3d.com/extra-login/?next=/delete-account/",
@@ -14333,7 +14349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x6ff,
+		.id = 0x701,
 		.name = "PTC (MathCad, Vuforia Chalk Community)",
 		.query = "ptc mathcad vuforia chalk community",
 		.url = "https://www.ptc.com/en/support/article/CS115856",
@@ -14341,7 +14357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x700,
+		.id = 0x702,
 		.name = "Pulse.red",
 		.query = "pulsered",
 		.url = "https://pulse.red/profile",
@@ -14349,7 +14365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x701,
+		.id = 0x703,
 		.name = "Pulseway",
 		.query = "pulseway",
 		.url = "https://my.pulseway.com/main/account",
@@ -14357,7 +14373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x702,
+		.id = 0x704,
 		.name = "Pushlink",
 		.query = "pushlink",
 		.url = "https://adm.pushlink.com/delete-account.xhtml",
@@ -14365,7 +14381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x703,
+		.id = 0x705,
 		.name = "Pushover",
 		.query = "pushover",
 		.url = "https://pushover.net/settings/delete_account",
@@ -14373,7 +14389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x704,
+		.id = 0x706,
 		.name = "Put.io",
 		.query = "putio",
 		.url = "https://app.put.io/account",
@@ -14381,7 +14397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x705,
+		.id = 0x707,
 		.name = "PxHere",
 		.query = "pxhere",
 		.url = "https://pxhere.com/my/settings",
@@ -14389,7 +14405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x706,
+		.id = 0x708,
 		.name = "Python Morsels",
 		.query = "python morsels",
 		.url = "https://www.pythonmorsels.com/delete-account/",
@@ -14397,7 +14413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x707,
+		.id = 0x709,
 		.name = "Python Package Index (PyPI)",
 		.query = "python package index pypi",
 		.url = "https://pypi.org/manage/account/",
@@ -14405,7 +14421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x708,
+		.id = 0x70a,
 		.name = "PythonAnywhere",
 		.query = "pythonanywhere",
 		.url = "https://help.pythonanywhere.com/pages/DeleteAccount/",
@@ -14413,7 +14429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x709,
+		.id = 0x70b,
 		.name = "QIWI Wallet",
 		.query = "qiwi wallet",
 		.url = "https://qiwi.com/support/security/subject21/udalit-qiwi-koshelek",
@@ -14421,7 +14437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x70a,
+		.id = 0x70c,
 		.name = "Qoala",
 		.query = "qoala",
 		.url = "https://www.joinqoala.com/account",
@@ -14429,7 +14445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x70b,
+		.id = 0x70d,
 		.name = "Qobuz",
 		.query = "qobuz",
 		.url = "https://www.qobuz.com/profile/delete/confirmation/email",
@@ -14437,7 +14453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x70c,
+		.id = 0x70e,
 		.name = "QooApp",
 		.query = "qooapp",
 		.url = "https://www.qoo-app.com/",
@@ -14445,7 +14461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x70d,
+		.id = 0x70f,
 		.name = "QQ",
 		.query = "qq",
 		.url = "https://kf.qq.com/faq/1803146n2yMr180314MbIfER.html",
@@ -14453,7 +14469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x70e,
+		.id = 0x710,
 		.name = "QQTube",
 		.query = "qqtube",
 		.url = "https://www.qqtube.com/identity",
@@ -14461,7 +14477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x70f,
+		.id = 0x711,
 		.name = "Qt",
 		.query = "qt",
 		.url = "https://my.qt.io/profile",
@@ -14469,7 +14485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x710,
+		.id = 0x712,
 		.name = "Quantic Foundry",
 		.query = "quantic foundry",
 		.url = "https://quanticfoundry.com/",
@@ -14477,7 +14493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x711,
+		.id = 0x713,
 		.name = "QuickSEO",
 		.query = "quickseo",
 		.url = "https://quickseo.ai/docs/delete-account",
@@ -14485,7 +14501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x712,
+		.id = 0x714,
 		.name = "QuillBot",
 		.query = "quillbot",
 		.url = "https://help.quillbot.com/hc/en-us/requests/new?ticket_form_id=13656193734039",
@@ -14493,7 +14509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x713,
+		.id = 0x715,
 		.name = "QuintoAndar",
 		.query = "quintoandar",
 		.url = "https://help.quintoandar.com.br/hc/pt-br/requests/new",
@@ -14501,7 +14517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x714,
+		.id = 0x716,
 		.name = "Quip",
 		.query = "quip",
 		.url = "https://www.quipsupport.com/entries/25079898-How-do-I-delete-my-account-",
@@ -14509,7 +14525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x715,
+		.id = 0x717,
 		.name = "Quire",
 		.query = "quire",
 		.url = "https://quire.io/r/setting?tab=options#additional",
@@ -14517,7 +14533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x716,
+		.id = 0x718,
 		.name = "Quizlet",
 		.query = "quizlet",
 		.url = "https://quizlet.com/delete-account",
@@ -14525,7 +14541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x717,
+		.id = 0x719,
 		.name = "Quora",
 		.query = "quora",
 		.url = "https://help.quora.com/hc/en-us/articles/115004250866-How-do-I-delete-my-Quora-account-?",
@@ -14533,7 +14549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x718,
+		.id = 0x71a,
 		.name = "Quotev",
 		.query = "quotev",
 		.url = "https://www.quotev.com/help/q/23",
@@ -14541,7 +14557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x719,
+		.id = 0x71b,
 		.name = "RackNerd",
 		.query = "racknerd",
 		.url = "https://my.racknerd.com/submitticket.php",
@@ -14549,7 +14565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x71a,
+		.id = 0x71c,
 		.name = "radio.fr",
 		.query = "radiofr",
 		.url = "https://www.radio.fr/#%2Fkonto_loeschen.jsf",
@@ -14557,7 +14573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x71b,
+		.id = 0x71d,
 		.name = "Radiooooo",
 		.query = "radiooooo",
 		.url = "https://radiooooo.com/",
@@ -14565,7 +14581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x71c,
+		.id = 0x71e,
 		.name = "RaiDrive",
 		.query = "raidrive",
 		.url = "https://www.raidrive.com/identify/account/manage/personaldata",
@@ -14573,7 +14589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x71d,
+		.id = 0x71f,
 		.name = "Rail Europe",
 		.query = "rail europe",
 		.url = "https://www.raileurope.com/account/settings",
@@ -14581,7 +14597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x71e,
+		.id = 0x720,
 		.name = "Raindrop.io",
 		.query = "raindropio",
 		.url = "https://api.raindrop.io/v1/user/remove",
@@ -14589,7 +14605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x71f,
+		.id = 0x721,
 		.name = "Rainforest QA",
 		.query = "rainforest qa",
 		.url = "https://app.rainforestqa.com/settings",
@@ -14597,7 +14613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x720,
+		.id = 0x722,
 		.name = "Rakuten",
 		.query = "rakuten",
 		.url = "https://www.rakuten.com/privacy-preferences.htm",
@@ -14605,7 +14621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x721,
+		.id = 0x723,
 		.name = "RapidAPI",
 		.query = "rapidapi",
 		.url = "https://rapidapi.com/auth/user/settings",
@@ -14613,7 +14629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x722,
+		.id = 0x724,
 		.name = "RateYourMusic",
 		.query = "rateyourmusic",
 		.url = "https://rateyourmusic.com/account/delete",
@@ -14621,7 +14637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x723,
+		.id = 0x725,
 		.name = "RayWenderlich",
 		.query = "raywenderlich",
 		.url = "https://accounts.raywenderlich.com/profile",
@@ -14629,7 +14645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x724,
+		.id = 0x726,
 		.name = "Razer",
 		.query = "razer",
 		.url = "https://razer-id.razerzone.com/account/delete",
@@ -14637,7 +14653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x725,
+		.id = 0x727,
 		.name = "RD Saúde (Droga Raia and Drogasil)",
 		.query = "rd saude droga raia and drogasil",
 		.url = "https://privacyportal-br.onetrust.com/webform/ece1e280-13aa-4d10-984a-bda9a79f64d7/c973a872-1b90-4b71-8284-e75ce6928857",
@@ -14645,7 +14661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x726,
+		.id = 0x728,
 		.name = "RDV Service Public",
 		.query = "rdv service public",
 		.url = "https://rdv.anct.gouv.fr/users/edit",
@@ -14653,7 +14669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x727,
+		.id = 0x729,
 		.name = "RDV Solidarités",
 		.query = "rdv solidarites",
 		.url = "https://www.rdv-solidarites.fr/users/edit",
@@ -14661,7 +14677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x728,
+		.id = 0x72a,
 		.name = "Read the Docs",
 		.query = "read the docs",
 		.url = "https://readthedocs.org/accounts/delete/",
@@ -14669,7 +14685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x729,
+		.id = 0x72b,
 		.name = "Readernaut",
 		.query = "readernaut",
 		.url = "https://readernaut.com",
@@ -14677,7 +14693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x72a,
+		.id = 0x72c,
 		.name = "RealDebrid",
 		.query = "realdebrid",
 		.url = "https://real-debrid.com/support",
@@ -14685,7 +14701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x72b,
+		.id = 0x72d,
 		.name = "RealPython",
 		.query = "realpython",
 		.url = "https://realpython.com/account/delete/",
@@ -14693,7 +14709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x72c,
+		.id = 0x72e,
 		.name = "RealVNC",
 		.query = "realvnc",
 		.url = "https://manage.realvnc.com/en/close_account",
@@ -14701,7 +14717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x72d,
+		.id = 0x72f,
 		.name = "Rebelsmarket",
 		.query = "rebelsmarket",
 		.url = "https://www.rebelsmarket.com/my",
@@ -14709,7 +14725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x72e,
+		.id = 0x730,
 		.name = "Rebrickable",
 		.query = "rebrickable",
 		.url = "https://rebrickable.com/login/",
@@ -14717,7 +14733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x72f,
+		.id = 0x731,
 		.name = "rebuy",
 		.query = "rebuy",
 		.url = "https://www.rebuy.de/my/personal-data",
@@ -14725,7 +14741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x730,
+		.id = 0x732,
 		.name = "Recall AI",
 		.query = "recall ai",
 		.url = "https://app.getrecall.ai/settings",
@@ -14733,7 +14749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x731,
+		.id = 0x733,
 		.name = "RecargaPay",
 		.query = "recargapay",
 		.url = "https://recargapay.com.br/user/close-account",
@@ -14741,7 +14757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x732,
+		.id = 0x734,
 		.name = "Recreation.gov",
 		.query = "recreationgov",
 		.url = "https://www.recreation.gov/account/delete-account",
@@ -14749,7 +14765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x733,
+		.id = 0x735,
 		.name = "Red Hat",
 		.query = "red hat",
 		.url = "https://www.redhat.com/en/about/personal-data-request",
@@ -14757,7 +14773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x734,
+		.id = 0x736,
 		.name = "Red Robin",
 		.query = "red robin",
 		.url = "https://dsr.redrobin.com",
@@ -14765,7 +14781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x735,
+		.id = 0x737,
 		.name = "Redacteur.com",
 		.query = "redacteurcom",
 		.url = "https://www.redacteur.com/identities/edit",
@@ -14773,7 +14789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x736,
+		.id = 0x738,
 		.name = "Redbooth",
 		.query = "redbooth",
 		.url = "https://redbooth.com/a/#!/settings/delete",
@@ -14781,7 +14797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x737,
+		.id = 0x739,
 		.name = "Redbubble",
 		.query = "redbubble",
 		.url = "https://www.redbubble.com/account/settings/cancel",
@@ -14789,7 +14805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x738,
+		.id = 0x73a,
 		.name = "Reddit",
 		.query = "reddit",
 		.url = "https://www.reddit.com/prefs/delete/",
@@ -14797,7 +14813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x739,
+		.id = 0x73b,
 		.name = "redesignr.ai",
 		.query = "redesignrai",
 		.url = "https://redesignr.ai/",
@@ -14805,7 +14821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x73a,
+		.id = 0x73c,
 		.name = "Redfin",
 		.query = "redfin",
 		.url = "https://www.redfin.com/myredfin/settings",
@@ -14813,7 +14829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x73b,
+		.id = 0x73d,
 		.name = "Rediff",
 		.query = "rediff",
 		.url = "https://m.rediff.com/w3c/policy.html#:~:text=If%20your%20personally%20identifiable%20information%20or%20email%20address%20change,or%20postal%20mail%20at%20the%20contact%20information%20listed%20below.",
@@ -14821,7 +14837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x73c,
+		.id = 0x73e,
 		.name = "Redirect.ing",
 		.query = "redirecting",
 		.url = "https://redirect.ing/account/settings/edit",
@@ -14829,7 +14845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x73d,
+		.id = 0x73f,
 		.name = "redirect.pizza",
 		.query = "redirectpizza",
 		.url = "https://redirect.pizza/profile",
@@ -14837,7 +14853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x73e,
+		.id = 0x740,
 		.name = "RedPen.io",
 		.query = "redpenio",
 		.url = "https://redpen.io/account",
@@ -14845,7 +14861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x73f,
+		.id = 0x741,
 		.name = "RedShelf",
 		.query = "redshelf",
 		.url = "https://solve.redshelf.com/hc/requests/new?ticket_form_id=1260804993770",
@@ -14853,7 +14869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x740,
+		.id = 0x742,
 		.name = "Reg.ru",
 		.query = "regru",
 		.url = "https://help.reg.ru/support/#request",
@@ -14861,7 +14877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x741,
+		.id = 0x743,
 		.name = "Remember The Milk",
 		.query = "remember the milk",
 		.url = "https://www.rememberthemilk.com/login/delete.rtm",
@@ -14869,7 +14885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x742,
+		.id = 0x744,
 		.name = "Remind",
 		.query = "remind",
 		.url = "https://www.remind.com/settings/profile",
@@ -14877,7 +14893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x743,
+		.id = 0x745,
 		.name = "Remitly",
 		.query = "remitly",
 		.url = "https://www.remitly.com/fr/en/help/article/138e6277-84e5-43d1-9034-382f58e5eff1",
@@ -14885,7 +14901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x744,
+		.id = 0x746,
 		.name = "RemNote",
 		.query = "remnote",
 		.url = "https://help.remnote.com/en/articles/8033036-deleting-your-account",
@@ -14893,7 +14909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x745,
+		.id = 0x747,
 		.name = "Render",
 		.query = "render",
 		.url = "https://render.com/",
@@ -14901,7 +14917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x746,
+		.id = 0x748,
 		.name = "Renderforest",
 		.query = "renderforest",
 		.url = "https://www.renderforest.com/profile/account",
@@ -14909,7 +14925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x747,
+		.id = 0x749,
 		.name = "Replay Poker",
 		.query = "replay poker",
 		.url = "https://www.replaypoker.com/settings/deactivate",
@@ -14917,7 +14933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x748,
+		.id = 0x74a,
 		.name = "Replit",
 		.query = "replit",
 		.url = "https://replit.com/account/additional-billing-settings",
@@ -14925,7 +14941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x749,
+		.id = 0x74b,
 		.name = "Report URI",
 		.query = "report uri",
 		.url = "https://report-uri.com/account/settings/#deleteData",
@@ -14933,7 +14949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x74a,
+		.id = 0x74c,
 		.name = "RescueTime",
 		.query = "rescuetime",
 		.url = "https://www.rescuetime.com/settings",
@@ -14941,7 +14957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x74b,
+		.id = 0x74d,
 		.name = "Reservio",
 		.query = "reservio",
 		.url = "https://app.reservio.com/#/business/settings",
@@ -14949,7 +14965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x74c,
+		.id = 0x74e,
 		.name = "ResumeBoostAI",
 		.query = "resumeboostai",
 		.url = "https://resumeboostai.com/privacy",
@@ -14957,7 +14973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x74d,
+		.id = 0x74f,
 		.name = "ResumeGenius",
 		.query = "resumegenius",
 		.url = "https://app.resumegenius.com/data-access/personal-data",
@@ -14965,7 +14981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x74e,
+		.id = 0x750,
 		.name = "Resy",
 		.query = "resy",
 		.url = "https://resy.com/terms",
@@ -14973,7 +14989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x74f,
+		.id = 0x751,
 		.name = "RetroAchievements",
 		.query = "retroachievements",
 		.url = "https://retroachievements.org/controlpanel.php",
@@ -14981,7 +14997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x750,
+		.id = 0x752,
 		.name = "Retroroms",
 		.query = "retroroms",
 		.url = "https://www.retroroms.info/unregister.php",
@@ -14989,7 +15005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x751,
+		.id = 0x753,
 		.name = "Retrospring",
 		.query = "retrospring",
 		.url = "https://retrospring.net/settings/account",
@@ -14997,7 +15013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x752,
+		.id = 0x754,
 		.name = "Rev",
 		.query = "rev",
 		.url = "https://www.rev.com/account/settings/",
@@ -15005,7 +15021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x753,
+		.id = 0x755,
 		.name = "RevenueHits",
 		.query = "revenuehits",
 		.url = "https://www.revenuehits.com/privacy/",
@@ -15013,7 +15029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x754,
+		.id = 0x756,
 		.name = "Reverso",
 		.query = "reverso",
 		.url = "https://www.reverso.net/contact",
@@ -15021,7 +15037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x755,
+		.id = 0x757,
 		.name = "Revolut",
 		.query = "revolut",
 		.url = "https://help.revolut.com/en-US/help/profile-and-plan/closing-account/",
@@ -15029,7 +15045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x756,
+		.id = 0x758,
 		.name = "Rexar Hosting",
 		.query = "rexar hosting",
 		.url = "https://rexarhosting.nl/dashboard/profile/",
@@ -15037,7 +15053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x757,
+		.id = 0x759,
 		.name = "Rhonexpress",
 		.query = "rhonexpress",
 		.url = "https://www.rhonexpress.fr/en_GB/account/profile/edit",
@@ -15045,7 +15061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x758,
+		.id = 0x75a,
 		.name = "Rideindego",
 		.query = "rideindego",
 		.url = "https://www.rideindego.com/faq/#how-do-i-cancel-my-pass",
@@ -15053,7 +15069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x759,
+		.id = 0x75b,
 		.name = "Riffle",
 		.query = "riffle",
 		.url = "https://help.realnames.com/hc/en-us/articles/202814089-Deactivate-your-Email-Address",
@@ -15061,7 +15077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x75a,
+		.id = 0x75c,
 		.name = "Ring",
 		.query = "ring",
 		.url = "https://account.ring.com/account/data-requests",
@@ -15069,7 +15085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x75b,
+		.id = 0x75d,
 		.name = "Riot Games",
 		.query = "riot games",
 		.url = "https://support-valorant.riotgames.com/hc/en-us/requests/new?ticket_form_id=360004036693",
@@ -15077,7 +15093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x75c,
+		.id = 0x75e,
 		.name = "Ripe NCC",
 		.query = "ripe ncc",
 		.url = "https://www.ripe.net",
@@ -15085,7 +15101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x75d,
+		.id = 0x75f,
 		.name = "RiseUp",
 		.query = "riseup",
 		.url = "https://account.riseup.net",
@@ -15093,7 +15109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x75e,
+		.id = 0x760,
 		.name = "Rituals.com",
 		.query = "ritualscom",
 		.url = "https://service.rituals.com/s/contact?topic=a2L4L0000008xwDUAQ&language=de&country=DE",
@@ -15101,7 +15117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x75f,
+		.id = 0x761,
 		.name = "RLV e-boutique",
 		.query = "rlv eboutique",
 		.url = "https://eboutique-rlv.airwebpass.com/account/",
@@ -15109,7 +15125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x760,
+		.id = 0x762,
 		.name = "Roadie",
 		.query = "roadie",
 		.url = "https://send.roadie.com/profile/settings",
@@ -15117,7 +15133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x761,
+		.id = 0x763,
 		.name = "Robinhood",
 		.query = "robinhood",
 		.url = "https://robinhood.com/contact",
@@ -15125,7 +15141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x762,
+		.id = 0x764,
 		.name = "Roblox",
 		.query = "roblox",
 		.url = "https://en.help.roblox.com/hc/en-us/articles/203313050-How-Do-I-Delete-My-Account-",
@@ -15133,7 +15149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x763,
+		.id = 0x765,
 		.name = "RoboForm",
 		.query = "roboform",
 		.url = "https://online.roboform.com/site/account/manage?type=profile",
@@ -15141,7 +15157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x764,
+		.id = 0x766,
 		.name = "Rockstar Games Social Club",
 		.query = "rockstar games social club",
 		.url = "https://support.rockstargames.com/account/",
@@ -15149,7 +15165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x765,
+		.id = 0x767,
 		.name = "Rogue Fitness",
 		.query = "rogue fitness",
 		.url = "https://www.roguefitness.com/privacy-policy",
@@ -15157,7 +15173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x766,
+		.id = 0x768,
 		.name = "Roku",
 		.query = "roku",
 		.url = "https://my.roku.com/account/close",
@@ -15165,7 +15181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x767,
+		.id = 0x769,
 		.name = "Roland",
 		.query = "roland",
 		.url = "https://www.roland.com/us/privacy/",
@@ -15173,7 +15189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x768,
+		.id = 0x76a,
 		.name = "Roll20",
 		.query = "roll20",
 		.url = "https://app.roll20.net/account/",
@@ -15181,7 +15197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x769,
+		.id = 0x76b,
 		.name = "The Root",
 		.query = "the root",
 		.url = "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
@@ -15189,7 +15205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x76a,
+		.id = 0x76c,
 		.name = "Rosetta Stone",
 		.query = "rosetta stone",
 		.url = "https://privacyportal-cdn.onetrust.com/dsarwebform/27aac3ab-c36e-4457-81d4-9773ba27887e/f1e6ce28-8f84-4cae-9bdd-bc40113d5ee0.html",
@@ -15197,7 +15213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x76b,
+		.id = 0x76d,
 		.name = "Rotten Tomatoes",
 		.query = "rotten tomatoes",
 		.url = "https://support.fandango.com/contact/contact-us-fandango-rkksORSDO",
@@ -15205,7 +15221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x76c,
+		.id = 0x76e,
 		.name = "Rscipts",
 		.query = "rscipts",
 		.url = "https://rscripts.net",
@@ -15213,7 +15229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x76d,
+		.id = 0x76f,
 		.name = "RSS.app",
 		.query = "rssapp",
 		.url = "https://rss.app/account",
@@ -15221,7 +15237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x76e,
+		.id = 0x770,
 		.name = "Rue du Commerce",
 		.query = "rue du commerce",
 		.url = "https://secure.rueducommerce.fr/Identity",
@@ -15229,7 +15245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x76f,
+		.id = 0x771,
 		.name = "Rumble",
 		.query = "rumble",
 		.url = "https://rumble.com/account/profile",
@@ -15237,7 +15253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x770,
+		.id = 0x772,
 		.name = "Runescape",
 		.query = "runescape",
 		.url = "https://www.runescape.com/zendesk/support-form?form=360000041149",
@@ -15245,7 +15261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x771,
+		.id = 0x773,
 		.name = "RunKeeper",
 		.query = "runkeeper",
 		.url = "https://runkeeper.com/delete-account?confirm",
@@ -15253,7 +15269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x772,
+		.id = 0x774,
 		.name = "Runtastic",
 		.query = "runtastic",
 		.url = "https://help.runtastic.com/hc/en-us/articles/200370082-Delete-Account-Cancel-Membership",
@@ -15261,7 +15277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x773,
+		.id = 0x775,
 		.name = "Ryanair",
 		.query = "ryanair",
 		.url = "https://m.marketing.ryanairemail.com/webApp/dataerasure",
@@ -15269,7 +15285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x774,
+		.id = 0x776,
 		.name = "Rytr",
 		.query = "rytr",
 		.url = "https://rytr.me/blog/resources#how-to-delete-my-account",
@@ -15277,7 +15293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x775,
+		.id = 0x777,
 		.name = "SadlyUnfriended",
 		.query = "sadlyunfriended",
 		.url = "https://www.sadlyunfriended.com/close_account.php",
@@ -15285,7 +15301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x776,
+		.id = 0x778,
 		.name = "Sahibinden",
 		.query = "sahibinden",
 		.url = "https://banaozel.sahibinden.com/bilgilerim/uyelik-iptali",
@@ -15293,7 +15309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x777,
+		.id = 0x779,
 		.name = "Salad",
 		.query = "salad",
 		.url = "https://support.salad.com/article/45-how-can-i-delete-my-account",
@@ -15301,7 +15317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x778,
+		.id = 0x77a,
 		.name = "SamMobile",
 		.query = "sammobile",
 		.url = "https://www.sammobile.com/remove-account/",
@@ -15309,7 +15325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x779,
+		.id = 0x77b,
 		.name = "Sampleswap",
 		.query = "sampleswap",
 		.url = "https://sampleswap.org/about/",
@@ -15317,7 +15333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x77a,
+		.id = 0x77c,
 		.name = "Samsung Account",
 		.query = "samsung account",
 		.url = "https://account.samsung.com/membership/contents/profile/delete-samsung-account",
@@ -15325,7 +15341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x77b,
+		.id = 0x77d,
 		.name = "SamyGO Forum",
 		.query = "samygo forum",
 		.url = "https://forum.samygo.tv/memberlist.php?mode=contactadmin",
@@ -15333,7 +15349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x77c,
+		.id = 0x77e,
 		.name = "Sankaku",
 		.query = "sankaku",
 		.url = "https://sankaku.app/settings",
@@ -15341,7 +15357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x77d,
+		.id = 0x77f,
 		.name = "Sapinet",
 		.query = "sapinet",
 		.url = "https://my.sapinet.fr/submitticket.php",
@@ -15349,7 +15365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x77e,
+		.id = 0x780,
 		.name = "Satispay",
 		.query = "satispay",
 		.url = "https://disattivazione-account-satispay.paperform.co/",
@@ -15357,7 +15373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x77f,
+		.id = 0x781,
 		.name = "Satori Reader",
 		.query = "satori reader",
 		.url = "https://www.satorireader.com/account/delete",
@@ -15365,7 +15381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x780,
+		.id = 0x782,
 		.name = "SaxoInvestor/SaxoTrader",
 		.query = "saxoinvestorsaxotrader",
 		.url = "https://www.saxoinvestor.com/investor/close-my-account",
@@ -15373,7 +15389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x781,
+		.id = 0x783,
 		.name = "Scaleway",
 		.query = "scaleway",
 		.url = "https://console.scaleway.com/#/account",
@@ -15381,7 +15397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x782,
+		.id = 0x784,
 		.name = "Scammer.info",
 		.query = "scammerinfo",
 		.url = "https://scammer.info/",
@@ -15389,7 +15405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x783,
+		.id = 0x785,
 		.name = "Scavify",
 		.query = "scavify",
 		.url = "https://www.scavify.com/users/edit",
@@ -15397,7 +15413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x784,
+		.id = 0x786,
 		.name = "Scene+",
 		.query = "scene",
 		.url = "https://scenesupport.zendesk.com/hc/en-ca/p/contactUs",
@@ -15405,7 +15421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x785,
+		.id = 0x787,
 		.name = "Scentbird",
 		.query = "scentbird",
 		.url = "https://scentbird.zendesk.com/hc/en-us/articles/115004536388-How-do-I-cancel-my-subscription-",
@@ -15413,7 +15429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x786,
+		.id = 0x788,
 		.name = "Scholly",
 		.query = "scholly",
 		.url = "https://search.myscholly.com/settings",
@@ -15421,7 +15437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x787,
+		.id = 0x789,
 		.name = "School of Chaos Online MMORPG",
 		.query = "school of chaos online mmorpg",
 		.url = "https://vnlentertainment.com/soc-html-privacy-policy-english.html",
@@ -15429,7 +15445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x788,
+		.id = 0x78a,
 		.name = "SchoolCashOnline",
 		.query = "schoolcashonline",
 		.url = "https://schoolcashonline.com/MyAccount/EditProfile",
@@ -15437,7 +15453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x789,
+		.id = 0x78b,
 		.name = "SchoolFinder",
 		.query = "schoolfinder",
 		.url = "https://www.schoolfinder.com/About/SchoolFinder-Privacy-Policy.pdf",
@@ -15445,7 +15461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x78a,
+		.id = 0x78c,
 		.name = "Schoology",
 		.query = "schoology",
 		.url = "https://app.schoology.com/settings/account/action?delete",
@@ -15453,7 +15469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x78b,
+		.id = 0x78d,
 		.name = "scite_",
 		.query = "scite",
 		.url = "https://scite.ai/policy#your-privacy-choices",
@@ -15461,7 +15477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x78c,
+		.id = 0x78e,
 		.name = "Score",
 		.query = "score",
 		.url = "https://getscore.app",
@@ -15469,7 +15485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x78d,
+		.id = 0x78f,
 		.name = "Scratch",
 		.query = "scratch",
 		.url = "https://scratch.mit.edu/accounts/settings/delete_account_confirmation/",
@@ -15477,7 +15493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x78e,
+		.id = 0x790,
 		.name = "Screenshot to Code",
 		.query = "screenshot to code",
 		.url = "https://screenshottocode.com/",
@@ -15485,7 +15501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x78f,
+		.id = 0x791,
 		.name = "Scribd",
 		.query = "scribd",
 		.url = "https://support.scribd.com/hc/en-us/articles/360000894843-Deleting-your-account#h_01HBVYCPRH4GEMX24PD473BHP8",
@@ -15493,7 +15509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x790,
+		.id = 0x792,
 		.name = "Scribe",
 		.query = "scribe",
 		.url = "https://support.scribehow.com/hc/en-us/articles/6853332074013-Managing-your-Scribe-account",
@@ -15501,7 +15517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x791,
+		.id = 0x793,
 		.name = "Sdc.com",
 		.query = "sdccom",
 		.url = "http://www.sdc.com/react/#/settings2",
@@ -15509,7 +15525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x792,
+		.id = 0x794,
 		.name = "Seagate",
 		.query = "seagate",
 		.url = "https://myportal.seagate.com/consumer-identity/profile/",
@@ -15517,7 +15533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x793,
+		.id = 0x795,
 		.name = "SEAGM",
 		.query = "seagm",
 		.url = "https://member.seagm.com/ucp/account/info",
@@ -15525,7 +15541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x794,
+		.id = 0x796,
 		.name = "Second Life",
 		.query = "second life",
 		.url = "https://secondlife.com/my/account/cancel.php",
@@ -15533,7 +15549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x795,
+		.id = 0x797,
 		.name = "Sedo",
 		.query = "sedo",
 		.url = "https://sedo.com/us/about-us/policies/protecting-your-privacy/",
@@ -15541,7 +15557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x796,
+		.id = 0x798,
 		.name = "Seedbox",
 		.query = "seedbox",
 		.url = "https://wiki.seedbox.fr/index.php/Comment_R%C3%A9silier_son_abonnement",
@@ -15549,7 +15565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x797,
+		.id = 0x799,
 		.name = "seedr.cc",
 		.query = "seedrcc",
 		.url = "https://www.seedr.cc/",
@@ -15557,7 +15573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x798,
+		.id = 0x79a,
 		.name = "Seesaw",
 		.query = "seesaw",
 		.url = "https://help.seesaw.me/hc/en-us/articles/205271473-How-to-delete-your-account",
@@ -15565,7 +15581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x799,
+		.id = 0x79b,
 		.name = "Sega",
 		.query = "sega",
 		.url = "https://privacy.sega.com/en/your-rights",
@@ -15573,7 +15589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x79a,
+		.id = 0x79c,
 		.name = "SelfWealth",
 		.query = "selfwealth",
 		.url = "https://www.selfwealth.com.au/",
@@ -15581,7 +15597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x79b,
+		.id = 0x79d,
 		.name = "Sellfy",
 		.query = "sellfy",
 		.url = "https://sellfy.com/user/settings/account",
@@ -15589,7 +15605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x79c,
+		.id = 0x79e,
 		.name = "Semrush",
 		.query = "semrush",
 		.url = "https://www.semrush.com/kb/support/",
@@ -15597,7 +15613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x79d,
+		.id = 0x79f,
 		.name = "Send.now",
 		.query = "sendnow",
 		.url = "https://send.now/?op=my_account",
@@ -15605,7 +15621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x79e,
+		.id = 0x7a0,
 		.name = "SendGrid",
 		.query = "sendgrid",
 		.url = "https://support.sendgrid.com/hc/en-us/articles/4410760485403-Data-Retention-and-Deletion-in-Twilio-Products",
@@ -15613,7 +15629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x79f,
+		.id = 0x7a1,
 		.name = "Sendspace",
 		.query = "sendspace",
 		.url = "https://www.sendspace.com/mysendspace/prefs.html",
@@ -15621,7 +15637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7a0,
+		.id = 0x7a2,
 		.name = "SensCritique",
 		.query = "senscritique",
 		.url = "https://www.senscritique.com/parametres/compte-suppression",
@@ -15629,7 +15645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7a1,
+		.id = 0x7a3,
 		.name = "Sentry",
 		.query = "sentry",
 		.url = "https://sentry.io/settings/account/close-account/",
@@ -15637,7 +15653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7a2,
+		.id = 0x7a4,
 		.name = "Serpstat",
 		.query = "serpstat",
 		.url = "https://serpstat.com/users/profile/",
@@ -15645,7 +15661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x7a3,
+		.id = 0x7a5,
 		.name = "Server.pro",
 		.query = "serverpro",
 		.url = "https://server.pro/",
@@ -15653,7 +15669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7a4,
+		.id = 0x7a6,
 		.name = "Serverless",
 		.query = "serverless",
 		.url = "https://app.serverless.com",
@@ -15661,7 +15677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7a5,
+		.id = 0x7a7,
 		.name = "Service-Public.fr",
 		.query = "servicepublicfr",
 		.url = "https://www.service-public.fr/compte/parametres",
@@ -15669,7 +15685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7a6,
+		.id = 0x7a8,
 		.name = "Session",
 		.query = "session",
 		.url = "https://sessionapp.zendesk.com/hc/en-us/articles/7726435197849-How-can-I-delete-my-Session-account-",
@@ -15677,7 +15693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7a7,
+		.id = 0x7a9,
 		.name = "SetApp",
 		.query = "setapp",
 		.url = "https://my.setapp.com/account",
@@ -15685,7 +15701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7a8,
+		.id = 0x7aa,
 		.name = "Seznam.cz",
 		.query = "seznamcz",
 		.url = "https://profil.seznam.cz/gdpr",
@@ -15693,7 +15709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7a9,
+		.id = 0x7ab,
 		.name = "Sfimg",
 		.query = "sfimg",
 		.url = "https://www.sfimg.com/MyAccount/Remove",
@@ -15701,7 +15717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x7aa,
+		.id = 0x7ac,
 		.name = "Shaadi.com",
 		.query = "shaadicom",
 		.url = "https://my.shaadi.com/my-shaadi/my-account/hide-delete-account",
@@ -15709,7 +15725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x7ab,
+		.id = 0x7ad,
 		.name = "Shadow",
 		.query = "shadow",
 		.url = "https://account.shadow.tech/home/security",
@@ -15717,7 +15733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7ac,
+		.id = 0x7ae,
 		.name = "Sharesome",
 		.query = "sharesome",
 		.url = "https://sharesome.com/settings/privacy/",
@@ -15725,7 +15741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7ad,
+		.id = 0x7af,
 		.name = "Shazam",
 		.query = "shazam",
 		.url = "https://www.shazam.com/privacy/login/delete",
@@ -15733,7 +15749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7ae,
+		.id = 0x7b0,
 		.name = "SHEEPIT",
 		.query = "sheepit",
 		.url = "https://www.sheepit-renderfarm.com/user/remove",
@@ -15741,7 +15757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7af,
+		.id = 0x7b1,
 		.name = "Shein",
 		.query = "shein",
 		.url = "https://shein.com/robot",
@@ -15749,7 +15765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7b0,
+		.id = 0x7b2,
 		.name = "Shell.ca",
 		.query = "shellca",
 		.url = "https://www.shell.ca/en_ca/privacy.html",
@@ -15757,7 +15773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7b1,
+		.id = 0x7b3,
 		.name = "Shikimori",
 		.query = "shikimori",
 		.url = "https://shikimori.one/clubs/1093-faq-chasto-zadavaemye-voprosy",
@@ -15765,7 +15781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x7b2,
+		.id = 0x7b4,
 		.name = "Shinden",
 		.query = "shinden",
 		.url = "https://shinden.pl",
@@ -15773,7 +15789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7b3,
+		.id = 0x7b5,
 		.name = "Shipito",
 		.query = "shipito",
 		.url = "https://www.shipito.com/es/help/faq/account-navigation",
@@ -15781,7 +15797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7b4,
+		.id = 0x7b6,
 		.name = "Shodan",
 		.query = "shodan",
 		.url = "https://static.shodan.io/legal/terms.html",
@@ -15789,7 +15805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7b5,
+		.id = 0x7b7,
 		.name = "Shop",
 		.query = "shop",
 		.url = "https://help.shop.app/hc/en-us/articles/360058842072-Delete-your-account",
@@ -15797,7 +15813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7b6,
+		.id = 0x7b8,
 		.name = "Shop Your Way",
 		.query = "shop your way",
 		.url = "https://privacyportal.onetrust.com/webform/cc9a8230-03c2-46ab-afe1-51ced9dc71c0/30774a09-e2e1-4f85-9d3d-fc51a7530f05",
@@ -15805,7 +15821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x7b7,
+		.id = 0x7b9,
 		.name = "Shopee",
 		.query = "shopee",
 		.url = "https://www.sharelatex.com/user/settings",
@@ -15813,7 +15829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x7b8,
+		.id = 0x7ba,
 		.name = "Shopify",
 		.query = "shopify",
 		.url = "https://privacy.shopify.com/dsr_submission/subject_types?selected=erasure",
@@ -15821,7 +15837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7b9,
+		.id = 0x7bb,
 		.name = "Shopper+",
 		.query = "shopper",
 		.url = "https://www.shopperplus.ca/policies/Shopper+%20Account%20Removal%20Policy",
@@ -15829,7 +15845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7ba,
+		.id = 0x7bc,
 		.name = "Shorte.st",
 		.query = "shortest",
 		.url = "https://shorte.st/profile/remove-account",
@@ -15837,7 +15853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x7bb,
+		.id = 0x7bd,
 		.name = "Shotbow",
 		.query = "shotbow",
 		.url = "https://shotbow.net/forum/contact",
@@ -15845,7 +15861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7bc,
+		.id = 0x7be,
 		.name = "Shotgun.live",
 		.query = "shotgunlive",
 		.url = "https://support.shotgun.live/hc/en-us/articles/360016912580--I-want-to-delete-my-account-",
@@ -15853,7 +15869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x7bd,
+		.id = 0x7bf,
 		.name = "showRSS",
 		.query = "showrss",
 		.url = "https://showrss.info/edit/delete",
@@ -15861,7 +15877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7be,
+		.id = 0x7c0,
 		.name = "Shpock",
 		.query = "shpock",
 		.url = "https://en.shpock.com",
@@ -15869,7 +15885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7bf,
+		.id = 0x7c1,
 		.name = "Shutterfly",
 		.query = "shutterfly",
 		.url = "https://www.shutterfly.com/delete-account/",
@@ -15877,7 +15893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7c0,
+		.id = 0x7c2,
 		.name = "Shutterstock",
 		.query = "shutterstock",
 		.url = "https://www.shutterstock.com/account/profile",
@@ -15885,7 +15901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7c1,
+		.id = 0x7c3,
 		.name = "Sibra",
 		.query = "sibra",
 		.url = "https://boutique.sibra.fr/",
@@ -15893,7 +15909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x7c2,
+		.id = 0x7c4,
 		.name = "SigFig",
 		.query = "sigfig",
 		.url = "https://support.sigfig.com/hc/en-us/articles/202586434-How-do-I-completely-delete-my-account-",
@@ -15901,7 +15917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7c3,
+		.id = 0x7c5,
 		.name = "Signal",
 		.query = "signal",
 		.url = "https://support.signal.org/hc/en-us/articles/360007061192-Delete-Account",
@@ -15909,7 +15925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7c4,
+		.id = 0x7c6,
 		.name = "SignalRGB",
 		.query = "signalrgb",
 		.url = "https://signalrgb.com/account/delete-account/",
@@ -15917,7 +15933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7c5,
+		.id = 0x7c7,
 		.name = "Similarweb",
 		.query = "similarweb",
 		.url = "https://account.similarweb.com/user-details",
@@ -15925,7 +15941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7c6,
+		.id = 0x7c8,
 		.name = "Simple",
 		.query = "simple",
 		.url = "https://help.simple.life/en/articles/9887975-how-to-delete-your-account-or-request-data-deletion",
@@ -15933,7 +15949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7c7,
+		.id = 0x7c9,
 		.name = "Simple Machines",
 		.query = "simple machines",
 		.url = "https://simplemachines.org/community/index.php?action=profile;area=deleteaccount",
@@ -15941,7 +15957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7c8,
+		.id = 0x7ca,
 		.name = "SimpleLogin",
 		.query = "simplelogin",
 		.url = "https://app.simplelogin.io/dashboard/setting",
@@ -15949,7 +15965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7c9,
+		.id = 0x7cb,
 		.name = "Simplenote",
 		.query = "simplenote",
 		.url = "https://app.simplenote.com/settings",
@@ -15957,7 +15973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7ca,
+		.id = 0x7cc,
 		.name = "SimplePlanes",
 		.query = "simpleplanes",
 		.url = "https://www.simpleplanes.com/Account/DeleteAccount",
@@ -15965,7 +15981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7cb,
+		.id = 0x7cd,
 		.name = "Simplified",
 		.query = "simplified",
 		.url = "https://app.simplified.com/settings",
@@ -15973,7 +15989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7cc,
+		.id = 0x7ce,
 		.name = "Simply Plural",
 		.query = "simply plural",
 		.url = "https://app.apparyllis.com/#/Settings/Account/UserSettings",
@@ -15981,7 +15997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7cd,
+		.id = 0x7cf,
 		.name = "SimplyPrint",
 		.query = "simplyprint",
 		.url = "https://simplyprint.io/panel/user_settings",
@@ -15989,7 +16005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7ce,
+		.id = 0x7d0,
 		.name = "The Sims Resource",
 		.query = "the sims resource",
 		.url = "https://help.thesimsresource.com/article/14-how-do-i-delete-my-account",
@@ -15997,7 +16013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7cf,
+		.id = 0x7d1,
 		.name = "SINAC serviciosenlinea",
 		.query = "sinac serviciosenlinea",
 		.url = "https://serviciosenlinea.sinac.go.cra",
@@ -16005,7 +16021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7d0,
+		.id = 0x7d2,
 		.name = "Singapore Airlines (KrisFlyer)",
 		.query = "singapore airlines krisflyer",
 		.url = "https://www.singaporeair.com/en_UK/us/contact-us/",
@@ -16013,7 +16029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7d1,
+		.id = 0x7d3,
 		.name = "SitePoint",
 		.query = "sitepoint",
 		.url = "https://www.sitepoint.com/community/faq/#leaving",
@@ -16021,7 +16037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x7d2,
+		.id = 0x7d4,
 		.name = "Sketchfab",
 		.query = "sketchfab",
 		.url = "https://sketchfab.com/settings/account",
@@ -16029,7 +16045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7d3,
+		.id = 0x7d5,
 		.name = "SketchUp",
 		.query = "sketchup",
 		.url = "https://privacy.sketchup.com/email-form",
@@ -16037,7 +16053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7d4,
+		.id = 0x7d6,
 		.name = "Skiddle",
 		.query = "skiddle",
 		.url = "https://www.skiddle.com/skiddlepeople/removeaccount.php",
@@ -16045,7 +16061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7d5,
+		.id = 0x7d7,
 		.name = "Skillshare",
 		.query = "skillshare",
 		.url = "https://preferences.skillshare.com/privacy",
@@ -16053,7 +16069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x7d6,
+		.id = 0x7d8,
 		.name = "Skinbaron",
 		.query = "skinbaron",
 		.url = "https://skinbaron.de/en/profile/tickets",
@@ -16061,7 +16077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7d7,
+		.id = 0x7d9,
 		.name = "SKlauncher",
 		.query = "sklauncher",
 		.url = "https://skmedix.pl/settings",
@@ -16069,7 +16085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7d8,
+		.id = 0x7da,
 		.name = "Skoob",
 		.query = "skoob",
 		.url = "https://www.skoob.com.br/usuario/excluir/",
@@ -16077,7 +16093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7d9,
+		.id = 0x7db,
 		.name = "Skool",
 		.query = "skool",
 		.url = "https://www.skool.com/privacy?rt=udt",
@@ -16085,7 +16101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x7da,
+		.id = 0x7dc,
 		.name = "SkySilk",
 		.query = "skysilk",
 		.url = "https://help.skysilk.com/support/solutions/articles/9000106317-how-do-i-deactivate-my-account-",
@@ -16093,7 +16109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x7db,
+		.id = 0x7dd,
 		.name = "Slack",
 		.query = "slack",
 		.url = "https://my.slack.com/account/settings",
@@ -16101,7 +16117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7dc,
+		.id = 0x7de,
 		.name = "Slashdot",
 		.query = "slashdot",
 		.url = "https://slashdot.org/faq",
@@ -16109,7 +16125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7dd,
+		.id = 0x7df,
 		.name = "SleeveYourGames",
 		.query = "sleeveyourgames",
 		.url = "https://www.sleeveyourgames.com/feedback",
@@ -16117,7 +16133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7de,
+		.id = 0x7e0,
 		.name = "Slideshare",
 		.query = "slideshare",
 		.url = "https://support.scribd.com/hc/en-us/articles/360000894843-Deleting-your-account#h_01HBVYCPRH4GEMX24PD473BHP8",
@@ -16125,7 +16141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7df,
+		.id = 0x7e1,
 		.name = "Sling TV",
 		.query = "sling tv",
 		.url = "https://www.sling.com/help/en/account-questions/account-changes/manage-account",
@@ -16133,7 +16149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x7e0,
+		.id = 0x7e2,
 		.name = "Slowly",
 		.query = "slowly",
 		.url = "https://help.slowly.app/hc/en-us/articles/115001828351-How-do-I-delete-my-account",
@@ -16141,7 +16157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x7e1,
+		.id = 0x7e3,
 		.name = "SmallPDF",
 		.query = "smallpdf",
 		.url = "https://smallpdf.com/profile",
@@ -16149,7 +16165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7e2,
+		.id = 0x7e4,
 		.name = "SmartRecruiters",
 		.query = "smartrecruiters",
 		.url = "https://help.smartrecruiters.com/Getting_Started/User_settings/How_do_I_close_my_user_account%3F",
@@ -16157,7 +16173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x7e3,
+		.id = 0x7e5,
 		.name = "Smartsheet",
 		.query = "smartsheet",
 		.url = "https://app.smartsheet.com/b/form/599b304161d34e29baa9c5fb985c4333",
@@ -16165,7 +16181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7e4,
+		.id = 0x7e6,
 		.name = "SmartyPig",
 		.query = "smartypig",
 		.url = "https://www.smartypig.com/faqs",
@@ -16173,7 +16189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7e5,
+		.id = 0x7e7,
 		.name = "Smodin",
 		.query = "smodin",
 		.url = "https://smodin.io/account",
@@ -16181,7 +16197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7e6,
+		.id = 0x7e8,
 		.name = "Smoothcomp",
 		.query = "smoothcomp",
 		.url = "https://support.smoothcomp.com/article/193-please-remove-delete-hide-my-account-gdpr",
@@ -16189,7 +16205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7e7,
+		.id = 0x7e9,
 		.name = "SMS-MAN",
 		.query = "smsman",
 		.url = "https://sms-man.com/feedback",
@@ -16197,7 +16213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7e8,
+		.id = 0x7ea,
 		.name = "SMSPool",
 		.query = "smspool",
 		.url = "https://www.smspool.net/my/settings",
@@ -16205,7 +16221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7e9,
+		.id = 0x7eb,
 		.name = "Smule",
 		.query = "smule",
 		.url = "https://smule.zendesk.com/hc/en-us/requests/new",
@@ -16213,7 +16229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7ea,
+		.id = 0x7ec,
 		.name = "Snapchat",
 		.query = "snapchat",
 		.url = "https://accounts.snapchat.com/accounts/delete_account",
@@ -16221,7 +16237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7eb,
+		.id = 0x7ed,
 		.name = "Snapfish",
 		.query = "snapfish",
 		.url = "https://support.snapfish.com/hc/en-us/articles/360008146353-Delete-your-account",
@@ -16229,7 +16245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7ec,
+		.id = 0x7ee,
 		.name = "Snappa",
 		.query = "snappa",
 		.url = "https://snappa.com/app/account-settings",
@@ -16237,7 +16253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7ed,
+		.id = 0x7ef,
 		.name = "SNCF",
 		.query = "sncf",
 		.url = "https://www.sncf-connect.com/en-en/help/your-customer-account",
@@ -16245,7 +16261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7ee,
+		.id = 0x7f0,
 		.name = "Snov.io",
 		.query = "snovio",
 		.url = "https://app.snov.io/account#/security-settings",
@@ -16253,7 +16269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7ef,
+		.id = 0x7f1,
 		.name = "Social Blade",
 		.query = "social blade",
 		.url = "https://socialblade.com/account",
@@ -16261,7 +16277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7f0,
+		.id = 0x7f2,
 		.name = "socialoomph",
 		.query = "socialoomph",
 		.url = "https://www.socialoomph.com/settings/delete/",
@@ -16269,7 +16285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7f1,
+		.id = 0x7f3,
 		.name = "Sofascore",
 		.query = "sofascore",
 		.url = "https://sofascore.helpscoutdocs.com/article/55-how-to-delete-account?lng=en",
@@ -16277,7 +16293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7f2,
+		.id = 0x7f4,
 		.name = "SoftCreatR Media",
 		.query = "softcreatr media",
 		.url = "https://www.softcreatr.com/account-management/",
@@ -16285,7 +16301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7f3,
+		.id = 0x7f5,
 		.name = "solo.to",
 		.query = "soloto",
 		.url = "https://solo.to/account",
@@ -16293,7 +16309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7f4,
+		.id = 0x7f6,
 		.name = "SoloLearn",
 		.query = "sololearn",
 		.url = "https://www.sololearn.com",
@@ -16301,7 +16317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7f5,
+		.id = 0x7f7,
 		.name = "Sonder",
 		.query = "sonder",
 		.url = "https://www.sonder.com/",
@@ -16309,7 +16325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x7f6,
+		.id = 0x7f8,
 		.name = "Songkick",
 		.query = "songkick",
 		.url = "https://www.songkick.com/settings/account-settings",
@@ -16317,7 +16333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7f7,
+		.id = 0x7f9,
 		.name = "Sonix",
 		.query = "sonix",
 		.url = "https://my.sonix.ai/account/delete",
@@ -16325,7 +16341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7f8,
+		.id = 0x7fa,
 		.name = "Sonos",
 		.query = "sonos",
 		.url = "https://www.sonos.com/en-us/legal/privacy#legal-privacy-contact",
@@ -16333,7 +16349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7f9,
+		.id = 0x7fb,
 		.name = "Sony",
 		.query = "sony",
 		.url = "https://www.sony-europe.com/mysony/account",
@@ -16341,7 +16357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x7fa,
+		.id = 0x7fc,
 		.name = "Soulseek",
 		.query = "soulseek",
 		.url = "https://www.slsknet.org/news/node/748",
@@ -16349,7 +16365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7fb,
+		.id = 0x7fd,
 		.name = "SoundCloud",
 		.query = "soundcloud",
 		.url = "https://soundcloud.com/settings/account#delete-user",
@@ -16357,7 +16373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x7fc,
+		.id = 0x7fe,
 		.name = "Soundtrap",
 		.query = "soundtrap",
 		.url = "https://support.soundtrap.com/hc/en-us/articles/360033406534-Delete-account",
@@ -16365,7 +16381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7fd,
+		.id = 0x7ff,
 		.name = "SourceForge",
 		.query = "sourceforge",
 		.url = "https://sourceforge.net/auth/disable/",
@@ -16373,7 +16389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x7fe,
+		.id = 0x800,
 		.name = "Sourcegraph",
 		.query = "sourcegraph",
 		.url = "https://sourcegraph.com/docs/sourcegraph-accounts#how-to-delete-accounts-or-unlink-social-sign-ins",
@@ -16381,7 +16397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x7ff,
+		.id = 0x801,
 		.name = "Sourcery.ai",
 		.query = "sourceryai",
 		.url = "https://sourcery.ai/privacy/",
@@ -16389,7 +16405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x800,
+		.id = 0x802,
 		.name = "South Plus",
 		.query = "south plus",
 		.url = "https://south-plus.net/",
@@ -16397,7 +16413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x801,
+		.id = 0x803,
 		.name = "SpaceHey",
 		.query = "spacehey",
 		.url = "https://spacehey.com/deleteaccount",
@@ -16405,7 +16421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x802,
+		.id = 0x804,
 		.name = "SPC",
 		.query = "spc",
 		.url = "https://www.spccard.ca/privacy-policy",
@@ -16413,7 +16429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x803,
+		.id = 0x805,
 		.name = "Speaker Deck",
 		.query = "speaker deck",
 		.url = "https://speakerdeck.com/account",
@@ -16421,7 +16437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x804,
+		.id = 0x806,
 		.name = "speedrun.com",
 		.query = "speedruncom",
 		.url = "https://www.speedrun.com/settings",
@@ -16429,7 +16445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x805,
+		.id = 0x807,
 		.name = "Speedtest",
 		.query = "speedtest",
 		.url = "https://help.speedtest.net/hc/en-us/articles/360035679994-How-do-I-delete-my-data-GDPR-",
@@ -16437,7 +16453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x806,
+		.id = 0x808,
 		.name = "Sphere Online Judge (SPOJ)",
 		.query = "sphere online judge spoj",
 		.url = "https://www.spoj.com/legal-tos/#:~:text=In%20order%20to%20remove%20the,and%20file%20a%20proper%20motion.",
@@ -16445,7 +16461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x807,
+		.id = 0x809,
 		.name = "SpielerPlus",
 		.query = "spielerplus",
 		.url = "https://support.spielerplus.de/hc/en-us/articles/4402733049105-How-can-I-delete-my-account",
@@ -16453,7 +16469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x808,
+		.id = 0x80a,
 		.name = "Spieletipps",
 		.query = "spieletipps",
 		.url = "https://www.spieletipps.de/m/resign/",
@@ -16461,7 +16477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x809,
+		.id = 0x80b,
 		.name = "SpigotMC",
 		.query = "spigotmc",
 		.url = "https://www.spigotmc.org/threads/account-removal-information.392153/",
@@ -16469,7 +16485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x80a,
+		.id = 0x80c,
 		.name = "Splice",
 		.query = "splice",
 		.url = "https://splice.com/profile/settings",
@@ -16477,7 +16493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x80b,
+		.id = 0x80d,
 		.name = "Splitkb",
 		.query = "splitkb",
 		.url = "https://splitkb.com",
@@ -16485,7 +16501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x80c,
+		.id = 0x80e,
 		.name = "Splitser",
 		.query = "splitser",
 		.url = "https://app.splitser.com/account/delete",
@@ -16493,7 +16509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x80d,
+		.id = 0x80f,
 		.name = "Splitwise",
 		.query = "splitwise",
 		.url = "https://secure.splitwise.com/account/settings",
@@ -16501,7 +16517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x80e,
+		.id = 0x810,
 		.name = "Spond",
 		.query = "spond",
 		.url = "https://spond.com/landing/deleteAccount",
@@ -16509,7 +16525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x80f,
+		.id = 0x811,
 		.name = "Sporcle",
 		.query = "sporcle",
 		.url = "https://www.sporcle.com/settings/account-info/",
@@ -16517,7 +16533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x810,
+		.id = 0x812,
 		.name = "Sportsbet",
 		.query = "sportsbet",
 		.url = "https://helpcentre.sportsbet.com.au/hc/en-us/articles/115007208487-How-do-I-close-my-account-",
@@ -16525,7 +16541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x811,
+		.id = 0x813,
 		.name = "Sportsbet.io",
 		.query = "sportsbetio",
 		.url = "https://sportsbet.io/help-centre/help-getting-started/help-account/how-do-i-close-my-account",
@@ -16533,7 +16549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x812,
+		.id = 0x814,
 		.name = "SpotAngels",
 		.query = "spotangels",
 		.url = "https://spotangels.notion.site/How-can-I-delete-my-account-a0066146a3c04c6f8262c1bbc366838c",
@@ -16541,7 +16557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x813,
+		.id = 0x815,
 		.name = "Spotify",
 		.query = "spotify",
 		.url = "https://support.spotify.com/close-account",
@@ -16549,7 +16565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x814,
+		.id = 0x816,
 		.name = "Spreadshirt",
 		.query = "spreadshirt",
 		.url = "https://my.spreadshirt.com/account/contact",
@@ -16557,7 +16573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x815,
+		.id = 0x817,
 		.name = "spusu",
 		.query = "spusu",
 		.url = "https://www.spusu.co.uk/contact",
@@ -16565,7 +16581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x816,
+		.id = 0x818,
 		.name = "SquadJobs",
 		.query = "squadjobs",
 		.url = "https://squadjobs.com/help",
@@ -16573,7 +16589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x817,
+		.id = 0x819,
 		.name = "Square",
 		.query = "square",
 		.url = "https://app.squareup.com/dashboard/shifts/settings/clock-in-out",
@@ -16581,7 +16597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x818,
+		.id = 0x81a,
 		.name = "Square Cash",
 		.query = "square cash",
 		.url = "https://cash.me/login?return_to=support",
@@ -16589,7 +16605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x819,
+		.id = 0x81b,
 		.name = "Squarespace",
 		.query = "squarespace",
 		.url = "https://account.squarespace.com/settings/security/delete-account",
@@ -16597,7 +16613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x81a,
+		.id = 0x81c,
 		.name = "Stack Overflow / Stack Exchange Accounts",
 		.query = "stack overflow stack exchange accounts",
 		.url = "https://stackoverflow.com/help/deleting-account",
@@ -16605,7 +16621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x81b,
+		.id = 0x81d,
 		.name = "StackBlitz",
 		.query = "stackblitz",
 		.url = "https://stackblitz.com/settings/profile",
@@ -16613,7 +16629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x81c,
+		.id = 0x81e,
 		.name = "Stackhero",
 		.query = "stackhero",
 		.url = "https://www.stackhero.io/",
@@ -16621,7 +16637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x81d,
+		.id = 0x81f,
 		.name = "Stade Brestois (SB29)",
 		.query = "stade brestois sb29",
 		.url = "https://boutique.sb29.com/policies/terms-of-sale",
@@ -16629,7 +16645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x81e,
+		.id = 0x820,
 		.name = "Stake",
 		.query = "stake",
 		.url = "https://trading.hellostake.com/platform/update-profile/close-account",
@@ -16637,7 +16653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x81f,
+		.id = 0x821,
 		.name = "Stamplo",
 		.query = "stamplo",
 		.url = "https://stamplo.kids/parent/settings/delete",
@@ -16645,7 +16661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x820,
+		.id = 0x822,
 		.name = "Stan",
 		.query = "stan",
 		.url = "https://help.stan.com.au/hc/en-us/requests/new",
@@ -16653,7 +16669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x821,
+		.id = 0x823,
 		.name = "Standard Notes",
 		.query = "standard notes",
 		.url = "https://standardnotes.com/reset",
@@ -16661,7 +16677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x822,
+		.id = 0x824,
 		.name = "Star't",
 		.query = "start",
 		.url = "https://www.star-t.fr/account/profile",
@@ -16669,7 +16685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x823,
+		.id = 0x825,
 		.name = "Starbreeze",
 		.query = "starbreeze",
 		.url = "https://nebula.starbreeze.com/account/account-deletion",
@@ -16677,7 +16693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x824,
+		.id = 0x826,
 		.name = "Starbucks",
 		.query = "starbucks",
 		.url = "https://www.starbucks.com/terms/privacy-policy/#contact_us",
@@ -16685,7 +16701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x825,
+		.id = 0x827,
 		.name = "Stardock",
 		.query = "stardock",
 		.url = "https://stardock.atlassian.net/servicedesk/customer/portal/4/group/14/create/10143",
@@ -16693,7 +16709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x826,
+		.id = 0x828,
 		.name = "Startnext",
 		.query = "startnext",
 		.url = "https://www.startnext.com/help/FAQ.html#q74",
@@ -16701,7 +16717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x827,
+		.id = 0x829,
 		.name = "STAS - Agence en Ligne",
 		.query = "stas agence en ligne",
 		.url = "https://www.reseau-stas.fr/fr/nous-contacter/14/Contact",
@@ -16709,7 +16725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x828,
+		.id = 0x82a,
 		.name = "statcounter",
 		.query = "statcounter",
 		.url = "https://statcounter.com/close_account.php",
@@ -16717,7 +16733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x829,
+		.id = 0x82b,
 		.name = "Statista",
 		.query = "statista",
 		.url = "https://www.statista.com/profile/delete/",
@@ -16725,7 +16741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x82a,
+		.id = 0x82c,
 		.name = "StatusCake",
 		.query = "statuscake",
 		.url = "https://app.statuscake.com/User.php",
@@ -16733,7 +16749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x82b,
+		.id = 0x82d,
 		.name = "StatusInvest",
 		.query = "statusinvest",
 		.url = "https://statusinvest.com.br/usuario/configuracao",
@@ -16741,7 +16757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x82c,
+		.id = 0x82e,
 		.name = "Steam",
 		.query = "steam",
 		.url = "https://help.steampowered.com/en/wizard/HelpDeleteAccount",
@@ -16749,7 +16765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x82d,
+		.id = 0x82f,
 		.name = "SteamDB",
 		.query = "steamdb",
 		.url = "https://steamdb.info/signout/",
@@ -16757,7 +16773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x82e,
+		.id = 0x830,
 		.name = "SteamHistory",
 		.query = "steamhistory",
 		.url = "https://steamhistory.net/newbeta/terms-of-service",
@@ -16765,7 +16781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x82f,
+		.id = 0x831,
 		.name = "SteelSeries",
 		.query = "steelseries",
 		.url = "https://steelseries.com/dashboard/profile",
@@ -16773,7 +16789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x830,
+		.id = 0x832,
 		.name = "StepMap",
 		.query = "stepmap",
 		.url = "https://www.stepmap.de/profile.html#profile_delete",
@@ -16781,7 +16797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x831,
+		.id = 0x833,
 		.name = "StickK",
 		.query = "stickk",
 		.url = "https://stickk.zendesk.com/hc/en-us/requests/new",
@@ -16789,7 +16805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x832,
+		.id = 0x834,
 		.name = "Stoat",
 		.query = "stoat",
 		.url = "https://stoat.chat/settings",
@@ -16797,7 +16813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x833,
+		.id = 0x835,
 		.name = "Stocard",
 		.query = "stocard",
 		.url = "https://stocardapp.com/privacy",
@@ -16805,7 +16821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x834,
+		.id = 0x836,
 		.name = "Stock Informer",
 		.query = "stock informer",
 		.url = "https://www.stockinformer.com/myprofile.aspx",
@@ -16813,7 +16829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x835,
+		.id = 0x837,
 		.name = "Storenvy",
 		.query = "storenvy",
 		.url = "https://www.storenvy.com/account",
@@ -16821,7 +16837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x836,
+		.id = 0x838,
 		.name = "Storj",
 		.query = "storj",
 		.url = "https://docs.storj.io/dcs/billing-payment-and-accounts-1/closing-an-account/",
@@ -16829,7 +16845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x837,
+		.id = 0x839,
 		.name = "The StoryGraph",
 		.query = "the storygraph",
 		.url = "https://app.thestorygraph.com/profile/edit/",
@@ -16837,7 +16853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x838,
+		.id = 0x83a,
 		.name = "Strava",
 		.query = "strava",
 		.url = "https://www.strava.com/athlete/delete_your_account",
@@ -16845,7 +16861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x839,
+		.id = 0x83b,
 		.name = "Strawpoll",
 		.query = "strawpoll",
 		.url = "https://strawpoll.com/account/settings/",
@@ -16853,7 +16869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x83a,
+		.id = 0x83c,
 		.name = "Streamable",
 		.query = "streamable",
 		.url = "https://support.streamable.com/contact-us",
@@ -16861,7 +16877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x83b,
+		.id = 0x83d,
 		.name = "StreamLabs",
 		.query = "streamlabs",
 		.url = "https://getonstream.com/how-to-delete-a-streamlabs-account-easy-guide/",
@@ -16869,7 +16885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x83c,
+		.id = 0x83e,
 		.name = "StreamYard",
 		.query = "streamyard",
 		.url = "https://streamyard.com/account/settings",
@@ -16877,7 +16893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x83d,
+		.id = 0x83f,
 		.name = "Stripe",
 		.query = "stripe",
 		.url = "https://dashboard.stripe.com/settings/account",
@@ -16885,7 +16901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x83e,
+		.id = 0x840,
 		.name = "Stronghold Kingdoms",
 		.query = "stronghold kingdoms",
 		.url = "https://login.strongholdkingdoms.com/ajaxphp/main_ajax.php?event=ChangeGDPR&status=0",
@@ -16893,7 +16909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x83f,
+		.id = 0x841,
 		.name = "StudentBeans",
 		.query = "studentbeans",
 		.url = "https://accounts.studentbeans.com/us/my/account",
@@ -16901,7 +16917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x840,
+		.id = 0x842,
 		.name = "Studio",
 		.query = "studio",
 		.url = "https://studio.com/settings?page=advanced",
@@ -16909,7 +16925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x841,
+		.id = 0x843,
 		.name = "Studios New York",
 		.query = "studios new york",
 		.url = "https://www.studiosnewyork.com",
@@ -16917,7 +16933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x842,
+		.id = 0x844,
 		.name = "StudyClix",
 		.query = "studyclix",
 		.url = "https://www.studyclix.ie/FAQs#Contact_Us",
@@ -16925,7 +16941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x843,
+		.id = 0x845,
 		.name = "StudyMode",
 		.query = "studymode",
 		.url = "https://www.studymode.com/about-us/contact",
@@ -16933,7 +16949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x844,
+		.id = 0x846,
 		.name = "StumbleUpon",
 		.query = "stumbleupon",
 		.url = "https://www.stumbleupon.com/settings/delete-account",
@@ -16941,7 +16957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x845,
+		.id = 0x847,
 		.name = "Subaru Maps",
 		.query = "subaru maps",
 		.url = "https://subaru-maps.com/#/users/profile",
@@ -16949,7 +16965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x846,
+		.id = 0x848,
 		.name = "SubMeNow",
 		.query = "submenow",
 		.url = "https://www.submenow.com/account.html",
@@ -16957,7 +16973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x847,
+		.id = 0x849,
 		.name = "Substack",
 		.query = "substack",
 		.url = "https://substack.com/settings",
@@ -16965,7 +16981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x848,
+		.id = 0x84a,
 		.name = "SulAmérica",
 		.query = "sulamerica",
 		.url = "https://saude.sulamericaseguros.com.br/",
@@ -16973,7 +16989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x849,
+		.id = 0x84b,
 		.name = "Suno",
 		.query = "suno",
 		.url = "https://help.suno.com/en/articles/3480577",
@@ -16981,7 +16997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x84a,
+		.id = 0x84c,
 		.name = "Super Auto Pets",
 		.query = "super auto pets",
 		.url = "https://teamwood.itch.io/super-auto-pets",
@@ -16989,7 +17005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x84b,
+		.id = 0x84d,
 		.name = "Super Domínios",
 		.query = "super dominios",
 		.url = "https://superdominios.org/contato/",
@@ -16997,7 +17013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x84c,
+		.id = 0x84e,
 		.name = "Super Tux Kart",
 		.query = "super tux kart",
 		.url = "https://online.supertuxkart.net/users.php",
@@ -17005,7 +17021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x84d,
+		.id = 0x84f,
 		.name = "Supercell ID",
 		.query = "supercell id",
 		.url = "https://help.supercellsupport.com/clash-of-clans/en/articles/gdpr-request-deletion-of-your-personal-data.html",
@@ -17013,7 +17029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x84e,
+		.id = 0x850,
 		.name = "SuperNotes",
 		.query = "supernotes",
 		.url = "https://help.supernotes.app/en/articles/3063034-delete-your-account",
@@ -17021,7 +17037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x84f,
+		.id = 0x851,
 		.name = "SurfEasy",
 		.query = "surfeasy",
 		.url = "https://support.surfeasy.com/hc/en-us/articles/360000937226-What-can-I-request-under-the-GDPR-",
@@ -17029,7 +17045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x850,
+		.id = 0x852,
 		.name = "Surfshark",
 		.query = "surfshark",
 		.url = "https://my.surfshark.com/account/delete",
@@ -17037,7 +17053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x851,
+		.id = 0x853,
 		.name = "SurveyMonkey",
 		.query = "surveymonkey",
 		.url = "https://www.surveymonkey.com/user/account/",
@@ -17045,7 +17061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x852,
+		.id = 0x854,
 		.name = "Surveytime",
 		.query = "surveytime",
 		.url = "https://surveytime.io/privacy-policy",
@@ -17053,7 +17069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x853,
+		.id = 0x855,
 		.name = "Svbtle",
 		.query = "svbtle",
 		.url = "https://svbtle.com/settings/account",
@@ -17061,7 +17077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x854,
+		.id = 0x856,
 		.name = "Swagbucks",
 		.query = "swagbucks",
 		.url = "https://www.swagbucks.com/account/settings#tab=account",
@@ -17069,7 +17085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x855,
+		.id = 0x857,
 		.name = "Swappa.com",
 		.query = "swappacom",
 		.url = "https://swappa.com/my/profile",
@@ -17077,7 +17093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x856,
+		.id = 0x858,
 		.name = "Swift",
 		.query = "swift",
 		.url = " https://privacyportal.onetrust.com/webform/068883cc-1dae-4395-abfe-6eba2f29de47/d962e88c-edab-4c51-8428-9030bbaf552f",
@@ -17085,7 +17101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x857,
+		.id = 0x859,
 		.name = "Swiggy",
 		.query = "swiggy",
 		.url = "https://swiggy.com",
@@ -17093,7 +17109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x858,
+		.id = 0x85a,
 		.name = "SwissPass / SBB CFF FFS",
 		.query = "swisspass sbb cff ffs",
 		.url = "https://www.swisspass.ch/kunde/logindaten?lang=en#kontoLoeschen",
@@ -17101,7 +17117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x859,
+		.id = 0x85b,
 		.name = "Sync.com",
 		.query = "synccom",
 		.url = "https://cp.sync.com/account/info",
@@ -17109,7 +17125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x85a,
+		.id = 0x85c,
 		.name = "Syncfusion",
 		.query = "syncfusion",
 		.url = "https://www.syncfusion.com/account/my-profile",
@@ -17117,7 +17133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x85b,
+		.id = 0x85d,
 		.name = "Synchro Mobilités",
 		.query = "synchro mobilites",
 		.url = "https://start.synchro.grandchambery.fr/fr/compte/informations",
@@ -17125,7 +17141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x85c,
+		.id = 0x85e,
 		.name = "Synology",
 		.query = "synology",
 		.url = "https://account.synology.com/en-us/profile",
@@ -17133,7 +17149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x85d,
+		.id = 0x85f,
 		.name = "System76",
 		.query = "system76",
 		.url = "https://system76.com/privacy",
@@ -17141,7 +17157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x85e,
+		.id = 0x860,
 		.name = "T-Mobile",
 		.query = "tmobile",
 		.url = "https://privacyportal-t-mobile.my.onetrust.com/webform/d4a925f0-4ebf-40ba-817b-bccc309e602f/7831d667-1ebc-4b1e-a941-e545cb0d0523",
@@ -17149,7 +17165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x85f,
+		.id = 0x861,
 		.name = "T2C Alertes",
 		.query = "t2c alertes",
 		.url = "https://www.t2c.fr/formulaire/nous-contacter",
@@ -17157,7 +17173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x860,
+		.id = 0x862,
 		.name = "T2C Boutique",
 		.query = "t2c boutique",
 		.url = "https://eboutique.smtc-clermont.fr/en/account/informations",
@@ -17165,7 +17181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x861,
+		.id = 0x863,
 		.name = "Tablondeanuncios.com",
 		.query = "tablondeanuncioscom",
 		.url = "https://www.tablondeanuncios.com/mis-anuncios/",
@@ -17173,7 +17189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x862,
+		.id = 0x864,
 		.name = "Tabnine",
 		.query = "tabnine",
 		.url = "https://tabnine.com",
@@ -17181,7 +17197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x863,
+		.id = 0x865,
 		.name = "TAC Mobilités",
 		.query = "tac mobilites",
 		.url = "https://www.tac-mobilites.fr/account/profile",
@@ -17189,7 +17205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x864,
+		.id = 0x866,
 		.name = "Tagged",
 		.query = "tagged",
 		.url = "https://tagged.com/account_cancel.html",
@@ -17197,7 +17213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x865,
+		.id = 0x867,
 		.name = "Taiga",
 		.query = "taiga",
 		.url = "https://tree.taiga.io/user-settings/user-profile",
@@ -17205,7 +17221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x866,
+		.id = 0x868,
 		.name = "Tailscale",
 		.query = "tailscale",
 		.url = "https://tailscale.com/kb/1237/delete-tailnet",
@@ -17213,7 +17229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x867,
+		.id = 0x869,
 		.name = "The Takeout",
 		.query = "the takeout",
 		.url = "https://notice.sp-prod.net/sar/index.html?message_id=539278&account_id=1195&ccpa_type=delete",
@@ -17221,7 +17237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x868,
+		.id = 0x86a,
 		.name = "Tandoor",
 		.query = "tandoor",
 		.url = "https://tandoor.dev/privacy/",
@@ -17229,7 +17245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x869,
+		.id = 0x86b,
 		.name = "Tanga",
 		.query = "tanga",
 		.url = "https://www.tanga.com/support",
@@ -17237,7 +17253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x86a,
+		.id = 0x86c,
 		.name = "Tango",
 		.query = "tango",
 		.url = "https://help.tango.me/en/articles/2985296-how-do-i-delete-my-tango-account",
@@ -17245,7 +17261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x86b,
+		.id = 0x86d,
 		.name = "Tanki Online",
 		.query = "tanki online",
 		.url = "https://tankionline.com",
@@ -17253,7 +17269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x86c,
+		.id = 0x86e,
 		.name = "Tapas",
 		.query = "tapas",
 		.url = "https://tapas.io/profile/settings",
@@ -17261,7 +17277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x86d,
+		.id = 0x86f,
 		.name = "TapTap",
 		.query = "taptap",
 		.url = "https://accounts.taptap.io/delete-account",
@@ -17269,7 +17285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x86e,
+		.id = 0x870,
 		.name = "Target",
 		.query = "target",
 		.url = "https://www.target.com/ccpa-intake-form",
@@ -17277,7 +17293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x86f,
+		.id = 0x871,
 		.name = "targetjobs",
 		.query = "targetjobs",
 		.url = "https://targetjobs.co.uk/account/settings",
@@ -17285,7 +17301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x870,
+		.id = 0x872,
 		.name = "TargetProcess",
 		.query = "targetprocess",
 		.url = "https://www.targetprocess.com",
@@ -17293,7 +17309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x871,
+		.id = 0x873,
 		.name = "Taskade",
 		.query = "taskade",
 		.url = "https://www.taskade.com/settings",
@@ -17301,7 +17317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x872,
+		.id = 0x874,
 		.name = "Tastebuds",
 		.query = "tastebuds",
 		.url = "https://tastebuds.fm/user_deletions/confirm_delete_reason",
@@ -17309,7 +17325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x873,
+		.id = 0x875,
 		.name = "TastyWorks",
 		.query = "tastyworks",
 		.url = "https://support.tastyworks.com/support/solutions/articles/43000435334-close-account",
@@ -17317,7 +17333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x874,
+		.id = 0x876,
 		.name = "TCL",
 		.query = "tcl",
 		.url = "https://www.tcl.com/deleteaccount/",
@@ -17325,7 +17341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x875,
+		.id = 0x877,
 		.name = "TCL à la demande",
 		.query = "tcl a la demande",
 		.url = "https://tad.tcl.fr/profile",
@@ -17333,7 +17349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x876,
+		.id = 0x878,
 		.name = "Teachable",
 		.query = "teachable",
 		.url = "https://support.teachable.com/hc/en-us/articles/5540634496525-Delete-Your-School-or-Account#Deleteyouruseraccount",
@@ -17341,7 +17357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x877,
+		.id = 0x879,
 		.name = "Teachoo",
 		.query = "teachoo",
 		.url = "https://www.teachoo.com/contact/",
@@ -17349,7 +17365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x878,
+		.id = 0x87a,
 		.name = "TeamGantt",
 		.query = "teamgantt",
 		.url = "https://app.teamgantt.com/admin/account-settings",
@@ -17357,7 +17373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x879,
+		.id = 0x87b,
 		.name = "Teams",
 		.query = "teams",
 		.url = "https://account.live.com/closeaccount.aspx",
@@ -17365,7 +17381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x87a,
+		.id = 0x87c,
 		.name = "TeamSpeak",
 		.query = "teamspeak",
 		.url = "https://www.myteamspeak.com/my-account",
@@ -17373,7 +17389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x87b,
+		.id = 0x87d,
 		.name = "TeamViewer",
 		.query = "teamviewer",
 		.url = "https://login.teamviewer.com",
@@ -17381,7 +17397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x87c,
+		.id = 0x87e,
 		.name = "Tebex",
 		.query = "tebex",
 		.url = "https://server.tebex.io",
@@ -17389,7 +17405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x87d,
+		.id = 0x87f,
 		.name = "Technic Platform & Technic Forums",
 		.query = "technic platform technic forums",
 		.url = "https://forums.technicpack.net/topic/322688-platform-forum-account-deletion-requests",
@@ -17397,7 +17413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x87e,
+		.id = 0x880,
 		.name = "TED",
 		.query = "ted",
 		.url = "https://help.ted.com/hc/en-us/articles/360005310614-How-do-I-create-TED-Ed-Accounts#:~:text=How%20can%20I%20delete%20my%20TED%2DEd%20account",
@@ -17405,7 +17421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x87f,
+		.id = 0x881,
 		.name = "Teespring",
 		.query = "teespring",
 		.url = "https://forms.gle/T8LQEYdQrwRoTa469 ",
@@ -17413,7 +17429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x880,
+		.id = 0x882,
 		.name = "Teladoc",
 		.query = "teladoc",
 		.url = "https://member.teladoc.com/help/contact",
@@ -17421,7 +17437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x881,
+		.id = 0x883,
 		.name = "Telegram",
 		.query = "telegram",
 		.url = "https://telegram.org/deactivate",
@@ -17429,7 +17445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x882,
+		.id = 0x884,
 		.name = "Telltale",
 		.query = "telltale",
 		.url = "https://account.telltale.com/account/settings",
@@ -17437,7 +17453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x883,
+		.id = 0x885,
 		.name = "TEMPO",
 		.query = "tempo",
 		.url = "https://tempo.eu.com",
@@ -17445,7 +17461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x884,
+		.id = 0x886,
 		.name = "Temu",
 		.query = "temu",
 		.url = "https://www.temu.com/bgp_close_account.html",
@@ -17453,7 +17469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x885,
+		.id = 0x887,
 		.name = "Ten Percent Happier",
 		.query = "ten percent happier",
 		.url = "https://support.tenpercent.com/article/22-how-do-i-delete-my-account",
@@ -17461,7 +17477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x886,
+		.id = 0x888,
 		.name = "Tenor",
 		.query = "tenor",
 		.url = "https://support.google.com/tenor/answer/10455265?hl=en#zippy=%2Chow-can-i-terminate-my-tenor-account",
@@ -17469,7 +17485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x887,
+		.id = 0x889,
 		.name = "Tenso",
 		.query = "tenso",
 		.url = "https://www.tenso.com/en/inquiry",
@@ -17477,7 +17493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x888,
+		.id = 0x88a,
 		.name = "Termius",
 		.query = "termius",
 		.url = "https://account.termius.com/",
@@ -17485,7 +17501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x889,
+		.id = 0x88b,
 		.name = "Terms of Service; Didn't Read",
 		.query = "terms of service didnt read",
 		.url = "https://edit.tosdr.org/users/edit",
@@ -17493,7 +17509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x88a,
+		.id = 0x88c,
 		.name = "TerraCycle",
 		.query = "terracycle",
 		.url = "https://help.us.terracycle.com/hc/en-us/articles/360060676652-How-can-I-delete-my-account-",
@@ -17501,7 +17517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x88b,
+		.id = 0x88d,
 		.name = "Terraform Cloud",
 		.query = "terraform cloud",
 		.url = "https://support.hashicorp.com/hc/en-us/articles/1500002617421-Deleting-Terraform-Cloud-Accounts",
@@ -17509,7 +17525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x88c,
+		.id = 0x88e,
 		.name = "Tesla",
 		.query = "tesla",
 		.url = "https://www.tesla.com/support/how-create-or-delete-tesla-account#deleting-your-tesla-account",
@@ -17517,7 +17533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x88d,
+		.id = 0x88f,
 		.name = "Testbirds",
 		.query = "testbirds",
 		.url = "https://nest.testbirds.com/faq/category/list#accordion_faq-167",
@@ -17525,7 +17541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x88e,
+		.id = 0x890,
 		.name = "Teuxdeux",
 		.query = "teuxdeux",
 		.url = "https://teuxdeux.com/account/request-delete",
@@ -17533,7 +17549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x88f,
+		.id = 0x891,
 		.name = "Texas Instruments (TI)",
 		.query = "texas instruments ti",
 		.url = "www.ti.com/feedbackform/home",
@@ -17541,7 +17557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x890,
+		.id = 0x892,
 		.name = "Text.ru",
 		.query = "textru",
 		.url = "https://text.ru/user/profile/settings/secure",
@@ -17549,7 +17565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x891,
+		.id = 0x893,
 		.name = "TextNow",
 		.query = "textnow",
 		.url = "https://www.textnow.com/account/new#requestDataDeletionDisclosure",
@@ -17557,7 +17573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x892,
+		.id = 0x894,
 		.name = "textPlus",
 		.query = "textplus",
 		.url = "https://help.textplus.com/portal/en/kb/articles/how-can-i-delete-my-account",
@@ -17565,7 +17581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x893,
+		.id = 0x895,
 		.name = "Textures.com",
 		.query = "texturescom",
 		.url = "https://www.textures.com/my-account/delete",
@@ -17573,7 +17589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x894,
+		.id = 0x896,
 		.name = "TheHub",
 		.query = "thehub",
 		.url = "https://thehub.io/contact",
@@ -17581,7 +17597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x895,
+		.id = 0x897,
 		.name = "Themeplaza",
 		.query = "themeplaza",
 		.url = "https://themeplaza.art/contact",
@@ -17589,7 +17605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x896,
+		.id = 0x898,
 		.name = "TheMovieDB",
 		.query = "themoviedb",
 		.url = "https://www.themoviedb.org/settings/delete-account",
@@ -17597,7 +17613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x897,
+		.id = 0x899,
 		.name = "Theta TV",
 		.query = "theta tv",
 		.url = "https://community.theta.tv/general-data-protection-gdpr-data-deletion-requests/",
@@ -17605,7 +17621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x898,
+		.id = 0x89a,
 		.name = "TheTVDB",
 		.query = "thetvdb",
 		.url = "https://thetvdb.com/dashboard/account/editinfo",
@@ -17613,7 +17629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x899,
+		.id = 0x89b,
 		.name = "Thingiverse",
 		.query = "thingiverse",
 		.url = "https://support.makerbot.com/s/article/MakerBot-Account-Information",
@@ -17621,7 +17637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x89a,
+		.id = 0x89c,
 		.name = "Things",
 		.query = "things",
 		.url = "https://support.culturedcode.com/customer/en/portal/articles/2803591-deleting-your-account-data",
@@ -17629,7 +17645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x89b,
+		.id = 0x89d,
 		.name = "Thomann",
 		.query = "thomann",
 		.url = "https://www.thomann.de/de/compinfo_contact.html",
@@ -17637,7 +17653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x89c,
+		.id = 0x89e,
 		.name = "Threads",
 		.query = "threads",
 		.url = "https://www.threads.com/settings/account",
@@ -17645,7 +17661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x89d,
+		.id = 0x89f,
 		.name = "Threema",
 		.query = "threema",
 		.url = "https://myid.threema.ch/revoke",
@@ -17653,7 +17669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x89e,
+		.id = 0x8a0,
 		.name = "Thrive Market",
 		.query = "thrive market",
 		.url = "https://thrivemarket.com/privacy-policy",
@@ -17661,7 +17677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x89f,
+		.id = 0x8a1,
 		.name = "Ticketcorner",
 		.query = "ticketcorner",
 		.url = "https://www.ticketcorner.ch/helpcenter/en/",
@@ -17669,7 +17685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8a0,
+		.id = 0x8a2,
 		.name = "Ticketmaster",
 		.query = "ticketmaster",
 		.url = "https://privacyportal.onetrust.com/webform/ba6f9c5b-dda5-43bd-bac4-4e06afccd928/968ed217-e724-4a6b-8bc0-7cb2a2c10c47",
@@ -17677,7 +17693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8a1,
+		.id = 0x8a3,
 		.name = "TicketWeb",
 		.query = "ticketweb",
 		.url = "https://help.ticketweb.co.uk/hc/en-gb/articles/360007874593-How-do-I-close-my-Ticketweb-account-",
@@ -17685,7 +17701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8a2,
+		.id = 0x8a4,
 		.name = "TickTick",
 		.query = "ticktick",
 		.url = "https://help.ticktick.com/articles/7136181511681736704",
@@ -17693,7 +17709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8a3,
+		.id = 0x8a5,
 		.name = "TIDAL",
 		.query = "tidal",
 		.url = "https://account.tidal.com/account-deletion",
@@ -17701,7 +17717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x8a4,
+		.id = 0x8a6,
 		.name = "TikTok",
 		.query = "tiktok",
 		.url = "https://www.tiktok.com",
@@ -17709,7 +17725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x8a5,
+		.id = 0x8a7,
 		.name = "TikTok Developer",
 		.query = "tiktok developer",
 		.url = "https://developers.tiktok.com/support/",
@@ -17717,7 +17733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8a6,
+		.id = 0x8a8,
 		.name = "TikVPN",
 		.query = "tikvpn",
 		.url = "https://www.tikvpn.com/account",
@@ -17725,7 +17741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8a7,
+		.id = 0x8a9,
 		.name = "Time and Date",
 		.query = "time and date",
 		.url = "https://www.timeanddate.com/custom/modify.html",
@@ -17733,7 +17749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8a8,
+		.id = 0x8aa,
 		.name = "Timus Online Judge (TOJ)",
 		.query = "timus online judge toj",
 		.url = "https://acm.timus.ru/",
@@ -17741,7 +17757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x8a9,
+		.id = 0x8ab,
 		.name = "Tinder",
 		.query = "tinder",
 		.url = "https://tinder.com/app/profile",
@@ -17749,7 +17765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8aa,
+		.id = 0x8ac,
 		.name = "TinyLetter",
 		.query = "tinyletter",
 		.url = "https://app.tinyletter.com/#!/account/delete",
@@ -17757,7 +17773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8ab,
+		.id = 0x8ad,
 		.name = "Tisséo",
 		.query = "tisseo",
 		.url = "https://moncompte.tisseo.fr/fr/questions-frequentes?question=comment-supprimer-mon-compte",
@@ -17765,7 +17781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8ac,
+		.id = 0x8ae,
 		.name = "TKirch.dev",
 		.query = "tkirchdev",
 		.url = "https://tkirch.dev/account-management/",
@@ -17773,7 +17789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8ad,
+		.id = 0x8af,
 		.name = "TLauncher",
 		.query = "tlauncher",
 		.url = "https://tlauncher.org/en/how-remove-tl-account.html",
@@ -17781,7 +17797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8ae,
+		.id = 0x8b0,
 		.name = "Today's Wordle",
 		.query = "todays wordle",
 		.url = "https://todayswordle.net/account/settings/deletion",
@@ -17789,7 +17805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8af,
+		.id = 0x8b1,
 		.name = "Todo Cloud",
 		.query = "todo cloud",
 		.url = "https://support.appigo.com/support/solutions/articles/4000180942-how-to-delete-my-todo-cloud-account",
@@ -17797,7 +17813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8b0,
+		.id = 0x8b2,
 		.name = "Todoist",
 		.query = "todoist",
 		.url = "https://todoist.com/app/settings/account",
@@ -17805,7 +17821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8b1,
+		.id = 0x8b3,
 		.name = "Toggl Track",
 		.query = "toggl track",
 		.url = "https://track.toggl.com/profile",
@@ -17813,7 +17829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8b2,
+		.id = 0x8b4,
 		.name = "Tois Bet",
 		.query = "tois bet",
 		.url = "https://toisbet.com/ptb/contents/self-exclusion",
@@ -17821,7 +17837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8b3,
+		.id = 0x8b5,
 		.name = "Tokopedia",
 		.query = "tokopedia",
 		.url = "https://www.tokopedia.com/help/article/apakah-saya-dapat-menghapus-akun-tokopedia",
@@ -17829,7 +17845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8b4,
+		.id = 0x8b6,
 		.name = "Toluna",
 		.query = "toluna",
 		.url = "https://us.toluna.com/contactus",
@@ -17837,7 +17853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8b5,
+		.id = 0x8b7,
 		.name = "TomTom GO",
 		.query = "tomtom go",
 		.url = "https://help.tomtom.com/hc/en-gb/requests/new?ticket_form_id=360000697820",
@@ -17845,7 +17861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8b6,
+		.id = 0x8b8,
 		.name = "Tonton Outdoor",
 		.query = "tonton outdoor",
 		.url = "https://www.tonton-outdoor.com/fr_FR/supprimer-mon-compte",
@@ -17853,7 +17869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8b7,
+		.id = 0x8b9,
 		.name = "Too Good To Go",
 		.query = "too good to go",
 		.url = "https://space.toogoodtogo.com/privacy",
@@ -17861,7 +17877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8b8,
+		.id = 0x8ba,
 		.name = "ToolsForImage",
 		.query = "toolsforimage",
 		.url = "https://www.toolsforimage.com/contact-us",
@@ -17869,7 +17885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8b9,
+		.id = 0x8bb,
 		.name = "Top Universities",
 		.query = "top universities",
 		.url = "https://www.topuniversities.com/user/account-details#accountSettings",
@@ -17877,7 +17893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8ba,
+		.id = 0x8bc,
 		.name = "Topcoder",
 		.query = "topcoder",
 		.url = "https://www.topcoder.com",
@@ -17885,7 +17901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x8bb,
+		.id = 0x8bd,
 		.name = "Topface",
 		.query = "topface",
 		.url = "https://topface.com/delete-profile/",
@@ -17893,7 +17909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8bc,
+		.id = 0x8be,
 		.name = "Toptal",
 		.query = "toptal",
 		.url = "https://www.toptal.com/privacy",
@@ -17901,7 +17917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8bd,
+		.id = 0x8bf,
 		.name = "Tor Project",
 		.query = "tor project",
 		.url = "https://trac.torproject.org",
@@ -17909,7 +17925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x8be,
+		.id = 0x8c0,
 		.name = "TorBox",
 		.query = "torbox",
 		.url = "https://torbox.app/settings?section=account",
@@ -17917,7 +17933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x8bf,
+		.id = 0x8c1,
 		.name = "Torn",
 		.query = "torn",
 		.url = "https://www.torn.com/preferences.php#tab=accountClosure",
@@ -17925,7 +17941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8c0,
+		.id = 0x8c2,
 		.name = "Toronto Star",
 		.query = "toronto star",
 		.url = "https://www.thestar.com/about/privacy-anti-spam-notice-with-privacy-policy-and-terms-of-use-for-google-play-store.html",
@@ -17933,7 +17949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8c1,
+		.id = 0x8c3,
 		.name = "Toyota.de",
 		.query = "toyotade",
 		.url = "https://www.toyota.de/apps/customerportal#/publish/customer_portal_profile",
@@ -17941,7 +17957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8c2,
+		.id = 0x8c4,
 		.name = "TP-Link Cloud",
 		.query = "tplink cloud",
 		.url = "https://account-delete.tplinkcloud.com/",
@@ -17949,7 +17965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8c3,
+		.id = 0x8c5,
 		.name = "Trabalha Brasil",
 		.query = "trabalha brasil",
 		.url = "https://www.trabalhabrasil.com.br/fale-conosco",
@@ -17957,7 +17973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8c4,
+		.id = 0x8c6,
 		.name = "The Tracktor",
 		.query = "the tracktor",
 		.url = "https://thetracktor.com/account/close",
@@ -17965,7 +17981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8c5,
+		.id = 0x8c7,
 		.name = "TradeMe",
 		.query = "trademe",
 		.url = "https://help.trademe.co.nz/hc/en-us/articles/360007000092#h_01GBNRBS8NG0QNNRWXCV7RVWDS",
@@ -17973,7 +17989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8c6,
+		.id = 0x8c8,
 		.name = "Trading 212",
 		.query = "trading 212",
 		.url = "https://app.trading212.com",
@@ -17981,7 +17997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8c7,
+		.id = 0x8c9,
 		.name = "TradingView",
 		.query = "tradingview",
 		.url = "https://www.tradingview.com/settings/#account-settings",
@@ -17989,7 +18005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8c8,
+		.id = 0x8ca,
 		.name = "Traduc.com",
 		.query = "traduccom",
 		.url = "https://traduc.com/users/edit",
@@ -17997,7 +18013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8c9,
+		.id = 0x8cb,
 		.name = "Tragicbeautiful",
 		.query = "tragicbeautiful",
 		.url = "https://tragicbeautiful.com",
@@ -18005,7 +18021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8ca,
+		.id = 0x8cc,
 		.name = "Trakt",
 		.query = "trakt",
 		.url = "https://trakt.tv/settings/advanced",
@@ -18013,7 +18029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8cb,
+		.id = 0x8cd,
 		.name = "Transcript LOL",
 		.query = "transcript lol",
 		.url = "https://transcript.lol/dashboard/account/settings/delete-account/start",
@@ -18021,7 +18037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8cc,
+		.id = 0x8ce,
 		.name = "TransferXL",
 		.query = "transferxl",
 		.url = "https://transferxl.com/profile",
@@ -18029,7 +18045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8cd,
+		.id = 0x8cf,
 		.name = "Transifex",
 		.query = "transifex",
 		.url = "https://app.transifex.com/user/settings/",
@@ -18037,7 +18053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8ce,
+		.id = 0x8d0,
 		.name = "Transpocket",
 		.query = "transpocket",
 		.url = "https://transpocket.com/",
@@ -18045,7 +18061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8cf,
+		.id = 0x8d1,
 		.name = "TrashMail",
 		.query = "trashmail",
 		.url = "https://trashmail.com/?lang=en&cmd=manager",
@@ -18053,7 +18069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8d0,
+		.id = 0x8d2,
 		.name = "tree-nation",
 		.query = "treenation",
 		.url = "https://tree-nation.com/userProfile/settings",
@@ -18061,7 +18077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8d1,
+		.id = 0x8d3,
 		.name = "Trello",
 		.query = "trello",
 		.url = "https://trello.com/your/account",
@@ -18069,7 +18085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8d2,
+		.id = 0x8d4,
 		.name = "Trenitalia",
 		.query = "trenitalia",
 		.url = "https://www.trenitalia.com/en/info_contacts/delete-account.html",
@@ -18077,7 +18093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8d3,
+		.id = 0x8d5,
 		.name = "Trenitalia France",
 		.query = "trenitalia france",
 		.url = "https://www.trenitalia.com/trenitalia-france/information-and-contacts/comment-supprimer-un-espace-reserve.html",
@@ -18085,7 +18101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8d4,
+		.id = 0x8d6,
 		.name = "Tresorit",
 		.query = "tresorit",
 		.url = "https://web.tresorit.com/account/profile",
@@ -18093,7 +18109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8d5,
+		.id = 0x8d7,
 		.name = "Trillian",
 		.query = "trillian",
 		.url = "https://trillian.im/account/#delete",
@@ -18101,7 +18117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8d6,
+		.id = 0x8d8,
 		.name = "TripAdvisor",
 		.query = "tripadvisor",
 		.url = "https://www.tripadvisorsupport.com/hc/en-us/articles/200615117",
@@ -18109,7 +18125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8d7,
+		.id = 0x8d9,
 		.name = "TripIt",
 		.query = "tripit",
 		.url = "https://www.tripit.com/account/delete",
@@ -18117,7 +18133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8d8,
+		.id = 0x8da,
 		.name = "Triptipedia",
 		.query = "triptipedia",
 		.url = "https://www.triptipedia.com/account/delete",
@@ -18125,7 +18141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8d9,
+		.id = 0x8db,
 		.name = "Troll and Toad",
 		.query = "troll and toad",
 		.url = "https://www.trollandtoad.com/contact.php",
@@ -18133,7 +18149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8da,
+		.id = 0x8dc,
 		.name = "TruckersMP",
 		.query = "truckersmp",
 		.url = "https://truckersmp.com/profile/delete",
@@ -18141,7 +18157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8db,
+		.id = 0x8dd,
 		.name = "TrueNAS Forums",
 		.query = "truenas forums",
 		.url = "https://forums.truenas.com/",
@@ -18149,7 +18165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8dc,
+		.id = 0x8de,
 		.name = "TrueNAS Forums (old)",
 		.query = "truenas forums old",
 		.url = "https://www.truenas.com/community/help/privacy-policy/",
@@ -18157,7 +18173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8dd,
+		.id = 0x8df,
 		.name = "Trustpilot",
 		.query = "trustpilot",
 		.url = "https://www.trustpilot.com/users/settings",
@@ -18165,7 +18181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8de,
+		.id = 0x8e0,
 		.name = "TruthFinder",
 		.query = "truthfinder",
 		.url = "https://www.truthfinder.com/privacy-center",
@@ -18173,7 +18189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8df,
+		.id = 0x8e1,
 		.name = "TryHackMe",
 		.query = "tryhackme",
 		.url = "https://tryhackme.com/manage-account/account-details",
@@ -18181,7 +18197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8e0,
+		.id = 0x8e2,
 		.name = "TubeBuddy",
 		.query = "tubebuddy",
 		.url = "https://www.tubebuddy.com/account/deleteuser",
@@ -18189,7 +18205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8e1,
+		.id = 0x8e3,
 		.name = "Tubi",
 		.query = "tubi",
 		.url = "https://tubitv.com/account",
@@ -18197,7 +18213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8e2,
+		.id = 0x8e4,
 		.name = "Tumblr",
 		.query = "tumblr",
 		.url = "https://www.tumblr.com/account/delete",
@@ -18205,7 +18221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8e3,
+		.id = 0x8e5,
 		.name = "Tunecore",
 		.query = "tunecore",
 		.url = "https://support.tunecore.com/hc/en-us/articles/115006687268-How-do-I-close-my-account",
@@ -18213,7 +18229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8e4,
+		.id = 0x8e6,
 		.name = "TuneMyMusic",
 		.query = "tunemymusic",
 		.url = "https://app.tunemymusic.com/settings",
@@ -18221,7 +18237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8e5,
+		.id = 0x8e7,
 		.name = "TunnelBear",
 		.query = "tunnelbear",
 		.url = "https://www.tunnelbear.com/account/remove",
@@ -18229,7 +18245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8e6,
+		.id = 0x8e8,
 		.name = "TurboScribe",
 		.query = "turboscribe",
 		.url = "https://turboscribe.ai/account",
@@ -18237,7 +18253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8e7,
+		.id = 0x8e9,
 		.name = "TurboSquid",
 		.query = "turbosquid",
 		.url = "https://resources.turbosquid.com/how-do-i-close-my-account/",
@@ -18245,7 +18261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x8e8,
+		.id = 0x8ea,
 		.name = "Turing",
 		.query = "turing",
 		.url = "https://developers.turing.com/dashboard/account",
@@ -18253,7 +18269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8e9,
+		.id = 0x8eb,
 		.name = "Turismo Itaipu",
 		.query = "turismo itaipu",
 		.url = "https://ingressos.turismoitaipu.com.br",
@@ -18261,7 +18277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8ea,
+		.id = 0x8ec,
 		.name = "Turo",
 		.query = "turo",
 		.url = "https://support.turo.com/hc/en-us/articles/203991030-How-to-close-your-account",
@@ -18269,7 +18285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8eb,
+		.id = 0x8ed,
 		.name = "Turtl",
 		.query = "turtl",
 		.url = "https://turtlapp.com/users/delete/",
@@ -18277,7 +18293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8ec,
+		.id = 0x8ee,
 		.name = "Tutamail",
 		.query = "tutamail",
 		.url = "https://app.tuta.com/settings/global",
@@ -18285,7 +18301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8ed,
+		.id = 0x8ef,
 		.name = "TV 2",
 		.query = "tv 2",
 		.url = "https://mit.tv2.dk/konto/luk",
@@ -18293,7 +18309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8ee,
+		.id = 0x8f0,
 		.name = "TV Tropes",
 		.query = "tv tropes",
 		.url = "https://tvtropes.org/pmwiki/profile.php",
@@ -18301,7 +18317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8ef,
+		.id = 0x8f1,
 		.name = "Tweek",
 		.query = "tweek",
 		.url = "https://tweek.so/calendar/help",
@@ -18309,7 +18325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8f0,
+		.id = 0x8f2,
 		.name = "Twilio",
 		.query = "twilio",
 		.url = "https://support.twilio.com/hc/en-us/requests/new",
@@ -18317,7 +18333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8f1,
+		.id = 0x8f3,
 		.name = "Twitch",
 		.query = "twitch",
 		.url = "https://www.twitch.tv/user/delete-account",
@@ -18325,7 +18341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8f2,
+		.id = 0x8f4,
 		.name = "Twitch services (RPG...)",
 		.query = "twitch services rpg",
 		.url = "https://legal.twitch.com/en/legal/privacy-notice/#data-subject-rights-and-your-choices",
@@ -18333,7 +18349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8f3,
+		.id = 0x8f5,
 		.name = "twoseven",
 		.query = "twoseven",
 		.url = "https://twoseven.xyz/help/faq",
@@ -18341,7 +18357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8f4,
+		.id = 0x8f6,
 		.name = "Typeform",
 		.query = "typeform",
 		.url = "https://help.typeform.com/hc/en-us/articles/360029631211-The-right-to-be-forgotten",
@@ -18349,7 +18365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8f5,
+		.id = 0x8f7,
 		.name = "TypePad",
 		.query = "typepad",
 		.url = "https://www.typepad.com/secure/account/cancel-account",
@@ -18357,7 +18373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8f6,
+		.id = 0x8f8,
 		.name = "TypeRacer",
 		.query = "typeracer",
 		.url = "https://data.typeracer.com/pit/delete_account",
@@ -18365,7 +18381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8f7,
+		.id = 0x8f9,
 		.name = "Typing.com",
 		.query = "typingcom",
 		.url = "https://www.typing.com/student/account",
@@ -18373,7 +18389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8f8,
+		.id = 0x8fa,
 		.name = "TypingClub / EdClub",
 		.query = "typingclub edclub",
 		.url = "https://www.edclub.com/sportal/profile.html",
@@ -18381,7 +18397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8f9,
+		.id = 0x8fb,
 		.name = "Uber",
 		.query = "uber",
 		.url = "https://myprivacy.uber.com/privacy/deleteyouraccount",
@@ -18389,7 +18405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x8fa,
+		.id = 0x8fc,
 		.name = "Ubiquiti",
 		.query = "ubiquiti",
 		.url = "https://www.ui.com/global-request/",
@@ -18397,7 +18413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8fb,
+		.id = 0x8fd,
 		.name = "Ubisoft",
 		.query = "ubisoft",
 		.url = "https://account.ubisoft.com/en-US/account-information/delete-account",
@@ -18405,7 +18421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8fc,
+		.id = 0x8fe,
 		.name = "Ubuntu One",
 		.query = "ubuntu one",
 		.url = "https://login.ubuntu.com/+faq#can-i-delete-my-ubuntu-one-account",
@@ -18413,7 +18429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x8fd,
+		.id = 0x8ff,
 		.name = "Udacity",
 		.query = "udacity",
 		.url = "https://udacity.trsnd.co/policies?action=ERASURE&modal=take-control",
@@ -18421,7 +18437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x8fe,
+		.id = 0x900,
 		.name = "Udemy",
 		.query = "udemy",
 		.url = "https://www.udemy.com/user/close-account/",
@@ -18429,7 +18445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x8ff,
+		.id = 0x901,
 		.name = "UFC Fight Pass",
 		.query = "ufc fight pass",
 		.url = "https://www.ufc.com/faq-ufctv-ufcfightpass",
@@ -18437,7 +18453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x900,
+		.id = 0x902,
 		.name = "UGC",
 		.query = "ugc",
 		.url = "https://www.ugc.fr/aide.html?question=supprimer-compte-ugc",
@@ -18445,7 +18461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x901,
+		.id = 0x903,
 		.name = "ukr.net",
 		.query = "ukrnet",
 		.url = "https://accounts.ukr.net/settings/delete",
@@ -18453,7 +18469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x902,
+		.id = 0x904,
 		.name = "Ultimate Guitar",
 		.query = "ultimate guitar",
 		.url = "https://www.ultimate-guitar.com/forum/profile/delete-account",
@@ -18461,7 +18477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x903,
+		.id = 0x905,
 		.name = "Ulule",
 		.query = "ulule",
 		.url = "https://www.ulule.com/",
@@ -18469,7 +18485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x904,
+		.id = 0x906,
 		.name = "umami",
 		.query = "umami",
 		.url = "https://cloud.umami.is/account",
@@ -18477,7 +18493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x905,
+		.id = 0x907,
 		.name = "Uncubed",
 		.query = "uncubed",
 		.url = "https://uncubed.com/learn/users/edit",
@@ -18485,7 +18501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x906,
+		.id = 0x908,
 		.name = "Uncyclopedia",
 		.query = "uncyclopedia",
 		.url = "https://en.uncyclopedia.co/wiki/Uncyclopedia:Delete_my_account",
@@ -18493,7 +18509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x907,
+		.id = 0x909,
 		.name = "Unfuddle Ten",
 		.query = "unfuddle ten",
 		.url = "https://unfuddle.io/app",
@@ -18501,7 +18517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x908,
+		.id = 0x90a,
 		.name = "Unidays",
 		.query = "unidays",
 		.url = "https://www.myunidays.com/US/en-US/account/settings/delete",
@@ -18509,7 +18525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x909,
+		.id = 0x90b,
 		.name = "Uniqlo",
 		.query = "uniqlo",
 		.url = "https://www.uniqlo.com/us/en/member/details",
@@ -18517,7 +18533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x90a,
+		.id = 0x90c,
 		.name = "United Domains",
 		.query = "united domains",
 		.url = "https://www.united-domains.de/support/kontakt-formular/close//",
@@ -18525,7 +18541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x90b,
+		.id = 0x90d,
 		.name = "Unity ID",
 		.query = "unity id",
 		.url = "https://id.unity.com/en/account/edit",
@@ -18533,7 +18549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x90c,
+		.id = 0x90e,
 		.name = "UnKnoWnCheaTs",
 		.query = "unknowncheats",
 		.url = "https://www.unknowncheats.me/forum/showgroups.php",
@@ -18541,7 +18557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x4000
 	},
 	{
-		.id = 0x90d,
+		.id = 0x90f,
 		.name = "Unroll.me",
 		.query = "unrollme",
 		.url = "https://unroll.me/user/settings",
@@ -18549,7 +18565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x90e,
+		.id = 0x910,
 		.name = "Unsplash",
 		.query = "unsplash",
 		.url = "https://unsplash.com/account/close",
@@ -18557,7 +18573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x90f,
+		.id = 0x911,
 		.name = "Uphold",
 		.query = "uphold",
 		.url = "https://wallet.uphold.com/close-account",
@@ -18565,7 +18581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x910,
+		.id = 0x912,
 		.name = "UPS",
 		.query = "ups",
 		.url = "https://wwwapps.ups.com/ppc/ppc.html?loc=en_US#/informationPage/deleteProfile",
@@ -18573,7 +18589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x911,
+		.id = 0x913,
 		.name = "Uptime Observer",
 		.query = "uptime observer",
 		.url = "https://uptimeobserver.com/",
@@ -18581,7 +18597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x912,
+		.id = 0x914,
 		.name = "Uptime Robot",
 		.query = "uptime robot",
 		.url = "https://dashboard.uptimerobot.com/account/details",
@@ -18589,7 +18605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x913,
+		.id = 0x915,
 		.name = "Upwork",
 		.query = "upwork",
 		.url = "https://www.upwork.com/",
@@ -18597,7 +18613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x914,
+		.id = 0x916,
 		.name = "Urcdkey",
 		.query = "urcdkey",
 		.url = "https://www.urcdkey.com/",
@@ -18605,7 +18621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x915,
+		.id = 0x917,
 		.name = "Usersnap",
 		.query = "usersnap",
 		.url = "https://usersnap.com/contact",
@@ -18613,7 +18629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x916,
+		.id = 0x918,
 		.name = "Usmobile",
 		.query = "usmobile",
 		.url = "https://www.usmobile.com/about-us",
@@ -18621,7 +18637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x917,
+		.id = 0x919,
 		.name = "Uswitch",
 		.query = "uswitch",
 		.url = "https://www.uswitch.com/account/settings",
@@ -18629,7 +18645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x918,
+		.id = 0x91a,
 		.name = "Utry.me",
 		.query = "utryme",
 		.url = "https://shop.utryme.com/kontaktformular",
@@ -18637,7 +18653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x919,
+		.id = 0x91b,
 		.name = "uVPN",
 		.query = "uvpn",
 		.url = "https://uvpn.me/support/#contactus",
@@ -18645,7 +18661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x91a,
+		.id = 0x91c,
 		.name = "Uxcel",
 		.query = "uxcel",
 		.url = "https://app.uxcel.com/settings/account-settings",
@@ -18653,7 +18669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x91b,
+		.id = 0x91d,
 		.name = "UXPin",
 		.query = "uxpin",
 		.url = "https://www.uxpin.com/docs/account/closing-your-account/",
@@ -18661,7 +18677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x91c,
+		.id = 0x91e,
 		.name = "V.PS Hosting",
 		.query = "vps hosting",
 		.url = "https://vps.hosting/clientarea/delete",
@@ -18669,15 +18685,15 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x91d,
+		.id = 0x91f,
 		.name = "Valence Romans Mobilités",
 		.query = "valence romans mobilites",
-		.url = "https://start.valenceromansmobilites.fr/fr/compte/informations",
+		.url = "https://www.valenceromansmobilites.fr/contactez-citea/",
 		.email = NULL,
-		.difficulty = 0x400
+		.difficulty = 0x1000
 	},
 	{
-		.id = 0x91e,
+		.id = 0x920,
 		.name = "Valorant",
 		.query = "valorant",
 		.url = "https://support-valorant.riotgames.com/hc/en-us/articles/360050328414-Deleting-Your-Riot-Account-and-All-Your-Data",
@@ -18685,7 +18701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x91f,
+		.id = 0x921,
 		.name = "Vans.com",
 		.query = "vanscom",
 		.url = "https://www.vans.com/en-us/help/contact-us",
@@ -18693,7 +18709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x920,
+		.id = 0x922,
 		.name = "Variantes",
 		.query = "variantes",
 		.url = "https://www.variantes.com/content/10-donnees-personnelles",
@@ -18701,7 +18717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x921,
+		.id = 0x923,
 		.name = "VCRDB / Valorant Crosshair Database",
 		.query = "vcrdb valorant crosshair database",
 		.url = "https://www.vcrdb.net/profile",
@@ -18709,7 +18725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x922,
+		.id = 0x924,
 		.name = "VCV Rack",
 		.query = "vcv rack",
 		.url = "https://vcvrack.com/account",
@@ -18717,7 +18733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x923,
+		.id = 0x925,
 		.name = "Veduca",
 		.query = "veduca",
 		.url = "https://veduca.org",
@@ -18725,7 +18741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x924,
+		.id = 0x926,
 		.name = "Velo Hero",
 		.query = "velo hero",
 		.url = "https://app.velohero.com/settings/terminate",
@@ -18733,7 +18749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x925,
+		.id = 0x927,
 		.name = "Velo'v",
 		.query = "velov",
 		.url = "https://velov.grandlyon.com/",
@@ -18741,7 +18757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x926,
+		.id = 0x928,
 		.name = "Venmo",
 		.query = "venmo",
 		.url = "https://account.venmo.com/settings/profile/cancel/confirm",
@@ -18749,7 +18765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x927,
+		.id = 0x929,
 		.name = "Vercel",
 		.query = "vercel",
 		.url = "https://vercel.com/account",
@@ -18757,7 +18773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x928,
+		.id = 0x92a,
 		.name = "Verkkokauppa.com",
 		.query = "verkkokauppacom",
 		.url = "https://asiakaspalvelu.verkkokauppa.com/hc/fi/articles/360000242527-Asiakastili",
@@ -18765,7 +18781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x929,
+		.id = 0x92b,
 		.name = "vgy.me",
 		.query = "vgyme",
 		.url = "https://vgy.me",
@@ -18773,7 +18789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x92a,
+		.id = 0x92c,
 		.name = "ViaBox",
 		.query = "viabox",
 		.url = "https://viabox.zendesk.com/hc/en-us/requests/new",
@@ -18781,7 +18797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x92b,
+		.id = 0x92d,
 		.name = "Viadeo",
 		.query = "viadeo",
 		.url = "https://www.viadeo.com/settings/account/?ga_from=Fu:%2Fsettings%2Faccount%2F;Fb%3Amenu_box_right%3BFe%3AL1-account-settings%3B",
@@ -18789,7 +18805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x92c,
+		.id = 0x92e,
 		.name = "viainvest",
 		.query = "viainvest",
 		.url = "https://viainvest.com/en/faq",
@@ -18797,7 +18813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x92d,
+		.id = 0x92f,
 		.name = "Viber",
 		.query = "viber",
 		.url = "https://help.viber.com/hc/en-us/articles/9174583112861",
@@ -18805,7 +18821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x92e,
+		.id = 0x930,
 		.name = "VideosGeneratorAI",
 		.query = "videosgeneratorai",
 		.url = "https://videosgeneratorai.com/terms-of-use",
@@ -18813,7 +18829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x92f,
+		.id = 0x931,
 		.name = "Vidio",
 		.query = "vidio",
 		.url = "https://support.vidio.com/support/solutions/articles/43000060322--delete-account",
@@ -18821,7 +18837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x930,
+		.id = 0x932,
 		.name = "VidIQ",
 		.query = "vidiq",
 		.url = "https://app.vidiq.com/account/settings/my-account",
@@ -18829,7 +18845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x931,
+		.id = 0x933,
 		.name = "VidLii",
 		.query = "vidlii",
 		.url = "https://www.vidlii.com/delete_account",
@@ -18837,7 +18853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x932,
+		.id = 0x934,
 		.name = "Vidyard",
 		.query = "vidyard",
 		.url = "https://knowledge.vidyard.com/hc/en-us/requests/new",
@@ -18845,7 +18861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x933,
+		.id = 0x935,
 		.name = "VikACG",
 		.query = "vikacg",
 		.url = "https://www.vikacg.com/",
@@ -18853,7 +18869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x934,
+		.id = 0x936,
 		.name = "Vimeo",
 		.query = "vimeo",
 		.url = "https://vimeo.com/settings/goodbye/forever",
@@ -18861,7 +18877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x935,
+		.id = 0x937,
 		.name = "Vinted",
 		.query = "vinted",
 		.url = "https://www.vinted.com/member/general/delete_account",
@@ -18869,7 +18885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x936,
+		.id = 0x938,
 		.name = "Virmach",
 		.query = "virmach",
 		.url = "https://billing.virmach.com/submitticket.php",
@@ -18877,7 +18893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x937,
+		.id = 0x939,
 		.name = "VirtCloud",
 		.query = "virtcloud",
 		.url = "https://virtcloud.net",
@@ -18885,7 +18901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x938,
+		.id = 0x93a,
 		.name = "Virtualmaster",
 		.query = "virtualmaster",
 		.url = "https://www.virtualmaster.com/virtualmaster/en/issues",
@@ -18893,7 +18909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x939,
+		.id = 0x93b,
 		.name = "VirusTotal",
 		.query = "virustotal",
 		.url = "https://www.virustotal.com/gui/settings",
@@ -18901,7 +18917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x93a,
+		.id = 0x93c,
 		.name = "Visit Japan Web (Japanese Customs)",
 		.query = "visit japan web japanese customs",
 		.url = "https://www.vjw.digital.go.jp/main/#/vjwpco005",
@@ -18909,7 +18925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x93b,
+		.id = 0x93d,
 		.name = "Visme",
 		.query = "visme",
 		.url = "https://dashboard.visme.co/v2/account-settings",
@@ -18917,7 +18933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x93c,
+		.id = 0x93e,
 		.name = "Visualping",
 		.query = "visualping",
 		.url = "https://visualping.io/account/profile/",
@@ -18925,7 +18941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x93d,
+		.id = 0x93f,
 		.name = "VitalSource",
 		.query = "vitalsource",
 		.url = "https://support.vitalsource.com/hc/en-us/requests/new",
@@ -18933,7 +18949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x93e,
+		.id = 0x940,
 		.name = "Viva o Linux (VOL)",
 		.query = "viva o linux vol",
 		.url = "https://www.vivaolinux.com.br/minhaConta.php",
@@ -18941,7 +18957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x93f,
+		.id = 0x941,
 		.name = "Vivaldi",
 		.query = "vivaldi",
 		.url = "https://help.vivaldi.com/services/account/delete-account-on-vivaldi-net/",
@@ -18949,7 +18965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x940,
+		.id = 0x942,
 		.name = "Vive La Mode",
 		.query = "vive la mode",
 		.url = "https://vive-lamode.com",
@@ -18957,7 +18973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x941,
+		.id = 0x943,
 		.name = "ViVo",
 		.query = "vivo",
 		.url = "https://passport.vivo.com/in/#/personalCenter",
@@ -18965,7 +18981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x942,
+		.id = 0x944,
 		.name = "VK/ВКонтакте",
 		.query = "vkвконтакте",
 		.url = "https://vk.com/settings?act=deactivate",
@@ -18973,7 +18989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x943,
+		.id = 0x945,
 		.name = "Voi",
 		.query = "voi",
 		.url = "https://help.voi.com/en_gb/i-want-to-delete-my-voi-account-S1TgkzhO_",
@@ -18981,7 +18997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x944,
+		.id = 0x946,
 		.name = "Voicemod",
 		.query = "voicemod",
 		.url = "https://www.voicemod.net/support/?letstalk=Account%20and%20Login&issue",
@@ -18989,7 +19005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x945,
+		.id = 0x947,
 		.name = "Volcano Hosting",
 		.query = "volcano hosting",
 		.url = "https://www.volcanohosting.net",
@@ -18997,7 +19013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x946,
+		.id = 0x948,
 		.name = "Volcengine",
 		.query = "volcengine",
 		.url = "https://console.volcengine.com/user/logout/",
@@ -19005,7 +19021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x947,
+		.id = 0x949,
 		.name = "Volet",
 		.query = "volet",
 		.url = "https://support.volet.com/hc/en-us/articles/360021927159-Closing-your-account",
@@ -19013,7 +19029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x948,
+		.id = 0x94a,
 		.name = "VoucherCodes",
 		.query = "vouchercodes",
 		.url = "https://support.vouchercodes.co.uk/hc/en-us/articles/360000349566-How-do-I-delete-my-Account-",
@@ -19021,7 +19037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x949,
+		.id = 0x94b,
 		.name = "Vox Media",
 		.query = "vox media",
 		.url = "https://www.voxmedia.com/contact",
@@ -19029,7 +19045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x94a,
+		.id = 0x94c,
 		.name = "Voxer",
 		.query = "voxer",
 		.url = "https://support.voxer.com/hc/en-us/articles/204330173-How-do-I-delete-my-Voxer-account-",
@@ -19037,7 +19053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x94b,
+		.id = 0x94d,
 		.name = "Voxtelesys",
 		.query = "voxtelesys",
 		.url = "https://voxtelesys.com/contact-us",
@@ -19045,7 +19061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x94c,
+		.id = 0x94e,
 		.name = "Vrbo",
 		.query = "vrbo",
 		.url = "https://www.vrbo.com/user/delete",
@@ -19053,7 +19069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x94d,
+		.id = 0x94f,
 		.name = "VRChat",
 		.query = "vrchat",
 		.url = "https://help.vrchat.com/hc/en-us/articles/1500002379282-I-want-to-delete-my-VRChat-account",
@@ -19061,7 +19077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x94e,
+		.id = 0x950,
 		.name = "VSCO",
 		.query = "vsco",
 		.url = "https://support.vsco.co/hc/en-us/articles/360004196352-How-do-I-delete-my-VSCO-Account-",
@@ -19069,7 +19085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x94f,
+		.id = 0x951,
 		.name = "VSTBuzz",
 		.query = "vstbuzz",
 		.url = "https://vstbuzz.com/contact/",
@@ -19077,7 +19093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x950,
+		.id = 0x952,
 		.name = "VTech",
 		.query = "vtech",
 		.url = "https://www.vtechkids.com/support/support_form/",
@@ -19085,7 +19101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x951,
+		.id = 0x953,
 		.name = "Vueling",
 		.query = "vueling",
 		.url = "https://tickets.vueling.com/DeleteUser.aspx",
@@ -19093,7 +19109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x952,
+		.id = 0x954,
 		.name = "Vuforia Chalk",
 		.query = "vuforia chalk",
 		.url = "https://support.ptc.com/help/vuforia/chalk_app_center/index.html#page/Vuforia_Chalk_Admin_Center/common/delete_account.html",
@@ -19101,7 +19117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x953,
+		.id = 0x955,
 		.name = "Vuforia Developer Account",
 		.query = "vuforia developer account",
 		.url = "https://developer.vuforia.com/support/contact/login",
@@ -19109,7 +19125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x954,
+		.id = 0x956,
 		.name = "Vultr",
 		.query = "vultr",
 		.url = "https://my.vultr.com/support",
@@ -19117,7 +19133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x955,
+		.id = 0x957,
 		.name = "W3Schools",
 		.query = "w3schools",
 		.url = "https://pathfinder.w3schools.com/profile",
@@ -19125,7 +19141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x956,
+		.id = 0x958,
 		.name = "Wacom Cloud",
 		.query = "wacom cloud",
 		.url = "https://account.wacom.com/en-us/profile",
@@ -19133,7 +19149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x957,
+		.id = 0x959,
 		.name = "Wahoo Fitness",
 		.query = "wahoo fitness",
 		.url = "https://privacyportal.onetrust.com/webform/b2b76ae8-d622-4165-97c7-8896261e24b7/b43eda4f-3724-4303-879c-e65dbcfced1d",
@@ -19141,7 +19157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x958,
+		.id = 0x95a,
 		.name = "Waifudex",
 		.query = "waifudex",
 		.url = "https://waifudex.com/home",
@@ -19149,7 +19165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x959,
+		.id = 0x95b,
 		.name = "Wakanim",
 		.query = "wakanim",
 		.url = "https://www.wakanim.tv/sc/v2/static/contactus",
@@ -19157,7 +19173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x95a,
+		.id = 0x95c,
 		.name = "wallabag",
 		.query = "wallabag",
 		.url = "https://app.wallabag.it/subscription/",
@@ -19165,7 +19181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x95b,
+		.id = 0x95d,
 		.name = "Wallhaven",
 		.query = "wallhaven",
 		.url = "https://wallhaven.cc/team",
@@ -19173,7 +19189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x95c,
+		.id = 0x95e,
 		.name = "wallpiece",
 		.query = "wallpiece",
 		.url = "https://wallpiece.io/account/register/",
@@ -19181,7 +19197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x95d,
+		.id = 0x95f,
 		.name = "Walmart",
 		.query = "walmart",
 		.url = "https://www.walmart.com/account/api/ccpa-intake?native=false&app=gm&type=access",
@@ -19189,7 +19205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x95e,
+		.id = 0x960,
 		.name = "Walmart Canada",
 		.query = "walmart canada",
 		.url = "https://www.walmart.ca/en/account/delete-account",
@@ -19197,7 +19213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x95f,
+		.id = 0x961,
 		.name = "WaniKani",
 		.query = "wanikani",
 		.url = "https://www.wanikani.com/settings/danger_zone",
@@ -19205,7 +19221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x960,
+		.id = 0x962,
 		.name = "Wappalyzer",
 		.query = "wappalyzer",
 		.url = "https://www.wappalyzer.com/account/",
@@ -19213,7 +19229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x961,
+		.id = 0x963,
 		.name = "Wargaming.net",
 		.query = "wargamingnet",
 		.url = "https://eu.wargaming.net/personal/suspend_account/",
@@ -19221,7 +19237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x962,
+		.id = 0x964,
 		.name = "Warmshowers",
 		.query = "warmshowers",
 		.url = "https://www.warmshowers.org/privacy",
@@ -19229,7 +19245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x963,
+		.id = 0x965,
 		.name = "Warner Bros. Games",
 		.query = "warner bros games",
 		.url = "https://account.wbgames.com/account",
@@ -19237,15 +19253,15 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x964,
+		.id = 0x966,
 		.name = "Wasabi Hosting",
 		.query = "wasabi hosting",
-		.url = "https://wasabihosting.com/clientarea.php",
+		.url = "https://billing.wasabihosting.com/clientarea.php",
 		.email = NULL,
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x965,
+		.id = 0x967,
 		.name = "The Washington Post",
 		.query = "the washington post",
 		.url = "https://helpcenter.washingtonpost.com/hc/en-us/requests/new",
@@ -19253,7 +19269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x966,
+		.id = 0x968,
 		.name = "Watch2Gether",
 		.query = "watch2gether",
 		.url = "https://w2g.tv/users/current_user",
@@ -19261,7 +19277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x967,
+		.id = 0x969,
 		.name = "WatGuessr.io",
 		.query = "watguessrio",
 		.url = "https://watguessr.io/settings",
@@ -19269,7 +19285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x968,
+		.id = 0x96a,
 		.name = "Wattpad",
 		.query = "wattpad",
 		.url = "https://www.wattpad.com/settings",
@@ -19277,7 +19293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x969,
+		.id = 0x96b,
 		.name = "WayFi Wireless",
 		.query = "wayfi wireless",
 		.url = "https://wayfiwireless.com/contact",
@@ -19285,7 +19301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x96a,
+		.id = 0x96c,
 		.name = "WAYN",
 		.query = "wayn",
 		.url = "https://www.wayn.com/wayn.html?wci=unregister",
@@ -19293,7 +19309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x96b,
+		.id = 0x96d,
 		.name = "Waze",
 		.query = "waze",
 		.url = "https://www.waze.com/dashboard/delete_account",
@@ -19301,7 +19317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x96c,
+		.id = 0x96e,
 		.name = "Weather API",
 		.query = "weather api",
 		.url = "https://www.weatherapi.com/my/close-account.aspx",
@@ -19309,7 +19325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x96d,
+		.id = 0x96f,
 		.name = "The Weather Network",
 		.query = "the weather network",
 		.url = "https://www.theweathernetwork.com/my-account/?intcmp=twn_supernav_settings",
@@ -19317,7 +19333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x96e,
+		.id = 0x970,
 		.name = "Weather.com",
 		.query = "weathercom",
 		.url = "https://registration.weather.com/ursa/profile/unsubscribe",
@@ -19325,7 +19341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x96f,
+		.id = 0x971,
 		.name = "WEB.DE",
 		.query = "webde",
 		.url = "https://kundencenter.web.de",
@@ -19333,7 +19349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x970,
+		.id = 0x972,
 		.name = "Webex - Free Account",
 		.query = "webex free account",
 		.url = "https://help.webex.com/en-us/5m4i4y/Delete-Your-Free-Webex-Account#id_111643",
@@ -19341,7 +19357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x971,
+		.id = 0x973,
 		.name = "Webflow",
 		.query = "webflow",
 		.url = "https://support.webflow.com/resources/delete-account",
@@ -19349,7 +19365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x972,
+		.id = 0x974,
 		.name = "Webhosting.dk",
 		.query = "webhostingdk",
 		.url = "https://www.webhosting.dk/DKK/deleteaccount.php",
@@ -19357,7 +19373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x973,
+		.id = 0x975,
 		.name = "Weblate",
 		.query = "weblate",
 		.url = "https://hosted.weblate.org/accounts/remove/",
@@ -19365,7 +19381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x974,
+		.id = 0x976,
 		.name = "Webtickets",
 		.query = "webtickets",
 		.url = "https://www.webtickets.co.za/v2/FAQ.aspx?itemid=1505441537",
@@ -19373,7 +19389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x975,
+		.id = 0x977,
 		.name = "WEBTOON",
 		.query = "webtoon",
 		.url = "https://www.webtoons.com/en/account/delete",
@@ -19381,7 +19397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x976,
+		.id = 0x978,
 		.name = "Webull",
 		.query = "webull",
 		.url = "https://www.webull.com/hc/categories/fq125-How-do-I-delete-my-Webull-account",
@@ -19389,7 +19405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x977,
+		.id = 0x979,
 		.name = "WeChat",
 		.query = "wechat",
 		.url = "https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&id=1706083AnYFb170608VF3Ur2",
@@ -19397,7 +19413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x978,
+		.id = 0x97a,
 		.name = "Weebly",
 		.query = "weebly",
 		.url = "https://www.weebly.com/home/account/data",
@@ -19405,7 +19421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x979,
+		.id = 0x97b,
 		.name = "WeHeartIt",
 		.query = "weheartit",
 		.url = "https://weheartit.com/settings/delete",
@@ -19413,7 +19429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x97a,
+		.id = 0x97c,
 		.name = "Weibo",
 		.query = "weibo",
 		.url = "https://kefu.weibo.com/faqdetail?id=20690",
@@ -19421,7 +19437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x97b,
+		.id = 0x97d,
 		.name = "Weights",
 		.query = "weights",
 		.url = "https://www.weights.com/settings",
@@ -19429,7 +19445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x97c,
+		.id = 0x97e,
 		.name = "WeirdGloop",
 		.query = "weirdgloop",
 		.url = "https://weirdgloop.org/",
@@ -19437,7 +19453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x97d,
+		.id = 0x97f,
 		.name = "WeMod",
 		.query = "wemod",
 		.url = "https://support.wemod.com/docs/how-do-i-delete-my-account",
@@ -19445,7 +19461,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x97e,
+		.id = 0x980,
 		.name = "Western Union",
 		.query = "western union",
 		.url = "https://wucare.westernunion.com/s/article/How-do-I-log-in-at-westernunion-com?language=en_US#delete",
@@ -19453,7 +19469,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x97f,
+		.id = 0x981,
 		.name = "Westfield",
 		.query = "westfield",
 		.url = "https://www.westfield.com/account",
@@ -19461,7 +19477,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x980,
+		.id = 0x982,
 		.name = "WeTransfer",
 		.query = "wetransfer",
 		.url = "https://wetransfer.com/account",
@@ -19469,7 +19485,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x981,
+		.id = 0x983,
 		.name = "WG-Gesucht.de",
 		.query = "wggesuchtde",
 		.url = "https://www.wg-gesucht.de/hilfe.html#collapse-account-4",
@@ -19477,7 +19493,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x982,
+		.id = 0x984,
 		.name = "WhatPulse",
 		.query = "whatpulse",
 		.url = "https://whatpulse.org/my/#home",
@@ -19485,7 +19501,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x983,
+		.id = 0x985,
 		.name = "WhatsApp",
 		.query = "whatsapp",
 		.url = "https://faq.whatsapp.com/2138577903196467/",
@@ -19493,7 +19509,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x984,
+		.id = 0x986,
 		.name = "When I Work",
 		.query = "when i work",
 		.url = "https://help.wheniwork.com/articles/request-profile-deletion-ios/",
@@ -19501,7 +19517,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x985,
+		.id = 0x987,
 		.name = "Where Am I?",
 		.query = "where am i",
 		.url = "https://whereamigame.app/",
@@ -19509,7 +19525,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x986,
+		.id = 0x988,
 		.name = "Which?",
 		.query = "which",
 		.url = "https://www.which.co.uk/terms-and-conditions/your-which-membership/",
@@ -19517,7 +19533,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x987,
+		.id = 0x989,
 		.name = "Whimsical",
 		.query = "whimsical",
 		.url = "https://whimsical.com/account",
@@ -19525,7 +19541,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x988,
+		.id = 0x98a,
 		.name = "Whirlpool",
 		.query = "whirlpool",
 		.url = "http://whirlpool.net.au/wiki/wp_deleteaccount",
@@ -19533,7 +19549,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x989,
+		.id = 0x98b,
 		.name = "Whitepages",
 		.query = "whitepages",
 		.url = "https://www.whitepages.com/account/settings#profile",
@@ -19541,7 +19557,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x98a,
+		.id = 0x98c,
 		.name = "Whizlabs",
 		.query = "whizlabs",
 		.url = "https://www.whizlabs.com/contact-us/",
@@ -19549,7 +19565,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x98b,
+		.id = 0x98d,
 		.name = "Whoisfreaks",
 		.query = "whoisfreaks",
 		.url = "https://billing.whoisfreaks.com/profile",
@@ -19557,7 +19573,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x98c,
+		.id = 0x98e,
 		.name = "WhoSay.com",
 		.query = "whosaycom",
 		.url = "https://www.whosay.com/settings",
@@ -19565,7 +19581,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x98d,
+		.id = 0x98f,
 		.name = "Wifi Map",
 		.query = "wifi map",
 		.url = "https://www.wifimap.io/accountDeleting",
@@ -19573,7 +19589,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x98e,
+		.id = 0x990,
 		.name = "WiGLE",
 		.query = "wigle",
 		.url = "https://wigle.net/deleteAccount",
@@ -19581,7 +19597,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x98f,
+		.id = 0x991,
 		.name = "Wikidot",
 		.query = "wikidot",
 		.url = "https://www.wikidot.com/account/settings",
@@ -19589,7 +19605,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x990,
+		.id = 0x992,
 		.name = "wikiHow",
 		.query = "wikihow",
 		.url = "wikihow.com/Special:Preferences#mw-prefsection-personal",
@@ -19597,7 +19613,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x991,
+		.id = 0x993,
 		.name = "Wikimedia Commons",
 		.query = "wikimedia commons",
 		.url = "https://commons.wikimedia.org/wiki/Commons:Username_policy#Deleting_your_account",
@@ -19605,7 +19621,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x992,
+		.id = 0x994,
 		.name = "Wikipedia",
 		.query = "wikipedia",
 		.url = "https://en.wikipedia.org/wiki/Wikipedia:FAQ/Main#How_do_I_change_my_username%2Fdelete_my_account?",
@@ -19613,7 +19629,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x993,
+		.id = 0x995,
 		.name = "Wilds.io",
 		.query = "wildsio",
 		.url = "http://wilds.io",
@@ -19621,7 +19637,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x994,
+		.id = 0x996,
 		.name = "Wilson epark",
 		.query = "wilson epark",
 		.url = "http://myaccount.epark.com.au/ContactUs.aspx",
@@ -19629,7 +19645,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x995,
+		.id = 0x997,
 		.name = "Wilson Parking",
 		.query = "wilson parking",
 		.url = "https://www.wilsonparking.com.au",
@@ -19637,7 +19653,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x996,
+		.id = 0x998,
 		.name = "Windscribe",
 		.query = "windscribe",
 		.url = "https://windscribe.com/cancel/account",
@@ -19645,7 +19661,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x997,
+		.id = 0x999,
 		.name = "Windsurf",
 		.query = "windsurf",
 		.url = "https://windsurf.com/settings",
@@ -19653,7 +19669,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x998,
+		.id = 0x99a,
 		.name = "Windy",
 		.query = "windy",
 		.url = "https://account.windy.com/profile/delete",
@@ -19661,7 +19677,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x999,
+		.id = 0x99b,
 		.name = "Wine HQ",
 		.query = "wine hq",
 		.url = "https://forum.winehq.org/",
@@ -19669,7 +19685,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x99a,
+		.id = 0x99c,
 		.name = "Wire",
 		.query = "wire",
 		.url = "https://support.wire.com/hc/en-us/articles/207555795-Delete-a-Wire-Personal-account",
@@ -19677,7 +19693,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x99b,
+		.id = 0x99d,
 		.name = "Wise",
 		.query = "wise",
 		.url = "https://wise.com/settings/",
@@ -19685,7 +19701,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x99c,
+		.id = 0x99e,
 		.name = "WiseMapping",
 		.query = "wisemapping",
 		.url = "https://app.wisemapping.com/c/maps/",
@@ -19693,7 +19709,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x99d,
+		.id = 0x99f,
 		.name = "Wish",
 		.query = "wish",
 		.url = "https://www.wish.com/settings/account",
@@ -19701,7 +19717,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x99e,
+		.id = 0x9a0,
 		.name = "WishSimply",
 		.query = "wishsimply",
 		.url = "https://wishsimply.com",
@@ -19709,7 +19725,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x99f,
+		.id = 0x9a1,
 		.name = "Withings",
 		.query = "withings",
 		.url = "https://account.withings.com/account/account_delete",
@@ -19717,7 +19733,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9a0,
+		.id = 0x9a2,
 		.name = "Wix",
 		.query = "wix",
 		.url = "https://manage.wix.com/account/close-account",
@@ -19725,7 +19741,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x9a1,
+		.id = 0x9a3,
 		.name = "Wizarding World",
 		.query = "wizarding world",
 		.url = "https://www.wizardingworld.com/profile/settings/delete-account",
@@ -19733,7 +19749,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9a2,
+		.id = 0x9a4,
 		.name = "Wizards of the Coast",
 		.query = "wizards of the coast",
 		.url = "https://support.wizards.com/hc/en-us/requests/new?ticket_form_id=360000108786",
@@ -19741,7 +19757,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9a3,
+		.id = 0x9a5,
 		.name = "WIZBII",
 		.query = "wizbii",
 		.url = "https://www.wizbii.com/account/privacy/deletion",
@@ -19749,7 +19765,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9a4,
+		.id = 0x9a6,
 		.name = "WKV",
 		.query = "wkv",
 		.url = "https://www.wkv.com/?action=faq",
@@ -19757,7 +19773,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9a5,
+		.id = 0x9a7,
 		.name = "WolframAlpha.com",
 		.query = "wolframalphacom",
 		.url = "https://www.wolframalpha.com/fbfaqs.html",
@@ -19765,7 +19781,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9a6,
+		.id = 0x9a8,
 		.name = "Woltlab",
 		.query = "woltlab",
 		.url = "https://www.woltlab.com/account-management/",
@@ -19773,7 +19789,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9a7,
+		.id = 0x9a9,
 		.name = "Wondershare",
 		.query = "wondershare",
 		.url = "https://accounts.wondershare.com/web/web-account-verify",
@@ -19781,7 +19797,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9a8,
+		.id = 0x9aa,
 		.name = "Woolworths",
 		.query = "woolworths",
 		.url = "https://www.woolworths.com.au/shop/discover/about-us/contact-us",
@@ -19789,7 +19805,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9a9,
+		.id = 0x9ab,
 		.name = "Woot",
 		.query = "woot",
 		.url = "https://account.woot.com/support/",
@@ -19797,7 +19813,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9aa,
+		.id = 0x9ac,
 		.name = "Wordfeud",
 		.query = "wordfeud",
 		.url = "https://wordfeud.com/",
@@ -19805,7 +19821,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9ab,
+		.id = 0x9ad,
 		.name = "WordPress.com",
 		.query = "wordpresscom",
 		.url = "https://wordpress.com/me/account",
@@ -19813,7 +19829,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x9ac,
+		.id = 0x9ae,
 		.name = "WordPress.org",
 		.query = "wordpressorg",
 		.url = "https://wordpress.org/about/privacy/data-erasure-request/",
@@ -19821,7 +19837,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9ad,
+		.id = 0x9af,
 		.name = "workupload",
 		.query = "workupload",
 		.url = "https://workupload.com/contact",
@@ -19829,7 +19845,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9ae,
+		.id = 0x9b0,
 		.name = "Workwise.io",
 		.query = "workwiseio",
 		.url = "https://www.workwise.io/en/einstellungen",
@@ -19837,7 +19853,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9af,
+		.id = 0x9b1,
 		.name = "WorkZilla",
 		.query = "workzilla",
 		.url = "https://client.work-zilla.com/settings/delete-account",
@@ -19845,7 +19861,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9b0,
+		.id = 0x9b2,
 		.name = "World Market",
 		.query = "world market",
 		.url = "https://www.worldmarket.com/category/customer-service/world-market-rewards-faqs.do",
@@ -19853,7 +19869,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9b1,
+		.id = 0x9b3,
 		.name = "WorldAnvil",
 		.query = "worldanvil",
 		.url = "https://www.worldanvil.com/dashboard/user/account",
@@ -19861,7 +19877,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9b2,
+		.id = 0x9b4,
 		.name = "WOT (Web Of Trust)",
 		.query = "wot web of trust",
 		.url = "https://support.mywot.com/hc/en-us/articles/115002805334-How-can-I-delete-my-account",
@@ -19869,7 +19885,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9b3,
+		.id = 0x9b5,
 		.name = "WP",
 		.query = "wp",
 		.url = "https://1login.wp.pl/profil/dane",
@@ -19877,7 +19893,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9b4,
+		.id = 0x9b6,
 		.name = "Writefull",
 		.query = "writefull",
 		.url = "https://my.writefull.com/account",
@@ -19885,7 +19901,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9b5,
+		.id = 0x9b7,
 		.name = "WT.Social",
 		.query = "wtsocial",
 		.url = "https://wt.social/myaccount/deactivate-account",
@@ -19893,7 +19909,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x9b6,
+		.id = 0x9b8,
 		.name = "X",
 		.query = "x",
 		.url = "https://x.com/settings/deactivate",
@@ -19901,7 +19917,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9b7,
+		.id = 0x9b9,
 		.name = "XDA Developers",
 		.query = "xda developers",
 		.url = "https://docs.google.com/forms/d/e/1FAIpQLSdxxyNAowYtLZ0Thrzjdrw_hME_mdQW5mU5JJG1tXwZuraang/viewform",
@@ -19909,7 +19925,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9b8,
+		.id = 0x9ba,
 		.name = "XenForo Italia",
 		.query = "xenforo italia",
 		.url = "https://www.xfitalia.it/community/account/account-details",
@@ -19917,7 +19933,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9b9,
+		.id = 0x9bb,
 		.name = "Xing",
 		.query = "xing",
 		.url = "https://www.xing.com/preferences/account",
@@ -19925,7 +19941,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9ba,
+		.id = 0x9bc,
 		.name = "XREAL",
 		.query = "xreal",
 		.url = "https://us.shop.xreal.com/",
@@ -19933,7 +19949,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9bb,
+		.id = 0x9bd,
 		.name = "XSplit",
 		.query = "xsplit",
 		.url = "https://www.xsplit.com/dashboard/settings",
@@ -19941,7 +19957,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9bc,
+		.id = 0x9be,
 		.name = "XVideos",
 		.query = "xvideos",
 		.url = "https://info.xvideos.com/faq/question/73-everyone-how_can_i_delete_my_account",
@@ -19949,7 +19965,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9bd,
+		.id = 0x9bf,
 		.name = "Yahoo!",
 		.query = "yahoo",
 		.url = "https://edit.yahoo.com/config/delete_user",
@@ -19957,7 +19973,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9be,
+		.id = 0x9c0,
 		.name = "Yammer",
 		.query = "yammer",
 		.url = "https://www.yammer.com/mozillians/account/display_options",
@@ -19965,7 +19981,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9bf,
+		.id = 0x9c1,
 		.name = "Yandex",
 		.query = "yandex",
 		.url = "https://passport.yandex.com/profile/delete?origin=passport_profile",
@@ -19973,7 +19989,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9c0,
+		.id = 0x9c2,
 		.name = "Yannik",
 		.query = "yannik",
 		.url = "https://yannik.biz/",
@@ -19981,7 +19997,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9c1,
+		.id = 0x9c3,
 		.name = "Yelp",
 		.query = "yelp",
 		.url = "https://www.yelp.com/support/contact/account_closure",
@@ -19989,7 +20005,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9c2,
+		.id = 0x9c4,
 		.name = "YeolPumTa",
 		.query = "yeolpumta",
 		.url = "https://yeolpumta.com/",
@@ -19997,7 +20013,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9c3,
+		.id = 0x9c5,
 		.name = "YNAB (You Need A Budget)",
 		.query = "ynab you need a budget",
 		.url = "https://app.youneedabudget.com/users/delete",
@@ -20005,7 +20021,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9c4,
+		.id = 0x9c6,
 		.name = "Yoast",
 		.query = "yoast",
 		.url = "https://yoast.com",
@@ -20013,7 +20029,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9c5,
+		.id = 0x9c7,
 		.name = "You.com",
 		.query = "youcom",
 		.url = "https://you.com/profile",
@@ -20021,7 +20037,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9c6,
+		.id = 0x9c8,
 		.name = "youlookfab",
 		.query = "youlookfab",
 		.url = "https://youlookfab.com",
@@ -20029,7 +20045,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9c7,
+		.id = 0x9c9,
 		.name = "YouNow",
 		.query = "younow",
 		.url = "https://www.younow.com/settings/privacy",
@@ -20037,7 +20053,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9c8,
+		.id = 0x9ca,
 		.name = "YouSee.dk",
 		.query = "youseedk",
 		.url = "https://etray.yousee.dk/Privat/N/Portal/Master.html?token=Jhzav0yLEx1=1x/hWwg2lMi0OYiUyMQ4HsKy",
@@ -20045,7 +20061,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9c9,
+		.id = 0x9cb,
 		.name = "Yousician",
 		.query = "yousician",
 		.url = "https://account.yousician.com/",
@@ -20053,7 +20069,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9ca,
+		.id = 0x9cc,
 		.name = "YouTrack",
 		.query = "youtrack",
 		.url = "https://hub.jetbrains.com/users/me",
@@ -20061,7 +20077,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x9cb,
+		.id = 0x9cd,
 		.name = "YouTube",
 		.query = "youtube",
 		.url = "https://myaccount.google.com/deleteservices",
@@ -20069,7 +20085,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x9cc,
+		.id = 0x9ce,
 		.name = "YoYo Games",
 		.query = "yoyo games",
 		.url = "https://help.yoyogames.com/hc/en-us/articles/360025895752-How-can-I-delete-my-data-",
@@ -20077,7 +20093,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9cd,
+		.id = 0x9cf,
 		.name = "YRIS",
 		.query = "yris",
 		.url = "https://www.yris.eu/en/frequently-asked-questions/",
@@ -20085,7 +20101,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x9ce,
+		.id = 0x9d0,
 		.name = "Yuka",
 		.query = "yuka",
 		.url = "https://app.yuka.io/deleteAccount",
@@ -20093,7 +20109,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9cf,
+		.id = 0x9d1,
 		.name = "Yummly",
 		.query = "yummly",
 		.url = "https://www.yummly.com/settings",
@@ -20101,7 +20117,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9d0,
+		.id = 0x9d2,
 		.name = "YUR",
 		.query = "yur",
 		.url = "https://docs.google.com/forms/d/e/1FAIpQLSca2oePqdnrJWKh4U2LvnwSBZCi5FRTCDdoi0pjU21u9kBFLQ/viewform",
@@ -20109,7 +20125,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9d1,
+		.id = 0x9d3,
 		.name = "Z-Library",
 		.query = "zlibrary",
 		.url = "https://z-library.se",
@@ -20117,7 +20133,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x9d2,
+		.id = 0x9d4,
 		.name = "Zalando",
 		.query = "zalando",
 		.url = "https://www.zalando.co.uk/myaccount/privacy/",
@@ -20125,7 +20141,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9d3,
+		.id = 0x9d5,
 		.name = "Zamnesia",
 		.query = "zamnesia",
 		.url = "https://www.zamnesia.com/contact-us",
@@ -20133,7 +20149,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9d4,
+		.id = 0x9d6,
 		.name = "Zanichelli",
 		.query = "zanichelli",
 		.url = "https://my.zanichelli.it/registrazione/profilo",
@@ -20141,7 +20157,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9d5,
+		.id = 0x9d7,
 		.name = "Zap Imóveis",
 		.query = "zap imoveis",
 		.url = "https://privacidade.zapimoveis.com.br/?itl_id=1000129&itl_name=zap_-_link-footer_portal-de-privacidade_to_zap_login",
@@ -20149,7 +20165,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9d6,
+		.id = 0x9d8,
 		.name = "Zapier",
 		.query = "zapier",
 		.url = "https://zapier.com/app/settings/security-data/delete",
@@ -20157,7 +20173,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9d7,
+		.id = 0x9d9,
 		.name = "Zappos",
 		.query = "zappos",
 		.url = "https://www.zappos.com/c/contact-us",
@@ -20165,7 +20181,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9d8,
+		.id = 0x9da,
 		.name = "Zattoo",
 		.query = "zattoo",
 		.url = "https://zattoo.com/account/delete",
@@ -20173,7 +20189,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9d9,
+		.id = 0x9db,
 		.name = "Zave it",
 		.query = "zave it",
 		.url = "https://www.stuttgarter-nachrichten.de/inhalt.zave-it-account-loeschen-mhsd.6a51e46c-5c2b-4faf-9942-22056e1f9dc4.html",
@@ -20181,7 +20197,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x9da,
+		.id = 0x9dc,
 		.name = "Zaxby's",
 		.query = "zaxbys",
 		.url = "https://www.zaxbys.com/",
@@ -20189,7 +20205,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9db,
+		.id = 0x9dd,
 		.name = "Zazzle",
 		.query = "zazzle",
 		.url = "https://www.zazzle.com/about/ask",
@@ -20197,7 +20213,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9dc,
+		.id = 0x9de,
 		.name = "ZDNet",
 		.query = "zdnet",
 		.url = "https://dsar.ziffdavis.com/",
@@ -20205,7 +20221,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9dd,
+		.id = 0x9df,
 		.name = "Zeet",
 		.query = "zeet",
 		.url = "https://zeet.co/profile",
@@ -20213,7 +20229,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9de,
+		.id = 0x9e0,
 		.name = "Zeit Online",
 		.query = "zeit online",
 		.url = "https://zeit.de",
@@ -20221,7 +20237,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9df,
+		.id = 0x9e1,
 		.name = "Zello",
 		.query = "zello",
 		.url = "https://my.zello.com/user/home/#remove-account",
@@ -20229,7 +20245,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9e0,
+		.id = 0x9e2,
 		.name = "Zenamu",
 		.query = "zenamu",
 		.url = "https://zenamu.com/contact/",
@@ -20237,7 +20253,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9e1,
+		.id = 0x9e3,
 		.name = "Zendesk",
 		.query = "zendesk",
 		.url = "https://support.zendesk.com/hc/en-us/articles/223774027-Canceling-your-Support-account",
@@ -20245,7 +20261,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9e2,
+		.id = 0x9e4,
 		.name = "Zenkit",
 		.query = "zenkit",
 		.url = "https://zenkit.com/profile",
@@ -20253,7 +20269,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9e3,
+		.id = 0x9e5,
 		.name = "ZenMarket",
 		.query = "zenmarket",
 		.url = "https://zenmarket.jp/en/help.aspx",
@@ -20261,7 +20277,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9e4,
+		.id = 0x9e6,
 		.name = "Zenni Optical",
 		.query = "zenni optical",
 		.url = "https://www.zennioptical.com/help/contactsupport",
@@ -20269,7 +20285,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9e5,
+		.id = 0x9e7,
 		.name = "Zeplin",
 		.query = "zeplin",
 		.url = "https://app.zeplin.io/profile/account",
@@ -20277,7 +20293,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x9e6,
+		.id = 0x9e8,
 		.name = "Zepp/Zepp Life",
 		.query = "zeppzepp life",
 		.url = "https://www.zepp.com/privacy-support",
@@ -20285,7 +20301,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9e7,
+		.id = 0x9e9,
 		.name = "Zero",
 		.query = "zero",
 		.url = "https://zerofasting.zendesk.com/hc/en-us/articles/4402526167067-How-to-Delete-Your-Account-and-Data",
@@ -20293,7 +20309,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9e8,
+		.id = 0x9ea,
 		.name = "ZeroSSL",
 		.query = "zerossl",
 		.url = "https://app.zerossl.com/account",
@@ -20301,7 +20317,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9e9,
+		.id = 0x9eb,
 		.name = "ZeroTier",
 		.query = "zerotier",
 		.url = "https://docs.zerotier.com/central-billing/#how-to-delete-your-whole-account",
@@ -20309,7 +20325,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9ea,
+		.id = 0x9ec,
 		.name = "Zhihu",
 		.query = "zhihu",
 		.url = "https://www.zhihu.com/unregister",
@@ -20317,7 +20333,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9eb,
+		.id = 0x9ed,
 		.name = "Zoho",
 		.query = "zoho",
 		.url = "https://accounts.zoho.com/u/h#setting/closeaccount",
@@ -20325,7 +20341,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9ec,
+		.id = 0x9ee,
 		.name = "ZombieLink",
 		.query = "zombielink",
 		.url = "https://zombiesrungame.com/zombielink/account",
@@ -20333,7 +20349,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9ed,
+		.id = 0x9ef,
 		.name = "ZoogVPN",
 		.query = "zoogvpn",
 		.url = "https://app.zoogvpn.net/profile",
@@ -20341,7 +20357,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9ee,
+		.id = 0x9f0,
 		.name = "Zoológico de São Paulo",
 		.query = "zoologico de sao paulo",
 		.url = "https://zoologico.com.br/",
@@ -20349,7 +20365,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x2000
 	},
 	{
-		.id = 0x9ef,
+		.id = 0x9f1,
 		.name = "Zoom",
 		.query = "zoom",
 		.url = "https://zoom.us/account",
@@ -20357,7 +20373,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9f0,
+		.id = 0x9f2,
 		.name = "Zotero",
 		.query = "zotero",
 		.url = "https://www.zotero.org/settings/security",
@@ -20365,7 +20381,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9f1,
+		.id = 0x9f3,
 		.name = "Zulip",
 		.query = "zulip",
 		.url = "https://zulipchat.com/help/deactivate-your-account",
@@ -20373,7 +20389,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9f2,
+		.id = 0x9f4,
 		.name = "zyBooks",
 		.query = "zybooks",
 		.url = "https://www.zybooks.com/privacy-policy",
@@ -20381,7 +20397,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9f3,
+		.id = 0x9f5,
 		.name = "Zynga",
 		.query = "zynga",
 		.url = "https://privacy.zynga.com/portal/#/",
@@ -20389,7 +20405,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x9f4,
+		.id = 0x9f6,
 		.name = "Zzo.ai",
 		.query = "zzoai",
 		.url = "https://zzo.ai/profile",
@@ -20397,7 +20413,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9f5,
+		.id = 0x9f7,
 		.name = "Zé Delivery",
 		.query = "ze delivery",
 		.url = "https://faq-consumidor-zedelivery.sprinklr.com/articles/conta-e-privacidade/como-deletar-minha-conta/621889ac3df9251d7ed0da18",
@@ -20405,7 +20421,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9f6,
+		.id = 0x9f8,
 		.name = "ÇiçekSepeti",
 		.query = "ciceksepeti",
 		.url = "https://www.ciceksepeti.com/gizlilik-sozlesmesi",
@@ -20413,7 +20429,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x1000
 	},
 	{
-		.id = 0x9f7,
+		.id = 0x9f9,
 		.name = "Île-de-France Mobilités Connect",
 		.query = "iledefrance mobilites connect",
 		.url = "https://www.iledefrance-mobilites.fr/en/aide-et-contacts/iledefrance-mobilites-connect/desactiver-mon-compte-idfm-connect",
@@ -20421,7 +20437,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x800
 	},
 	{
-		.id = 0x9f8,
+		.id = 0x9fa,
 		.name = "ÖBB",
 		.query = "obb",
 		.url = "https://www.oebb.at/en/fragen-und-antworten/tickets-kaufen/online-mobile-ticketing/registrierung",
@@ -20429,7 +20445,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9f9,
+		.id = 0x9fb,
 		.name = "Мій Клас",
 		.query = "міи клас",
 		.url = "https://www.miyklas.com.ua/Account/DeleteProfile",
@@ -20437,7 +20453,7 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.difficulty = 0x400
 	},
 	{
-		.id = 0x9fa,
+		.id = 0x9fc,
 		.name = "РешуОГЭ/РешуЕГЭ/СдамГИА",
 		.query = "решуогэрешуегэсдамгиа",
 		.url = "https://chem-ege.sdamgia.ru/profile",

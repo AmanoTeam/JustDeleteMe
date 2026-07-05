@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="entry_notes_0x5e">Otvorte odkaz, prejdite nadol a stlačte tlačidlo \"Žiadosť o vymazanie osobných údajov\" </string>
-    <string name="entry_notes_0x20b">Musíte vyplniť formulár.</string>
-    <string name="entry_notes_0x2c0">Zadajte meno, email a telefón. Ako tému vyberte \'Žiadosť o vymazanie účtu\', vyplňte CAPTCHA a odošlite žiadosť.</string>
-    <string name="entry_notes_0x3d1">Keďže tu nie je žiadne tlačidlo, musíte ich kontaktovať prostredníctvom e-mailu. Našťastie je doba čakania na ich odpoveď krátka, môže sa však líšiť od jednej osoby k druhej.</string>
-    <string name="entry_notes_0x514">Keďže tu nie je žiadne tlačidlo, musíte ich kontaktovať prostredníctvom e-mailu. Následne, po zaradení do ich ticketového systému, záležitosť čoskoro vyriešia, čo sa však môže líšiť od jednej osoby k druhej.</string>
-    <string name="entry_notes_0x7ce">Keďže tu nie je žiadne tlačidlo, musíte ich kontaktovať prostredníctvom ticketu. Následne, po zaradení do ich ticketového systému, záležitosť čoskoro vyriešia, čo sa však môže líšiť od jednej osoby k druhej.</string>
-    <string name="entry_notes_0x882">Po prihlásení prejdite do nastavení svojho účtu a prejdite do časti „Delete Account“. Po stlačení tlačidla „DELETE“ zadajte svoj e-mail a opätovným kliknutím na tlačidlo potvrďte.</string>
-    <string name="entry_notes_0x904">Po prihlásení prejdite v nastaveniach Account do časti „Manage“ a zvoľte červené tlačidlo „Delete“. Do kontextového poľa napíšte „DELETE“ a ešte raz potvrďte.</string>
-    <string name="entry_notes_0x9ce">Po prihlásení do aplikácie navštívte na svojom mobilnom zariadení odkaz a postupujte podľa uvedených pokynov.</string>
+    <string name="entry_notes_0x20c">Musíte vyplniť formulár.</string>
+    <string name="entry_notes_0x2c1">Zadajte meno, email a telefón. Ako tému vyberte \'Žiadosť o vymazanie účtu\', vyplňte CAPTCHA a odošlite žiadosť.</string>
+    <string name="entry_notes_0x3d2">Keďže tu nie je žiadne tlačidlo, musíte ich kontaktovať prostredníctvom e-mailu. Našťastie je doba čakania na ich odpoveď krátka, môže sa však líšiť od jednej osoby k druhej.</string>
+    <string name="entry_notes_0x515">Keďže tu nie je žiadne tlačidlo, musíte ich kontaktovať prostredníctvom e-mailu. Následne, po zaradení do ich ticketového systému, záležitosť čoskoro vyriešia, čo sa však môže líšiť od jednej osoby k druhej.</string>
+    <string name="entry_notes_0x7d0">Keďže tu nie je žiadne tlačidlo, musíte ich kontaktovať prostredníctvom ticketu. Následne, po zaradení do ich ticketového systému, záležitosť čoskoro vyriešia, čo sa však môže líšiť od jednej osoby k druhej.</string>
+    <string name="entry_notes_0x884">Po prihlásení prejdite do nastavení svojho účtu a prejdite do časti „Delete Account“. Po stlačení tlačidla „DELETE“ zadajte svoj e-mail a opätovným kliknutím na tlačidlo potvrďte.</string>
+    <string name="entry_notes_0x906">Po prihlásení prejdite v nastaveniach Account do časti „Manage“ a zvoľte červené tlačidlo „Delete“. Do kontextového poľa napíšte „DELETE“ a ešte raz potvrďte.</string>
+    <string name="entry_notes_0x9d0">Po prihlásení do aplikácie navštívte na svojom mobilnom zariadení odkaz a postupujte podľa uvedených pokynov.</string>
 </resources>

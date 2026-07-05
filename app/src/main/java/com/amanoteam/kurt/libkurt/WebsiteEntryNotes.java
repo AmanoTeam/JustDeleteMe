@@ -2562,6 +2562,8 @@ public class WebsiteEntryNotes {
 		R.string.entry_notes_0x9f8,
 		R.string.entry_notes_0x9f9,
 		R.string.entry_notes_0x9fa,
+		R.string.entry_notes_0x9fb,
+		R.string.entry_notes_0x9fc,
 
 	};
 	
