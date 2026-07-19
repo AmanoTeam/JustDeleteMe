@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="entry_notes_0x2c1">Unesite ime, email i telefon. Izaberite \'Zahtev za brisanje naloga\' kao temu, završite CAPTCHA i pošaljite zahtev.</string>
-    <string name="entry_notes_0x2f6">Nema načina da obrišete svoj račun. Čak i ako kontaktirate podršku, oni neće moći da obrišu račun. Prema podršci, nakon 180 dana neaktivnosti račun se arhivira.</string>
+    <string name="entry_notes_0x2c4">Unesite ime, email i telefon. Izaberite \'Zahtev za brisanje naloga\' kao temu, završite CAPTCHA i pošaljite zahtev.</string>
+    <string name="entry_notes_0x2f9">Nema načina da obrišete svoj račun. Čak i ako kontaktirate podršku, oni neće moći da obrišu račun. Prema podršci, nakon 180 dana neaktivnosti račun se arhivira.</string>
 </resources>
