@@ -23,12 +23,12 @@
     <string name="entry_notes_0x47c">Zaloguj się, podaj swoje hasło i kliknij \'delete\'.</string>
     <string name="entry_notes_0x523">Account Settings -&gt; Account Settings Drop-down -&gt; Close my account -&gt; Wpisz DELETE i kliknij Delete Account.</string>
     <string name="entry_notes_0x69b">Zaloguj się na swoje konto, potem przejdź do \'Settings\' i kliknij \'Delete Account\'.</string>
-    <string name="entry_notes_0x6f6">Podaj hasło, zaznacz że rozumiesz konsekwencje usunięcia konta i kliknij przycisk \"Usuń\". Usunięcie konta nastąpi po 14 dniach karencji.</string>
-    <string name="entry_notes_0x7c6">Wejdź do \"Moje konto\", \"Edytuj\", \"Konto\" i \"Usuń konto\".</string>
-    <string name="entry_notes_0x7f9">Kliknij kartę \'Subskrypcje\' w lewym górnym rogu strony. Następnie przewiń w dół i kliknij przycisk\'Usuń Konto\' na samym dole strony i zaznacz pole wyboru. Twoje konto zostanie usunięte po 5 dniach.</string>
-    <string name="entry_notes_0x806">Twoje konto użytkownika zostanie usunięte po 7 dniach, jeśli wcześniej nie anulujesz procesu. Utworzona treść, taka jak posty na forum, nie zostanie usunięta, ale nazwa użytkownika będzie anonimowa i chroniona przed ponowną rejestracją przez 363 dni.</string>
-    <string name="entry_notes_0x99d">Z aplikacji: Ustawienia -&gt; Konto -&gt; Usuń konto.</string>
-    <string name="entry_notes_0x9a6">Po prostu kliknij \'Deactivate\'.</string>
-    <string name="entry_notes_0x9cd">Odwiedź tę stronę, kliknij \'Usuń konto\', ponownie się zaloguj, potem kliknij \'Usuń konto ze skrzynką\'.</string>
-    <string name="entry_notes_0xa06">Zjedź w dół do \'Delete and Reset Account\' i kliknij na czerwony link: \'delete your account</string>
+    <string name="entry_notes_0x6f7">Podaj hasło, zaznacz że rozumiesz konsekwencje usunięcia konta i kliknij przycisk \"Usuń\". Usunięcie konta nastąpi po 14 dniach karencji.</string>
+    <string name="entry_notes_0x7c8">Wejdź do \"Moje konto\", \"Edytuj\", \"Konto\" i \"Usuń konto\".</string>
+    <string name="entry_notes_0x7fb">Kliknij kartę \'Subskrypcje\' w lewym górnym rogu strony. Następnie przewiń w dół i kliknij przycisk\'Usuń Konto\' na samym dole strony i zaznacz pole wyboru. Twoje konto zostanie usunięte po 5 dniach.</string>
+    <string name="entry_notes_0x808">Twoje konto użytkownika zostanie usunięte po 7 dniach, jeśli wcześniej nie anulujesz procesu. Utworzona treść, taka jak posty na forum, nie zostanie usunięta, ale nazwa użytkownika będzie anonimowa i chroniona przed ponowną rejestracją przez 363 dni.</string>
+    <string name="entry_notes_0x99f">Z aplikacji: Ustawienia -&gt; Konto -&gt; Usuń konto.</string>
+    <string name="entry_notes_0x9a9">Po prostu kliknij \'Deactivate\'.</string>
+    <string name="entry_notes_0x9d0">Odwiedź tę stronę, kliknij \'Usuń konto\', ponownie się zaloguj, potem kliknij \'Usuń konto ze skrzynką\'.</string>
+    <string name="entry_notes_0xa09">Zjedź w dół do \'Delete and Reset Account\' i kliknij na czerwony link: \'delete your account</string>
 </resources>

@@ -10,7 +10,7 @@
     <string name="entry_notes_0x5b2">Accounts kunnen niet verwijderd worden, maar op aanvraag zijn admins bereid een \'account purge\' uit te voeren. Het is verstandig om handmatig persoonlijke gegevens van je account te verwijderen.</string>
     <string name="entry_notes_0x61e">Log in op je NS (Nederlandse Spoorwegen) account en klik op de gekoppelde URL. Op deze pagina kun je klikken op \"Verwijder NS-account\" om je account te verwijderen.</string>
     <string name="entry_notes_0x66b">Je hebt het recht op vergetelheid bij ov-chipkaart.nl, alleen moet je hiervoor een e-mail sturen en jouw recht op vergetelheid uitoefenen. Stuur een e-mail naar het toegevoegde e-mailadres en vraag of jouw account en persoonlijke gegevens te laten verwijderen.</string>
-    <string name="entry_notes_0x8ec">Selecteer de optie om uw account te verwijderen en vul de gebruikersnaam, wachtwoord en de code in die wordt verstuurd naar uw mailadres.</string>
-    <string name="entry_notes_0x9c4">Log in op je Wordfeud account in de Wordfeud app en ga naar instellingen. Klik op \'Wordfeud-account\' en klik op \'Account verwijderen\'. Er verschijnt een melding dat je account over 7 dagen verwijderd zal worden.</string>
-    <string name="entry_notes_0x9ed">Als je je account wilt verwijderen moet je Zamnesia een email sturen. Vervolgens zullen ze je account verwijderen volgens de AVG-privacyregels.</string>
+    <string name="entry_notes_0x8ee">Selecteer de optie om uw account te verwijderen en vul de gebruikersnaam, wachtwoord en de code in die wordt verstuurd naar uw mailadres.</string>
+    <string name="entry_notes_0x9c7">Log in op je Wordfeud account in de Wordfeud app en ga naar instellingen. Klik op \'Wordfeud-account\' en klik op \'Account verwijderen\'. Er verschijnt een melding dat je account over 7 dagen verwijderd zal worden.</string>
+    <string name="entry_notes_0x9f0">Als je je account wilt verwijderen moet je Zamnesia een email sturen. Vervolgens zullen ze je account verwijderen volgens de AVG-privacyregels.</string>
 </resources>
