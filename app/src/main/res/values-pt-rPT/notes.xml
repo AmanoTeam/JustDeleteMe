@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="entry_notes_0xf2">De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando a remoção da conta.</string>
-    <string name="entry_notes_0x2a2">Acesse o perfil, clique em Account Settings e logo em seguida em Delete Account</string>
-    <string name="entry_notes_0x2d5">Insira Nome, Email e Telefone. Selecione \'Pedido de eliminação de conta\' como tópico, complete o CAPTCHA e envie o pedido.</string>
-    <string name="entry_notes_0x5cc">Ao se logar, clique no ícone da conta -&gt; Settings -&gt; Delete Account e digite a senha e uma observação (este último não é obrigatório).</string>
-    <string name="entry_notes_0x69a">De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando a remoção da conta.</string>
-    <string name="entry_notes_0x8f6">Envie um e-mail para eles, solicitando a exclusão da conta.</string>
-    <string name="entry_notes_0x907">Envie um e-mail para eles, solicitando a exclusão da conta.</string>
-    <string name="entry_notes_0x910">Aceda ao link de eliminação de conta e clique no botão de eliminar conta. A conta será eliminada automaticamente em 7 dias.</string>
-    <string name="entry_notes_0x9a1">Preencha o formulario, selecionando \"Customer/Former Customer\" e \"Delete My Information\". Será enviada uma hiperligação de confirmação para o seu e-mail.</string>
+    <string name="entry_notes_0xf3">De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando a remoção da conta.</string>
+    <string name="entry_notes_0x2a4">Acesse o perfil, clique em Account Settings e logo em seguida em Delete Account</string>
+    <string name="entry_notes_0x2d7">Insira Nome, Email e Telefone. Selecione \'Pedido de eliminação de conta\' como tópico, complete o CAPTCHA e envie o pedido.</string>
+    <string name="entry_notes_0x5cf">Ao se logar, clique no ícone da conta -&gt; Settings -&gt; Delete Account e digite a senha e uma observação (este último não é obrigatório).</string>
+    <string name="entry_notes_0x69d">De acordo com a política de privacidade (item 8), você tem de enviar um e-mail para eles, solicitando a remoção da conta.</string>
+    <string name="entry_notes_0x8fa">Envie um e-mail para eles, solicitando a exclusão da conta.</string>
+    <string name="entry_notes_0x90b">Envie um e-mail para eles, solicitando a exclusão da conta.</string>
+    <string name="entry_notes_0x915">Aceda ao link de eliminação de conta e clique no botão de eliminar conta. A conta será eliminada automaticamente em 7 dias.</string>
+    <string name="entry_notes_0x9a7">Preencha o formulario, selecionando \"Customer/Former Customer\" e \"Delete My Information\". Será enviada uma hiperligação de confirmação para o seu e-mail.</string>
 </resources>
