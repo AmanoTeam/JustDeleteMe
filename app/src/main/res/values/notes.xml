@@ -2187,7 +2187,7 @@
     <string name="entry_notes_0x888">Account deletion is irreversible: Your account and data will be permanently deleted, and you will be removed from all clubs, heatmaps, challenges and leaderboards. Some data you created for the community, like public segments or routes, may remain on Strava.</string>
     <string name="entry_notes_0x889">All of your polls will be eliminated</string>
     <string name="entry_notes_0x88a">You have to contact support in order to delete your account.</string>
-    <string name="entry_notes_0x88b">Contact customer support via email, set subject line to \"REQUEST TO DELETE MY ACCOUNT\". You will soon receive an email informing you about need to appeal on Logitech\'s website in order to fully delete your account with a link provided. Here you will need to enter your name, email, choose \"Data privacy request\" for a topic and say that you want to delete your Streamlabs account in the textbox below</string>
+    <string name="entry_notes_0x88b">Go to Settings -&gt; Account Settings -&gt; General and click the small \"here\" link in the text (\"If you would like to delete your account please click here\"). A \"Permanently Delete My Account\" button will appear at the bottom.</string>
     <string name="entry_notes_0x88c">Click the delete account button, confirm and enter the 6-digit code sent to your e-mail to finalize</string>
     <string name="entry_notes_0x88d">Click the button to request account deletion, enter your password, and confirm.</string>
     <string name="entry_notes_0x88e">Account owners only, not team members can delete the account. Balances and pending invoices all need to be resolved before the account is permanently closed. Cannot be reversed.</string>

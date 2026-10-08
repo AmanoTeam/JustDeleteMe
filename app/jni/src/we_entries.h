@@ -17504,9 +17504,9 @@ static const we_t WEBSITE_ENTRIES[] = {
 		.id = 0x88b,
 		.name = "StreamLabs",
 		.query = "streamlabs",
-		.url = "https://getonstream.com/how-to-delete-a-streamlabs-account-easy-guide/",
-		.email = "mailto:support@streamlabs.com?subject=REQUEST%20TO%20DELETE%20MY%20ACCOUNT",
-		.difficulty = 0x1000
+		.url = "https://streamlabs.com/dashboard#/settings/account-settings/emails",
+		.email = NULL,
+		.difficulty = 0x400
 	},
 	{
 		.id = 0x88c,
