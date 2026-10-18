@@ -21,14 +21,14 @@
     <string name="entry_notes_0x3b8">Nie ma możliwości usunięcia konta Gravatar bez usunięcia całego konta WordPress.</string>
     <string name="entry_notes_0x3f2">Na dole strony kliknij \'Close your account\', podaj hasło i zatwierdź przyciskiem.</string>
     <string name="entry_notes_0x494">Zaloguj się, podaj swoje hasło i kliknij \'delete\'.</string>
-    <string name="entry_notes_0x543">Account Settings -&gt; Account Settings Drop-down -&gt; Close my account -&gt; Wpisz DELETE i kliknij Delete Account.</string>
-    <string name="entry_notes_0x6ce">Zaloguj się na swoje konto, potem przejdź do \'Settings\' i kliknij \'Delete Account\'.</string>
-    <string name="entry_notes_0x72c">Podaj hasło, zaznacz że rozumiesz konsekwencje usunięcia konta i kliknij przycisk \"Usuń\". Usunięcie konta nastąpi po 14 dniach karencji.</string>
-    <string name="entry_notes_0x7ff">Wejdź do \"Moje konto\", \"Edytuj\", \"Konto\" i \"Usuń konto\".</string>
-    <string name="entry_notes_0x834">Kliknij kartę \'Subskrypcje\' w lewym górnym rogu strony. Następnie przewiń w dół i kliknij przycisk\'Usuń Konto\' na samym dole strony i zaznacz pole wyboru. Twoje konto zostanie usunięte po 5 dniach.</string>
-    <string name="entry_notes_0x841">Twoje konto użytkownika zostanie usunięte po 7 dniach, jeśli wcześniej nie anulujesz procesu. Utworzona treść, taka jak posty na forum, nie zostanie usunięta, ale nazwa użytkownika będzie anonimowa i chroniona przed ponowną rejestracją przez 363 dni.</string>
-    <string name="entry_notes_0x9e3">Z aplikacji: Ustawienia -&gt; Konto -&gt; Usuń konto.</string>
-    <string name="entry_notes_0x9ed">Po prostu kliknij \'Deactivate\'.</string>
-    <string name="entry_notes_0xa20">Odwiedź tę stronę, kliknij \'Usuń konto\', ponownie się zaloguj, potem kliknij \'Usuń konto ze skrzynką\'.</string>
-    <string name="entry_notes_0xa5a">Zjedź w dół do \'Delete and Reset Account\' i kliknij na czerwony link: \'delete your account</string>
+    <string name="entry_notes_0x544">Account Settings -&gt; Account Settings Drop-down -&gt; Close my account -&gt; Wpisz DELETE i kliknij Delete Account.</string>
+    <string name="entry_notes_0x6d1">Zaloguj się na swoje konto, potem przejdź do \'Settings\' i kliknij \'Delete Account\'.</string>
+    <string name="entry_notes_0x72f">Podaj hasło, zaznacz że rozumiesz konsekwencje usunięcia konta i kliknij przycisk \"Usuń\". Usunięcie konta nastąpi po 14 dniach karencji.</string>
+    <string name="entry_notes_0x803">Wejdź do \"Moje konto\", \"Edytuj\", \"Konto\" i \"Usuń konto\".</string>
+    <string name="entry_notes_0x838">Kliknij kartę \'Subskrypcje\' w lewym górnym rogu strony. Następnie przewiń w dół i kliknij przycisk\'Usuń Konto\' na samym dole strony i zaznacz pole wyboru. Twoje konto zostanie usunięte po 5 dniach.</string>
+    <string name="entry_notes_0x845">Twoje konto użytkownika zostanie usunięte po 7 dniach, jeśli wcześniej nie anulujesz procesu. Utworzona treść, taka jak posty na forum, nie zostanie usunięta, ale nazwa użytkownika będzie anonimowa i chroniona przed ponowną rejestracją przez 363 dni.</string>
+    <string name="entry_notes_0x9e7">Z aplikacji: Ustawienia -&gt; Konto -&gt; Usuń konto.</string>
+    <string name="entry_notes_0x9f1">Po prostu kliknij \'Deactivate\'.</string>
+    <string name="entry_notes_0xa24">Odwiedź tę stronę, kliknij \'Usuń konto\', ponownie się zaloguj, potem kliknij \'Usuń konto ze skrzynką\'.</string>
+    <string name="entry_notes_0xa5e">Zjedź w dół do \'Delete and Reset Account\' i kliknij na czerwony link: \'delete your account</string>
 </resources>
