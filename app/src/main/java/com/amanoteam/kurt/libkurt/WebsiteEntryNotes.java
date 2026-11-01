@@ -2683,6 +2683,15 @@ public class WebsiteEntryNotes {
 		R.string.entry_notes_0xa71,
 		R.string.entry_notes_0xa72,
 		R.string.entry_notes_0xa73,
+		R.string.entry_notes_0xa74,
+		R.string.entry_notes_0xa75,
+		R.string.entry_notes_0xa76,
+		R.string.entry_notes_0xa77,
+		R.string.entry_notes_0xa78,
+		R.string.entry_notes_0xa79,
+		R.string.entry_notes_0xa7a,
+		R.string.entry_notes_0xa7b,
+		R.string.entry_notes_0xa7c,
 
 	};
 	
